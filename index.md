@@ -2,7 +2,7 @@
 
 The Repository of Mingrelian Language is a part of the Mingrelian Language Corpus (LMC) aiming to stimulate different approaches to linguistic and socio-cultural studies of Megrelian texts and to foster a fuller understanding of context that they represent. MLC comprises the digital collection of texts, audio and video materials.
 
-[Link](https://irinalobzhanidze.com/megrelian/index1.html)
+Test site: [The Corpus of Mingrelian Language](https://irinalobzhanidze.com/megrelian/index1.html)
 
 ### Copyright information
 The files are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License, which allows users to copy and redistribute the material in any medium or format, to remix, transform and build upon the material. The main restriction is that material shall not be used for commercial purposes and in case you use it, you must distribute your contributions under the same license.
