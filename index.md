@@ -1,16 +1,37 @@
-## Repository of Mingrelian Language
+## Welcome to GitHub Pages
 
-The Repository of Mingrelian Language is a part of the Mingrelian Language Corpus (LMC) aiming to stimulate different approaches to linguistic and socio-cultural studies of Megrelian texts and to foster a fuller understanding of context that they represent. MLC comprises the digital collection of texts, audio and video materials.
+You can use the [editor on GitHub](https://github.com/ILobzhanidze/mingrelian.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-### Copyright information
-The files are licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License, which allows users to copy and redistribute the material in any medium or format, to remix, transform and build upon the material. The main restriction is that material shall not be used for commercial purposes and in case you use it, you must distribute your contributions under the same license.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-If you want to cite material from the MLC, please, copy and paste the following information: Gersamia, R., Lobzhanidze, I., ed. The Megrelian Language Corpus. Megrelian Language Corpus, 4 April. 2022(v1).
+### Markdown
 
-### Acknowledgements
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-This work was supported by Shota Rustaveli National Science Foundation of Georgian (SRNSFG) [FR-21-993-3, Annotated Corpus of Megrelian Language with Sketch Grammar and Online Dictionary]. All ideas expressed herewith are those of the author and not represent the opinion of the Foundation itself.
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ILobzhanidze/mingrelian.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Repositoty? Check out our [documentation] or [contact support] and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
