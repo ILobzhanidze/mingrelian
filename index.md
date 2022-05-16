@@ -11,7 +11,7 @@ If you want to cite material from the MLC, please, copy and paste the following 
 
 ### Acknowledgements
 
-This work was supported by Shota Rustaveli National Science Foundation of Georgian (SRNSFG) [FR-21-993-3, Annotated Corpus of Megrelian Language with Sketch Grammar and Online Dictionary]. All ideas expressed herewith are those of the author and not represent the opinion of the Foundation itself.
+This work is supported by the Shota Rustaveli National Science Foundation of Georgian (SRNSFG) [FR-21-993-3, Annotated Corpus of Megrelian Language with Sketch Grammar and Online Dictionary]. All ideas expressed herewith are those of the authors and not represent the opinion of the Foundation itself.
 
 ### Support or Contact
 
