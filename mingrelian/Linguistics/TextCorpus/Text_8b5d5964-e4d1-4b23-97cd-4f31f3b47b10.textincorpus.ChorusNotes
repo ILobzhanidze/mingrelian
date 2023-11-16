@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=08c65433-e1aa-4656-a98b-44622e1b916c&amp;tag=&amp;label=Text &quot;++ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 2 Segments 1 Analyses"
+		guid="69a3d66e-aa74-445c-83e6-af3e721d7761">
+		<message
+			author="merger"
+			status="open"
+			guid="694a557d-2d23-4db2-9399-871c190824c3"
+			date="2023-03-01T16:21:15Z">Text "++ტექსტი 41 - თამუნა -გლოვის ტრადიციები" Contents Paragraphs 2 Segments 1 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_8b5d5964-e4d1-4b23-97cd-4f31f3b47b10.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="694a557d-2d23-4db2-9399-871c190824c3"
+	date="2023-03-01T16:21:15Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;++ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 2 Segments 1 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2Tm84W5z2rNa9YASbVDuLdCn6H0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Adg9i8RFOtOc9GwqXgauc4ueiQM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2Tm84W5z2rNa9YASbVDuLdCn6H0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;LXj4AtXS6jMFMp5daCKrN5fcckc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=08c65433-e1aa-4656-a98b-44622e1b916c&amp;tag=&amp;label=Text &quot;++ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 2 Segments 1 Analyses"
+	contextDataLabel="Text &quot;++ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 2 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7471f0001220"
+		betaUserRevision="e5074777c57e"
+		path="Linguistics\TextCorpus\Text_8b5d5964-e4d1-4b23-97cd-4f31f3b47b10.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:34+04:00"
+			guid="a9828724-d4ff-4c44-ac74-6f55f1a1d4c9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:34+04:00"
+			guid="6a11692f-0b90-4ef2-9481-131a1b6044fa" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:34+04:00"
+			guid="936f0671-5231-47aa-a85e-5a5f7de10bb0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:34+04:00"
+			guid="c32bef54-891c-4b2c-b8d2-5f0fb5338516" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:35+04:00"
+			guid="87364bde-ccd7-41e2-91dc-e085ce07a5da" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:35+04:00"
+			guid="534991e7-e690-4c1f-bce0-19ebcac7d293" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:35+04:00"
+			guid="b57a6dc2-5923-45bb-8019-282d8c200c4d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:35+04:00"
+			guid="73b2aea8-3f30-448c-85b6-6beebaeaf11b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:36+04:00"
+			guid="4320cf5c-06e9-4e43-b18f-2b6b71282092" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:25+04:00"
+			guid="b29affb9-16a0-4a73-b5fa-f5d727d08a41" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ee2b3103-4f79-4ef2-9c8a-e1deadca45c9&amp;tag=&amp;label=Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs"
+		guid="361e2515-2722-4bc7-9b32-de29ebb75805">
+		<message
+			author="merger"
+			status="open"
+			guid="8f455943-0bcf-498b-98fd-a8565b22590e"
+			date="2023-03-01T18:33:26Z">Text "ტექსტი 41 - თამუნა -გლოვის ტრადიციები" Contents Paragraphs: User deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_8b5d5964-e4d1-4b23-97cd-4f31f3b47b10.textincorpus"
+	type="Removed Vs Edited Element Conflict"
+	guid="8f455943-0bcf-498b-98fd-a8565b22590e"
+	date="2023-03-01T18:33:26Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs: User deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ee2b3103-4f79-4ef2-9c8a-e1deadca45c9&amp;tag=&amp;label=Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs"
+	contextDataLabel="Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="68db546b55af"
+		betaUserRevision="af701f6f1d59"
+		path="Linguistics\TextCorpus\Text_8b5d5964-e4d1-4b23-97cd-4f31f3b47b10.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:08+04:00"
+			guid="e1b408d1-9111-427d-ad84-c9840b7e4274" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:08+04:00"
+			guid="a85bea6a-6c19-4f33-a630-3934bec3c7f5" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:08+04:00"
+			guid="05b1c864-6eec-405e-a205-aac510082192" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:08+04:00"
+			guid="40c935f1-6a7a-46f2-929c-964ebefe32a4" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:09+04:00"
+			guid="d0a587cb-c42f-4f42-9678-ef41e2d9bfe9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:09+04:00"
+			guid="29b4cf9c-f2b3-4507-ab21-b6ac9d9a5864" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:09+04:00"
+			guid="92139c8b-0db0-46b4-bdb5-4a3ae7ceca12" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:09+04:00"
+			guid="5c5268f4-3e7b-4091-93d4-281aa3a06c2e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:10+04:00"
+			guid="8fb3860d-3da2-4113-8509-ad9dd635b713" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:10+04:00"
+			guid="06ce6b3a-980a-4572-8d35-a22cf42eea41" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=c7df1d1f-e617-4801-9b4f-22eb038fb148&amp;tag=&amp;label=Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 6 Segments 4 Analyses"
+		guid="34efc492-084c-43ee-9ba3-4d86cbdf6b9a">
+		<message
+			author="merger"
+			status="open"
+			guid="27f96a29-c009-4228-acbf-dea39d0fb1a5"
+			date="2023-03-01T18:33:26Z">Text "ტექსტი 41 - თამუნა -გლოვის ტრადიციები" Contents Paragraphs 6 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_8b5d5964-e4d1-4b23-97cd-4f31f3b47b10.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="27f96a29-c009-4228-acbf-dea39d0fb1a5"
+	date="2023-03-01T18:33:26Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 6 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;F6Kb450itQdcpGyxBVtKQK8v/c0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WoBw7KiY2s6dmq92vUvi3UZqVRA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;F6Kb450itQdcpGyxBVtKQK8v/c0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;fsT9c1LrrQI2W2Btl0Od7P80rUw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=c7df1d1f-e617-4801-9b4f-22eb038fb148&amp;tag=&amp;label=Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 6 Segments 4 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 41 - თამუნა -გლოვის ტრადიციები&quot; Contents Paragraphs 6 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="68db546b55af"
+		betaUserRevision="af701f6f1d59"
+		path="Linguistics\TextCorpus\Text_8b5d5964-e4d1-4b23-97cd-4f31f3b47b10.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:10+04:00"
+			guid="6eb54b13-0bda-4193-922b-d40d6f6e3b71" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:10+04:00"
+			guid="4c9aeceb-a4d2-4254-adf5-d2176c110e36" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:10+04:00"
+			guid="33d27258-6db4-49ba-99f2-b802f530738e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:11+04:00"
+			guid="401f3da6-e6bc-4003-8bf0-59e7b71a740f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:11+04:00"
+			guid="5060b9b0-6f16-424b-bff7-66f3c0fdfd25" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:11+04:00"
+			guid="a807eccd-6c07-49b7-877b-b2ca54ea3748" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:11+04:00"
+			guid="f4dccddb-2628-4853-a267-f1a3c7db9898" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:11+04:00"
+			guid="f1a5c920-9577-495c-8df5-26f6393c6ab6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:12+04:00"
+			guid="0f6df399-2702-4d6a-b46f-ff78ce07f32b" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:12+04:00"
+			guid="3868bb6e-b0c6-4e14-bccb-e17f5176962d" />
+	</annotation>
+</notes>

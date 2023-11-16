@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=691f7d4d-9edf-4542-a67e-9e716d09536a&amp;tag=&amp;label=Text &quot;Gloss_Text_49 - სპონტანური დიალოგი&quot; Name"
+		guid="ab7769b4-19a0-400c-827f-1bce37c9327f">
+		<message
+			author="merger"
+			status="open"
+			guid="5e27a927-2c90-468f-a07c-0441dfd3b2eb"
+			date="2023-09-24T19:55:34Z">Text "Gloss_Text_49 - სპონტანური დიალოგი" Name: IrinaLobzhanidze and User edited this element.<![CDATA[<conflict
+	typeGuid="c1ed6dbe-e382-11de-8a39-0800200c9a66"
+	class="Chorus.merge.xml.generic.XmlTextBothEditedTextConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_691f7d4d-9edf-4542-a67e-9e716d09536a.textincorpus"
+	type="Both Edited Xml Text Element Conflict"
+	guid="5e27a927-2c90-468f-a07c-0441dfd3b2eb"
+	date="2023-09-24T19:55:34Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text_49 - სპონტანური დიალოგი&quot; Name: IrinaLobzhanidze and User edited this element.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Gloss_text&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Gloss_Text_49&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;49&lt;/span&gt; - სპონტანური დიალოგი&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;en&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;SM&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Spontaneous&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Dialogue&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Gloss_text&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;49&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;SM&lt;/span&gt; - სპონტანური დიალოგი&lt;/div&gt;&lt;span style=&quot;background: Yellow&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=691f7d4d-9edf-4542-a67e-9e716d09536a&amp;tag=&amp;label=Text &quot;Gloss_Text_49 - სპონტანური დიალოგი&quot; Name"
+	contextDataLabel="Text &quot;Gloss_Text_49 - სპონტანური დიალოგი&quot; Name">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e1401cc55a1"
+		betaUserRevision="6b8cfc26d066"
+		path="Linguistics\TextCorpus\Text_691f7d4d-9edf-4542-a67e-9e716d09536a.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:03+04:00"
+			guid="de277eb7-a1b4-45f5-bae3-ea1ab834286d"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:17:03+04:00"
+			guid="69c09c19-80d4-49ce-9a38-01dc38be64d7"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:03+04:00"
+			guid="570e32fb-3cfc-4391-886e-4bb6d4e93494"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:17:03+04:00"
+			guid="872c0f34-6ca1-4deb-9732-65f476ae3abc"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:04+04:00"
+			guid="5cf05292-fc0b-4053-a811-d394c81e8903"></message>
+	</annotation>
+</notes>

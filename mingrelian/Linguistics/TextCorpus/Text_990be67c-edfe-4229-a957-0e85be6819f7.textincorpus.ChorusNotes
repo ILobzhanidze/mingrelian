@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=00f6b914-1205-44a1-88f0-a6e8c0806511&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 6 Analyses"
+		guid="f5f24a0f-cdcf-45cf-8288-19c6a5b639df">
+		<message
+			author="merger"
+			status="open"
+			guid="df92182b-d3a2-4e3b-8015-bb3ef33b062a"
+			date="2023-03-01T10:14:02Z">Text "ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 3 Segments 6 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="df92182b-d3a2-4e3b-8015-bb3ef33b062a"
+	date="2023-03-01T10:14:02Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 6 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;6P2VF0haGhYcxrzqpWemIaS35YU=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;2mGMPlbtz0NAEUJ9YotflSGt2l4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;6P2VF0haGhYcxrzqpWemIaS35YU=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;jshylKixWFhH94Tu+o8b2lhtJ9k=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=00f6b914-1205-44a1-88f0-a6e8c0806511&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 6 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 6 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7ebd9e101003"
+		betaUserRevision="6d17f14c037a"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:38+04:00"
+			guid="66c90962-b7cc-4f8e-a959-36ad3f0a3c04" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:38+04:00"
+			guid="686db688-de28-4bd5-ae3b-f46d23927e5b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:38+04:00"
+			guid="60f4c288-d821-4af8-904d-530b3e9bb823" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:38+04:00"
+			guid="aeddac42-26dd-4bf9-99ec-c28faf1d4f48" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:38+04:00"
+			guid="6156a6e2-d122-452e-ac29-ae59ce9b46dc" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:20+04:00"
+			guid="7e1b941b-426f-4b49-b55b-6fb74b215053" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0afb4117-11ba-4b2a-b524-48386c235fbd&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 2 Analyses"
+		guid="6a249062-3bd7-42c6-9fa5-f965e33360e9">
+		<message
+			author="merger"
+			status="open"
+			guid="33dd43f8-9a2e-4ab5-a5b9-1d5095db2822"
+			date="2023-03-01T11:54:54Z">Text "ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 1 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="33dd43f8-9a2e-4ab5-a5b9-1d5095db2822"
+	date="2023-03-01T11:54:54Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;HOwSi0k0pm4qO18EzQFQgauqOos=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;nm9ru1tVnY2W4PPQOwLpKk7FjqY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;HOwSi0k0pm4qO18EzQFQgauqOos=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;0NHTIDhoAQNA6Qzv46Q8djTCHtQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0afb4117-11ba-4b2a-b524-48386c235fbd&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="b3a2b5dc3a5b"
+		betaUserRevision="87c0ee87e2a3"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:12+04:00"
+			guid="8357e30e-488c-4a04-8dad-ad8b29d15d99" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:12+04:00"
+			guid="d3babe52-0aa6-4dbf-9b32-4c483d6724e0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:12+04:00"
+			guid="d72ac933-ac62-4992-aac2-04cf161597e6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:12+04:00"
+			guid="df576c4f-70e5-4ac2-930f-348e580c332d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:13+04:00"
+			guid="fc7e3449-9f53-4519-bfd7-ce146a34222f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:13+04:00"
+			guid="ffd7eaa1-d7c1-4d7d-aaa4-f9a6e4e3d9e7" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:13+04:00"
+			guid="57bd5286-a72f-4a53-8289-9dec693b5561" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:13+04:00"
+			guid="e7d04fbf-3794-4896-b140-cb74ac105b38" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:14+04:00"
+			guid="c0df209b-1e26-465b-b821-45fc6a7bbe64" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:59+04:00"
+			guid="c51d6f4e-54a0-493c-ba51-746e9b34b707" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0afb4117-11ba-4b2a-b524-48386c235fbd&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 3 Analyses"
+		guid="8fa47ae3-ef2f-45f3-bc18-96eb4f5584ff">
+		<message
+			author="merger"
+			status="open"
+			guid="f1f5fc33-d19c-4633-8122-5ebe3774d420"
+			date="2023-03-02T16:32:50Z">Text "++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 1 Segments 3 Analyses: User and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f1f5fc33-d19c-4633-8122-5ebe3774d420"
+	date="2023-03-02T16:32:50Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 3 Analyses: User and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cWo+lS7BUJUFhU/BmmWMD9t7nTs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;hUm5NSzHH9HBKXjsYxVk8txKk5k=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cWo+lS7BUJUFhU/BmmWMD9t7nTs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;e2X2MtDfIeewfsabvsP+aVRfp9Y=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0afb4117-11ba-4b2a-b524-48386c235fbd&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 3 Analyses"
+	contextDataLabel="Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 3 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="46f0a38927a6"
+		betaUserRevision="75c25d3b982c"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:16+04:00"
+			guid="8489f325-00a8-4f6a-9048-730c667ded80" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:16+04:00"
+			guid="23bdcf9f-bbeb-4959-a713-427cdb3e0a36" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:16+04:00"
+			guid="92af9f6a-07be-4bbd-a9d0-62f4d20b0433" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:16+04:00"
+			guid="f451bd5f-477a-43cb-8de0-410eca457c40" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:17+04:00"
+			guid="c4e06536-c9be-45a1-8fde-bd00895e406e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:17+04:00"
+			guid="11f68412-bf1a-4c54-b5d9-ce010a499bdc" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:17+04:00"
+			guid="ce1790cf-690b-475e-bc30-532a3b406fd2" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:17+04:00"
+			guid="c4d9f8e1-a000-4990-8e74-9bba5eef074b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:17+04:00"
+			guid="c758d30e-b481-4d44-a093-a4c6a53e4947" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:25+04:00"
+			guid="9dfdbc6a-6e36-408e-862a-9ca2d38a2de1" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=46a1fd72-4f63-49b3-a6f8-1fcf73fcdd54&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments"
+		guid="83b5bed1-75b3-4ebc-8c8c-4894e54c4598">
+		<message
+			author="merger"
+			status="open"
+			guid="18874923-3f7d-4b4d-9734-935731958156"
+			date="2023-03-02T16:32:50Z">Text "++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 3 Segments: User deleted this element, while ZaalKikvidze edited it. The merger kept the change made by ZaalKikvidze.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Removed Vs Edited Element Conflict"
+	guid="18874923-3f7d-4b4d-9734-935731958156"
+	date="2023-03-02T16:32:50Z"
+	whoWon="ZaalKikvidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments: User deleted this element, while ZaalKikvidze edited it. The merger kept the change made by ZaalKikvidze.&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;xsDx/2hWQh6fyi5J4i/T3/A4CVk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;evsqUSTgXeTQVcX6oVuFsgohCIA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by ZaalKikvidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=46a1fd72-4f63-49b3-a6f8-1fcf73fcdd54&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments"
+	contextDataLabel="Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="46f0a38927a6"
+		betaUserRevision="75c25d3b982c"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:18+04:00"
+			guid="f8ba7cb5-5069-4534-a2b7-ca176bcc39b3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:18+04:00"
+			guid="e1b47a79-c611-4e44-81be-5a05e8b969e5" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:18+04:00"
+			guid="7f5ff8b4-9c7e-47aa-ab1a-fa02b2ede7d9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:18+04:00"
+			guid="6ad20216-901e-4c33-b7dc-202f88631227" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:18+04:00"
+			guid="c55bbe89-40a0-40f6-bed3-136c2d757975" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:27+04:00"
+			guid="b2a20527-4f50-47ab-98d9-6afe9df0b23f" />
+	</annotation>
+	<annotation
+		class="notification"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=46a1fd72-4f63-49b3-a6f8-1fcf73fcdd54&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments"
+		guid="db676f18-347f-4bda-9a4f-735c2c94586b">
+		<message
+			author="merger"
+			status="open"
+			guid="f2ee27df-3869-4be4-a545-9eb814949988"
+			date="2023-03-02T16:32:50Z">Text "++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 3 Segments: User and ZaalKikvidze both inserted material in this element in the same place. The automated merger cannot be sure of the correct order for the inserted material, but kept both of them.<![CDATA[<conflict
+	typeGuid="B77C0D86-2368-4380-B2E4-7943F3E7553C"
+	class="Chorus.merge.xml.generic.AmbiguousInsertConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Ambiguous Insert Warning"
+	guid="f2ee27df-3869-4be4-a545-9eb814949988"
+	date="2023-03-02T16:32:50Z"
+	whoWon="both users"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments: User and ZaalKikvidze both inserted material in this element in the same place. The automated merger cannot be sure of the correct order for the inserted material, but kept both of them.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='property'&gt;Segments: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Dq9yykQ363MvUDGzhMPEBdvVliM=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;a3tDftDBCtzTcjAuh+S3aqxVI+4=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ანუ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;არის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ისეთი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;საძირე&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მწარეს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვეძახით&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომელზეც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ვამყნობთ].&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;background: Yellow&quot;&gt;Pnu4adlh4oiJSZ4STxKYEw9lpCE=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სანამ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვენახში&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დაავადება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იქნებოდა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;არ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ემყნობოდა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;საერთოდ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;პირდაპირ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ლერწამიდან&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ირგვებოდა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;=მრავლდებოდა].&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; 17/+mUn6UAUocO2T8Rz8zTSuCg8=&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მერე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;როგორც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;წამოვიდა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;პროცესები&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ავადობა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;წამოვიდა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მერე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამერიკიდან&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იქნა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შემოტანილი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;საძირე&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომელსაც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მწარეს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვეძახით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იმაზე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ემყნობა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ეს&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt; &lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;SlWdiA7GJYwN7ZgaodLOezg6c5E=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;XA6tH14SkYp3YhZwgka3E9N4A4s=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მზადდება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;საძირე],&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ერთი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;თვით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ადრე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ხდება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მ,ისი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მომზადება&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მისი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გასხვლა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გასუფთავება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იღცევა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დღეები&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;xsDx/2hWQh6fyi5J4i/T3/A4CVk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Mmrurb0lSHCJKjkDKDzkRhkBgN0=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რიგრიგობით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გვაქვს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დღეები&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომელშიც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დღეს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ერთის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დაემყნობა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეორე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;დღეს]&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეორეს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დავამყნობთ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dI/aUItlXjTNCby09lFeD0KirEQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;jmB3iAmLaOJ+lr57CYZIca8cfmE=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;თხუთმეტი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ცივი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეთოდი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჰქვია&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამას&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;mNdu3m8pQa/4wKQHN2XNr72zD00=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;AUz6Vpi8J5je6RIoon3mwHUp+ZM=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ძველი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეთოდია&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;wlj/X2ihhShA8EWQbP/mmMx4yME=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;eevVQz0QSJfBBKF6P98DVGA0YTQ=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ცივი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეთოდით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ხდება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შენახვა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;z+2c/mNSkCf+PT8rxg/m3fY7Vc4=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მაგალითად&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ქვიშას&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მოვიტანთ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ქვიშაში&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;კონებად&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შეკრული&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ინახება&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;;&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ოცდახუთ-ოცდახუთად&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვკრავთ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იქ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ხდება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შეხორცება&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შეზრდა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დაფესვიანება&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt; &lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;n+yC6uml810PBTWO5MlYtpu/8h8=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დაფესვიანების&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შემდეგ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ორი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ბარის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;პირს&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ასე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვეძახით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მიწის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ისევ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამოტრიალება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მიწის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დამუშავება&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;არის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;=მიდის].&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;71dJA4GHVhtP8US6XPJbj34Jl1w=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მერე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გამოგვაქვს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გარეთ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იქ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;იკეთებს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ფესვს&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;NhQMK6elNrN1bnWScoTerihQGU=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ანუ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენთვის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ძირითადია&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ბუნებაზე&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვართ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დამოკიდებულია&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;;&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;არანაირი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;კავშირი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;არ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გვაქვს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ნერგთან&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გამოვიყვანოთ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;VXT6bwYrOq41LwSf05pO0ix/+YI=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ანუ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სიცოცხლისუნარიანობა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გამოყვანა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჰაერპროცენტობაზეა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;დამოკიდებული]&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;xoLQVMvp/q9xviSl8fLwdZLJck4=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სადღაც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ოცდაათი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ორმოცი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;პროცენტი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გამოგვყავს&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ზოგჯერ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ამინდის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მიხედვით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ნახევარიც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გამოგვყავს&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;lmv+FnPiau9suiTQoMdWHX5ypTk=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ანუ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სხვა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სანერგეები&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომელიც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;არის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სერთიფიცირებული&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;რომელშიც&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დიდი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სანერგეებია&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შეუძლიათ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გამოიყვანონ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ას&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;პროცენტიანი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ოთხმოცდაათპროცენტიანი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ნერგი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სიტყვაზე&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ხარისხით&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მაგრამ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ცივი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეთოდით&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;[&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;გამოდის]&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;უფრო&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სიცოცხლისუნარიანი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ნერგი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;შეხორცების&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მხრივ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვირუსის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მხრივ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ყველაფრის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მხრივ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;RHVzBly2cJKHYBWHR6/cyRFc26c=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ანუ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ერთ-ერთი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ეს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;აქვს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენსას&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დადებითი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Analyses&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;CPKw1c1KO5Q0mefoDPlsv0uypTk=&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FreeTranslation&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ka-Brai&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;კი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ნაკლები&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გვაქვს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მოსავალი&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მაგრამ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეტად&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ხარისხიანია&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;უფრო&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მეტი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მყიდველი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;გვყავს&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მთელ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;სამეგრელოს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ვამარაგებთ&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;აქედან&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ეს&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ჩვენთვის&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;საამაყოა&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;.&lt;/span&gt; &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='property'&gt;Segments: &lt;div class='checksum'&gt;Analyses: Dq9yykQ363MvUDGzhMPEBdvVliM=&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: 17/+mUn6UAUocO2T8Rz8zTSuCg8=&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: SlWdiA7GJYwN7ZgaodLOezg6c5E=&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;xsDx/2hWQh6fyi5J4i/T3/A4CVk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;evsqUSTgXeTQVcX6oVuFsgohCIA=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: dI/aUItlXjTNCby09lFeD0KirEQ=&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;mNdu3m8pQa/4wKQHN2XNr72zD00=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;RFaNftnS15LqZXCNoPvUIhkMUsg=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Analyses: wlj/X2ihhShA8EWQbP/mmMx4yME=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by both users.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=46a1fd72-4f63-49b3-a6f8-1fcf73fcdd54&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments"
+	contextDataLabel="Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="46f0a38927a6"
+		betaUserRevision="75c25d3b982c"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:19+04:00"
+			guid="50ef87a9-1a18-4ef5-be9b-048c78c90dc0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:19+04:00"
+			guid="5ac5bd9a-fe6f-4a30-b39e-42c20caf5bb5" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:19+04:00"
+			guid="9609b26c-6617-4233-87de-d9cebe3f1bac" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:19+04:00"
+			guid="7ac4ddf5-4d55-4c7b-9484-90fcdca9a92e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:20+04:00"
+			guid="9f1cbfb1-4c23-4644-a362-e346e034ba6f" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:29+04:00"
+			guid="5662c7bd-5bc2-4dfb-b853-f1a3b6f5d671" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=00f6b914-1205-44a1-88f0-a6e8c0806511&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 13 Analyses"
+		guid="297ffb58-78c3-4284-bee3-4532a5c04278">
+		<message
+			author="merger"
+			status="open"
+			guid="1a92d121-8467-458e-9ca1-0f7ed3af2da1"
+			date="2023-03-02T16:32:50Z">Text "++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 3 Segments 13 Analyses: User and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="1a92d121-8467-458e-9ca1-0f7ed3af2da1"
+	date="2023-03-02T16:32:50Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 13 Analyses: User and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;mNdu3m8pQa/4wKQHN2XNr72zD00=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;VXT6bwYrOq41LwSf05pO0ix/+YI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;mNdu3m8pQa/4wKQHN2XNr72zD00=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;RFaNftnS15LqZXCNoPvUIhkMUsg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=00f6b914-1205-44a1-88f0-a6e8c0806511&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 13 Analyses"
+	contextDataLabel="Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 13 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="46f0a38927a6"
+		betaUserRevision="75c25d3b982c"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:20+04:00"
+			guid="e865006d-1e8e-499e-acc6-6d4a4d1b418b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:20+04:00"
+			guid="267bf56d-c035-4525-89b2-798afd3acbae" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:20+04:00"
+			guid="9ca319f1-0dee-40aa-9ad7-eba527665a24" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:20+04:00"
+			guid="a4b88595-9373-4011-a222-1a77d5502ae5" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:21+04:00"
+			guid="ecc56276-2401-48ae-9180-062c826c6768" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:21+04:00"
+			guid="b3a86125-9ccc-4ea9-bc1d-dd799065f682" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:21+04:00"
+			guid="264dbcb7-d7a4-48b4-be28-1358079c7752" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:21+04:00"
+			guid="df9c0f44-409d-4c34-96b3-c593b999fa5a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:22+04:00"
+			guid="5e41b350-4a42-4f2a-82ff-cb7e6bea6331" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:31+04:00"
+			guid="622d0d3e-1c7f-48d4-9db2-1b7e4c324b0c" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2ce70765-d421-4c5c-b683-2ef479b806a5&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses"
+		guid="1c448426-d552-41bb-b50e-5a547848ce3d">
+		<message
+			author="merger"
+			status="open"
+			guid="a2e17b37-7d16-4d7e-b17b-376ce904d5b6"
+			date="2023-03-02T16:32:50Z">Text "++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 5 Segments 2 Analyses: User and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="a2e17b37-7d16-4d7e-b17b-376ce904d5b6"
+	date="2023-03-02T16:32:50Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses: User and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;JfNZmb+R5p2Wb7ZlFcXnDncwAOA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;2NlorVkkXsqa6rq0Bxu3YZvff1o=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;JfNZmb+R5p2Wb7ZlFcXnDncwAOA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;uaTDceN9+poo9oe2KhhOUE+O4X8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2ce70765-d421-4c5c-b683-2ef479b806a5&amp;tag=&amp;label=Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses"
+	contextDataLabel="Text &quot;++ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="46f0a38927a6"
+		betaUserRevision="75c25d3b982c"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:22+04:00"
+			guid="1d8ea8f1-f580-4fa6-9253-d4bd73f7e98f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:22+04:00"
+			guid="34d27093-6a98-4a4e-8bc0-f148714ab4b3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:22+04:00"
+			guid="0f78d123-a9a0-4a00-a1fc-368fab343816" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:22+04:00"
+			guid="ce55e3a0-bac9-421c-aefd-162d14fb0185" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:23+04:00"
+			guid="d4cd99eb-4db8-44f7-a48c-e5ed73e195f5" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:33+04:00"
+			guid="efe1279f-090f-41df-9bf1-d378eedbb0b2" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3db6b67c-d234-47c7-a05f-7ba74f7902b1&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 1 Analyses"
+		guid="41f66a57-dba9-4175-8b4b-7fd8c6f512ae">
+		<message
+			author="merger"
+			status="open"
+			guid="f31e578f-6934-49a7-acb6-f4650411a9a1"
+			date="2023-03-02T18:40:30Z">Text "ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 1 Segments 1 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f31e578f-6934-49a7-acb6-f4650411a9a1"
+	date="2023-03-02T18:40:30Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 1 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;O9EeYSVT6sBjNzzgLJMOjuBidBg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WeIACuJ2ypO+Ad28IFDG21Q9v8A=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;O9EeYSVT6sBjNzzgLJMOjuBidBg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;H3Kq9oTLrVvzrczuk7QwLcwZ3dY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3db6b67c-d234-47c7-a05f-7ba74f7902b1&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 1 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:07:34+04:00"
+			guid="960daa12-190d-41c3-9e63-3d5840bd72a5" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:53+04:00"
+			guid="fbbe3b45-e811-447c-ad3c-6212de47a5dd" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cf138e3d-2d1d-49d1-a25e-745eb599839c&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 5 Analyses"
+		guid="ae53a8b4-4e1e-427a-8721-1d9caf0fdc41">
+		<message
+			author="merger"
+			status="open"
+			guid="880e64d5-df8e-4cb9-aa2b-b2d9a4bd5d49"
+			date="2023-03-02T18:40:30Z">Text "ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 3 Segments 5 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="880e64d5-df8e-4cb9-aa2b-b2d9a4bd5d49"
+	date="2023-03-02T18:40:30Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 5 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dI/aUItlXjTNCby09lFeD0KirEQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;5MD3HNItPeOQj1/RXMP8mcuvs6M=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dI/aUItlXjTNCby09lFeD0KirEQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;n+yC6uml810PBTWO5MlYtpu/8h8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cf138e3d-2d1d-49d1-a25e-745eb599839c&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 5 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:07:35+04:00"
+			guid="71655480-ffa9-4da6-8008-594919fec65e" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:50+04:00"
+			guid="f77731ac-4abc-4eaa-b11a-d96a550db7d9" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ab5f46d5-d51a-4096-8d8a-f3da08eceafa&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 7 Analyses"
+		guid="f18f7a6b-2ca5-428a-a2c1-3435f6ef85c2">
+		<message
+			author="merger"
+			status="open"
+			guid="38567abc-4ded-4e43-9113-1156abd83443"
+			date="2023-03-02T18:40:30Z">Text "ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 3 Segments 7 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="38567abc-4ded-4e43-9113-1156abd83443"
+	date="2023-03-02T18:40:30Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 7 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;wlj/X2ihhShA8EWQbP/mmMx4yME=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;eDb+2XpGTCOsaAx8K3CxtIPjSao=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;wlj/X2ihhShA8EWQbP/mmMx4yME=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;lmv+FnPiau9suiTQoMdWHX5ypTk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ab5f46d5-d51a-4096-8d8a-f3da08eceafa&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 7 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 3 Segments 7 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:07:36+04:00"
+			guid="f512eea5-59b1-4d31-b976-89838d1d6132" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:48+04:00"
+			guid="a7105391-1e1a-43f3-9a91-1302d86aa0b0" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2ce70765-d421-4c5c-b683-2ef479b806a5&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses"
+		guid="e8747608-7525-41e5-b1af-054d4fa1c94c">
+		<message
+			author="merger"
+			status="open"
+			guid="3fde0830-869c-4bc1-bd79-0a49d8d7f295"
+			date="2023-03-02T18:40:30Z">Text "ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 5 Segments 2 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3fde0830-869c-4bc1-bd79-0a49d8d7f295"
+	date="2023-03-02T18:40:30Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;uaTDceN9+poo9oe2KhhOUE+O4X8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;UAeZ6nkcii9YcEodCftvLt8rUUQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;uaTDceN9+poo9oe2KhhOUE+O4X8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;2NlorVkkXsqa6rq0Bxu3YZvff1o=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2ce70765-d421-4c5c-b683-2ef479b806a5&amp;tag=&amp;label=Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 5 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:07:37+04:00"
+			guid="a4ef8b9e-72db-491b-800f-8a4f1a250f3a" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:44+04:00"
+			guid="deb0afc7-4263-4379-ac82-398010ba182e" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=a6263518-8102-4312-880b-5ca968efe5ec&amp;tag=&amp;label=Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 7 Analyses"
+		guid="852986ed-2eea-46e3-8b82-90a7d9edfa0c">
+		<message
+			author="merger"
+			status="open"
+			guid="3b51c69d-061f-40b1-9e6d-00c617b9ada8"
+			date="2023-07-28T04:18:53Z">Text "text 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 1 Segments 7 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3b51c69d-061f-40b1-9e6d-00c617b9ada8"
+	date="2023-07-28T04:18:53Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 7 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Mlv61gNfz6N/u7FGISTAHWWgkwE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ZiYDoCLgjXBrzMcruvV9I6Zijk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Mlv61gNfz6N/u7FGISTAHWWgkwE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;2gh0e43Xsb6EY8sdkodYIyT/VrE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=a6263518-8102-4312-880b-5ca968efe5ec&amp;tag=&amp;label=Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 7 Analyses"
+	contextDataLabel="Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 1 Segments 7 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="5feeb46bf6c0"
+		betaUserRevision="fc128a892771"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:38:58+04:00"
+			guid="43aab9c4-61e1-4024-b10f-1a8988eb1372"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:38:59+04:00"
+			guid="bc732c63-9808-4617-b67f-4f2919c7de4c"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:38:59+04:00"
+			guid="a8a5a3c2-3eca-4cf3-8ad9-0bc007bfee04"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:38:59+04:00"
+			guid="49a26224-954b-4612-8b16-507e1b27e7cd"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:38:59+04:00"
+			guid="4f5ac1be-6a13-4318-b197-efe851fe0e95"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:38:59+04:00"
+			guid="71e85b2c-6faa-4f37-bfa7-9cf873e81c40"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:38:59+04:00"
+			guid="966e986d-2be0-4d15-bae3-c94f8729294f"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:00+04:00"
+			guid="9517dd68-5a23-42d2-8f60-9fa09e07a3c1"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:00+04:00"
+			guid="c2cc9a4a-5468-493e-a291-fb928392db21"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:00+04:00"
+			guid="38d4db64-90b1-49f4-93f3-fef933999926"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:00+04:00"
+			guid="38ae14c5-d005-4028-924d-d18431ed15ef"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:00+04:00"
+			guid="08a9d985-4c6b-44e9-91db-716e81145d64"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:00+04:00"
+			guid="f475fa76-7c3a-432f-8c8c-c201065cd068"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:01+04:00"
+			guid="fbc0dcf1-e28c-4619-8ad8-8f17b7c3d63a"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:01+04:00"
+			guid="c8f77898-2635-46cd-8f0b-c2738cdb088e"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:01+04:00"
+			guid="50dfa336-9b9b-4beb-9f26-49f011ce7744"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:01+04:00"
+			guid="ed9c1e1a-9065-4bc7-9a9d-985e53b7083b"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:01+04:00"
+			guid="00ab4987-9a20-4fd2-8719-343c49e7229c"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:01+04:00"
+			guid="040c218c-3ca8-4380-bc55-797eb29f9ef0"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:02+04:00"
+			guid="9ad48359-35e0-4755-8c01-c34f7382ea00"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:02+04:00"
+			guid="b04e070a-48ca-474e-91d5-6ef856aaed38"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=319b3c0d-84ca-422e-a842-df351fc98256&amp;tag=&amp;label=Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 2 Segments 1 Analyses"
+		guid="d35a2612-d00a-4fbd-8f22-bf365d0191bc">
+		<message
+			author="merger"
+			status="open"
+			guid="1dcb5e6e-f146-4606-be0c-e2e7c9d626ec"
+			date="2023-07-28T04:18:53Z">Text "text 43_თამუნა_ვენახის მოვლა და დამყნობა" Contents Paragraphs 2 Segments 1 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="1dcb5e6e-f146-4606-be0c-e2e7c9d626ec"
+	date="2023-07-28T04:18:53Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 2 Segments 1 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;yELjrOsEC3B8u00+KE1nLiqfFh8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FWi6P3cS+KtO1vNUZGrYxRNCaj0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;yELjrOsEC3B8u00+KE1nLiqfFh8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WnydpFprfsPyCWlXJsR85yYCy3g=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=319b3c0d-84ca-422e-a842-df351fc98256&amp;tag=&amp;label=Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 2 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 43_თამუნა_ვენახის მოვლა და დამყნობა&quot; Contents Paragraphs 2 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="5feeb46bf6c0"
+		betaUserRevision="fc128a892771"
+		path="Linguistics\TextCorpus\Text_990be67c-edfe-4229-a957-0e85be6819f7.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:02+04:00"
+			guid="80586ef3-7bd0-4d25-9f5a-a08da5660391"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:02+04:00"
+			guid="1fa77074-801e-40d5-aa2b-e30bf96c7817"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:02+04:00"
+			guid="93329447-af64-4304-9b70-7a8421badcff"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:03+04:00"
+			guid="92fa5187-0702-4a05-ba89-130c60cd3a4b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:03+04:00"
+			guid="7de56afd-6b7c-4579-93f7-4e5634b58dfa"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:03+04:00"
+			guid="5f7d9217-c622-442e-bf94-d6b94d61b7f4"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:03+04:00"
+			guid="3e5a1790-0ade-47ff-a3b0-5f407c421775"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:03+04:00"
+			guid="fdce27cf-3ab9-4bbb-97da-a1b92de5546f"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:03+04:00"
+			guid="812e42f2-267c-4433-8586-5b46452eb499"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:04+04:00"
+			guid="865ae5eb-3702-4c0f-b3f7-de760954707f"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:04+04:00"
+			guid="bbc93e35-e17a-451a-8177-fb9557ab8a38"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:04+04:00"
+			guid="a614c2ab-2aee-4b4d-ab53-1451b965d3d1"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:04+04:00"
+			guid="4f3aebaf-b1d4-45ee-b3c2-76e7ef19cfd9"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:04+04:00"
+			guid="00c61384-028c-48ac-bf73-441f0cf24b85"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:05+04:00"
+			guid="3ae94b92-94f2-4ebb-94a3-600fb9466499"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:05+04:00"
+			guid="65501752-964f-42bb-a4f4-159e98d82a63"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:05+04:00"
+			guid="2282cab4-a24f-4ea4-b736-83f22c224f23"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:05+04:00"
+			guid="dc215a0a-53b6-43b8-be13-44713ecdc28c"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:05+04:00"
+			guid="313eb064-02a6-4847-b1f3-aeb6696de1c5"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:05+04:00"
+			guid="c112f0b4-27bc-4dfc-b9cd-4b1edaf91393"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:06+04:00"
+			guid="5675d79b-0715-49e1-a52f-2b011b7d7be9"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:06+04:00"
+			guid="24debdce-8ded-401a-9b04-4446d7afe586"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:06+04:00"
+			guid="af226cd7-3edb-41f4-9561-e8e444ff569d"></message>
+	</annotation>
+</notes>

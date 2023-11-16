@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7cfdeebf-f0ae-4f4c-b7d8-88e0a0b49bcc&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses"
+		guid="3995a733-fe46-49c7-a2db-b073d1d6f428">
+		<message
+			author="merger"
+			status="open"
+			guid="1a267c23-db81-4212-9ecf-de9d3fd9bf06"
+			date="2023-09-12T09:34:39Z">Text "text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი" Contents Paragraphs 22 Segments 4 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="1a267c23-db81-4212-9ecf-de9d3fd9bf06"
+	date="2023-09-12T09:34:39Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3lJUz+ozQko44x56CSmgXkUG0U8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;GuxYjwsxt8OdVZMZF13l7PSydNk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3lJUz+ozQko44x56CSmgXkUG0U8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;1STbysmQvi5pA974vwz7iuGPkY4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7cfdeebf-f0ae-4f4c-b7d8-88e0a0b49bcc&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses"
+	contextDataLabel="Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="4fd2f6d81c91"
+		betaUserRevision="107cdf7b30f5"
+		path="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-13T08:30:09+04:00"
+			guid="028687a7-6974-481d-92ee-6cd44b3bd897" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:11+04:00"
+			guid="cc339510-ba1b-4007-ab66-56ebb5076449" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:11+04:00"
+			guid="a16e84ee-d020-4906-8eed-718a97ea8ad0" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:11+04:00"
+			guid="5a5a8165-b2ba-4f69-9a96-6d8c48efb5d0" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:12+04:00"
+			guid="56086346-785c-43ce-8c4c-841d9c5998a0" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:12+04:00"
+			guid="40c2bda1-e52a-4439-941a-aac12f663581" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=73168c4e-c702-41fb-96b8-8e54f6cee29d&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 28 Segments 3 Analyses"
+		guid="7eaaf2fd-22bf-4f93-ac89-3412b9e76721">
+		<message
+			author="merger"
+			status="open"
+			guid="2ec96d6b-afde-4343-b134-e776ed816be2"
+			date="2023-09-12T09:34:39Z">Text "text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი" Contents Paragraphs 28 Segments 3 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="2ec96d6b-afde-4343-b134-e776ed816be2"
+	date="2023-09-12T09:34:39Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 28 Segments 3 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;P8dmDAL5u8gNp+605Xx6YAsxa9w=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;PgsnphkDm+/0yp9BLycBmZCZ5c0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;P8dmDAL5u8gNp+605Xx6YAsxa9w=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;VoqdKW2/Ancgk4Ux2fMCeQPUWYk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=73168c4e-c702-41fb-96b8-8e54f6cee29d&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 28 Segments 3 Analyses"
+	contextDataLabel="Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 28 Segments 3 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="4fd2f6d81c91"
+		betaUserRevision="107cdf7b30f5"
+		path="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-13T08:30:10+04:00"
+			guid="e1182610-e4d2-42f5-b043-5cf14f8f9d09" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:12+04:00"
+			guid="6a55dd2d-cdc2-4642-aa8a-6c4d2f6cc368" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:12+04:00"
+			guid="ca59c88a-7dd4-4a67-bd28-aa21f46a4a9f" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:12+04:00"
+			guid="58bfe8c4-2422-46fc-b9d6-d3ce9aaef714" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:13+04:00"
+			guid="b953636c-529e-4ad7-b135-eb3403ce829a" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:13+04:00"
+			guid="1ef4e179-d798-4da8-b78a-677a4580429e" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=627e7aa0-4f06-4223-8dd6-36870b20175c&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 51 Segments 1 Analyses"
+		guid="f306bab2-7846-48de-97a5-619366232ae2">
+		<message
+			author="merger"
+			status="open"
+			guid="69fb2bdc-8244-4b06-86d2-8bc4859b8aa5"
+			date="2023-09-12T09:34:40Z">Text "text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი" Contents Paragraphs 51 Segments 1 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="69fb2bdc-8244-4b06-86d2-8bc4859b8aa5"
+	date="2023-09-12T09:34:40Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 51 Segments 1 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Mo1hU13bk+Vhe+XPCs9aX/BuiBI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;QY8jI6YvYsBbQwYhtmAWd6teOXE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Mo1hU13bk+Vhe+XPCs9aX/BuiBI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;hRz7ACmsMiNnb7UR8mV7o+W/0Fg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=627e7aa0-4f06-4223-8dd6-36870b20175c&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 51 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 51 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="4fd2f6d81c91"
+		betaUserRevision="107cdf7b30f5"
+		path="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-13T08:30:07+04:00"
+			guid="5d5e82b8-1067-408e-b68f-de7ab409833d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:10+04:00"
+			guid="ab573de7-8c3a-4f18-9501-3e526c1f9c86" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:10+04:00"
+			guid="cffbcbce-851a-49f5-a107-81a1222d51fe" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:11+04:00"
+			guid="e87c2076-4e17-454c-af98-e75c2af62583" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:11+04:00"
+			guid="973a1a31-2c50-4af0-b047-e31a242e9111" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:11+04:00"
+			guid="281e66e9-ee8d-4751-a19c-6aa8f8faec07" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7cfdeebf-f0ae-4f4c-b7d8-88e0a0b49bcc&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses"
+		guid="c3bd252f-b5df-49ae-8ec3-d3a218a357ab">
+		<message
+			author="merger"
+			status="open"
+			guid="96cf584d-d08e-4b27-acb3-e30494d32824"
+			date="2023-09-14T09:22:56Z">Text "text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი" Contents Paragraphs 22 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="96cf584d-d08e-4b27-acb3-e30494d32824"
+	date="2023-09-14T09:22:56Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7nRYzAxoMQthEe/YHhP74jfDYII=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;i1gBsfb6X78UOX/JuszGDs3OU4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7nRYzAxoMQthEe/YHhP74jfDYII=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;sPoyqdZuP1AhDgqJ9mXBuU3ZPEs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7cfdeebf-f0ae-4f4c-b7d8-88e0a0b49bcc&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses"
+	contextDataLabel="Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="c653f1c34633"
+		betaUserRevision="c544025fe83f"
+		path="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:05+04:00"
+			guid="c01d8300-c1a4-46ec-91c9-c62f73088578" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:05+04:00"
+			guid="ef738300-5f24-4fa0-b8cc-3cf2367ca0f9" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:05+04:00"
+			guid="c42dc183-5b07-4332-a2bb-0f1c3ca24772" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:06+04:00"
+			guid="8625a376-2df4-4020-8b0c-871d2c8bd1bf" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:06+04:00"
+			guid="8cf8a349-f07f-4be8-993d-8f2365385e90" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=21a98b38-7a63-4d34-8f58-dfda660e9816&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 15 Segments 1 Analyses"
+		guid="aef25b84-cd5d-47d9-8a1b-5af897852b70">
+		<message
+			author="merger"
+			status="open"
+			guid="a271249d-9bfb-42b4-b0ad-5322478beb31"
+			date="2023-09-14T09:50:22Z">Text "text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი" Contents Paragraphs 15 Segments 1 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="a271249d-9bfb-42b4-b0ad-5322478beb31"
+	date="2023-09-14T09:50:22Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 15 Segments 1 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;OSLG8+LTGukJfU8AyAbKzlE1K2M=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ZGEt/fN4BTTVkDOUtvpSqVIhOyU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;OSLG8+LTGukJfU8AyAbKzlE1K2M=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;RlB5UuX0IVpRwQSv4poCmwq50B0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=21a98b38-7a63-4d34-8f58-dfda660e9816&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 15 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 15 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="dd111fd6c1f6"
+		betaUserRevision="814dfd6c429f"
+		path="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:00+04:00"
+			guid="ee3dd343-b2bb-4ac4-894a-7dc0f21fd430" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:00+04:00"
+			guid="b7b4aaa2-8b7d-4634-82d2-c46fffe08659" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:00+04:00"
+			guid="349a1604-4ef3-405d-b783-646e7940869e" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:01+04:00"
+			guid="4f056073-56f1-4132-9f13-20a6048be0b7" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:01+04:00"
+			guid="22e8f61e-2227-47d7-82e8-155fd36a8704" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:01+04:00"
+			guid="63752449-c525-4459-8cc4-05aad3219ece" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:01+04:00"
+			guid="b43a3c2e-7a1b-49d5-af7e-e7e7bc75ea2f" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:01+04:00"
+			guid="251526aa-e6a8-4e28-9d9a-f02c76f5d34f" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:01+04:00"
+			guid="201308c8-386b-4cfc-8c8e-a6ae705adcff" />
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:02+04:00"
+			guid="013669cc-0014-46ac-ab6c-49edbf8c95d4" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:02+04:00"
+			guid="4a9d1115-5d77-4172-a901-49362bed2180" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7cfdeebf-f0ae-4f4c-b7d8-88e0a0b49bcc&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses"
+		guid="8b8bf7c4-5965-4f70-ade9-8dcf92a100d1">
+		<message
+			author="merger"
+			status="open"
+			guid="e6e753e3-4f6a-42dd-814d-822b4a6db85e"
+			date="2023-09-24T19:55:36Z">Text "text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი" Contents Paragraphs 22 Segments 4 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="e6e753e3-4f6a-42dd-814d-822b4a6db85e"
+	date="2023-09-24T19:55:36Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7nRYzAxoMQthEe/YHhP74jfDYII=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;sPoyqdZuP1AhDgqJ9mXBuU3ZPEs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7nRYzAxoMQthEe/YHhP74jfDYII=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;i1gBsfb6X78UOX/JuszGDs3OU4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7cfdeebf-f0ae-4f4c-b7d8-88e0a0b49bcc&amp;tag=&amp;label=Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses"
+	contextDataLabel="Text &quot;text 13 - თამუნა სხულუხია - მეგრული ტრადიციები, ცხოვრების წესი&quot; Contents Paragraphs 22 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e1401cc55a1"
+		betaUserRevision="6b8cfc26d066"
+		path="Linguistics\TextCorpus\Text_c2568968-228a-4b76-a952-42a5dff6dc84.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:16:58+04:00"
+			guid="7714b180-5967-4cc4-a81e-2836bbf54f9c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:16:58+04:00"
+			guid="ad745618-6fbe-4090-8556-64f4c5997b69"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:16:58+04:00"
+			guid="67667435-f221-46fb-8c9c-a171b64c352c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:16:58+04:00"
+			guid="27a8c855-9c43-433e-af9c-cda2406f82f1"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:16:59+04:00"
+			guid="b0407ba1-5b89-4419-a81c-73927bdae82a"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:16:59+04:00"
+			guid="e6627eaf-eea0-4c34-93fb-aea3620541da"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:16:59+04:00"
+			guid="401cc6ad-3b13-43a2-9697-657a02fda335"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:16:59+04:00"
+			guid="bcb5c74e-6464-4aed-a9f6-ded47729572e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:16:59+04:00"
+			guid="db9f5f6a-e074-41a6-8e25-0b65fe29c236"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:16:59+04:00"
+			guid="f0c0a4e1-f00b-45b4-aed0-12a2b51362a4"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:00+04:00"
+			guid="ded2df09-9800-4922-bff4-09cda65db09c"></message>
+	</annotation>
+</notes>

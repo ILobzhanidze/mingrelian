@@ -1,0 +1,1797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b6435b05-6695-4468-b486-b34b8f39b2f5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses"
+		guid="77812078-309b-4019-b57a-769c868ac100">
+		<message
+			author="merger"
+			status="open"
+			guid="cecbb5bb-4dae-4c34-8ef8-7fba5fb136e8"
+			date="2023-02-26T18:56:51Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 4 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="cecbb5bb-4dae-4c34-8ef8-7fba5fb136e8"
+	date="2023-02-26T18:56:51Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cU2OH2vE6bJlEnmYAFaX++AA9vc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;UQhvE94+EtHSIQZBoSO9tCSVhVI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cU2OH2vE6bJlEnmYAFaX++AA9vc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;SBlrod/kf/ijy54oJcFrdSZ+XP4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b6435b05-6695-4468-b486-b34b8f39b2f5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="a7df1c4a7645"
+		betaUserRevision="483fb0e4ca70"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:08+04:00"
+			guid="51a2858d-758d-4a4c-a4ac-4e68674490f8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:08+04:00"
+			guid="eabddbb2-c3e4-4051-9790-23963850b75b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:08+04:00"
+			guid="4ff46bd7-24a4-47c1-b765-7e429193f299" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:08+04:00"
+			guid="47064d1d-8105-460c-a7c9-643c78dfd977" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:09+04:00"
+			guid="861ef9f3-c1c2-4e23-af9e-9f2fb968c782" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=860b17ba-c19f-4024-9597-b3a29a4ca0ec&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 64 Segments 4 Analyses"
+		guid="c2e5366e-2de5-4694-b767-b995f5fdf7bf">
+		<message
+			author="merger"
+			status="open"
+			guid="26304b25-5cda-4928-b128-89feb0bf4616"
+			date="2023-03-01T11:54:49Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 64 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="26304b25-5cda-4928-b128-89feb0bf4616"
+	date="2023-03-01T11:54:49Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 64 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7fep45Vd8eWRcobtb8jdQ8Dpxbs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;5LCDfHphTA5lKbA5DY/J3PYLeHc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7fep45Vd8eWRcobtb8jdQ8Dpxbs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;26HqOx4klx8DxYAw2qIHMZckc4Q=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=860b17ba-c19f-4024-9597-b3a29a4ca0ec&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 64 Segments 4 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 64 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="b3a2b5dc3a5b"
+		betaUserRevision="87c0ee87e2a3"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:14+04:00"
+			guid="4bfdc24e-153b-4bdb-b690-9f81403bf122" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:14+04:00"
+			guid="063f2da6-719c-4096-8265-5bfd30fbee2c" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:14+04:00"
+			guid="fb555865-d8a1-41ff-b421-ddc6907fe698" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:14+04:00"
+			guid="ae0e368f-8131-493d-8e13-672bf9322fb6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:15+04:00"
+			guid="1a0ce229-838a-4b46-95b8-ee43761ca794" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:03+04:00"
+			guid="43240afb-b08a-4852-ac02-ccac734204ac" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4d4084e9-cf26-48e7-bed1-55b649888bfa&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses"
+		guid="216fe3c1-1470-4273-9642-50fa7f6aec00">
+		<message
+			author="merger"
+			status="open"
+			guid="0ca9c68e-4505-49be-9080-0a5c3581f32e"
+			date="2023-03-01T16:21:09Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 10 Segments 1 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="0ca9c68e-4505-49be-9080-0a5c3581f32e"
+	date="2023-03-01T16:21:09Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;92k7ASqG1f3T9cbzQsJLYI8tMAQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;aF9O0bu1puBz47YEPdNaGzUrT78=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;92k7ASqG1f3T9cbzQsJLYI8tMAQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;X8DxX3KYOo8eVLZLsWzBOHa7Guw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4d4084e9-cf26-48e7-bed1-55b649888bfa&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7471f0001220"
+		betaUserRevision="e5074777c57e"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:36+04:00"
+			guid="e2ded9f2-ba46-47ca-b97b-257d1db09595" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:36+04:00"
+			guid="a48ecf8d-bc27-4cc8-8bf3-c3f873595642" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:36+04:00"
+			guid="f9d11f07-aff9-48bb-bdb6-d14f7859c152" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:36+04:00"
+			guid="815b8deb-4756-4f89-ad57-e1dacf918e84" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:37+04:00"
+			guid="0be1c25d-b81d-455e-a092-ea157aea3fc6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:37+04:00"
+			guid="b5493745-b306-4313-8ba4-91a5f3ac4870" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:37+04:00"
+			guid="517353f3-9474-475d-afa5-4a2bd18278c0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:37+04:00"
+			guid="901df0de-6b8a-42c9-bd2e-b6836dc78d3a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:38+04:00"
+			guid="d8b1b843-801e-4185-8bd2-d05e1500390d" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:27+04:00"
+			guid="26828362-03cd-4857-9ca2-f3b5ab1cd8d5" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4d4084e9-cf26-48e7-bed1-55b649888bfa&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses"
+		guid="0b9e806d-df1a-4be8-a4a8-9d4649357be0">
+		<message
+			author="merger"
+			status="open"
+			guid="b09693ed-0f49-4628-b712-661dcec3c622"
+			date="2023-03-07T07:30:41Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 10 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b09693ed-0f49-4628-b712-661dcec3c622"
+	date="2023-03-07T07:30:41Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2sr7XVzFn2XFp8i9EwtuowtyRP8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;5Xb6HJmbQ6yyJFW5+FdcRI2mZBw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2sr7XVzFn2XFp8i9EwtuowtyRP8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;rMK1h8NaVOKyylF/PNxhRxckxY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4d4084e9-cf26-48e7-bed1-55b649888bfa&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 10 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="048a94f44220"
+		betaUserRevision="66c2ff17f87e"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-07T12:18:39+04:00"
+			guid="683e58fb-c906-4a3b-a426-f7261bc98d38" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-07T12:18:39+04:00"
+			guid="dfa283f0-4dea-41f2-aa2a-e7772b2ac81e" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-07T12:18:41+04:00"
+			guid="45324a56-eba1-47d2-abb9-8d0749bbc1f0" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-07T11:56:53+04:00"
+			guid="4a402012-3d79-4c28-802a-268c2723aa60" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cb464202-7023-45bc-8905-d49fc27899c0&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses"
+		guid="c4ebf3fd-f6b1-4577-9844-dd5fc09299dd">
+		<message
+			author="merger"
+			status="open"
+			guid="924138f2-fc08-462b-b365-1397e5487571"
+			date="2023-03-12T14:12:52Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 58 Segments 8 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="924138f2-fc08-462b-b365-1397e5487571"
+	date="2023-03-12T14:12:52Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;VntSZ+oLvscue2xydwwlBpHe6Uc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;tEHIDeyPyZH/8GdOrnBeDCNL+s=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;VntSZ+oLvscue2xydwwlBpHe6Uc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;OSFtIUVtan05t+rIGcIYElsQU9U=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cb464202-7023-45bc-8905-d49fc27899c0&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:15:22+04:00"
+			guid="ac4a34cc-bbfe-48a4-bd5c-30d4faf5aefb" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:52:59+04:00"
+			guid="e540433b-6093-4567-92cc-9b7d8b17e91d" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:52:59+04:00"
+			guid="da899828-48f2-499a-b756-9e66d44bb5e9" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:52:59+04:00"
+			guid="f902702b-2515-46de-9eda-7099d84fa716" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:52:59+04:00"
+			guid="434b228f-739a-4170-97d5-9b4a26a62654" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:52:59+04:00"
+			guid="31bec4b8-53b6-413d-bf51-d52db4440f28" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:00+04:00"
+			guid="24365d05-320f-49ae-9fcb-6394730e7cc8" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:00+04:00"
+			guid="e95a4bd0-4ad4-44eb-933d-c35710ec59e7" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:00+04:00"
+			guid="a076944c-bdcc-4925-91c7-1834b15b3417" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:00+04:00"
+			guid="ef53d32b-7e43-4d45-8a61-e6ad67c427a8" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=07139e22-46b1-443c-af95-babb7c2edc73&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses"
+		guid="0bf2ee59-e567-498d-a3d6-842d467740ee">
+		<message
+			author="merger"
+			status="open"
+			guid="f73581bf-c5f2-48fe-9411-031033ca576c"
+			date="2023-03-12T14:12:52Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 67 Segments 3 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f73581bf-c5f2-48fe-9411-031033ca576c"
+	date="2023-03-12T14:12:52Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Xl1T1Z+hB8qx5GCLKaU3Mqwu/9g=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;idOQHO6YKpVPgxqLsQLtQJGlB+E=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Xl1T1Z+hB8qx5GCLKaU3Mqwu/9g=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;NGm7hxKFNGVz0psn39d1hGzc1Rg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=07139e22-46b1-443c-af95-babb7c2edc73&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:15:32+04:00"
+			guid="7fe97ab2-0578-4b5d-8126-933264b441a6" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:00+04:00"
+			guid="80d19fcd-682f-493c-80f6-4afa206cdf63" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:01+04:00"
+			guid="2a990207-2df9-47db-a7b8-255aa6a36acf" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:01+04:00"
+			guid="99b4b17f-f5af-4056-b840-75fed69af114" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:01+04:00"
+			guid="9da9a53e-747c-4071-9cba-b1ab09e4746a" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:01+04:00"
+			guid="113b8861-a565-40be-8af5-2dc65c0170b2" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:01+04:00"
+			guid="b7566671-0f76-4a59-bffc-ec5d10e083b2" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:02+04:00"
+			guid="417bfc24-d771-4474-9028-3e89a9ca2316" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:02+04:00"
+			guid="eca1d7c3-4e22-4976-9d40-21776e0789a5" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:02+04:00"
+			guid="f73d3d62-d33d-4645-9b3b-ecb61138e5bd" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=aeb03076-9fd1-43ea-9335-ebe9b8166a56&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 69 Segments 1 Analyses"
+		guid="84dd1d32-e610-4da6-a46b-719f2db31d27">
+		<message
+			author="merger"
+			status="open"
+			guid="72ec6a6a-f3d4-4d20-9f4a-0fc4e853fa8b"
+			date="2023-03-12T14:12:52Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 69 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="72ec6a6a-f3d4-4d20-9f4a-0fc4e853fa8b"
+	date="2023-03-12T14:12:52Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 69 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;4b/FE8tUaBKyc7SuJUPGDH9VSxs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;IszMMLcZlnAvYLm5cfahAgcrsz8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;4b/FE8tUaBKyc7SuJUPGDH9VSxs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;kiWlEwUknKh/E3uUaAul6A5MAs0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=aeb03076-9fd1-43ea-9335-ebe9b8166a56&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 69 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 69 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:15:50+04:00"
+			guid="2001f64b-5a5a-40e2-9541-7b7cb965d329" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:02+04:00"
+			guid="48ecb33e-b729-4b42-849a-44bc51b2f604" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:03+04:00"
+			guid="2ac7f4fb-a852-4b14-a761-5bd205c98d7d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:03+04:00"
+			guid="c05198d7-1d81-40ab-b341-5265a29c84ab" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:03+04:00"
+			guid="872beef6-42b0-451d-87d1-f3d0b67aac2e" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:03+04:00"
+			guid="da8e0e6f-fd6b-4564-ba9d-d8d5fa0ae372" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=6cef4d31-b114-43a2-b7dd-4303feaef9d5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 75 Segments 2 Analyses"
+		guid="4d26a848-e381-45c0-841f-1b9702b4ea05">
+		<message
+			author="merger"
+			status="open"
+			guid="fd8ec7a7-a785-42a9-85aa-6493200e7224"
+			date="2023-03-13T09:36:02Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 75 Segments 2 Analyses: Eva and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="fd8ec7a7-a785-42a9-85aa-6493200e7224"
+	date="2023-03-13T09:36:02Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 75 Segments 2 Analyses: Eva and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3D4LMrxhsI0QMQh33eAZKN+MLgA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FDMLSgqk4zc3/BpqId8xxbNHaz0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3D4LMrxhsI0QMQh33eAZKN+MLgA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Oq/2MvA2LyMfFxIupDEwuP8gwdU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=6cef4d31-b114-43a2-b7dd-4303feaef9d5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 75 Segments 2 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 75 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="8c140dd391bd"
+		betaUserRevision="a5dfd881bcae"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-13T13:37:46+04:00"
+			guid="cc3ea8fa-4989-417b-b29e-632423f63793" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b6435b05-6695-4468-b486-b34b8f39b2f5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses"
+		guid="5ea77fa2-9bc6-49b1-8f42-7dca17300227">
+		<message
+			author="merger"
+			status="open"
+			guid="42b2c7e5-0b54-4f7e-8528-83fc5d85702a"
+			date="2023-03-25T19:55:01Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 4 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="42b2c7e5-0b54-4f7e-8528-83fc5d85702a"
+	date="2023-03-25T19:55:01Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;fE3RuEr8x71o18Gb7PFgYGm5W4c=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;UqH6xBeVCg/L8LQEijfZJV+dCac=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;fE3RuEr8x71o18Gb7PFgYGm5W4c=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;AWOrXJvvPmfTbAT9G2vCFgAQAAc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b6435b05-6695-4468-b486-b34b8f39b2f5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="2f7ec20c7575"
+		betaUserRevision="4233b82cf7d3"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-25T23:57:56+04:00"
+			guid="81572426-099a-401a-9a9e-71090a64b6cc" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:35+04:00"
+			guid="99ee0cff-1133-4eab-b49a-e5beda0dc657" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:35+04:00"
+			guid="487b361e-a849-4890-bcc6-ece1c87ea47d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:35+04:00"
+			guid="daaeb7f4-1b04-4a23-8a05-2da356583c42" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:35+04:00"
+			guid="b6b7102f-9acb-44a8-86e7-999332b6ff42" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:36+04:00"
+			guid="8b6bee44-f8ad-41c1-85b7-919066f48053" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:36+04:00"
+			guid="7e774d4c-4056-408c-a406-4ae532699f87" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:36+04:00"
+			guid="0063a5c5-0d1a-41dc-8058-91b8bc0b293a" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:36+04:00"
+			guid="981c9194-0310-45e1-b03a-50f6a8a3967d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:36+04:00"
+			guid="98551c63-fc54-4c84-9d13-66a70a9d32b6" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:37+04:00"
+			guid="14ab0348-353d-4cb3-b3de-e0ea9fb3b90b" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:37+04:00"
+			guid="c5c1bd04-9001-40f3-905e-268122b2763f" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:37+04:00"
+			guid="fb2e09c5-6c3b-409e-a607-2271f86cc631" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:37+04:00"
+			guid="459cc75f-1e06-4151-8717-3976037ee820" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:37+04:00"
+			guid="1c574d83-589d-44f8-9b08-978319452356" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:38+04:00"
+			guid="821e6834-a0ba-4185-a6b5-c5e81472d912" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cb464202-7023-45bc-8905-d49fc27899c0&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses"
+		guid="0605ccac-b21e-490a-b063-534d261d6e74">
+		<message
+			author="merger"
+			status="open"
+			guid="3c31291e-867e-48d2-a96c-f731d15578cb"
+			date="2023-03-30T21:23:11Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 58 Segments 8 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3c31291e-867e-48d2-a96c-f731d15578cb"
+	date="2023-03-30T21:23:11Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;wiRfEKvT58inok1kpzrCq4B4Hio=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;tEHIDeyPyZH/8GdOrnBeDCNL+s=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;W6NdCQkMhRTkgEBGxOEvtrAkXTY=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;tEHIDeyPyZH/8GdOrnBeDCNL+s=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cb464202-7023-45bc-8905-d49fc27899c0&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 58 Segments 8 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="5d3bac51613d"
+		betaUserRevision="0b72da40092b"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:23+04:00"
+			guid="646a4c72-cd02-4c3a-a405-a8436b705504" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:23+04:00"
+			guid="5c34870c-1e8e-4be3-a455-6866656a0e00" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:23+04:00"
+			guid="68278a39-94b8-4628-8f86-60e5f0371af9" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:23+04:00"
+			guid="6e972a5c-432c-42a0-b0ed-4e8d978351a8" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:23+04:00"
+			guid="b0d32543-2597-434c-8006-0f95f5ce1886" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:24+04:00"
+			guid="85a7005b-3538-43cb-a70d-098a08614523" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:24+04:00"
+			guid="fc156735-8e6d-4b71-9d14-8b35a176b91a" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:24+04:00"
+			guid="f186c3df-2eca-49a8-bc45-af2711b695b3" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:24+04:00"
+			guid="2f22fbd1-a69b-4614-a2f5-0747f31bc328" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:24+04:00"
+			guid="d82aea45-f586-493b-8459-db68f4c42f87" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:25+04:00"
+			guid="fa55451e-0f01-43c4-9ba5-9e19f53d1924" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:11:29+04:00"
+			guid="8e5a9f29-c105-48a7-936e-3ecd3168b0e9" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=07139e22-46b1-443c-af95-babb7c2edc73&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses"
+		guid="c4e0cc93-3e9d-42ae-97b9-0ca818f083f0">
+		<message
+			author="merger"
+			status="open"
+			guid="3ef4cc65-9f02-4164-8ecc-43b059f662f8"
+			date="2023-03-30T21:23:11Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 67 Segments 3 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3ef4cc65-9f02-4164-8ecc-43b059f662f8"
+	date="2023-03-30T21:23:11Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;idOQHO6YKpVPgxqLsQLtQJGlB+E=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;tRVPWu58abCYw4QjDvl9UG8HdPs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;idOQHO6YKpVPgxqLsQLtQJGlB+E=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FB4ywBl++3OppcOotBkz6VYN+c=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=07139e22-46b1-443c-af95-babb7c2edc73&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 67 Segments 3 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="5d3bac51613d"
+		betaUserRevision="0b72da40092b"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:25+04:00"
+			guid="673c92ac-cbb9-4cee-8ae3-d2fc683d45d0" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:25+04:00"
+			guid="8c1ea0a1-fa59-46e3-82c1-b69d940c5851" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:25+04:00"
+			guid="dd7f7a67-0238-4a8f-aab9-6376eb02eb07" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:25+04:00"
+			guid="0206e1da-a087-4473-83f9-512d1e532246" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:25+04:00"
+			guid="e1e2eec1-c6a2-4529-8d1a-d2fa47420b3e" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:26+04:00"
+			guid="2f460e13-e75c-43b7-8317-4bfb99eeb756" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:26+04:00"
+			guid="77b2b83a-f609-4ca5-afb9-1283c83ea46b" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:26+04:00"
+			guid="820af99b-85ba-48c7-b93d-7e5910f9ae77" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:26+04:00"
+			guid="c401f0b3-0ba6-44a3-a199-652647f13a41" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:26+04:00"
+			guid="327e3c98-bb72-4091-ac6a-68b7c389a04f" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:27+04:00"
+			guid="c1364812-d78a-4470-8a95-616b54e88e61" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:11:29+04:00"
+			guid="cab1de8b-4908-4998-8202-1434b3bbef8f" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b6435b05-6695-4468-b486-b34b8f39b2f5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses"
+		guid="c207e508-6498-4e3a-a206-acbb7a08a464">
+		<message
+			author="merger"
+			status="open"
+			guid="5061a589-38f4-42a4-9b14-985d38137a7c"
+			date="2023-03-31T17:04:33Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 4 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="5061a589-38f4-42a4-9b14-985d38137a7c"
+	date="2023-03-31T17:04:33Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;bNW7GYyms1UdBsjM+Cy0lFUZCQs=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;embUd/ZafoEx6N/cyzDGWGA/p8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;C8cCY9su6X9rK3340pux8EY41xI=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;embUd/ZafoEx6N/cyzDGWGA/p8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b6435b05-6695-4468-b486-b34b8f39b2f5&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 4 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="b038d7e14191"
+		betaUserRevision="f8eda43ecda7"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:51+04:00"
+			guid="66aeccb9-987a-49bf-ab5c-3d0a5ab21c0f" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:51+04:00"
+			guid="0f3ca5ba-68ab-40cf-94f9-57ef166292db" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:52+04:00"
+			guid="abbb17db-02d2-42d0-a8e1-ee250da00061" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:52+04:00"
+			guid="4868496b-eea8-40cd-ac2d-cf386bba3808" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:52+04:00"
+			guid="ad9a1111-7d5d-4fe0-9733-90b5b50cf469" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:52+04:00"
+			guid="478f3fa3-1dd9-41d2-8f20-c17d7fae28ec" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:53+04:00"
+			guid="1a8bea10-96cd-43b9-b168-95afb9610c95" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:53+04:00"
+			guid="207e5acc-3085-4fa2-800f-fe93041248cd" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:53+04:00"
+			guid="d1c95c03-a240-41bd-8b97-ce737c39b6ed" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:57+04:00"
+			guid="20fd4fac-d529-4431-9528-fcd5c1ff1a73" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:10:57+04:00"
+			guid="bc0a8e57-975a-4161-9411-6e14c1d5974e" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:58+04:00"
+			guid="ff7cdf3a-6e74-4552-8024-e8411d9694e7" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:10:58+04:00"
+			guid="b47e5b75-52f8-4902-babf-77eb5e417557" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:58+04:00"
+			guid="22018eb0-2f1c-4938-b053-28b30bdc66e3" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:10:58+04:00"
+			guid="22d9e2d4-eb47-41b8-8691-d00f9327dbce" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:59+04:00"
+			guid="88a2d6ba-ab2c-4d01-a974-488db96bba0a" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:10:59+04:00"
+			guid="bda1ebdc-dc59-440e-b6df-14725db36890" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:59+04:00"
+			guid="63207614-db3d-43c6-aab0-02b9fe5646ae" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:10:59+04:00"
+			guid="15bef71d-0716-42ad-9528-e6348a1d90ab" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:11:00+04:00"
+			guid="8ff1fc1c-d12b-49cd-a0db-861eb2389940" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7e0003a8-6c7a-4962-9a7a-96268f410f6e&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 48 Segments 2 Analyses"
+		guid="53fb6154-7afa-4558-847e-b35fae528ae4">
+		<message
+			author="merger"
+			status="open"
+			guid="0fac649b-0bc8-43b2-83ce-ccb4787f2508"
+			date="2023-03-31T17:04:34Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 48 Segments 2 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="0fac649b-0bc8-43b2-83ce-ccb4787f2508"
+	date="2023-03-31T17:04:34Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 48 Segments 2 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;4+iWxGL6xhGpromQnLn//S/r0aw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Q6SIfXwJroHekiWz1kLUjAFQFpQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;4+iWxGL6xhGpromQnLn//S/r0aw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;qqiTnt6YOlrqKeVdDdvlBwUc72k=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=7e0003a8-6c7a-4962-9a7a-96268f410f6e&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 48 Segments 2 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 48 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="b038d7e14191"
+		betaUserRevision="f8eda43ecda7"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:49+04:00"
+			guid="dcd8fe94-1b2e-4cb9-a93a-7ddced67542e" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:49+04:00"
+			guid="52df57d0-8e90-433b-ac4b-f75a9ef036ae" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:50+04:00"
+			guid="cbe0402f-30fa-4e9d-b915-6598be11a196" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:50+04:00"
+			guid="1c7472d3-6fb5-4a0c-a2d9-a6d2258707b6" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:50+04:00"
+			guid="79dfc59b-54de-49f5-896d-921bdafa04c8" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:50+04:00"
+			guid="10bd40a5-c716-4db4-b6c3-e2357581a27c" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:51+04:00"
+			guid="31236b3b-0e24-44cc-af8a-ed27fc93a409" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:51+04:00"
+			guid="7f502ac8-f2df-4e97-86fc-f252d346829d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:51+04:00"
+			guid="087877c9-6580-47f9-a1c4-c5af950d5ae0" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:56+04:00"
+			guid="7843e6cb-a3ef-40b8-9f6e-2f965523b204" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:10:56+04:00"
+			guid="90fedf3a-a530-4347-86b2-d1472da4f757" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:10:57+04:00"
+			guid="c5a192ef-98e8-4a1e-9d34-61b063256194" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=14d4d86c-b5c6-4737-b849-47c7eece3b12&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses"
+		guid="a32d86ca-de42-4b9f-a0da-dde4b1edfe56">
+		<message
+			author="merger"
+			status="open"
+			guid="25615260-946b-49ed-8f23-9e70efd58c87"
+			date="2023-04-08T09:02:22Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 18 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="25615260-946b-49ed-8f23-9e70efd58c87"
+	date="2023-04-08T09:02:22Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;holFKFUQRPJUv9ypHoeqaSs13ds=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;HhMigyM2KqLZuVm2feT8o7DK/p4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;holFKFUQRPJUv9ypHoeqaSs13ds=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;RyTs9wsMT+Mu/RJV6ixlrD6FTjM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=14d4d86c-b5c6-4737-b849-47c7eece3b12&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="b93f4608bad4"
+		betaUserRevision="cc61e31e443c"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:17+04:00"
+			guid="4812bca5-68c0-4988-ad88-9e80853b238a"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:17+04:00"
+			guid="220864a0-f934-464f-a370-228d5971d358"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:17+04:00"
+			guid="ac76c2eb-9ce9-4eb8-8e87-86a07f968b38"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:18+04:00"
+			guid="dc161802-8efc-44af-8c6a-7f0622992045"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:18+04:00"
+			guid="2f598c0c-2c05-4375-9bf3-63b99c9dbc80"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:18+04:00"
+			guid="f8f97cd7-4e78-445b-9e81-af709ffadb60"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:18+04:00"
+			guid="2406e627-9643-4767-8b90-e3b9842f5caa"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:18+04:00"
+			guid="24067e95-099a-4dd1-983b-42a49e25ce26"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:19+04:00"
+			guid="1cd3145d-eff7-4bef-8232-7b63aa8edb88"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:19+04:00"
+			guid="bb84f961-129c-41c4-bd92-e4e0414eeb6e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:19+04:00"
+			guid="4e1db070-bfb4-4698-b89e-4972d39bb942"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:19+04:00"
+			guid="fafa46ff-7a62-449a-a455-a729bcce214e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:20+04:00"
+			guid="5977e1c3-032d-475f-b7e8-3f7c8178a27e"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:21+04:00"
+			guid="bcb9a9aa-87a3-4517-854c-b8a660acfee7"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:21+04:00"
+			guid="216ebf9a-a9f8-497a-a8c1-d5cd49f1f79e"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:21+04:00"
+			guid="e093de9e-fef2-49fd-8372-ee1e0a4808c7"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:21+04:00"
+			guid="a964a802-0b91-47b0-8383-67ce0cc1b9cf"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-08T16:14:21+04:00"
+			guid="cf1d7e44-9536-4b08-a8ad-4082f4f30091"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-08T16:14:22+04:00"
+			guid="97060749-6652-459c-afe7-8f0af1bb62ce"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=14d4d86c-b5c6-4737-b849-47c7eece3b12&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses"
+		guid="4b5ebdfc-f72a-41e3-bf2a-b2e67e7633bf">
+		<message
+			author="merger"
+			status="open"
+			guid="b08f2c7f-bc9f-43f8-92b0-70d97d90dbaa"
+			date="2023-04-21T17:02:03Z">Text "text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 18 Segments 1 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b08f2c7f-bc9f-43f8-92b0-70d97d90dbaa"
+	date="2023-04-21T17:02:03Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;scw4g5Tx+hJlMQcYLfFd8lnT4Xk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;mzsshRmRTnnTOLnUFOm6rQT8kps=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;scw4g5Tx+hJlMQcYLfFd8lnT4Xk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;AfU7Emxm0j792wM9tzu+vbAF648=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=14d4d86c-b5c6-4737-b849-47c7eece3b12&amp;tag=&amp;label=Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 18 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="c7c0494e838a"
+		betaUserRevision="f8e0bc443d08"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-21T21:33:27+04:00"
+			guid="4810dd1e-e9a8-40ec-a090-7a177f561fac"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-21T21:33:27+04:00"
+			guid="cbf6564b-196c-45f4-b750-1ef39b4acb97"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-21T21:33:27+04:00"
+			guid="4135469d-b367-4c1d-b5c3-5ea485c70733"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-04-21T21:33:28+04:00"
+			guid="ba8e7e17-f1d1-4ac8-935d-fa2f293483d8"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-21T21:33:28+04:00"
+			guid="fe07b47a-87b5-4536-b767-092c666906b2"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses"
+		guid="bbbf9c08-198d-41f5-9697-f09d211e496f">
+		<message
+			author="merger"
+			status="open"
+			guid="309f8d6c-d04a-4e03-94ae-18aba9c9b4fd"
+			date="2023-05-09T08:15:25Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 11 Segments 1 Analyses: User and Lenovo edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="309f8d6c-d04a-4e03-94ae-18aba9c9b4fd"
+	date="2023-05-09T08:15:25Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses: User and Lenovo edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;f2OSbDDiBFWpvsRtGXVm97LxFGE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;4BClUAYp1g/3OiUKAdvLLPhgTcA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;Lenovo's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;f2OSbDDiBFWpvsRtGXVm97LxFGE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;s1HlO5qmI+XDs4G0wTe/mnAWFE4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="Lenovo"
+		alphaUserRevision="582fed65c34e"
+		betaUserRevision="af1a94e35dc4"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:10+04:00"
+			guid="3c540cfc-693a-49e0-b916-ed5fa8a6365f"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:10+04:00"
+			guid="9b7ded3d-716a-45f0-bfd7-707fcfe5d1bf"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:10+04:00"
+			guid="853329e9-c408-45f2-b639-83c0ba4a01ed"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:10+04:00"
+			guid="73e21afe-a914-4bc3-9995-b552f0ddd15c"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:10+04:00"
+			guid="c88984cd-2c26-4ef5-a09d-53d833b9f193"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:10+04:00"
+			guid="33327ed0-6762-4892-b287-79d28fb70a9c"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:11+04:00"
+			guid="8392025a-0c95-4f87-8fd0-6505caf13ed6"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:11+04:00"
+			guid="097a6f09-0372-430c-9dbf-ae92be2c76d7"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:11+04:00"
+			guid="2301a60b-e323-4aab-9faa-906cec84b9af"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:11+04:00"
+			guid="7578f071-f00e-4721-825c-b5220e0166b6"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:11+04:00"
+			guid="e4765a78-e134-4985-a613-f4a1104dda6b"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:11+04:00"
+			guid="f075dbcb-cac4-4392-bb22-d6a72ca11111"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:12+04:00"
+			guid="9d1b5c70-f1fd-4151-b721-54bbd65132c8"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:12+04:00"
+			guid="e628c855-26ee-4d04-9afc-165c2285b921"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:12+04:00"
+			guid="30979adc-9820-4aa0-91d1-2dd2cc57ba1d"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:12+04:00"
+			guid="dc7e38f1-0669-4334-980d-c28f1274aee4"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:12+04:00"
+			guid="5aa82511-2b6f-44f7-907f-d134921f4df7"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=f0876d2f-78e6-4e2c-8a13-f7864b3e3a2f&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 2 Analyses"
+		guid="01ea71fd-c55e-4b19-ad59-ae5fdd62b60b">
+		<message
+			author="merger"
+			status="open"
+			guid="08bef25c-5a8e-4eb4-8715-4b69861b0901"
+			date="2023-05-09T08:15:25Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 16 Segments 2 Analyses: User and Lenovo edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="08bef25c-5a8e-4eb4-8715-4b69861b0901"
+	date="2023-05-09T08:15:25Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 2 Analyses: User and Lenovo edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ZwPQv05SOMvytu6d3X371WHrHvM=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;vCTCtN3VrECrDLF208yalK7yqZA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;Lenovo's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ZwPQv05SOMvytu6d3X371WHrHvM=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;0csZg+K+N+iuSA5Yn2hjGoKdsgo=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=f0876d2f-78e6-4e2c-8a13-f7864b3e3a2f&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="Lenovo"
+		alphaUserRevision="582fed65c34e"
+		betaUserRevision="af1a94e35dc4"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:13+04:00"
+			guid="f4ba44f3-3230-40cf-92d9-ebd8356f4a09"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:13+04:00"
+			guid="7daa485c-cfa4-4bcd-bafd-dfca7efbc1dc"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:13+04:00"
+			guid="f3c309e1-0664-42bd-b95b-e5bfb0a92ca4"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:13+04:00"
+			guid="09e7d455-f1a2-4c1f-92a1-eeb4b045ef9d"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:13+04:00"
+			guid="e7f2d1f7-e0b9-49dc-8ce0-44b99617f507"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:13+04:00"
+			guid="54d740f0-9980-4c6b-a610-719b77a444ed"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:14+04:00"
+			guid="9a513e99-dff4-4e71-8af7-79d5a8f6c135"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:14+04:00"
+			guid="1bf23b69-4ce9-4803-91d0-330611c42420"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:14+04:00"
+			guid="2779712e-7230-4aee-83c9-3bf74529022f"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:14+04:00"
+			guid="783e49d8-35f0-4359-b1e2-3e8f4c71784b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:14+04:00"
+			guid="5cdc5b86-43fe-464c-b8ee-7ad34916c91f"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:15+04:00"
+			guid="a6b04c45-167c-43f6-b219-9491b7cb8f3e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:15+04:00"
+			guid="3c26f7ed-30e1-48d5-b486-ae6cfb8014bd"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-09T22:08:15+04:00"
+			guid="24d2b331-1d79-49c8-9087-ccfa1e70702a"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-09T22:08:15+04:00"
+			guid="6add48c3-394c-451e-8223-20003122fef2"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 11 Segments 1 Analyses"
+		guid="58877891-80ff-4cc0-b7c1-7335d086a21c">
+		<message
+			author="merger"
+			status="open"
+			guid="b22c371d-b825-42f6-9015-bd6a5648aebc"
+			date="2023-05-11T02:52:16Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 11 Segments 1 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b22c371d-b825-42f6-9015-bd6a5648aebc"
+	date="2023-05-11T02:52:16Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 11 Segments 1 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;f2OSbDDiBFWpvsRtGXVm97LxFGE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;5dhMAm15eVYcMeke0y0chQBuZJ4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;f2OSbDDiBFWpvsRtGXVm97LxFGE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;L4nMU8/ECElM6mdO8kWAGl3n16I=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 11 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 11 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="ce9ee28a9224"
+		betaUserRevision="013dc4c6a6bb"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-11T08:09:24+04:00"
+			guid="be1dd1fc-2c7b-4976-9bcd-af53b99a3a6b"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=04ee961a-ccf8-475d-a571-2dae6d24431b&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 57 Segments 2 Analyses"
+		guid="fe1a8973-81d4-428a-b360-b8cfeae9568c">
+		<message
+			author="merger"
+			status="open"
+			guid="f45903b4-e7e6-4273-b268-0f5cc5b1092c"
+			date="2023-05-11T02:52:16Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები" Contents Paragraphs 57 Segments 2 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f45903b4-e7e6-4273-b268-0f5cc5b1092c"
+	date="2023-05-11T02:52:16Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 57 Segments 2 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;UEf+MgR5uYUD1LRYnkdWw2x/R8w=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;vey2RkPuKLdwgRd7YWgI6jqI/v8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;UEf+MgR5uYUD1LRYnkdWw2x/R8w=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WqCRA3jm2gOzzbvPqv8RkQ0rX9s=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=04ee961a-ccf8-475d-a571-2dae6d24431b&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 57 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები&quot; Contents Paragraphs 57 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="ce9ee28a9224"
+		betaUserRevision="013dc4c6a6bb"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-11T08:09:25+04:00"
+			guid="c25276b2-96fc-4df0-ae78-597b9048af45"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses"
+		guid="6659349d-7f7a-440d-9235-650ad0c8bcdd">
+		<message
+			author="merger"
+			status="open"
+			guid="7064cf71-66a4-4e30-baf4-510dc9273ed9"
+			date="2023-05-12T19:48:31Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 11 Segments 1 Analyses: Lenovo and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="7064cf71-66a4-4e30-baf4-510dc9273ed9"
+	date="2023-05-12T19:48:31Z"
+	whoWon="Lenovo"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses: Lenovo and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Lenovo's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;U8uFkd7MbQAAUE5+riC9ElljH5c=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;bbk+sddx/IZbZRoJipzGi6mD3dI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;U8uFkd7MbQAAUE5+riC9ElljH5c=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;54S2Vjgvx4JkAMvHZatRZBXGN/Y=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Lenovo.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Lenovo"
+		betaUserId="User"
+		alphaUserRevision="2ccf7007e9ca"
+		betaUserRevision="994ecbf6bf66"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-14T00:34:18+04:00"
+			guid="3c495963-7cdc-402f-9345-89cd927e75ca"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=04ee961a-ccf8-475d-a571-2dae6d24431b&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 57 Segments 2 Analyses"
+		guid="ecb58984-69bf-487e-9797-4bffa7ba10cd">
+		<message
+			author="merger"
+			status="open"
+			guid="f88d6362-bd6c-4163-b999-1ee419155b8c"
+			date="2023-05-12T19:48:32Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 57 Segments 2 Analyses: Lenovo and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f88d6362-bd6c-4163-b999-1ee419155b8c"
+	date="2023-05-12T19:48:32Z"
+	whoWon="Lenovo"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 57 Segments 2 Analyses: Lenovo and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Lenovo's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;DeFPa4rWQkLVaJN/AtPN8cO/FGA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Y16StzPpbouve7fFCyvaOi5+Krs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;DeFPa4rWQkLVaJN/AtPN8cO/FGA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;XiP5U7PpifE77Pr2j/v9Fxmk4xQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Lenovo.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=04ee961a-ccf8-475d-a571-2dae6d24431b&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 57 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 57 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="Lenovo"
+		betaUserId="User"
+		alphaUserRevision="2ccf7007e9ca"
+		betaUserRevision="994ecbf6bf66"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-14T00:34:15+04:00"
+			guid="ad3c758d-6d37-40b0-a291-9d88b5b1cb0e"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=c796bb17-f3ce-4c46-aab2-cfcb017679ef&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 9 Segments 1 Analyses"
+		guid="7e5b0e19-1700-4e9c-aff0-d5b8bff8ac80">
+		<message
+			author="merger"
+			status="open"
+			guid="ea862980-5070-499c-920a-ca134fe7d2f2"
+			date="2023-07-11T08:08:09Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 9 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="ea862980-5070-499c-920a-ca134fe7d2f2"
+	date="2023-07-11T08:08:09Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 9 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;C0HYFenSve+NpdWIX//LyL6/+PU=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;9y4qn5rW/vTwLvOpy9P9rgiVTTo=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;C0HYFenSve+NpdWIX//LyL6/+PU=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;IBgc/F9jwNvsaOPM8+sDv2M8iJA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=c796bb17-f3ce-4c46-aab2-cfcb017679ef&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 9 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 9 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5a73ca48114a"
+		betaUserRevision="a8a042db17f6"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:50+04:00"
+			guid="ca4baf40-057b-489f-aabb-967f610e42cb"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:50+04:00"
+			guid="b6a5b437-cec4-411b-ac49-d0e90ea091be"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:50+04:00"
+			guid="67668185-c420-491f-8f27-24347c8ed5c7"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:50+04:00"
+			guid="5cc31fb9-e0d2-4396-b1a0-cd8063e38b1b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:51+04:00"
+			guid="3afd3ecb-55d6-43d2-912b-9d50a5ff7052"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses"
+		guid="db1948dc-a96c-4d09-a193-0c5c428b766c">
+		<message
+			author="merger"
+			status="open"
+			guid="4e20c563-853a-4641-b5a2-78b8feeb42d2"
+			date="2023-07-11T08:08:09Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 11 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="4e20c563-853a-4641-b5a2-78b8feeb42d2"
+	date="2023-07-11T08:08:09Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;L6D94ZWNJf9Etc62l940GSU5lOg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;9jho8fT8UoytDhw6F/lrB4dzdYU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;L6D94ZWNJf9Etc62l940GSU5lOg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;l8ogrgHU+9kPK3bIKJdd+uyYC5M=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e87d614f-3dac-4cde-9394-8f3fd9b6bcb4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 11 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5a73ca48114a"
+		betaUserRevision="a8a042db17f6"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:51+04:00"
+			guid="6e916ea6-0e26-40e9-a14b-6a886df97be0"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:51+04:00"
+			guid="842a5d83-2ea3-4661-90ac-479e0887a790"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:51+04:00"
+			guid="29f13b95-1ea8-4e67-b0f1-bf7822af04e5"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:51+04:00"
+			guid="bc94be95-113e-418f-9076-524ae292d5cb"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:52+04:00"
+			guid="d6d18e62-4a66-4a1b-b453-af266f32b00b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:52+04:00"
+			guid="5445d118-2dab-4484-9a0e-42fe97352216"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:52+04:00"
+			guid="57d706e0-157b-47fa-a0d2-57954e690c4c"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9f86e20e-1194-48aa-89a3-c1b208b1e1bf&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 1 Analyses"
+		guid="941bff6f-9de5-4011-a1b6-2602a7dd123a">
+		<message
+			author="merger"
+			status="open"
+			guid="604f68e9-3942-4e32-89de-2c6eb8f5324d"
+			date="2023-07-11T08:08:09Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 16 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="604f68e9-3942-4e32-89de-2c6eb8f5324d"
+	date="2023-07-11T08:08:09Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7h8RPNnVprWPmDVvvAaW6nw4SWc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;AslfYThAplrpdSeuTKMRqL9eSo=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7h8RPNnVprWPmDVvvAaW6nw4SWc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;CVql0Q/XmtDLp7Xqc8fWXf7IHeQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9f86e20e-1194-48aa-89a3-c1b208b1e1bf&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 16 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5a73ca48114a"
+		betaUserRevision="a8a042db17f6"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:53+04:00"
+			guid="13a14a98-107f-4df7-8dd9-792710d2be00"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:53+04:00"
+			guid="0adb7059-afb5-44da-af83-b2a89d8b4499"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:53+04:00"
+			guid="b1ca0bae-e1b3-45a1-9a66-be0da437d797"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=eea6b7da-d46d-43da-8d6e-6e5074cd8ab4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 22 Segments 2 Analyses"
+		guid="98b37ae4-b2d7-4449-a413-cb696d3e5b7f">
+		<message
+			author="merger"
+			status="open"
+			guid="9ad5228b-0b60-4dce-aeaf-089e05218934"
+			date="2023-07-11T08:08:09Z">Text "Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Contents Paragraphs 22 Segments 2 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="9ad5228b-0b60-4dce-aeaf-089e05218934"
+	date="2023-07-11T08:08:09Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 22 Segments 2 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;OyHeGogPF8EvTx7hR0gxqyoxXRo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;6GZhMgxmtuNOtywdJIitZmTbzkg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;OyHeGogPF8EvTx7hR0gxqyoxXRo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;0W7PcKagogKVpv2ViAU0rjw8yNc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=eea6b7da-d46d-43da-8d6e-6e5074cd8ab4&amp;tag=&amp;label=Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 22 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Gloss_text 2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Contents Paragraphs 22 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5a73ca48114a"
+		betaUserRevision="a8a042db17f6"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:54+04:00"
+			guid="435b4ea5-ac70-4550-826f-13662b41d175"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:54+04:00"
+			guid="3dc1a63c-f71a-4ed1-a2b7-db14df1b05d4"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:54+04:00"
+			guid="3d265255-5ace-4652-8b2d-56ad2e79eb56"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:54+04:00"
+			guid="b4d8c64d-f2f2-416e-9989-4668931aa61f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:55+04:00"
+			guid="e4c80a3f-ba98-4a1d-8702-cad713163f69"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:55+04:00"
+			guid="a8461ddd-a8d4-488f-b696-d65097e1674e"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:55+04:00"
+			guid="a33cffd7-19c4-455e-95c6-3a4d5bdea1f9"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:53:55+04:00"
+			guid="89898a27-9822-4339-ba45-7240293c99b8"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:53:55+04:00"
+			guid="9ff7baeb-499b-4222-919a-0a04bbaca175"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5cf0639c-ae15-4bd7-9ce1-4b466d370915&amp;tag=&amp;label=Text &quot;Gloss_Text_2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Name"
+		guid="97984914-e9da-4aab-9302-f0cc5267f629">
+		<message
+			author="merger"
+			status="open"
+			guid="4aeb137c-6ecc-42ba-bb67-05343e5dce0f"
+			date="2023-09-24T19:55:34Z">Text "Gloss_Text_2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ" Name: IrinaLobzhanidze and User edited this element.<![CDATA[<conflict
+	typeGuid="c1ed6dbe-e382-11de-8a39-0800200c9a66"
+	class="Chorus.merge.xml.generic.XmlTextBothEditedTextConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+	type="Both Edited Xml Text Element Conflict"
+	guid="4aeb137c-6ecc-42ba-bb67-05343e5dce0f"
+	date="2023-09-24T19:55:34Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text_2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Name: IrinaLobzhanidze and User edited this element.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Gloss_text&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Gloss_Text_2&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2&lt;/span&gt; - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;en&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;SM_Interview&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Narratives&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Stories&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Traditions&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;and&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Their&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Preservation&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Today&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Gloss_text&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;თამუნა&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;სხულუხია&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;.&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;კოლხური&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;მითოლოგიიდან&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;.&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;.&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ზოგიერთი&lt;/span&gt;  &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;მეგრული&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ტრადიციის&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;შესახებ&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;.&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;.&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;სათავგადასავლო&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;SM&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;_&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ინტერვიუ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; ამბები&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ჲაფ&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ისტორიები&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ტრადიციები&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;და&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;მათი&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დაცვა&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;დღეს&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background: Yellow&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5cf0639c-ae15-4bd7-9ce1-4b466d370915&amp;tag=&amp;label=Text &quot;Gloss_Text_2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Name"
+	contextDataLabel="Text &quot;Gloss_Text_2 - თამუნა სხულუხია - 1. კოლხური მითოლოგიიდან. 2. ზოგიერთი  მეგრული ტრადიციის შესახებ. 3. სათავგადასავლო ამბები ჲაფ&quot; Name">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e1401cc55a1"
+		betaUserRevision="6b8cfc26d066"
+		path="Linguistics\TextCorpus\Text_5cf0639c-ae15-4bd7-9ce1-4b466d370915.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:02+04:00"
+			guid="1042f437-ec9e-4501-93b3-74d60423a476"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:17:02+04:00"
+			guid="0b49c92c-653c-4762-bc78-0a6c3f6ac452"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:02+04:00"
+			guid="105a5789-0c3e-4149-b2df-6aaf3a6ffaca"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:17:02+04:00"
+			guid="7f64cdfe-e6ce-462f-aad6-b48bb6e71173"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:03+04:00"
+			guid="a384c913-e1ca-4f27-b1f9-a388e401864c"></message>
+	</annotation>
+</notes>

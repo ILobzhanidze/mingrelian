@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ee931d22-d818-476a-9dfb-91fcd671f7f2&amp;tag=&amp;label=Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 5 Segments 9 Analyses"
+		guid="22c29baf-9c70-4a93-84f6-9b2a1dd3d58c">
+		<message
+			author="merger"
+			status="open"
+			guid="ca379f32-23d7-48b1-802d-826356dcfce3"
+			date="2023-03-01T18:33:12Z">Text "text 24-თამუნა-ტუტამ სიმინდი" Contents Paragraphs 5 Segments 9 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_32c92b35-7f1f-4557-b349-c842151960cd.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="ca379f32-23d7-48b1-802d-826356dcfce3"
+	date="2023-03-01T18:33:12Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 5 Segments 9 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;fyJcsWhzTTlV0X9uO43vvnoeeTg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;mtqd1dR4Iod9jNzofzIY/ijbkO4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;fyJcsWhzTTlV0X9uO43vvnoeeTg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;NSl2M1/lyPKmKY5jUubKhvKtckw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ee931d22-d818-476a-9dfb-91fcd671f7f2&amp;tag=&amp;label=Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 5 Segments 9 Analyses"
+	contextDataLabel="Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 5 Segments 9 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="68db546b55af"
+		betaUserRevision="af701f6f1d59"
+		path="Linguistics\TextCorpus\Text_32c92b35-7f1f-4557-b349-c842151960cd.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:12+04:00"
+			guid="f60b1d15-3bf0-4f9a-8bbb-4efceacc9013" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:12+04:00"
+			guid="0751d5f0-11f0-4a91-975c-28f3b23938d1" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:12+04:00"
+			guid="aaac40f7-1481-4f48-b407-22a6ba321ffd" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:13+04:00"
+			guid="535bba7d-4e86-4fd6-b4bf-2e0d9d363afd" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:13+04:00"
+			guid="c9582e17-b0ab-4ba7-a7fc-b0fda3342ae3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:13+04:00"
+			guid="20ba809d-67ac-41f3-a3f7-400c81d23f5f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:13+04:00"
+			guid="5c6feba5-14f9-4a51-b214-ab6c4dad606e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:13+04:00"
+			guid="4f3e5c29-4cfb-4667-8df9-f98e5a093d16" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:14+04:00"
+			guid="a683d134-839f-47bc-88ee-6cfffa924a07" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:14+04:00"
+			guid="24e3d108-d3e3-4a42-a72b-954b26f8d08f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:14+04:00"
+			guid="f16b5d2b-f884-402f-97d8-5df12a36da3c" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:14+04:00"
+			guid="82fe6fcb-429f-4c52-af2e-58370f0e9d18" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:15+04:00"
+			guid="4eb63a91-3763-421f-8741-2931bb813a4a" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:14+04:00"
+			guid="faf928eb-4547-4ac1-bc48-6596a521310e" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=c7f05d93-36d9-4c04-a24b-d2c48ae3313f&amp;tag=&amp;label=Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 4 Segments 9 Analyses"
+		guid="7fe19a49-1d75-445b-9286-68509204cff3">
+		<message
+			author="merger"
+			status="open"
+			guid="368b7a0d-d80d-4b62-9855-4c18384f3300"
+			date="2023-03-12T14:12:47Z">Text "text 24-თამუნა-ტუტამ სიმინდი" Contents Paragraphs 4 Segments 9 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_32c92b35-7f1f-4557-b349-c842151960cd.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="368b7a0d-d80d-4b62-9855-4c18384f3300"
+	date="2023-03-12T14:12:47Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 4 Segments 9 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;h2yaEweKaNHidjHlVKOvSA0Wjkg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;6QH91skGLDAVyKwtCQF8FXC1DOc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;h2yaEweKaNHidjHlVKOvSA0Wjkg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;OHHUA+bLCEUwxCw92QnX/VG8Mjc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=c7f05d93-36d9-4c04-a24b-d2c48ae3313f&amp;tag=&amp;label=Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 4 Segments 9 Analyses"
+	contextDataLabel="Text &quot;text 24-თამუნა-ტუტამ სიმინდი&quot; Contents Paragraphs 4 Segments 9 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_32c92b35-7f1f-4557-b349-c842151960cd.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:16:07+04:00"
+			guid="1f26a640-4a6c-4560-bace-ef46ff3b4df0" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:08+04:00"
+			guid="14b8a017-3845-4158-8d7f-7d8e669811e3" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:09+04:00"
+			guid="5877bd71-414e-4a78-a6f4-ff4858e65126" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:09+04:00"
+			guid="14b0376e-1efc-49f9-98e7-c88fea76b9a2" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:09+04:00"
+			guid="82a19b4b-ba51-4ee3-831d-43264825d8be" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:09+04:00"
+			guid="4e1237c3-4766-4d7a-8c39-297b77c9433e" />
+	</annotation>
+</notes>

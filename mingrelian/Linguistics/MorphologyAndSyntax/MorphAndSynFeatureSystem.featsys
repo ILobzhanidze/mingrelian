@@ -1,0 +1,1697 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FeatureSystem>
+	<FsFeatureSystem
+		guid="d6d5a99e-ea5e-11de-994c-0013722f8dec">
+		<Features>
+			<FsClosedFeature
+				guid="05fa63ce-90bc-43e1-8a15-c2013cc40c60">
+				<Abbreviation>
+					<AUni
+						ws="en">transitivity</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fTransitivity</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Transitivity is the number of objects a verb requires or takes in a given instance.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">transitivity</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="0be9c961-b8c0-4b8b-9088-41f5434fafef">
+						<Abbreviation>
+							<AUni
+								ws="en">intr</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vInTrans</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Intransitivity is a term that describes a verb or clause that is unable to take a direct object.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">intransitivity</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="ad58de88-ee4a-4bcd-a8fe-c63aa0f808fc">
+						<Abbreviation>
+							<AUni
+								ws="en">tr</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vTrans</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A transitive verb is a verb that takes a direct object.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">transitive verb</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="075ffcaf-2800-4dca-9503-0e7e5a829b21">
+				<Abbreviation>
+					<AUni
+						ws="en">erg</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cErgAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in ergative agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">ergative agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="cc552306-39b5-41f3-abfd-b863a689d2fe"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsClosedFeature
+				guid="08e7a26a-ccb6-4e8b-a657-4887cce73623">
+				<Abbreviation>
+					<AUni
+						ws="en">voice</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fVoice</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Voice is a grammatical category that expresses the semantic functions attributed to the referents of a clause. It indicates whether the subject is an (1) actor, (2) patient, or (3) recipient.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">voice</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="06f0e8f5-6fbf-4050-af34-d89e300a448d">
+						<Abbreviation>
+							<AUni
+								ws="en">medact</AUni>
+						</Abbreviation>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Medioactive voice is a grammatical voice that subsumes the meanings of both the middle voice and the active voice.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">medioactive voice</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="a09ca858-5e17-464f-bf6e-ee7e34d50569">
+						<Abbreviation>
+							<AUni
+								ws="en">act</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vAct</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Active voice is a voice that indicates a subject has the semantic function of actor.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">active voice</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="a505d8ef-9ab5-4425-907e-b1810c4a8b3f">
+						<Abbreviation>
+							<AUni
+								ws="en">medpass</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vMedPass</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Mediopassive voice is a passive voice in which (1) the verb has stative meaning, and (2) the actor is not expressed.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">mediopassive voice</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="fe871e64-3ef5-466c-954f-f52d3046eea1">
+						<Abbreviation>
+							<AUni
+								ws="en">pass</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vPass</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Passive voice is a voice that indicates that the subject is the patient or recipient of the action denoted by the verb.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">passive voice</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="1861cbf3-f02b-41cb-b9f5-7d5acc57323b">
+				<Abbreviation>
+					<AUni
+						ws="en">obj</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cObjAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in object agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">object agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="4901227e-2ff3-4593-a3e9-dad496f20edc"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsComplexFeature
+				guid="2ed4a704-06ac-410d-a044-b90242578686">
+				<Abbreviation>
+					<AUni
+						ws="en">abs</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cAbsAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in absolutive agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">absolutive agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="f8872d2c-6643-4786-9e71-96fe65893ec5"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsClosedFeature
+				guid="355e91ca-a06b-4a1d-8c6a-d3f3a20c1fd8">
+				<Abbreviation>
+					<AUni
+						ws="en">case</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fCase</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Case is a grammatical category determined by the syntactic or semantic function of a noun or pronoun.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">case</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="0659ff71-b681-4ed3-8c42-0be6921a1d76">
+						<Abbreviation>
+							<AUni
+								ws="en">erg</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vErg</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Ergative case is the case of nouns in ergative-absolutive languages that would generally be the subjects of transitive verbs in the translation equivalents of nominative-accusative languages such as English.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">ergative case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="512d7a86-0dab-4575-922b-bfde64d419cb">
+						<Abbreviation>
+							<AUni
+								ws="en">nom</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vNom</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Nominative case is the case that identifies clause subjects in nominative-accusative languages. Nouns used in isolation have this case.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">nominative case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="67372b69-3646-4bd9-b9fe-59e7aebea493">
+						<Abbreviation>
+							<AUni
+								ws="en">voc</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vVoc</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Vocative case is a case that marks a noun whose referent is being addressed.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">vocative case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="704b6c36-8bc9-49ea-874d-6c21d2b236a9">
+						<Abbreviation>
+							<AUni
+								ws="en">ins</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vInst</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Instrumental case is a case indicating that the referent of the noun it marks is the means of the accomplishment of the action expressed by the clause.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">instrumental case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="7243604f-8808-4f83-b05b-da14cdc5a80e">
+						<Abbreviation>
+							<AUni
+								ws="en">dat</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vDat</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Dative case is a case that marks any of the following: (1) Indirect objects (for languages in which they are held to exist); (2) Nouns having the role of (a) recipient (as of things given), (b) beneficiary of an action, or (c) possessor of an item.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">dative case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="9c4338e3-79a7-4a9e-bd7a-2b20a8b5a04f">
+						<Abbreviation>
+							<AUni
+								ws="en">gen</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vGen</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Genitive case is a case in which the referent of the marked noun is the possessor of the referent of another noun.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">genitive case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="9d974164-6546-4571-9c3e-0b702f8f2531">
+						<Abbreviation>
+							<AUni
+								ws="en">abl</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vAbl</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Ablative case is a case that expresses a variety of meanings including instrument, cause, location, source, and time.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">ablative case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="a7bef323-0c0b-4378-b4fc-05c33a1a59fc">
+						<Abbreviation>
+							<AUni
+								ws="en">ben</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vBen</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Benefactive case is a case that expresses that the referent of the noun it marks receives the benefit of the situation expressed by the clause.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">benefactive case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="f31c381d-90c1-4515-9c3c-495313ba66d6">
+						<Abbreviation>
+							<AUni
+								ws="en">all</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vAll</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Allative case is a case that expresses motion to or toward the referent of the noun it marks.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">allative case</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsClosedFeature
+				guid="415f2efc-4cb2-4a3e-b689-e028516bbc02">
+				<Abbreviation>
+					<AUni
+						ws="en">mood</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fMood</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Mood is one of a set of distinctive forms that are used to signal modality. Modality is a facet of illocutionary force, signaled by grammatical devices (that is, moods), that expresses (1) the illocutionary point or general intent of a speaker, or (2) a speaker's degree of commitment to the expressed proposition's believability, obligatoriness, desirability, or reality.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">mood and modality</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="39dadf56-29ca-470a-a313-ae6b34d36a86">
+						<Abbreviation>
+							<AUni
+								ws="en">ind</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vIndic</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Indicative mood is used with statements and questions.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">indicative mood</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="416965ea-8510-4335-8041-c27959a120bb">
+						<Abbreviation>
+							<AUni
+								ws="en">evi</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vEvi</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Evidentiality is an epistemic modality that connotes the speaker's assessment of the evidence for his or her statement. An evidential is a form, such as a verbal affix, that is a grammatical expression of evidentiality.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">evidentiality modality</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="4e660aa6-2338-47c7-b9a0-30be374352fe">
+						<Abbreviation>
+							<AUni
+								ws="en">sbjv</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vSubjnct</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">mood is a mood that typically signals irrealis meanings, such as (1) potentiality, (2) uncertainty, (3) prediction, (4) obligation, and (5) desire. It most typically occurs in a subordinate clause, but may occur outside of one.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">subjunctive mood</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="a603d3cd-c3d8-4572-86e0-90e06a138062">
+						<Abbreviation>
+							<AUni
+								ws="en">cond</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vCond</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Conditional mood signals hypotheses or conditions.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">conditional mood</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="eff15741-a455-4419-b3f4-cf0d30c8b763">
+						<Abbreviation>
+							<AUni
+								ws="en">opt</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vOpt</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Optative mood is a volitive mood that signals wishing or hoping.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">optative mood</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="fc709372-1928-44f0-90eb-e8a551c68813">
+						<Abbreviation>
+							<AUni
+								ws="en">imp</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vImpv</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Imperative mood is mood that signals directive modality, especially in commands. Its use may be extended to signal permission.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">imperative mood</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="fcebedb9-d930-456a-adb5-591d5fd55624">
+						<Abbreviation>
+							<AUni
+								ws="en">proh</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vProhib</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Prohibitive mood is a directive mood that signals a prohibition. It is distinguished by (1) the use of a negated imperative sentence that employs a negative marker distinct from that used in declarative sentences, or (2) a verb form different from that of the imperative.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">prohibitive mood</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="49eaca04-afbf-46ba-b55c-5399c7e96088">
+				<Abbreviation>
+					<AUni
+						ws="en">sbj</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cSubjAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in subject agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">subject agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="2b491f35-aa10-49cb-afb2-facce7f5155f"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsClosedFeature
+				guid="55706aa1-2381-45a6-bba2-ea489bb4a636">
+				<Abbreviation>
+					<AUni
+						ws="en">pers</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fPers</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Person deixis is deictic reference to the participant role of a referent, such as the speaker, the addressee, and referents which are neither speaker nor addressee.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">person</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="87395a09-b451-4311-b6df-7e14656dfd11">
+						<Abbreviation>
+							<AUni
+								ws="en">1</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>v1</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">First person deixis is deictic reference that refers to the speaker, or both the speaker and referents grouped with the speaker.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">first person</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="ae25891f-076a-4376-87f3-0863a0fe0166">
+						<Abbreviation>
+							<AUni
+								ws="en">3</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>v3</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Third person deixis is deictic reference to a referent(s) not identified as the speaker or addressee.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">third person</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="ea52556d-38fc-4008-8bf7-cc365f80364f">
+						<Abbreviation>
+							<AUni
+								ws="en">2</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>v2</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Second person deixis is deictic reference to a person or persons identified as addressee.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">second person</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="58a4cedb-7ed8-4548-8dae-770294804ec9">
+				<Abbreviation>
+					<AUni
+						ws="en">adjagr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cAdjAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in adjective agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">adjective agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="3293182e-dbf8-460f-a1db-947a5a7bb03b"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsClosedFeature
+				guid="833d061d-c424-4520-ae5d-1507310be47f">
+				<Abbreviation>
+					<AUni
+						ws="en">absten</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>gTense</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Absolute tense is a tense that refers to a time in relation to the moment of utterance.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">absolute tense</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="0775e316-388d-40ed-b334-73694ce17d5a">
+						<Abbreviation>
+							<AUni
+								ws="en">prs</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vPres</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Present tense is an absolute tense that refers to the moment of utterance. It often refers to events or states that do not merely coincide with the moment of utterance, such as those that are (1) continuous, (2) habitual, or (3) lawlike.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">present tense</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="4cbef8b1-a46d-415d-a25e-10056f93b57f">
+						<Abbreviation>
+							<AUni
+								ws="en">fut</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vFut</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Future tense is an absolute tense that refers to a time after the moment of utterance.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">future tense</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="7d569cd5-f3fe-400d-bc70-9df5a35e151e">
+						<Abbreviation>
+							<AUni
+								ws="en">pst</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vPst</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Past tense is an absolute tense that refers to a time before the moment of utterance.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">past tense</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsClosedFeature
+				guid="9f2f515b-16d8-440f-a30d-53c31c486e84">
+				<Abbreviation>
+					<AUni
+						ws="en">lesscommoncasesgroup</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>gLessCommonCasesGroup</Uni>
+				</CatalogSourceId>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">less common cases</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="0933a90d-6032-4560-98c9-34ecc514ad0b">
+						<Abbreviation>
+							<AUni
+								ws="en">ess</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vEss</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Essive case is a case that expresses the temporary state of the referent specified by a noun. The case has the meaning of (1) while, and (2) in the capacity of.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">essive case</AUni>
+							<AUni
+								ws="ka-Brai">ვითარებითი</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="1bd30c0f-d5f1-4793-8f2f-dedcb5c96cb8">
+						<Abbreviation>
+							<AUni
+								ws="en">prp</AUni>
+						</Abbreviation>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Purposive case identifies a noun which characterizes or defines the purpose of, or reason for, another noun.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">purposive case</AUni>
+							<AUni
+								ws="ka-Brai">დანიშნულებითი</AUni>
+						</Name>
+						<ShowInGloss
+							val="False" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="a949ac25-b288-4e3a-90b1-62b4340cc91b">
+				<Abbreviation>
+					<AUni
+						ws="en">possagr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cPossessorAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in possessor agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">possessor agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="a0985e3e-8a82-4ed0-a9f0-65181d501302"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsClosedFeature
+				guid="b2646044-b47e-46d7-8dd3-d57c079e7b5f">
+				<Abbreviation>
+					<AUni
+						ws="en">deg</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fDeg</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A degree of comparison is a form of adjective that is used to compare a person or thing possessing the same quality with another</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">degree</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="05c3dd95-8ec3-4b13-bd18-734705b00cf7">
+						<Abbreviation>
+							<AUni
+								ws="en">dim</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vComp</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Diminutive degree of compariosn</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">diminutive</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="a2c5215b-86f7-4851-ac71-ab04c47137cf">
+						<Abbreviation>
+							<AUni
+								ws="en">pos</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vPositive</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Positivie degree of comparison</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">positive</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="a927ac6f-fda6-45a6-8eed-ff9f8306259d">
+						<Abbreviation>
+							<AUni
+								ws="en">equal</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vUnknownfDeg</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Degree of equality</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">equality</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="cc1dcb22-77fb-4709-8171-828646b697f0">
+						<Abbreviation>
+							<AUni
+								ws="en">supr</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vSup</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Superlative degree of comparison</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">superlative</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsClosedFeature
+				guid="b7923e72-034a-4170-a57c-585b78993173">
+				<Abbreviation>
+					<AUni
+						ws="en">asp</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fAspect</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Aspect is a grammatical category associated with verbs that expresses a temporal view of the event or state expressed by the verb.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">aspect</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="a0db2254-e1bd-487f-9137-f36a4880e30f">
+						<Abbreviation>
+							<AUni
+								ws="en">telic</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vTelic</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A term used in grammatical analysis of aspect, to refer to an event where the activity has a clear terminal point. These verbs contrast with atelic verbs.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">telic aspect</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="e74cf921-e506-45ee-8f66-a8d537e299a3">
+						<Abbreviation>
+							<AUni
+								ws="en">atelic</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vAtelic</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">A term used in the grammatical analysis of aspect, to refer to an event where the activity has no clear terminal point. They contrast with telic verbs.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">atelic aspect</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsClosedFeature
+				guid="baeb784c-093b-4ebc-99ca-92808089604a">
+				<Abbreviation>
+					<AUni
+						ws="en">class</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fClass</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">A noun class system is a grammatical system that some languages use to overtly categorize nouns. Noun classes (1) are often based, at least in part, on characteristics (such as gender, animacy, shape) of the referents of some of the nouns in each class, and (2) are distinguished (a) by an affix on the noun or by a clitic or word in the noun phrase, and (b) by agreement affixes on noun phrase constituents and on the verb.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">noun class</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="0712b638-7064-4fb6-a50b-189096883570">
+						<Abbreviation>
+							<AUni
+								ws="en">anim</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vAnim</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An animate class is a category of nouns having human or animal referents.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">animate class</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="e6c117b5-688d-4c16-a4aa-22b733e07864">
+						<Abbreviation>
+							<AUni
+								ws="en">inan</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vInanim</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">An inanimate class is a category of nouns that do not have human or animal referents.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">inanimate class</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsClosedFeature
+				guid="bd1d7f21-7cf2-44c9-a952-69d218bc1028">
+				<Abbreviation>
+					<AUni
+						ws="en">num</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>fNum</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Number is a grammatical category of nouns, pronouns, and verb agreement that expresses count distinctions (such as "one" or "more than one"). The count distinctions typically, but not always, correspond to the actual count of the referents of the marked noun or pronoun.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">number</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Values>
+					<FsSymFeatVal
+						guid="690b6e79-e6cf-4f86-87d1-8d4008c77efc">
+						<Abbreviation>
+							<AUni
+								ws="en">sg</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vSg</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Singular number is number that refers to one member of a designated class.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">singular number</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+					<FsSymFeatVal
+						guid="d95676b2-3b38-401e-bdfa-e8f076b3394d">
+						<Abbreviation>
+							<AUni
+								ws="en">pl</AUni>
+						</Abbreviation>
+						<CatalogSourceId>
+							<Uni>vPl</Uni>
+						</CatalogSourceId>
+						<Description>
+							<AStr
+								ws="en">
+								<Run
+									ws="en">Plural number is number that expresses reference to a quantity greater than that expressed by the largest specific number category in a language, such as "more than one" in English, and "more than two" in some other languages.</Run>
+							</AStr>
+						</Description>
+						<Name>
+							<AUni
+								ws="en">plural number</AUni>
+						</Name>
+						<ShowInGloss
+							val="True" />
+					</FsSymFeatVal>
+				</Values>
+			</FsClosedFeature>
+			<FsComplexFeature
+				guid="df4a248b-747a-4240-9618-0e1f77059de7">
+				<Abbreviation>
+					<AUni
+						ws="en">nagr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>cNounAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">This contains the set of features used in noun agreement.</Run>
+					</AStr>
+				</Description>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">noun agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="0a6c2f79-e440-4524-bd07-91bbe2b314bb"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+			<FsComplexFeature
+				guid="f1b3d5af-2dc9-4de4-bbd7-b910ac2d8304">
+				<Abbreviation>
+					<AUni
+						ws="en">caseagr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tCaseAgr</Uni>
+				</CatalogSourceId>
+				<DisplayToRightOfValues
+					val="False" />
+				<Name>
+					<AUni
+						ws="en">case agreement</AUni>
+				</Name>
+				<ShowInGloss
+					val="False" />
+				<Type>
+					<objsur
+						guid="3293182e-dbf8-460f-a1db-947a5a7bb03b"
+						t="r" />
+				</Type>
+			</FsComplexFeature>
+		</Features>
+		<Types>
+			<FsFeatStrucType
+				guid="0a6c2f79-e440-4524-bd07-91bbe2b314bb">
+				<Abbreviation>
+					<AUni
+						ws="en">nAgr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tNounAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to agreement on nouns.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="355e91ca-a06b-4a1d-8c6a-d3f3a20c1fd8"
+						t="r" />
+					<refseq
+						guid="9f2f515b-16d8-440f-a30d-53c31c486e84"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Noun agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="2b491f35-aa10-49cb-afb2-facce7f5155f">
+				<Abbreviation>
+					<AUni
+						ws="en">sbj</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tSubjAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to subject agreement on verbs.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="55706aa1-2381-45a6-bba2-ea489bb4a636"
+						t="r" />
+					<refseq
+						guid="bd1d7f21-7cf2-44c9-a952-69d218bc1028"
+						t="r" />
+					<refseq
+						guid="baeb784c-093b-4ebc-99ca-92808089604a"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Subject agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="3293182e-dbf8-460f-a1db-947a5a7bb03b">
+				<Abbreviation>
+					<AUni
+						ws="en">adjAgr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tAdjAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to agreement on adjectives.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="bd1d7f21-7cf2-44c9-a952-69d218bc1028"
+						t="r" />
+					<refseq
+						guid="355e91ca-a06b-4a1d-8c6a-d3f3a20c1fd8"
+						t="r" />
+					<refseq
+						guid="9f2f515b-16d8-440f-a30d-53c31c486e84"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Adjective agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="4901227e-2ff3-4593-a3e9-dad496f20edc">
+				<Abbreviation>
+					<AUni
+						ws="en">obj</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tObjAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to object agreement on verbs.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="55706aa1-2381-45a6-bba2-ea489bb4a636"
+						t="r" />
+					<refseq
+						guid="bd1d7f21-7cf2-44c9-a952-69d218bc1028"
+						t="r" />
+					<refseq
+						guid="baeb784c-093b-4ebc-99ca-92808089604a"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Object agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="a0985e3e-8a82-4ed0-a9f0-65181d501302">
+				<Abbreviation>
+					<AUni
+						ws="en">possAgr</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tPossessorAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to agreement on possessors.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="55706aa1-2381-45a6-bba2-ea489bb4a636"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Possessor agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="cc552306-39b5-41f3-abfd-b863a689d2fe">
+				<Abbreviation>
+					<AUni
+						ws="en">erg</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tErgAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to ergative agreement on verbs.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="55706aa1-2381-45a6-bba2-ea489bb4a636"
+						t="r" />
+					<refseq
+						guid="bd1d7f21-7cf2-44c9-a952-69d218bc1028"
+						t="r" />
+					<refseq
+						guid="baeb784c-093b-4ebc-99ca-92808089604a"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Ergative agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="f1a078e1-4991-4eab-a4e8-cffac73e0ea0">
+				<Abbreviation>
+					<AUni
+						ws="en">Infl</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>Infl</Uni>
+				</CatalogSourceId>
+				<Features>
+					<refseq
+						guid="b7923e72-034a-4170-a57c-585b78993173"
+						t="r" />
+					<refseq
+						guid="b2646044-b47e-46d7-8dd3-d57c079e7b5f"
+						t="r" />
+					<refseq
+						guid="415f2efc-4cb2-4a3e-b689-e028516bbc02"
+						t="r" />
+					<refseq
+						guid="05fa63ce-90bc-43e1-8a15-c2013cc40c60"
+						t="r" />
+					<refseq
+						guid="08e7a26a-ccb6-4e8b-a657-4887cce73623"
+						t="r" />
+					<refseq
+						guid="833d061d-c424-4520-ae5d-1507310be47f"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Infl</AUni>
+				</Name>
+			</FsFeatStrucType>
+			<FsFeatStrucType
+				guid="f8872d2c-6643-4786-9e71-96fe65893ec5">
+				<Abbreviation>
+					<AUni
+						ws="en">abs</AUni>
+				</Abbreviation>
+				<CatalogSourceId>
+					<Uni>tAbsAgr</Uni>
+				</CatalogSourceId>
+				<Description>
+					<AStr
+						ws="en">
+						<Run
+							ws="en">Features common to ergative agreement on verbs.</Run>
+					</AStr>
+				</Description>
+				<Features>
+					<refseq
+						guid="55706aa1-2381-45a6-bba2-ea489bb4a636"
+						t="r" />
+					<refseq
+						guid="bd1d7f21-7cf2-44c9-a952-69d218bc1028"
+						t="r" />
+				</Features>
+				<Name>
+					<AUni
+						ws="en">Absolutive agreement</AUni>
+				</Name>
+			</FsFeatStrucType>
+		</Types>
+	</FsFeatureSystem>
+</FeatureSystem>

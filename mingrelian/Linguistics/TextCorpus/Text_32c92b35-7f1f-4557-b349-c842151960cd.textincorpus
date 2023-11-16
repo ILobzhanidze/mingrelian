@@ -1,0 +1,2264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="32c92b35-7f1f-4557-b349-c842151960cd">
+		<Contents>
+			<StText
+				guid="983ccf16-c765-4371-9909-105b9c308b81">
+				<DateModified
+					val="2023-11-10 6:53:40.528" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="47b343bb-ae36-4d20-83ab-986439d0efe4">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-  მუუშოთ გიმირინუანა სიმინს?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="f638cedf-4692-4b04-8631-70a2fb735ac5">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="b4c787ee-f5ac-4ab1-a268-2fbaf352d772"
+										t="r" />
+									<refseq
+										guid="ac51dbf0-5f69-4186-a7cb-eb6e0886300b"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">What is maize used for?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რისთვის იყენებენ სიმინდს?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="07ce641e-d4e4-4ce5-b2ff-83db2620c864">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- სიმინს მუუშოთ გიმირინუანადა  ხა... ოქუაჲო, ღუუმუშოთ, ჭკიდიიშოთ, ოდო მა მაგაჲითო თინა ხოჲო შემი... . გითმირინუანა ხოჲო ზოოთონსჷ, მუუდროს, ჲანარიშ თუთას მაგაჲითო, მა  პირადო გიმომრინუუაფ მაგაჲითო, სიმინდი დოომიხაშ. ტუტაამ სიმინს, ჯვეშებურო, ძვეშო მიჩქუდეს ათე ტუტაამი სიმინდიშ ხაშუა დო, ხაშუა ოდო ასე მაგაჲითო შემიებ მა ამდღა  ამჟამად  ხოჲო დოფხაშე, მაგალთო,  სიმინდი.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="7c307baf-3637-483d-b497-6bec54fe8053">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="2e58a1a8-afe1-44bf-9e88-aad817e7afa4"
+										t="r" />
+									<refseq
+										guid="8984da44-1db4-462b-80cc-f07a75d2ca41"
+										t="r" />
+									<refseq
+										guid="d27b6758-3cb1-4a3f-a715-3192b120e13c"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+									<refseq
+										guid="7b1c8647-6f63-4d48-a578-bd2484cf1f45"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="46dab92f-3b27-4d5c-9784-89a93707119b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5332259e-90fb-4df1-a630-aa5dfcf9b07f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="62577e10-1610-4150-bc2f-de460425fafb"
+										t="r" />
+									<refseq
+										guid="12cd9a15-841c-4f49-97ba-0a1eded70b93"
+										t="r" />
+									<refseq
+										guid="c0e45df8-ab16-478d-bb9d-b36ff65745fb"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="554370ee-1ab7-418d-add8-9f69c8c03e2e"
+										t="r" />
+									<refseq
+										guid="8a9df2a1-2463-4ede-9c05-5be23e02d0a6"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">What maize is used for is grinding, for hominy, for cornbread, and, I, for instance, can even...</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">სიმინდს რისთვის იყენებენ და, დასაფქვავად, ღომისთვის, მჭადისთვის  და მე, მაგალითად,  ისიც შემი[ძლია]...</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="f9a9eba2-b5b0-4137-a9a8-25001bf6ca69">
+								<Analyses>
+									<refseq
+										guid="e84917d0-2862-4229-86e1-d32a3a9587f9"
+										t="r" />
+									<refseq
+										guid="519462b2-1e86-4238-ad19-9e7faf577734"
+										t="r" />
+									<refseq
+										guid="013c0208-b199-4c64-8596-6e3f573bef06"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="69ffbcc8-1262-475f-bb87-5b76621992b8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4fd92df3-dc2f-483a-8c9f-42695610fcac"
+										t="r" />
+									<refseq
+										guid="68d26a0d-9569-4816-9d78-8878ff4d17dd"
+										t="r" />
+									<refseq
+										guid="c0e45df8-ab16-478d-bb9d-b36ff65745fb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="12cd9a15-841c-4f49-97ba-0a1eded70b93"
+										t="r" />
+									<refseq
+										guid="30849a38-05f4-4876-b47e-5c12a4915967"
+										t="r" />
+									<refseq
+										guid="5cc5b377-86d6-4ff4-825a-040c0c6c51c9"
+										t="r" />
+									<refseq
+										guid="c0e45df8-ab16-478d-bb9d-b36ff65745fb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b59fe2f-5cf0-451b-8815-c9363432aa6a"
+										t="r" />
+									<refseq
+										guid="141f4c1f-f4d0-4610-af9d-806e1f15255a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="102" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It is also used in winter, for instance, I have used in January; I have boiled maize.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ზამთარშიც იყენებენ, მაგალითად მე იანვრის თვეში გამომიყენებია, სიმინდი მომიხარშავს. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="e4d5736d-79de-452d-8377-ba7a30fbf39e">
+								<Analyses>
+									<refseq
+										guid="34a40ed7-27bf-4b3c-933f-7c2fe61f129a"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="11876809-f710-4f8d-8b32-c57a47880296"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="c79c6c4e-5bcc-45c1-ac13-d883296450ec"
+										t="r" />
+									<refseq
+										guid="d0596451-9660-4dd5-9c9e-c96e0745f6d1"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="c86348ca-76d5-44d4-921d-a98571053e54"
+										t="r" />
+									<refseq
+										guid="0d42ec59-fd7c-4a06-8b04-c3f3d026a7e3"
+										t="r" />
+									<refseq
+										guid="cc57fa4c-381d-4786-836d-508d80c26161"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="cc57fa4c-381d-4786-836d-508d80c26161"
+										t="r" />
+									<refseq
+										guid="62577e10-1610-4150-bc2f-de460425fafb"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="c0e45df8-ab16-478d-bb9d-b36ff65745fb"
+										t="r" />
+									<refseq
+										guid="e08f69fb-3174-4db8-97fc-ae2c4d085740"
+										t="r" />
+									<refseq
+										guid="12cd9a15-841c-4f49-97ba-0a1eded70b93"
+										t="r" />
+									<refseq
+										guid="45e40db6-1f0b-48b6-9bea-2faab0b6e801"
+										t="r" />
+									<refseq
+										guid="29052595-1f65-42d9-9ac6-26594bb1c378"
+										t="r" />
+									<refseq
+										guid="554370ee-1ab7-418d-add8-9f69c8c03e2e"
+										t="r" />
+									<refseq
+										guid="0dd80d11-abda-4491-9f3e-80f8717b8eab"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d84cacb5-1ff5-44d9-8dc5-9fe59f694580"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b59fe2f-5cf0-451b-8815-c9363432aa6a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="215" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We boiled ashen maize in the old way; in the past, we used to boil ashen maize, and I am still able to boil maize.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ნაცრიან სიმინდს ძველებურად [მოვხარშავთ]; ძველად  ვიცოდით ნაცრიანი სიმინდის მოხარშვა და მე ახლაც, ამჟამადაც შემიძლია მოვხარშო სიმინდი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="b19f474a-e10c-4981-bce4-eeac66749242">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-მუჭო ხაშუნთ აბა,  შეჲებუნანო მომიყვათ დეტალეფი?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="78094539-3ec3-466a-bd48-fc8af87af689">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="b0354eb8-ace1-4106-ba61-e9f89c0060a3"
+										t="r" />
+									<refseq
+										guid="5206f12d-06a4-471e-8446-d2b8acef6107"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="cc1cc4cd-9b6f-4e08-bd6b-1576277bdac3"
+										t="r" />
+									<refseq
+										guid="4e654610-7722-4c31-b10b-d217d6ef24aa"
+										t="r" />
+									<refseq
+										guid="9650cded-ac1b-4507-b712-2a87193af123"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, how do you boil it? Can you tell me the details?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- როგორ ხარშავთ, აბა? შეგიძლიათ მომიყვეთ დეტალები?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="d8b9e8d0-9511-472c-b513-aad252507095">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ასე, ათე სიმინს მუჭო ფხააშჷნქდა, პირვეეჲ ქეეგებდგჷნქ  კარდიათ წყარს, პირვეეჲ. ათე სიმინს დოფჩიჩოჲნქ. თე სიმინს დოობავჲენქ. გეპჭოფუნქ ათე ბაჲირი სიმინსჷ დო გეეფუნს წყარინი,  ათე წყარს ქინუვობუნქ ათე სიმინს. მარა სიიმინდი თინა გიმიოზიმიი ოკო  გაფუდასო ოკო. მუშენდა სიმინს მუჟაანს  ქინააღვანქჷნი, ბრეი ქინაარღვიდა, ინა იიშ გოჩეხუნს ის, კარდიჲას. ათიი გურშენი კარდიჲაშ გვერდი ოკო ქენააღვე ოკო. ათე კარდიაში გვერდი დიხაშუუნ, თინა ეიფშაფუუ. მარა ხვაჲე ასე კაარდიას, მუჟაამ ტუტაამ სიმინს აკეეთენქ ათე შეემთხვევასჷ, ეთიის ქინააღვანქ, სიმინს ქინააღვანქჷნ, თიშ უკუჲნეშე ხოო  გეეფუნსჷ,  მუჲ ჯოხო, სიმინდი, წყარ დო სიმინდი გეეფუნს, თიშ უკუჲნეშე  მაფუ ცირიი ტუტა. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="a1375c23-2ded-4376-bb8b-04f1879847da">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="81540bf5-283c-4437-b875-ef41879e7c68"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9498d45d-2d16-496e-810c-de2f438240ad"
+										t="r" />
+									<refseq
+										guid="6b2ac1a0-20ce-4304-9356-e782d683d088"
+										t="r" />
+									<refseq
+										guid="63ca242d-a266-4f0d-af61-4748de06e4e2"
+										t="r" />
+									<refseq
+										guid="0f72255c-7e1a-4d8d-9bf1-9cb60684c42a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="59d4beb7-f239-4689-aea2-3eb808aa51a3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, how we boil maize is that initially we pour water in a pot; this is firstly.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ახლა, ამ სიმინდს როგორ ვხარშავთ და, პირველ რიგში, დავადგამთ ქვაბით წყალს, [ეს] პირველი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b8966742-765d-491e-9c7b-f3984aaf4d49">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="d9e4c019-3750-4a51-9d58-647dd7543e62"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="80" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I will crush maize.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ სიმინდს დავფშვნი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="c6111ec1-a4e6-4c23-a3d0-4924b5af7603">
+								<Analyses>
+									<refseq
+										guid="99a31d70-6cdc-4499-9181-433604dc4fa3"
+										t="r" />
+									<refseq
+										guid="5b1c2125-2103-4fc7-9a45-3c237b02bcaa"
+										t="r" />
+									<refseq
+										guid="be402645-a4d9-45cb-869b-932e46359f7d"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="103" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I will winnow maize.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ სიმინდს დავანიავებ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="390db6f3-65f1-4087-8119-a45793ac305c">
+								<Analyses>
+									<refseq
+										guid="96ee3f77-8b33-463e-94b3-d820e91e6029"
+										t="r" />
+									<refseq
+										guid="6c6c327f-f2fb-4728-bae0-fecd65b86c71"
+										t="r" />
+									<refseq
+										guid="c165ecbf-2d62-498f-9b40-2e05532268b4"
+										t="r" />
+									<refseq
+										guid="89cd44e4-a22e-4094-bdad-eca9b22115ee"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="630792ee-9fc7-4cba-85fc-c1721ecb23ec"
+										t="r" />
+									<refseq
+										guid="1f849797-383c-4f2c-9349-e3ce24ba258a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="0f72255c-7e1a-4d8d-9bf1-9cb60684c42a"
+										t="r" />
+									<refseq
+										guid="23417179-6a4f-4a2b-a550-136de16f9866"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="125" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I'll take the winnowed maize, and, when water is bailed, I'll put the winnowed maize into the boiling water.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ავიღებ დანიავებულ სიმინდს და, როცა წყალი ადუღდება, ამ ადუღებულ წყალში ჩავასხამ (=ჩავყრი) ამ სიმინდს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="85a4f6f5-4587-4dde-b835-3d435073bdb8">
+								<Analyses>
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="9f2fa127-192a-4b5b-87c7-2390a8abc41a"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="e10430bd-97c1-4afb-b60a-11285c6b8bdc"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="d883a085-0070-46c7-a8d1-92560bf2c17a"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="208" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">But you have to measure maize.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მაგრამ სიმინდი გამოზომილი უნდა გქონდეს. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="335e2fee-9fd1-45a6-9bbb-0d0d91048bd5">
+								<Analyses>
+									<refseq
+										guid="acfdc5a4-0d62-4552-ae66-f3cfbcc5230f"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="74e6c297-0ae5-4e0f-9a37-6b92d269ad25"
+										t="r" />
+									<refseq
+										guid="7dd43f02-67b1-4702-ac41-feb60332680b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ae2e448b-77e6-470c-9c0b-6ca7027295ed"
+										t="r" />
+									<refseq
+										guid="a5ba0e3f-f8db-4b15-b14d-bb33d6e7e5e3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="019dd6c7-c8b1-499f-975c-ddaecb862389"
+										t="r" />
+									<refseq
+										guid="5469d486-1924-4127-afe6-48a60cd10249"
+										t="r" />
+									<refseq
+										guid="21d7ee76-a40a-49f6-bc17-619d497e8f6d"
+										t="r" />
+									<refseq
+										guid="400cac9a-cf05-4152-8fc1-f4df634fd0e3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e37f170b-18e6-4af5-ac54-440fae6e6a80"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="257" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Because, when maize is put in a pot, if it is too much, it will fill up the pot.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რატომ და, როცა სიმინდს ჩაყრიან, თუ ბევრი ჩაყარეს, ის ძალიან გაავსებს ქვაბს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2b7934b4-4fbf-4a25-95b2-cf945f456446">
+								<Analyses>
+									<refseq
+										guid="e6d4a55b-1544-49ec-93fe-e4c30f362e46"
+										t="r" />
+									<refseq
+										guid="16d690d1-1823-4348-bf8f-4a1fd1cf6bf0"
+										t="r" />
+									<refseq
+										guid="a56ec63c-6b16-4cbb-a3f8-4069066b59a0"
+										t="r" />
+									<refseq
+										guid="682d891f-2601-47cf-9fec-080213ade5f1"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="7b1b8c47-fda2-4e97-a22f-6f33791ef04a"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="345" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Hence, you have to put it up to the half of a pot.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამიტომ ქვაბის ნახევარი (=ნახევარი ქვაბი) უნდა ჩააყარო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="851416ef-1654-4cde-88a9-b35e06bc5a87">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="2cc51997-c6b1-4d71-81df-6fd7b4896795"
+										t="r" />
+									<refseq
+										guid="682d891f-2601-47cf-9fec-080213ade5f1"
+										t="r" />
+									<refseq
+										guid="ebe74c7b-95b4-4561-bbde-34f154c70dc9"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6828e75b-7604-4ad5-bb76-ff05242a514c"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="392" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When the half [=the maize put up to the half of a pot] is boiled, it will be filled up.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ ქვაბის ნახევარი (=ქვაბსი ჩაყრილი ნახევარი) რომ მოიხარშება, ის [ქვაბი] აივსება.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="c7f05d93-36d9-4c04-a24b-d2c48ae3313f">
+								<Analyses>
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="3f3c26e3-a668-47a1-8df4-c084c57b589d"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="7e2541d3-3dd4-4ed8-94e6-bff6d0fc21c0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ef71281b-7e56-4d6b-bf88-f0be3b7d6214"
+										t="r" />
+									<refseq
+										guid="567eae25-035e-4aea-bda8-090451840f8d"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="bfa9ddba-ee28-45ab-b637-7611272019a4"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="9ce0185f-5648-4728-a19e-d938b83dfe16"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="51bd98fa-7a50-4989-996e-e2fa3d1abafc"
+										t="r" />
+									<refseq
+										guid="ed6e24f0-a9d4-4a64-9bca-5cb50a51bae3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="c724a5f1-9c56-4132-8146-ca2bf2d70878"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="14bf94f3-2d22-43c9-96cd-9fdc648f1468"
+										t="r" />
+									<refseq
+										guid="0244f392-ecbe-4799-8620-d88bcfa839a1"
+										t="r" />
+									<refseq
+										guid="1a44c36a-e1e4-4335-a8f4-84061317f74e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d08cdbd7-7f5d-4c7a-9418-d16273e52f85"
+										t="r" />
+									<refseq
+										guid="cbb19224-5ab8-4e05-a44c-d42730b9a017"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b59fe2f-5cf0-451b-8815-c9363432aa6a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="41f366bf-e9cd-43e8-9b4c-a079fb3a8db8"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="8b59fe2f-5cf0-451b-8815-c9363432aa6a"
+										t="r" />
+									<refseq
+										guid="0390f0c0-a98d-415a-b50c-fa5e96390541"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="75759348-551c-46eb-96a1-c4b1a21edb27"
+										t="r" />
+									<refseq
+										guid="14bf94f3-2d22-43c9-96cd-9fdc648f1468"
+										t="r" />
+									<refseq
+										guid="3631291a-12a9-4d58-8f1f-af7a76984410"
+										t="r" />
+									<refseq
+										guid="8e2e4017-8e9f-4466-aed9-9b5ebd269bb5"
+										t="r" />
+									<refseq
+										guid="1500bbb1-b323-45cb-afa2-4982d23db533"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="437" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">However, when you cook ashen maize, you put maize into a pot and, when it starts boiling, you add ash. After the water and ash are boiled, I have prepared sifted ash.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მაგრამ, როცა ნაცრიან სიმინდს აკეთებ, მაშინ ქვაბში სიმინდს ყრი და როცა ადუღდება, ჩაყრი ნაცარს.  წყლისა და სიმინდის ადუღების შემდეგ მზად მაქვს გაცრილი ნაცარი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="9619ff2e-04c6-4555-ae30-a087d6c97dfd">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf"> გეთიიბღანქ ტუტას. დოოფცირჷნქ ეთიის საცეერით ოდო თის გებჭოფუნქ დო ქენუვოღვანქ კაარდიას. თეშ უფაჩუანქ, თის ირიათო ოკო უფაჩუე ოკო, თიშ გურშენი, თიქ ვეგიიჭვას ოკო.  ქიგიიჭვას, უკუჲნეშე სიმინს ხოჲო ქინკუჭუანს. ათეშ გურშენი თის ირიათო ოკო უფაჩუე ოკო.  ინა გითმიძინანს, დეეჭითარებუ, მუჭო ტუტას ქინვოღვანქჷნი, ხათე ჭითათ გინიირთუუ. გეგეკვირვებუ მუჲ რე თენა, მუშენიე, მარა რეაქციაშა მიშმუურდას თი დროს  თინა სიმინდიში ოდო ათეში გურშენი იჭითარებუ.უკუჲნეშე მუჭო წყაარს დინააბუნქ, მუჭო წყაარს დინააბუნქუ თეში. თენა თიშ გურშენი ვაკეთენქ თეს დო თიშენი დინმუვოღვანქ თეს ტუტას, თიქ ართკაკაი   სიმინს, ნამუთ ყურწი ქუუღუნი, ეთი ყურწიქ არძაქ ოკო ჩეეთხიას ოკო. კანი უღუნ, ეთი კაანქ მიკმარციენს თინა იშო, დო  საერთოთ ვაართი კაანი უღუ უკუჲნეშე დო ვაართი ყუურწი. ათეშ გუურშენი თენა, თიის დრო უღუუ  მუში, თინა მუჟაანს ვარენო  გეშეეღე ოკო თინა მუჟაანს, ქოძირე ოკო აბა თინა  ქორე დო ვარ ასე   ორჩხაჲი. ქოძირნქ თინა მუჭო ორჩხაიე თინა, ხეს ქოძირნქ  ორჩხაჲ რენ, გეშეეღე ოკო თინა არძა მაჲეღეე ოკო თინა, გორჩხეე ოკო, თეში გოორჩხე ოკო თინა, ტუტა,  თეში დიირჩხუუ თინა, გეერჩეებ, თირიცაჲო გინიირთუუ. მარა ის ართ დო  ჟირი რჩხუაჲა ვააუბაღ. კინი ქააფუნუე ოკო, დორჩხჷნქჷ თიშ  უკუჲი, ხოჲო მიდეეღე ოკო, ხოჲო გორჩხეე ოკო.  ჸათაში ართი ჟირი სუმშახ გუმეორეე ოკო. თიშ უკუნეშე თინა, ეთი გვერდ კარდია მაფუდ დინოღვაფიი სიმინდი თინაა,  დოო... დუუდშახ ეიფშაფუუ ოდო საუკეთესო სიმინდიე თენა. ტუუტაამ სიმინს უძახჷთ ათეს ჩქი, მარგაჲეფი.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="1c2eca67-4acd-4a4f-ae02-3b3099958590">
+								<Analyses>
+									<refseq
+										guid="5df0343a-2c60-473c-bf88-2b2f5650af9d"
+										t="r" />
+									<refseq
+										guid="5cab4c7d-aa70-4e5d-9513-121c833b6a21"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We get ash out of fire.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ცეცხლიდან გამოვიტანთ ნაცარს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="cf710196-0bb1-4f18-90a0-2c4a048f8217">
+								<Analyses>
+									<refseq
+										guid="d6945af9-a15b-4b44-9849-c6a07e46624a"
+										t="r" />
+									<refseq
+										guid="51bd98fa-7a50-4989-996e-e2fa3d1abafc"
+										t="r" />
+									<refseq
+										guid="23a5cedc-6358-4c6a-b459-a800a9cb8583"
+										t="r" />
+									<refseq
+										guid="62577e10-1610-4150-bc2f-de460425fafb"
+										t="r" />
+									<refseq
+										guid="4b8de7ee-f801-40fa-8c49-a32973e2a508"
+										t="r" />
+									<refseq
+										guid="c0cee196-a070-4018-a44a-66c7c4b4d600"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="91862fe6-1fcc-428e-a3a8-1b478169e71f"
+										t="r" />
+									<refseq
+										guid="7e2541d3-3dd4-4ed8-94e6-bff6d0fc21c0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="19" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We sift the ash and take it and put into a pot.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai"> გავცრით მას საცერით და მას ავიღებთ და ჩავყრით ქვაბში.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="da3f6d2e-125b-4470-8fe6-7a3fc906e3ae">
+								<Analyses>
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="51cf2e4b-47fd-4d56-8a4a-09ca025a4c27"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4b8de7ee-f801-40fa-8c49-a32973e2a508"
+										t="r" />
+									<refseq
+										guid="a21da38c-4639-4d03-871e-b82329a0bbf1"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="66bab4d7-218a-4589-8e95-f5822ca500da"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2ad9adfd-a4e1-48db-8ef9-01a63e43fefd"
+										t="r" />
+									<refseq
+										guid="16d690d1-1823-4348-bf8f-4a1fd1cf6bf0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="971fd26e-28b5-4904-9c7a-8e4f7eb4e8ae"
+										t="r" />
+									<refseq
+										guid="c0b24756-c4c4-412d-8adc-071e77bbb25c"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="88" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Then we stir it; you have to stir it permanently not to make it burn.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ასე ვურევთ; მას სულ უნდა ურიო, იმიტომ რომ ის არ მიიწვას.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2a581bf5-5213-4e34-ab55-0ab07b03fa9d">
+								<Analyses>
+									<refseq
+										guid="3de088cd-bccb-44d3-bc52-8ad89e347e89"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="14bf94f3-2d22-43c9-96cd-9fdc648f1468"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="554370ee-1ab7-418d-add8-9f69c8c03e2e"
+										t="r" />
+									<refseq
+										guid="87e1e8d8-34ba-4ef0-a58e-ceeaef5f1568"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="162" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">If it burns, then it'll burn maize as well.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">თუ დაიწვება, მერე სიმინდსაც მიიწვავს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="50a7841c-2fda-48d6-8d24-1c0c0c07d053">
+								<Analyses>
+									<refseq
+										guid="df7202f0-4447-4638-b6da-946ebf85460f"
+										t="r" />
+									<refseq
+										guid="16d690d1-1823-4348-bf8f-4a1fd1cf6bf0"
+										t="r" />
+									<refseq
+										guid="4b8de7ee-f801-40fa-8c49-a32973e2a508"
+										t="r" />
+									<refseq
+										guid="a21da38c-4639-4d03-871e-b82329a0bbf1"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6637778b-4134-41de-84ef-2b6863574b06"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="206" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Therefore, you have to stir it permanently.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამიტომ მას სულ უნდა ურიო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="87e2e7cd-5788-47ee-8565-5812eeddcc79">
+								<Analyses>
+									<refseq
+										guid="019dd6c7-c8b1-499f-975c-ddaecb862389"
+										t="r" />
+									<refseq
+										guid="da82fa80-5d56-490e-91a3-7c1d98eeeb05"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a1a75f63-eae1-43bf-a265-f33c33d71928"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="5cab4c7d-aa70-4e5d-9513-121c833b6a21"
+										t="r" />
+									<refseq
+										guid="3849b3cb-07b1-4a9c-9b30-70f5b1e6652d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="57ddb48e-b4d0-4165-bb4a-e2aca02686d6"
+										t="r" />
+									<refseq
+										guid="40f99e1e-47f9-4f2b-9bab-ea6d851b6687"
+										t="r" />
+									<refseq
+										guid="c55447bc-299b-489a-be94-439f39c10a35"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="247" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It [=maize] grows, reddens, as soon as we put some ash, it reddens immediately.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ის (=სიმინდი) მატულობს, წითლდება, როგორც კი ჩავყრით ნაცარს, მაშინვე გაწითლდება.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="45cfa871-0bd9-4ac9-996e-d823e029fc3e">
+								<Analyses>
+									<refseq
+										guid="d00ac0d8-a379-42b5-922e-5a234fd10be9"
+										t="r" />
+									<refseq
+										guid="d08cdbd7-7f5d-4c7a-9418-d16273e52f85"
+										t="r" />
+									<refseq
+										guid="ab795372-3967-4be3-a824-b844b4462dce"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1c90fa00-e62f-466d-8eaa-a17370d7a8c9"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="2c662ecf-de19-4797-aaf2-920b1cfe051f"
+										t="r" />
+									<refseq
+										guid="f9a8094b-8d60-4923-b6e1-7a2d959b1a7a"
+										t="r" />
+									<refseq
+										guid="fdf5912c-a289-407f-b8ab-0ab72402b368"
+										t="r" />
+									<refseq
+										guid="5a87ce46-c840-4d65-9d90-f6a6f16b6272"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="c96d1046-ea9f-48f8-9ec4-02142ca51f11"
+										t="r" />
+									<refseq
+										guid="62577e10-1610-4150-bc2f-de460425fafb"
+										t="r" />
+									<refseq
+										guid="45517722-33b6-4221-bc3f-431950a5bd2c"
+										t="r" />
+									<refseq
+										guid="16d690d1-1823-4348-bf8f-4a1fd1cf6bf0"
+										t="r" />
+									<refseq
+										guid="fc33ba5e-9176-44ac-8832-2e47e2ec13bd"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="325" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">You may be surprised by it, why it happens, but it reacts to maize then and that is why it reddens.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">გაგიკვირდება, რა არის ეს, რატომაა, მაგრამ სიმინდთნ  რეაქციაში შედის იმ დროს  და ამიტომ არის, რომ წითლდება.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="09f8da88-19f0-4859-b52e-9e6f2840a012">
+								<Analyses>
+									<refseq
+										guid="14bf94f3-2d22-43c9-96cd-9fdc648f1468"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="0c2f549a-2258-4738-8a25-13dbd928e55c"
+										t="r" />
+									<refseq
+										guid="fb1eedc6-40c3-4025-b86f-d039dddc0ad1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="0c2f549a-2258-4738-8a25-13dbd928e55c"
+										t="r" />
+									<refseq
+										guid="cdb40266-6913-4713-be16-555396e2e498"
+										t="r" />
+									<refseq
+										guid="4d3e1f22-1bcb-45be-80c3-3d087326e2cf"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="438" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Afterwards, as soon as you add water, you have to add ash.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მერე, როგორც კი წყალს უმატებ [ისე უნა უმატო ნაცარი].  </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="ee931d22-d818-476a-9dfb-91fcd671f7f2">
+								<Analyses>
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="16d690d1-1823-4348-bf8f-4a1fd1cf6bf0"
+										t="r" />
+									<refseq
+										guid="029b3fcc-9544-44fc-842e-73da1df9d3c8"
+										t="r" />
+									<refseq
+										guid="6bae710d-e894-49e4-93cc-a0aa55d5e754"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="dd868d01-7bfa-45df-a719-781d2911a8ac"
+										t="r" />
+									<refseq
+										guid="58c7428c-1ac0-4b39-bf7e-0da782027923"
+										t="r" />
+									<refseq
+										guid="6bae710d-e894-49e4-93cc-a0aa55d5e754"
+										t="r" />
+									<refseq
+										guid="5cab4c7d-aa70-4e5d-9513-121c833b6a21"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="971fd26e-28b5-4904-9c7a-8e4f7eb4e8ae"
+										t="r" />
+									<refseq
+										guid="cd81e5bb-35c3-4b67-8b2d-cb1bb3575d2f"
+										t="r" />
+									<refseq
+										guid="5b1c2125-2103-4fc7-9a45-3c237b02bcaa"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e42dc19f-548f-4efb-8d05-5705b532b05e"
+										t="r" />
+									<refseq
+										guid="01adeffb-561f-49cc-bfdc-d76b707cee0a"
+										t="r" />
+									<refseq
+										guid="e8a61fbe-ff2e-4d8b-b5b3-9d2d1ae2ccb3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="a7c81705-6901-42fb-82cb-a35916f38dc4"
+										t="r" />
+									<refseq
+										guid="7c56f384-3766-4ce5-bac2-eec0cd63806f"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="618b16fc-b002-4734-93ca-b94adab713fb"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="499" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I do this, I add ash because every grain of maize with a stem should be cleaned. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამას იმიტომ ვაკეთებ და იმიტომ ვაყრი ნაცარს, რომ სიმინდის არცერთ მარცვალს, რომელსაც ყუნწი აქვს, ყველა გაძვრეს (=არცერთი შერჩეს).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="e4ca582f-6e10-4f65-9cc1-537a4fea36be">
+								<Analyses>
+									<refseq
+										guid="e7397db2-a939-4852-916a-9cfb27a42056"
+										t="r" />
+									<refseq
+										guid="7ec4a289-aa61-4408-89ae-b8cfaa64eb38"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="159507c4-1e05-48e4-8dbf-4fb7413a4093"
+										t="r" />
+									<refseq
+										guid="ad47ddba-a403-4330-92ed-fbbc9e8b3fe2"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="49885e39-0cb4-4764-bcda-ec6327142bec"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="22f15b2f-6b38-40e4-b512-8da0480d06c7"
+										t="r" />
+									<refseq
+										guid="ef1a3aac-2af7-4c8a-8e9f-236abea13898"
+										t="r" />
+									<refseq
+										guid="fbafc074-78c0-4c22-8f99-932b19db6ab6"
+										t="r" />
+									<refseq
+										guid="ab33f252-f731-4ec0-85c0-c1407b6a064d"
+										t="r" />
+									<refseq
+										guid="14bf94f3-2d22-43c9-96cd-9fdc648f1468"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="ef1a3aac-2af7-4c8a-8e9f-236abea13898"
+										t="r" />
+									<refseq
+										guid="ce6deff5-6bf2-4c2c-965c-8d3e2b90a857"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="642" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It frays even its skin, and finally it has neither a skin nor stem.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">კანიც რომა აქვს, იმ კანსაც ცრეცს და მერე (=საბოლოოდ) არც კანი აქვს და არც ყუნწი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="df2a7ae4-5d2a-4f6d-830c-43236b34a056">
+								<Analyses>
+									<refseq
+										guid="df7202f0-4447-4638-b6da-946ebf85460f"
+										t="r" />
+									<refseq
+										guid="53235cee-b362-415d-95de-ce1cbc726f13"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="01b1e9d0-f409-467a-b91d-3fd9d9b2788a"
+										t="r" />
+									<refseq
+										guid="8af7637b-dfae-4e37-a7fd-53c2723ab1d4"
+										t="r" />
+									<refseq
+										guid="a3eae2b4-e7a2-4a24-b013-d8f2750f7824"
+										t="r" />
+									<refseq
+										guid="bbe677ad-01e4-4634-a19c-f5046e3d20cb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="2fd1f236-1513-437c-9014-7098544d0ff8"
+										t="r" />
+									<refseq
+										guid="07efaee3-9ad5-42d4-a147-52507535d9dd"
+										t="r" />
+									<refseq
+										guid="f7a4d9de-8630-4a55-8e64-dd6f3ad35431"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="2fd1f236-1513-437c-9014-7098544d0ff8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9b9c7885-7a55-4c55-b17b-37190e669919"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="5206f12d-06a4-471e-8446-d2b8acef6107"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="d405377b-a4a4-4006-803c-d164bb616800"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="36f3fdc7-451e-42ae-9d62-66447c4f2529"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="e15e0920-4aa9-41cb-a042-2dbcbe622273"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="741" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">You have to watch time when to take it out of a pot; well, whether maize is to be washed or not.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამას თავისი დრო აქვს, როდის უნდა ამოიღო [ქვაბიდან]; აბა არის თუ არა ჯერ გასარეცხი [სიმინდი].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="24fef5dc-cd5d-4d07-8a95-a119c331f5a4">
+								<Analyses>
+									<refseq
+										guid="d628f4ce-a7de-41c9-875f-1425a630ea4a"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="d64c4942-b668-44c7-842a-95db551c077c"
+										t="r" />
+									<refseq
+										guid="5fd773c2-1a4e-456b-be4b-2106df9827e9"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="3e39c2e8-d987-49a7-9fd7-2b9255377c59"
+										t="r" />
+									<refseq
+										guid="dbb04728-b117-484e-bff1-5959783cde05"
+										t="r" />
+									<refseq
+										guid="f8f362f0-8c5c-400b-a9fd-96d9ac48eb76"
+										t="r" />
+									<refseq
+										guid="5599d250-4636-4123-b44e-5eeb86b111de"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f7a4d9de-8630-4a55-8e64-dd6f3ad35431"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="3f385158-dfb9-4616-bda3-6cc66f6106b5"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8db01172-824e-41c3-891f-baffb1764bd7"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="331bc2d3-96f8-4dd5-ac33-324f8d02b4cc"
+										t="r" />
+									<refseq
+										guid="4e6e678e-e0b9-457d-90b9-c4f2a2c01305"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1500bbb1-b323-45cb-afa2-4982d23db533"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4d3e1f22-1bcb-45be-80c3-3d087326e2cf"
+										t="r" />
+									<refseq
+										guid="9fff3329-a85d-4e3e-8e05-75ebac190cac"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5d1e66fe-3298-4b32-b3fb-75c7060a87ff"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d28b95e7-995f-47ca-9320-f52978d0adb5"
+										t="r" />
+									<refseq
+										guid="c55447bc-299b-489a-be94-439f39c10a35"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="877" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">As soon as you find out that it is to be washed, you have to take it and wash it; you have to wash it so of ash, you have to wash it so that it becomes white like snow.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">როგორც კი ნახავ, გასარეცხია, უნდა წამოიღო და გარეცხო; ისე უნდა გარეცხო ამ ნაცრისგან, ისე უნდა რეცხო, რომ გათეთრდება, თოვლივით გახდება.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="fab435bf-b8a5-484b-af63-8cb97755e90a">
+								<Analyses>
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="400cac9a-cf05-4152-8fc1-f4df634fd0e3"
+										t="r" />
+									<refseq
+										guid="65c57d0a-4e75-4a23-9150-475981094869"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="d9a7ed20-b7bb-4e4b-8643-9efa0d648100"
+										t="r" />
+									<refseq
+										guid="fe3c14e3-0119-4a87-8071-2a04d18b7e92"
+										t="r" />
+									<refseq
+										guid="49b9684e-dc02-4750-a072-fdb289f8999f"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1067" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">But it should be washed more than twice and thrice.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მაგრამ ამას ერთი და ორი გარეცხვა არ ეყოფა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="cae5408d-a787-4b67-8e3c-14801f815a4c">
+								<Analyses>
+									<refseq
+										guid="90692751-3572-4e48-986d-252401e4322b"
+										t="r" />
+									<refseq
+										guid="2452a3f0-ac41-41e8-a5d1-8cf0bc82fa74"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f63f0e72-b878-4133-a944-f5549ea57c3a"
+										t="r" />
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="8e301f54-e774-44a0-8c17-f029c33ade9a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="554370ee-1ab7-418d-add8-9f69c8c03e2e"
+										t="r" />
+									<refseq
+										guid="3a7a3594-f2ab-4864-8af9-1e0c2934f83c"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="554370ee-1ab7-418d-add8-9f69c8c03e2e"
+										t="r" />
+									<refseq
+										guid="8db01172-824e-41c3-891f-baffb1764bd7"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1105" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">After having washed, it should be boiled once again; and again take it out and wash it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ისევ აადუღო უნდა გარეცხვის შემდგომ; კვლავ წაიღო და გარეცხო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="51735add-8bb5-4261-a5e7-951dfcc5a5e5">
+								<Analyses>
+									<refseq
+										guid="3dc7734a-3887-4dc4-94c3-68b11a836669"
+										t="r" />
+									<refseq
+										guid="956c3580-6c25-4a53-ac01-16da29d76e3c"
+										t="r" />
+									<refseq
+										guid="17e19b66-63c2-483d-b6a8-788a98fe73e2"
+										t="r" />
+									<refseq
+										guid="0e408ecc-f9b1-4d7e-8f1a-89458ce1650e"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1183" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">You have to repeat it two or three times.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ასე ორ-სამჯერ უნდა გაუმეორო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="82e25f41-825d-4165-b023-906ca29d8aac">
+								<Analyses>
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="cacee2c3-777a-4d7f-9b17-42a750904ffd"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="11e0e91c-f606-4f63-89c8-6338fd238404"
+										t="r" />
+									<refseq
+										guid="d1df0d47-5b65-491f-a8a4-cc9da58f5c0b"
+										t="r" />
+									<refseq
+										guid="94f55844-7124-4d96-aac5-b63bc6cc07b6"
+										t="r" />
+									<refseq
+										guid="93d6371f-88cc-485c-84d6-e40af8e38bcc"
+										t="r" />
+									<refseq
+										guid="8b59fe2f-5cf0-451b-8815-c9363432aa6a"
+										t="r" />
+									<refseq
+										guid="c77cb5c7-2b7b-41ad-8438-21e05eaa9e05"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="66e8dd5a-3d80-49ca-a96d-645991b81b9a"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+									<refseq
+										guid="fb74435d-6399-47c3-b974-cbed00b70a3d"
+										t="r" />
+									<refseq
+										guid="6828e75b-7604-4ad5-bb76-ff05242a514c"
+										t="r" />
+									<refseq
+										guid="62577e10-1610-4150-bc2f-de460425fafb"
+										t="r" />
+									<refseq
+										guid="62ef6135-8485-4969-bc70-2ed067d97f75"
+										t="r" />
+									<refseq
+										guid="005bd09f-7f9e-467f-9746-9abdb11179c8"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1221" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The half of pot maize, which I put initially, fills it up and that is the best maize. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ის ნახევარი ქვაბი სიმინდი, რომელიც თავიდან ჩავყარე, თავამდე (=ქვაბის პირამდე) აივსება და საუკეთესო სიმინდია ეს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="07ce737f-fe98-47c8-9104-c0cb01d86a9f">
+								<Analyses>
+									<refseq
+										guid="a24aa4fc-2bbc-46f7-842d-1b3c19a9d96f"
+										t="r" />
+									<refseq
+										guid="53f5f78c-3cca-4311-94cf-058be240239a"
+										t="r" />
+									<refseq
+										guid="febf20ba-8204-497b-96fe-75adf985307b"
+										t="r" />
+									<refseq
+										guid="149e876e-da9a-4e3d-90b2-c347594d11f0"
+										t="r" />
+									<refseq
+										guid="e5edb24a-d16a-4ade-9017-d75fbca9098a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2f924b1a-c546-4d62-bb92-03042bfdd7e1"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1342" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We, Megrelians call it ashen maize.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ნაცრიან სიმინდს ვეძახით ჩვენ, მეგრელები.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="5e0d353b-6fe4-4e5f-ae28-d3ed3fcad30d">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf"> -დო თე სიმინდი პირდაპირ შიებენოო ჭკომენ თუ?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="cadb71cf-0688-4496-98a3-fab7b8f49f15">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="99a31d70-6cdc-4499-9181-433604dc4fa3"
+										t="r" />
+									<refseq
+										guid="8b59fe2f-5cf0-451b-8815-c9363432aa6a"
+										t="r" />
+									<refseq
+										guid="27f0e48b-727f-41a0-b7e7-fe481ff58076"
+										t="r" />
+									<refseq
+										guid="2026efdb-9253-408a-b5db-ae0c8d78b618"
+										t="r" />
+									<refseq
+										guid="d42f6b26-3143-48a0-a5d2-d215416dee85"
+										t="r" />
+									<refseq
+										guid="bed4e857-94de-4638-866a-315d4de8b03e"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, may you eat the maize?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- და შესაძლებელია ეს სიმინდი პირდაპირ ჭამო?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="dc9f6260-f72d-46c0-b14c-4d6fa5dc60f7">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ჸათენაა შიებე, პირდაპირ ოჭკომე თინათ  შიებეე, თენა შეგიებუ ნეძობამით დოზადეე, შიებე, მარილ, ჯიმ ქოღოჲე, ათე ჯიმ, ქოო.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="37f2a877-46ba-48a2-880c-6cbbd061676f">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="21da5107-4795-4d4a-870e-f9d579fe3f49"
+										t="r" />
+									<refseq
+										guid="2fce4c5c-ba24-48d2-9f1b-34e1a9ac3d23"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="27f0e48b-727f-41a0-b7e7-fe481ff58076"
+										t="r" />
+									<refseq
+										guid="2868101e-0c66-4ace-8488-805fc57db41e"
+										t="r" />
+									<refseq
+										guid="d8c99ac0-1e67-4c3a-a657-4c7b02a39579"
+										t="r" />
+									<refseq
+										guid="c8fb71e1-89fa-4787-81dd-93a0b60f1ebc"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="eb8bc89b-fbe9-4265-bfc9-425f0d62c658"
+										t="r" />
+									<refseq
+										guid="727b7ad2-b19d-4380-a2e4-86207c67232d"
+										t="r" />
+									<refseq
+										guid="5500a3f8-fabf-49e6-b01c-88c739bcbd0e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="0b5136b8-4450-4a17-96ed-307f7e1c86aa"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2b3059c9-0725-4523-b583-5fc49f907097"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2cde03a9-2667-4b9e-92dc-6070a9e236bf"
+										t="r" />
+									<refseq
+										guid="3f6c1701-3e80-42a8-8c44-7b2d1f157ec0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="2cde03a9-2667-4b9e-92dc-6070a9e236bf"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e149f02c-5bcb-4b66-8193-5e5715d082c0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes, you may; it can be seasoned with walnuts [ajika (spicy dip)]; one can add only salt, yes.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">კი შეიძლება პირდაპირ ჭამო;  ისიც შეგიძლია ნიგვზიანით [აჯიკით] შეაზავო; შეიძლება [მხოლოდ] მარილი მოაყარო. დიახ. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2023-2-8 12:26:20.988" />
+		<DateModified
+			val="2023-10-20 16:10:37.485" />
+		<Genres>
+			<refcol
+				guid="c13f39e2-ea5e-11de-9645-0013722f8dec"
+				t="r" />
+		</Genres>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">SM_Megrelian Cuisine: Cooking Maize in Ash</AUni>
+			<AUni
+				ws="xmf">23--SM_მეგრული სამზარეულო: სიმინდის მომზადება ნაცარში</AUni>
+		</Name>
+		<Source>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Klara Khurtsilava</Run>
+			</AStr>
+			<AStr
+				ws="ka-Brai">
+				<Run
+					ws="ka-Brai">კლარა ხურცილავა</Run>
+			</AStr>
+			<AStr
+				ws="xmf-fonipa">
+				<Run
+					ws="xmf-fonipa">kʼlɑrɑ xurt͡silɑvɑ</Run>
+			</AStr>
+		</Source>
+	</Text>
+</TextInCorpus>

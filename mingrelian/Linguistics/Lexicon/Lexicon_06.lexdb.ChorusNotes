@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=6bcceb4f-8d89-4926-8767-4c307f5fa6f2&amp;tag=&amp;label=Entry &quot;ეთექიანი&quot;"
+		guid="ae5836bf-116d-4984-9c23-95ca67e97aff">
+		<message
+			author="merger"
+			status="open"
+			guid="6ccfb544-cca1-4801-b77d-0ed502151a38"
+			date="2023-07-04T15:06:26Z">Entry "ეთექიანი": MARI deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_06.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="6ccfb544-cca1-4801-b77d-0ed502151a38"
+	date="2023-07-04T15:06:26Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry &quot;ეთექიანი&quot;: MARI deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='property'&gt;DateCreated: 2023-4-14 12:49:45.49&lt;/div&gt;&lt;div class='property'&gt;DateModified: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2023-6-30&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;2023-7-1&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;21:36:52.002&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;11:3:26.976&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: 0&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ეთექიანი&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɛtɛkiɑni&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: 8vuxP9oD+4MHboh6iDetvb5NpRY=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphoSyntaxAnalyses: &lt;div class='checksum'&gt;PartOfSpeech: 8KTkd4gUVp9+iW6PlWtEDtumGoA=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Senses: &lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: of_that_place.DIST&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;MorphoSyntaxAnalysis: /yh/TORE4mnG+AG2mZZsg6d0Qq4=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=6bcceb4f-8d89-4926-8767-4c307f5fa6f2&amp;tag=&amp;label=Entry &quot;ეთექიანი&quot;"
+	contextDataLabel="Entry &quot;ეთექიანი&quot;">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="fee8e65ed30c"
+		betaUserRevision="f8847a524da6"
+		path="Linguistics\Lexicon\Lexicon_06.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-07T23:42:25+04:00"
+			guid="13055562-90e3-4d66-9703-30a717290412" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-07T23:42:25+04:00"
+			guid="62036d12-6fe1-481a-8d08-4cf893101f32" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-07T23:42:26+04:00"
+			guid="a2f3608a-1306-480f-84bb-22898dc29193" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-07T23:42:26+04:00"
+			guid="a1697122-4e90-4e44-b6f8-4dd3a09a3d87" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-07T23:42:26+04:00"
+			guid="0457e3d2-a847-49b0-af4b-a7e33fec3aff" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-05T22:40:53+04:00"
+			guid="8484e955-9c4e-4118-87a1-1d8c61a78752" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-05T22:40:54+04:00"
+			guid="dbc23b5e-eb36-4e8f-8613-525fbc496e3f" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-05T22:40:54+04:00"
+			guid="b675b0d4-5b70-478c-903e-d8fa83ada9d9" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-05T22:40:54+04:00"
+			guid="00f750d0-a16c-4e91-80ef-12b5544c990b" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-05T22:40:54+04:00"
+			guid="557196b5-39f8-4a04-838c-eaafb41f8a67" />
+	</annotation>
+</notes>

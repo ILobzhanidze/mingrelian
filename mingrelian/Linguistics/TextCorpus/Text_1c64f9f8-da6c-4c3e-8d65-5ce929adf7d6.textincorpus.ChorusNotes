@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=423f0e02-f9ae-4881-9b8c-68d3f107d9c7&amp;tag=&amp;label=Text &quot;text 23 - თამუნა - მეგრული ქორწილი&quot; Contents Paragraphs 2 Segments 19 Analyses"
+		guid="e342375d-069c-4672-a9ff-155498ebc848">
+		<message
+			author="merger"
+			status="open"
+			guid="f191f6f4-1e10-407b-9a87-eb07448c75ae"
+			date="2023-03-12T14:12:45Z">Text "text 23 - თამუნა - მეგრული ქორწილი" Contents Paragraphs 2 Segments 19 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_1c64f9f8-da6c-4c3e-8d65-5ce929adf7d6.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f191f6f4-1e10-407b-9a87-eb07448c75ae"
+	date="2023-03-12T14:12:45Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 23 - თამუნა - მეგრული ქორწილი&quot; Contents Paragraphs 2 Segments 19 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;u7m19yLni8F3ZIJLpzyWyJmf6YQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;X6+ixRYGYaq4BGSDVEjyIkgk+Xk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;u7m19yLni8F3ZIJLpzyWyJmf6YQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;vMrRoBLkEbCixF509t8XFUMAAm8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=423f0e02-f9ae-4881-9b8c-68d3f107d9c7&amp;tag=&amp;label=Text &quot;text 23 - თამუნა - მეგრული ქორწილი&quot; Contents Paragraphs 2 Segments 19 Analyses"
+	contextDataLabel="Text &quot;text 23 - თამუნა - მეგრული ქორწილი&quot; Contents Paragraphs 2 Segments 19 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_1c64f9f8-da6c-4c3e-8d65-5ce929adf7d6.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:16:37+04:00"
+			guid="835db0ad-7a09-4c88-b91f-b501f9080a14" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:11+04:00"
+			guid="b67e7ce7-429e-44dd-b5f9-f5f4a5c13d4c" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:12+04:00"
+			guid="f9e94176-2d2f-4916-8640-8a9ee9a41b6c" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:12+04:00"
+			guid="02c0a67f-f884-4ab4-973d-4a744819ce87" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:12+04:00"
+			guid="33379652-34f1-408f-9275-c1853aa75dd7" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:12+04:00"
+			guid="eb443da6-6b5b-45cc-9fa0-9b51c142304e" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:13+04:00"
+			guid="3083dafb-3583-4f10-92ec-b2f861f3a314" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:13+04:00"
+			guid="23c39eed-b4af-474b-9513-fefc9f23aeb6" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:13+04:00"
+			guid="959d8c7d-121b-4233-a712-557a13e8752e" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:13+04:00"
+			guid="c5b8e5d7-427c-4c65-bb68-10b88d06defc" />
+	</annotation>
+</notes>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8c9519cc-0834-4a77-b920-36a0b3ce4a04&amp;tag=&amp;label=Text &quot;text 31_ნინო_საქონლისა და ფრინველის დასამწყვდევი ნაგებობები&quot; Contents Paragraphs 3 Segments 7 Analyses"
+		guid="4d681b23-9480-4c7b-ac28-a52cebb6c2ca">
+		<message
+			author="merger"
+			status="open"
+			guid="3753e232-6676-46e4-b78e-8a08fc712393"
+			date="2023-03-13T17:57:51Z">Text "text 31_ნინო_საქონლისა და ფრინველის დასამწყვდევი ნაგებობები" Contents Paragraphs 3 Segments 7 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_02521d4b-7461-4d32-964e-fe24bec6f194.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3753e232-6676-46e4-b78e-8a08fc712393"
+	date="2023-03-13T17:57:51Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 31_ნინო_საქონლისა და ფრინველის დასამწყვდევი ნაგებობები&quot; Contents Paragraphs 3 Segments 7 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;K7Ll7R3Lk780B5cge5RAc24KHBA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;LsFyFrYOarVG2E6qD2n9GdBQVec=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;K7Ll7R3Lk780B5cge5RAc24KHBA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;StV6DFfikA7XE7qNvlfyMMVTRqY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8c9519cc-0834-4a77-b920-36a0b3ce4a04&amp;tag=&amp;label=Text &quot;text 31_ნინო_საქონლისა და ფრინველის დასამწყვდევი ნაგებობები&quot; Contents Paragraphs 3 Segments 7 Analyses"
+	contextDataLabel="Text &quot;text 31_ნინო_საქონლისა და ფრინველის დასამწყვდევი ნაგებობები&quot; Contents Paragraphs 3 Segments 7 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="cd968d9c2df2"
+		betaUserRevision="7398be523822"
+		path="Linguistics\TextCorpus\Text_02521d4b-7461-4d32-964e-fe24bec6f194.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-14T16:39:14+04:00"
+			guid="520dd568-2bf9-42db-a0b7-1b4503995381"></message>
+	</annotation>
+</notes>

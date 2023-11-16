@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ada9c3ae-c942-4ad5-96db-a453530e7bb8&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 38 Segments 1 Analyses"
+		guid="c9941535-258c-4ff6-b30c-b55d145b20d2">
+		<message
+			author="merger"
+			status="open"
+			guid="dc7325d6-79ab-48b7-9190-b6dcac30c9f3"
+			date="2023-03-01T11:55:06Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 38 Segments 1 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="dc7325d6-79ab-48b7-9190-b6dcac30c9f3"
+	date="2023-03-01T11:55:06Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 38 Segments 1 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;v5n+wGf/me1x94meHap0igJ7i6I=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;OScMdrJrqFWbOn4IyzKajFKA98=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;qJV476wwVHJRLCIfzOZCr97B5mo=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;OScMdrJrqFWbOn4IyzKajFKA98=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=ada9c3ae-c942-4ad5-96db-a453530e7bb8&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 38 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 38 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="b3a2b5dc3a5b"
+		betaUserRevision="87c0ee87e2a3"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:57+04:00"
+			guid="1f75c49b-b783-46b3-814d-47b3b3a6d7e9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:57+04:00"
+			guid="4436ae42-2912-48a8-9f0b-aa4cec60277e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:57+04:00"
+			guid="d214896d-c00d-4fb3-963b-bba8b4f4694f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:57+04:00"
+			guid="8fe2bbaf-3f00-4710-bbd1-8bce87b1782b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:58+04:00"
+			guid="ff1e08e1-c932-4792-be5e-9da47c403c27" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:58+04:00"
+			guid="fd9855ca-3eec-4e97-9031-759c351eb043" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:58+04:00"
+			guid="2171ca62-6274-41b4-8205-7bfe144c4f9a" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:52+04:00"
+			guid="e06198c8-8847-44bc-8555-c7ceaf1381ad" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d1f9ffba-0c20-4478-b846-66bf22c58bae&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses"
+		guid="e93acd30-6eb7-41d2-bede-149938d913af">
+		<message
+			author="merger"
+			status="open"
+			guid="d7bb4f65-f190-491e-b46f-f3a0d8d7ab51"
+			date="2023-03-01T15:30:08Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 30 Segments 1 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="d7bb4f65-f190-491e-b46f-f3a0d8d7ab51"
+	date="2023-03-01T15:30:08Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;flJP1uK8Kx5NA9tB2AIrnuYBFdA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;4IRlpYoI+poPDOnuzLk1sKd7EGM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;flJP1uK8Kx5NA9tB2AIrnuYBFdA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;sWS+qdKEnt2+0lCH91MGUbVwZK0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d1f9ffba-0c20-4478-b846-66bf22c58bae&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="edc1afd95d0a"
+		betaUserRevision="768974a99ee0"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:42+04:00"
+			guid="7ae006df-dba3-4199-b55f-c67f3444c1de" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:42+04:00"
+			guid="a9022202-8fe9-4e70-9b2c-ace1b5e85e38" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:42+04:00"
+			guid="42d148f7-72ef-4402-a024-661dd3b14555" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:43+04:00"
+			guid="3a8fc372-9adf-4d8b-8d79-a2975cc7c2f1" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:43+04:00"
+			guid="4c6a051a-7114-4396-8298-5f08f29709d9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:43+04:00"
+			guid="bcca9827-05d5-4d7b-b466-e4efe85baea7" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:43+04:00"
+			guid="fa735a5a-dac3-4c25-a174-37fc2aa15321" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:43+04:00"
+			guid="9546a115-990c-4dba-9486-bc2c2833a797" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:44+04:00"
+			guid="c4482dbe-6b73-4178-ab70-6de0cfb15af9" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:34+04:00"
+			guid="607e430b-f9fd-4e30-86a9-629ac7ef6292" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d1f9ffba-0c20-4478-b846-66bf22c58bae&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses"
+		guid="07c4c383-2019-4aff-935e-e3410d2d3bde">
+		<message
+			author="merger"
+			status="open"
+			guid="b8a21bd7-2416-4df2-8d38-118d96be7263"
+			date="2023-05-24T18:49:30Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 30 Segments 1 Analyses: Lenovo and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b8a21bd7-2416-4df2-8d38-118d96be7263"
+	date="2023-05-24T18:49:30Z"
+	whoWon="Lenovo"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses: Lenovo and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Lenovo's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;J8gc1jvE7MU8DXfPCfrF4AVu8l8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;kWvOlItnMkMQX/eARKnAb5/ng6g=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;J8gc1jvE7MU8DXfPCfrF4AVu8l8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;HcHCtapkfNXT4vgFPj6aqtiK4P8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Lenovo.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d1f9ffba-0c20-4478-b846-66bf22c58bae&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="Lenovo"
+		betaUserId="User"
+		alphaUserRevision="6c32426ca816"
+		betaUserRevision="94815a1f376c"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:13+04:00"
+			guid="6cc74480-056f-457f-b931-7dfe5e06f015"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:13+04:00"
+			guid="5de47a10-be5a-4850-9b92-08d9865abd53"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:13+04:00"
+			guid="06f489cf-8dfe-497f-9339-a0e42fcda850"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:13+04:00"
+			guid="7b9d326c-8ee8-4eb0-b257-974c5fad14b0"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:14+04:00"
+			guid="801afe46-c738-4062-a499-ba369e7f9d21"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:14+04:00"
+			guid="d554120c-c212-4ef2-b0af-3f4cf8061cc9"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:14+04:00"
+			guid="c207fe1b-dac7-4862-8fa2-fee717c1a83a"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:14+04:00"
+			guid="3aeb9921-c7b7-43dc-8828-e91be5d06f92"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:14+04:00"
+			guid="ff890f23-bbe0-48d8-8c44-268f7caacc72"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:14+04:00"
+			guid="5ba038ca-c806-4fc5-8e31-e005d4a81ea6"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:15+04:00"
+			guid="6e3a7551-c5b1-472c-b2c4-259c70d69b7c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:15+04:00"
+			guid="78e9d3eb-7cd3-4ec0-b20d-51d09685f6cb"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:15+04:00"
+			guid="d6e4bb9b-f361-46c7-a08d-c220d48793d5"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-05-25T00:56:15+04:00"
+			guid="074877fb-d9a6-4819-b40e-95933e353562"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-05-25T00:56:15+04:00"
+			guid="501cd20b-6209-4612-b5ed-0dbd6961995e"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3113277e-2972-47fc-bc26-8f887d79dc31&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 12 Analyses"
+		guid="e1846a17-8f10-4acc-81aa-6311c2a1c5c7">
+		<message
+			author="merger"
+			status="open"
+			guid="68ebc875-a934-4e75-a81c-78ef3db242ab"
+			date="2023-08-13T07:45:17Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 20 Segments 12 Analyses: User and MARI edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="68ebc875-a934-4e75-a81c-78ef3db242ab"
+	date="2023-08-13T07:45:17Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 12 Analyses: User and MARI edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YGWbnT40tpEqFtmA0o+pF8GKFkg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Ksl3QqV1lR8vlQQ5eQCBiOmBXx4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YGWbnT40tpEqFtmA0o+pF8GKFkg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;DjMmqS+bd2OsJ9s/U8uFsdRkFnA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3113277e-2972-47fc-bc26-8f887d79dc31&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 12 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 12 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="MARI"
+		alphaUserRevision="8c2e621b993c"
+		betaUserRevision="432e3ab763a1"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:44+04:00"
+			guid="2bd0b65c-8a9f-4f1d-8a41-ce5f9ba87408"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:44+04:00"
+			guid="d2ed7878-1b97-4af4-9f09-a076f9313d41"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:44+04:00"
+			guid="99f10942-2706-409e-9c04-b61504591932"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:44+04:00"
+			guid="460414c4-3301-4e64-b875-3a66a00abbb3"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:44+04:00"
+			guid="53c90545-3b0f-4809-990b-ffad6580f732"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b09bb413-aa54-46f8-b704-4ce66be5897d&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses"
+		guid="87e4e86f-a11c-4666-8235-78ecd6ecca01">
+		<message
+			author="merger"
+			status="open"
+			guid="8f7e68e0-e6ac-48cb-aec7-53937a78794f"
+			date="2023-08-13T07:53:36Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 8 Segments 6 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="8f7e68e0-e6ac-48cb-aec7-53937a78794f"
+	date="2023-08-13T07:53:36Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cmCpAQ4DlI1TGQjVRGEHr+Fbq+k=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;gAkFRXVOtnunEIOx5rT56V9+MsY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cmCpAQ4DlI1TGQjVRGEHr+Fbq+k=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;cxAHQcSmOQStb8jM1fKV65vqCwM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b09bb413-aa54-46f8-b704-4ce66be5897d&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="def364668a4d"
+		betaUserRevision="23ae7d6a2dc3"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:43+04:00"
+			guid="d32b7e1d-f1ca-4d50-afa8-a8b991b5d044"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:43+04:00"
+			guid="afd77642-efb1-4951-9a4f-750aaf7d2b39"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:43+04:00"
+			guid="9823c722-0ff7-47c7-97bb-2cefa9bef0b6"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b09bb413-aa54-46f8-b704-4ce66be5897d&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses"
+		guid="9711d541-2827-4301-a8b3-acd1b2173b24">
+		<message
+			author="merger"
+			status="open"
+			guid="a09cd1a8-477b-402b-90e7-67412ac9a3f6"
+			date="2023-08-13T09:52:49Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 8 Segments 6 Analyses: User and MARI edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="a09cd1a8-477b-402b-90e7-67412ac9a3f6"
+	date="2023-08-13T09:52:49Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses: User and MARI edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cxAHQcSmOQStb8jM1fKV65vqCwM=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;1IUOxK9OzF3TP1PMdtQHiUDGFKs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cxAHQcSmOQStb8jM1fKV65vqCwM=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;gAkFRXVOtnunEIOx5rT56V9+MsY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b09bb413-aa54-46f8-b704-4ce66be5897d&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 8 Segments 6 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="MARI"
+		alphaUserRevision="92d0b1ca30b6"
+		betaUserRevision="a3eb82252ae9"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:42+04:00"
+			guid="847e7d6f-77fa-4fa3-a5c6-5f03e893c1d5"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d1f9ffba-0c20-4478-b846-66bf22c58bae&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses"
+		guid="71f89b4e-fe14-4f99-aa62-cf542b56b5a6">
+		<message
+			author="merger"
+			status="open"
+			guid="9ca2381d-1083-4c69-a342-ac64ebf67a5e"
+			date="2023-08-15T10:14:31Z">Text "Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 30 Segments 1 Analyses: MARI and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="9ca2381d-1083-4c69-a342-ac64ebf67a5e"
+	date="2023-08-15T10:14:31Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses: MARI and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ucWlhBfKgUZ6yVZBNV913yen2zY=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xKyA3wnde88FZ2w3NCIz1He9LwY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ucWlhBfKgUZ6yVZBNV913yen2zY=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;MYnfgdXH7JhjC+Cqp64ooiUhbmA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d1f9ffba-0c20-4478-b846-66bf22c58bae&amp;tag=&amp;label=Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 17_რუსუდან გერსამია_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 30 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="1a2769ed00c8"
+		betaUserRevision="c523587062d0"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-22T13:25:47+04:00"
+			guid="0522417e-7077-4c88-8206-078acf2d13b9"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-22T13:25:47+04:00"
+			guid="bd2616e8-b575-42d2-92da-c0bdf30c3247"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-22T13:25:47+04:00"
+			guid="3407e52e-4c52-4116-9c68-7809773a71a3"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-22T13:25:47+04:00"
+			guid="714eb7f6-cd32-48ea-985e-3818571e2994"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-22T13:25:49+04:00"
+			guid="254e93a9-3d33-4c4d-a916-6a4cd83846f8"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4dc813ea-b9bd-4f06-a63f-1cfe83386e00&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 1 Segments 1 Analyses"
+		guid="4e258dd6-77c2-4214-8b2d-728e8986277f">
+		<message
+			author="merger"
+			status="open"
+			guid="eedb4981-0f43-4f77-bee5-743696e02b22"
+			date="2023-10-25T13:58:08Z">Text "ZS_Megrelian Wedding Feast Table and Wedding Traditions ", "ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 1 Segments 1 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="eedb4981-0f43-4f77-bee5-743696e02b22"
+	date="2023-10-25T13:58:08Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 1 Segments 1 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;381djZGksk0p0OX++72synW9ttQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;mP4X3BblH6gZyUxYzKLd0K9B7yU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;381djZGksk0p0OX++72synW9ttQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Y8kfzNJqqWxCTT/BEaqFGijH80U=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4dc813ea-b9bd-4f06-a63f-1cfe83386e00&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 1 Segments 1 Analyses"
+	contextDataLabel="Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 1 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="eadd76aac5d7"
+		betaUserRevision="ad9a1fe86cb8"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:14+04:00"
+			guid="d4f92883-bdda-4ac8-88d1-c38d506e7091"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:15+04:00"
+			guid="4707e546-14a5-493a-bdc0-30b47723ae06"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:15+04:00"
+			guid="020bcafa-1bb6-4688-85f2-0d466aac25bf"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:15+04:00"
+			guid="5e7551e6-1304-4eed-8aaf-6c80970bdeb3"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:15+04:00"
+			guid="bff37ef7-400b-4d86-8374-6fde61cf7f7c"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=44940473-9d53-4128-ae21-c2b202bb2e46&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 10 Segments 4 Analyses"
+		guid="be135027-74d8-466f-9391-cd5b8250acfa">
+		<message
+			author="merger"
+			status="open"
+			guid="b44a59a9-ecec-4943-bcd2-61fb64f5937f"
+			date="2023-10-25T13:58:08Z">Text "ZS_Megrelian Wedding Feast Table and Wedding Traditions ", "ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 10 Segments 4 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b44a59a9-ecec-4943-bcd2-61fb64f5937f"
+	date="2023-10-25T13:58:08Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 10 Segments 4 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ywMS2wO6dQpM578FTgz3/7Cx3Ps=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;YLNuJjkVX5FQeXYp5xDmtufdwF0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ywMS2wO6dQpM578FTgz3/7Cx3Ps=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;oTFq+dvN3P56wVI6uegY2rsMKNs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=44940473-9d53-4128-ae21-c2b202bb2e46&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 10 Segments 4 Analyses"
+	contextDataLabel="Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 10 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="eadd76aac5d7"
+		betaUserRevision="ad9a1fe86cb8"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:15+04:00"
+			guid="c8919291-e22b-453c-9cb4-cc2127b01071"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:16+04:00"
+			guid="2b83b6aa-e129-4a01-9d88-f03210bdfcf6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:16+04:00"
+			guid="2fa4ed75-4b98-4aff-842e-9826b7c9ef5c"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:16+04:00"
+			guid="b3843c04-612f-4b07-8c86-7eec83afac9b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:16+04:00"
+			guid="ca4503b5-ab73-46b9-83ff-0118386a2c56"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=a2b7419f-18bf-46a1-9cf8-e69e97d6dd50&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 10 Analyses"
+		guid="910018df-bf74-4f83-8c01-0f6edcba10f9">
+		<message
+			author="merger"
+			status="open"
+			guid="5c58f4c4-cc07-4a7f-8d37-38323087f677"
+			date="2023-10-25T13:58:08Z">Text "ZS_Megrelian Wedding Feast Table and Wedding Traditions ", "ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 20 Segments 10 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="5c58f4c4-cc07-4a7f-8d37-38323087f677"
+	date="2023-10-25T13:58:08Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 10 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;6lblRBpd0oFOCvfwTymOSNI8sO8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;oSYUk2EEwObr87aEMbBsJsggUM4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;6lblRBpd0oFOCvfwTymOSNI8sO8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WQdLwj7jqmKyDlpFrq18rebMHfI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=a2b7419f-18bf-46a1-9cf8-e69e97d6dd50&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 10 Analyses"
+	contextDataLabel="Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 10 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="eadd76aac5d7"
+		betaUserRevision="ad9a1fe86cb8"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:16+04:00"
+			guid="94271f41-c778-4840-8ebd-2e3e467c605b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:17+04:00"
+			guid="8c5bc9c8-0b7d-4076-b531-e0075598d022"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:17+04:00"
+			guid="b845cccb-0a32-4981-82f8-cabd484aeaf6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:17+04:00"
+			guid="d5ca9c92-2bbf-464a-9592-de9164a66e8c"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:17+04:00"
+			guid="07075a0b-6d33-4dbb-8f26-6e989626bcc1"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8f0e314b-4449-4ac1-bbf8-3e52f47d2d07&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;17---ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 2 Analyses"
+		guid="7560124f-631a-4a93-b5fb-6686396ef40e">
+		<message
+			author="merger"
+			status="open"
+			guid="d64e634c-126b-4b97-a873-a23c136e1361"
+			date="2023-10-31T21:50:50Z">Text "ZS_Megrelian Wedding Feast Table and Wedding Traditions ", "17---ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები" Contents Paragraphs 20 Segments 2 Analyses: User and USER edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="d64e634c-126b-4b97-a873-a23c136e1361"
+	date="2023-10-31T21:50:50Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;17---ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 2 Analyses: User and USER edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;92EWq6iST2bf133n9FxKf4ybWsE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;dhjVsX/YNzpfSbVlje6bEC5ORvQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;92EWq6iST2bf133n9FxKf4ybWsE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;65eI/IeS/+gZISNyj4ryenBprQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8f0e314b-4449-4ac1-bbf8-3e52f47d2d07&amp;tag=&amp;label=Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;17---ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ZS_Megrelian Wedding Feast Table and Wedding Traditions &quot;, &quot;17---ZS_მეგრელთა საქორწილო სუფრა და ქორწინების ტრადიციები&quot; Contents Paragraphs 20 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="USER"
+		alphaUserRevision="884522349ceb"
+		betaUserRevision="163c02640d01"
+		path="Linguistics\TextCorpus\Text_f66bff81-bf78-49bc-8640-2dd5ef944d4c.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:11+04:00"
+			guid="cda6e9ee-e71f-4637-a28d-26fa59774fdb"></message>
+	</annotation>
+</notes>

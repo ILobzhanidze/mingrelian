@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=59e8db86-dd53-438b-a362-a26671f351a5&amp;tag=&amp;label=Text &quot;Gloss_Text_47 - ნინო - ნაფიჩხუ, ოჩხომური, ომარტე - ხალხური ეტიმოლოგიები&quot; Name"
+		guid="3b837b39-625b-4158-afc8-8ea36a8118b2">
+		<message
+			author="merger"
+			status="open"
+			guid="776a2d66-6304-4d33-9c25-d9f9a08b736d"
+			date="2023-09-24T19:55:33Z">Text "Gloss_Text_47 - ნინო - ნაფიჩხუ, ოჩხომური, ომარტე - ხალხური ეტიმოლოგიები" Name: IrinaLobzhanidze and User edited this element.<![CDATA[<conflict
+	typeGuid="c1ed6dbe-e382-11de-8a39-0800200c9a66"
+	class="Chorus.merge.xml.generic.XmlTextBothEditedTextConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_59e8db86-dd53-438b-a362-a26671f351a5.textincorpus"
+	type="Both Edited Xml Text Element Conflict"
+	guid="776a2d66-6304-4d33-9c25-d9f9a08b736d"
+	date="2023-09-24T19:55:33Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text_47 - ნინო - ნაფიჩხუ, ოჩხომური, ომარტე - ხალხური ეტიმოლოგიები&quot; Name: IrinaLobzhanidze and User edited this element.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Gloss_text&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Gloss_Text_47&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;47&lt;/span&gt; - ნინო - ნაფიჩხუ, ოჩხომური, ომარტე - ხალხური ეტიმოლოგიები&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;en&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;SM_Folk&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Etimologies&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Napichkhu&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Ochkhomuri&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;,&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;Omarte&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Gloss_text&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;47&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ნინო&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;SM_ხალხური&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;ეტიმოლოგიები&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; ნაფიჩხუ, ოჩხომური, ომარტე&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;-&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ხალხური&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ეტიმოლოგიები&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background: Yellow&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=59e8db86-dd53-438b-a362-a26671f351a5&amp;tag=&amp;label=Text &quot;Gloss_Text_47 - ნინო - ნაფიჩხუ, ოჩხომური, ომარტე - ხალხური ეტიმოლოგიები&quot; Name"
+	contextDataLabel="Text &quot;Gloss_Text_47 - ნინო - ნაფიჩხუ, ოჩხომური, ომარტე - ხალხური ეტიმოლოგიები&quot; Name">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e1401cc55a1"
+		betaUserRevision="6b8cfc26d066"
+		path="Linguistics\TextCorpus\Text_59e8db86-dd53-438b-a362-a26671f351a5.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:04+04:00"
+			guid="94a417a4-8c40-4164-82b5-bb46b1d2aca8"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:17:04+04:00"
+			guid="96f92eef-b983-407d-8623-44999f666719"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:04+04:00"
+			guid="108ccbee-3f2d-4d79-a01b-3f0b444feb68"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-26T21:17:04+04:00"
+			guid="6da82f79-7946-40b3-967e-94a7edc1e68d"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-26T21:17:05+04:00"
+			guid="80ad0164-85e7-4234-878f-0ae541c8953b"></message>
+	</annotation>
+</notes>

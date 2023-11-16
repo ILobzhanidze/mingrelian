@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+		guid="548b2f42-2b8c-4abc-a9ef-cdbbe1f398f6">
+		<message
+			author="merger"
+			status="open"
+			guid="6d2e4c06-fcac-4cb5-9a3d-0a2bdc1f5ecb"
+			date="2023-03-11T14:26:38Z">Text "Text 29 - თამუნა_ღუმუშ ღუმუ" Contents Paragraphs 5 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="6d2e4c06-fcac-4cb5-9a3d-0a2bdc1f5ecb"
+	date="2023-03-11T14:26:38Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cxKZaahs/7U3HignKIHGRLHXbRs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;BXMRymUr5wtT+xpDH4gfQuaWeR8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cxKZaahs/7U3HignKIHGRLHXbRs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;stKfFsUODM12+Uj3QNLqHRpwGMQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="3e269025232b"
+		betaUserRevision="6989bfd67f41"
+		path="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-11T18:48:23+04:00"
+			guid="de06b926-a676-4899-aa2f-bd7dcd810d53" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+		guid="73c357a7-2b9f-4a9c-90e3-5478a157af8c">
+		<message
+			author="merger"
+			status="open"
+			guid="118ed535-8854-4ea5-8890-f7dfe5c4831f"
+			date="2023-03-12T12:46:12Z">Text "Text 29 - თამუნა_ღუმუშ ღუმუ" Contents Paragraphs 5 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="118ed535-8854-4ea5-8890-f7dfe5c4831f"
+	date="2023-03-12T12:46:12Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;BXMRymUr5wtT+xpDH4gfQuaWeR8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;hOhqs2zj3R561705PjHbzc393EQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;BXMRymUr5wtT+xpDH4gfQuaWeR8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;vYFBmRPmwEAJPXdfql7pliZAEGM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="2b996649f326"
+		betaUserRevision="fa52bea69de2"
+		path="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:16:47+04:00"
+			guid="18b6ae58-f251-485e-b607-4cc9b9a546c5" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:20+04:00"
+			guid="75053c1f-8b6d-4b3f-84ac-fcd0f4d63805" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:21+04:00"
+			guid="3ae70c7b-c73b-4f89-acb6-10820ae5f32e" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:21+04:00"
+			guid="25076c03-5d26-485e-82e0-07b200b93523" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:21+04:00"
+			guid="abed5a23-8843-4ff1-9291-00e10c107257" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:21+04:00"
+			guid="ee63845d-99b2-4dfc-a4d5-3ec95d6185ff" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:21+04:00"
+			guid="f15b60fe-93fd-48a3-935e-c681c17e22a4" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:22+04:00"
+			guid="d0d12d42-65d8-491b-8bd7-6dffef65bce3" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:22+04:00"
+			guid="081d656a-8c51-4889-927f-a78899fefd47" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:22+04:00"
+			guid="b02abf4d-f783-4b8d-99b3-1a74e86bd81a" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+		guid="361c3580-9c7f-45ae-8847-1c748c1c04d6">
+		<message
+			author="merger"
+			status="open"
+			guid="32b82484-aee7-47bc-a6b8-b075ca9f6f08"
+			date="2023-03-12T14:12:45Z">Text "Text 29 - თამუნა_ღუმუშ ღუმუ" Contents Paragraphs 5 Segments 4 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="32b82484-aee7-47bc-a6b8-b075ca9f6f08"
+	date="2023-03-12T14:12:45Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cxKZaahs/7U3HignKIHGRLHXbRs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;BXMRymUr5wtT+xpDH4gfQuaWeR8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cxKZaahs/7U3HignKIHGRLHXbRs=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;tItuEDSUUe+bmzJ3XG9/6Oi3UE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:16:09+04:00"
+			guid="5f9b741d-1c0d-489b-9a3c-715b08144fe0" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:09+04:00"
+			guid="fd5f7f2a-2c1e-46d9-a094-548f7a9f2d16" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:10+04:00"
+			guid="517aa8fc-ca9e-4432-a32a-0210b6634c8d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:10+04:00"
+			guid="87cd25b8-0901-4a19-86b9-921f8d19a348" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:10+04:00"
+			guid="a66f3df7-988e-407b-b0b9-fa1c9dd644c1" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:10+04:00"
+			guid="4a2ae3ff-81b7-40e6-aaa9-4a1283bf1478" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:10+04:00"
+			guid="81060cfd-ce51-4a23-bd9a-39984e83b341" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:11+04:00"
+			guid="c7c67ef9-ec7c-4e4f-950c-18bd3e361d7f" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:11+04:00"
+			guid="f8e08b96-26e1-4327-b6a9-53d5e93fcd7c" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:11+04:00"
+			guid="13831cfa-68c7-44a8-a183-675548bfc55b" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+		guid="0274eb16-454d-49e2-9b0c-8b8c035af9f2">
+		<message
+			author="merger"
+			status="open"
+			guid="8e49ee71-b95a-447d-96cf-0ec0e5d7900a"
+			date="2023-03-30T21:22:54Z">Text "Text 29 - თამუნა_ღუმუშ ღუმუ" Contents Paragraphs 5 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="8e49ee71-b95a-447d-96cf-0ec0e5d7900a"
+	date="2023-03-30T21:22:54Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;BXMRymUr5wtT+xpDH4gfQuaWeR8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;tItuEDSUUe+bmzJ3XG9/6Oi3UE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;BXMRymUr5wtT+xpDH4gfQuaWeR8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;AR0ansWY1lX4IxBanaDdAeXRFSU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0cbb4219-4d36-49b9-a8a4-8425a3bd6142&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 5 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="5d3bac51613d"
+		betaUserRevision="0b72da40092b"
+		path="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:30+04:00"
+			guid="b0356f1c-fcaf-4f92-b352-d987a2cacf54" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:30+04:00"
+			guid="314a2a23-ba0d-4f35-9025-af2151a926cb" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:30+04:00"
+			guid="eed7da2c-9b27-4e60-80ec-b33a7e040e07" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:30+04:00"
+			guid="f02b546d-18f6-4abe-b8fd-5c4a64eaaf25" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:30+04:00"
+			guid="fbbb667c-2111-4289-bda8-25dd00ed9090" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:31+04:00"
+			guid="8d34e996-0f19-45e1-ae37-cc4ec9e95f01" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:31+04:00"
+			guid="916d3544-e14d-4bc2-9381-2c67726d3c91" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:31+04:00"
+			guid="5f368655-2cf6-4564-b03b-6ce1d5b08de0" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:31+04:00"
+			guid="ba2a9c93-27c7-4e32-8578-92cd4d1f5238" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:31+04:00"
+			guid="a240997e-6f15-4a3f-be24-2716462d9b92" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:32+04:00"
+			guid="bd75b421-1c65-46f9-b63b-79901b127f64" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:11:31+04:00"
+			guid="f23668a4-0bf6-4dce-9a88-34617d873c8c" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e8214484-d540-42bd-a603-8307a0495b56&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 7 Segments 3 Analyses"
+		guid="aba97c7b-0132-4f32-9497-a3c1a72078f2">
+		<message
+			author="merger"
+			status="open"
+			guid="b45bd92e-fac5-4f83-89e0-e2967cce2e24"
+			date="2023-08-28T17:43:29Z">Text "Text 29 - თამუნა_ღუმუშ ღუმუ" Contents Paragraphs 7 Segments 3 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b45bd92e-fac5-4f83-89e0-e2967cce2e24"
+	date="2023-08-28T17:43:29Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 7 Segments 3 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dXRcfe/6aKSIY9gFbjEArk/3NQk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;zIqFDZxNcHEfsQKTXNX9UpqbbTw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dXRcfe/6aKSIY9gFbjEArk/3NQk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;UB++0S2RQOA6ybq5/scH18QFbOg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e8214484-d540-42bd-a603-8307a0495b56&amp;tag=&amp;label=Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 7 Segments 3 Analyses"
+	contextDataLabel="Text &quot;Text 29 - თამუნა_ღუმუშ ღუმუ&quot; Contents Paragraphs 7 Segments 3 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="e5f945ebe7cc"
+		betaUserRevision="56b56dbf6073"
+		path="Linguistics\TextCorpus\Text_069a4619-ee3e-437d-848c-3965352b4741.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:35+04:00"
+			guid="679f6fb3-1254-438b-a573-e526d74ddc6d"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:35+04:00"
+			guid="57d46a48-b762-4cd5-bb49-f4163cda39d6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:35+04:00"
+			guid="92526518-dc87-466b-88f8-d8dba6fcacc0"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:35+04:00"
+			guid="b5f34022-51a8-47a2-9547-ee86db9f339b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:35+04:00"
+			guid="c4f7b236-7efd-4469-8fb9-8ffd5ccf1175"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:36+04:00"
+			guid="4c880b76-5945-4f62-9ad6-8392817e7a41"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:36+04:00"
+			guid="159b5554-4a5b-4235-a902-c800f6fbfc00"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:36+04:00"
+			guid="19e5df59-803d-463a-8f83-498e8cb98491"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:36+04:00"
+			guid="aeeea993-6d3e-4a6e-821c-f31f7251ce64"></message>
+	</annotation>
+</notes>

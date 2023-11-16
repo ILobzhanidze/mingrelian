@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=01bd256a-641f-4114-b24c-dc79f86993f0&amp;tag=&amp;label=Entry"
+		guid="4bc0a3f8-fcf7-48e3-84cd-4aaedb171333">
+		<message
+			author="merger"
+			status="open"
+			guid="8542b4c2-dabf-4e1d-8dc1-10d75a448dc7"
+			date="2023-03-02T17:27:14Z">Entry: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_09.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="8542b4c2-dabf-4e1d-8dc1-10d75a448dc7"
+	date="2023-03-02T17:27:14Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='property'&gt;DateCreated: 2023-3-2 13:42:18.655&lt;/div&gt;&lt;div class='property'&gt;DateModified: 2023-3-2 &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;13:42:18.655&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;16:50:53.504&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;0&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;1&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: დ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: d&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: e56Zjf5cMZehiaVy7RGWZtrdUnM=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphoSyntaxAnalyses: &lt;div class='checksum'&gt;PartOfSpeech: f0XRtJEh3dGIqV7yy8TJI4IF/w0=&lt;/div&gt;&lt;div class='checksum'&gt;Slots: DUjlYonCTrwu8qqOixOVZiNN/Ts=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Senses: &lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: PASS&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;MorphoSyntaxAnalysis: bwQAQIO1UEfitgoRf9kwJpvmg50=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=01bd256a-641f-4114-b24c-dc79f86993f0&amp;tag=&amp;label=Entry"
+	contextDataLabel="Entry">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="4e390ac275c8"
+		betaUserRevision="8bcb8328d5a6"
+		path="Linguistics\Lexicon\Lexicon_09.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:24+04:00"
+			guid="79e64cbd-fc71-448a-b7a4-cd1753a830bc" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:24+04:00"
+			guid="9f483ab1-8dc4-40f8-8c61-3eb455d64bd8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:24+04:00"
+			guid="627bd3b4-32d9-4e49-bb5e-a0d85136ffd0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:24+04:00"
+			guid="4672de0a-c658-4637-8b96-fd675b65cfee" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:25+04:00"
+			guid="db33679e-48c1-4d63-b1a7-60881c97032b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:25+04:00"
+			guid="856c8259-f187-4009-b79e-57d1ddec40b5" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:25+04:00"
+			guid="90daf56d-6241-43e4-9c2d-cface6cd5d8f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:25+04:00"
+			guid="9fe373dd-c72e-466d-bc09-37d13c97b6e7" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:26+04:00"
+			guid="150f8943-5ef4-4c79-8a4b-9bef2ceeda69" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T12:59:53+04:00"
+			guid="ae4f226d-77bf-4c9d-96f6-884bc9a3a8e3" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cd68a180-5f0b-4de1-8791-caea85204c41&amp;tag=&amp;label=Entry"
+		guid="127c2dca-5366-4d0b-b9c0-9dea79aad08a">
+		<message
+			author="merger"
+			status="open"
+			guid="94c2ed74-80ef-4181-8a0a-f939bcbe51d5"
+			date="2023-07-09T13:53:20Z">Entry: IrinaLobzhanidze deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_09.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="94c2ed74-80ef-4181-8a0a-f939bcbe51d5"
+	date="2023-07-09T13:53:20Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry: IrinaLobzhanidze deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='property'&gt;DateCreated: 2023-5-5 7:4:41.88&lt;/div&gt;&lt;div class='property'&gt;DateModified: 2023-7-9 &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;5:16:55.553&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;10:37:20.392&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;7&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: თ&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: e56Zjf5cMZehiaVy7RGWZtrdUnM=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphoSyntaxAnalyses: &lt;div class='checksum'&gt;PartOfSpeech: xeLw3thoA0Qjv9d4zcwYRGruJPM=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Senses: &lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: FOC&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;MorphoSyntaxAnalysis: 1q+eIzFqeE09uGje0PWlvZCy2Vw=&lt;/div&gt;&lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: FOC&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=cd68a180-5f0b-4de1-8791-caea85204c41&amp;tag=&amp;label=Entry"
+	contextDataLabel="Entry">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="8dce6b48fa0f"
+		betaUserRevision="2bcf0f6284a4"
+		path="Linguistics\Lexicon\Lexicon_09.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:55:28+04:00"
+			guid="122c4377-85d2-4743-8414-27cc0586ada6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:55:28+04:00"
+			guid="99267df4-21e7-42fb-ad5c-affd44529f9f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:55:28+04:00"
+			guid="8c69bf3b-7069-48df-81d1-33ede74a57c1"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:55:28+04:00"
+			guid="099c9385-afc8-4209-ab72-aa4304b24166"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:55:28+04:00"
+			guid="f03a6bae-acf8-4ff3-bfbe-025c02390162"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=45fce972-3d82-48f3-add4-773dd8ec9b31&amp;tag=&amp;label=Entry &quot;^0&quot;"
+		guid="b2ab1e5b-bae5-4784-bec1-267d49f9dc0c">
+		<message
+			author="merger"
+			status="open"
+			guid="11c1797a-fdf9-4439-9175-0563a7946675"
+			date="2023-07-10T04:28:25Z">Entry "^0": User deleted this element, while ZaalKikvidze edited it. The merger kept the change made by ZaalKikvidze.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_09.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="11c1797a-fdf9-4439-9175-0563a7946675"
+	date="2023-07-10T04:28:25Z"
+	whoWon="ZaalKikvidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry &quot;^0&quot;: User deleted this element, while ZaalKikvidze edited it. The merger kept the change made by ZaalKikvidze.&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='property'&gt;DateCreated: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2023-5-24&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;2023-05-24&lt;/span&gt; 20:56:17.472&lt;/div&gt;&lt;div class='property'&gt;DateModified: 2023-7-9 &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;13:53:20.819&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;20:58:48.333&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;5&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;6&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: 8vuxP9oD+4MHboh6iDetvb5NpRY=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphoSyntaxAnalyses: &lt;div class='checksum'&gt;PartOfSpeech: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Senses: &lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: have&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;MorphoSyntaxAnalysis: JouLDuW7xVCBh4F8ZcxrHySHeVE=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by ZaalKikvidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=45fce972-3d82-48f3-add4-773dd8ec9b31&amp;tag=&amp;label=Entry &quot;^0&quot;"
+	contextDataLabel="Entry &quot;^0&quot;">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="d261e7800975"
+		betaUserRevision="b3d9b120ee05"
+		path="Linguistics\Lexicon\Lexicon_09.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:01+04:00"
+			guid="f7694d2d-73d6-4e25-a4b2-b812c92d4fa6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:54:01+04:00"
+			guid="a21c3c8c-ace3-4234-a081-c1f06c5855f4"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:01+04:00"
+			guid="7a5b18ea-b126-42f4-bfed-7712f2c069cb"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:54:01+04:00"
+			guid="6f3e4017-17cf-47c5-a1e4-0b9a753ee847"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:02+04:00"
+			guid="5ae61722-7e3e-4a7e-b54e-4b16b0a950bc"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8ac168bc-104b-4456-afea-e92a391e9244&amp;tag=&amp;label=Entry &quot;^0&quot;"
+		guid="d388f3ee-b3ee-4669-8238-8fb4beec4bb1">
+		<message
+			author="merger"
+			status="open"
+			guid="3a5b23d1-a400-40b0-8e23-88f5f1743e57"
+			date="2023-07-10T04:28:25Z">Entry "^0": User deleted this element, while ZaalKikvidze edited it. The merger kept the change made by ZaalKikvidze.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_09.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="3a5b23d1-a400-40b0-8e23-88f5f1743e57"
+	date="2023-07-10T04:28:25Z"
+	whoWon="ZaalKikvidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry &quot;^0&quot;: User deleted this element, while ZaalKikvidze edited it. The merger kept the change made by ZaalKikvidze.&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='property'&gt;DateCreated: 2023-04-12 03:05:15.209&lt;/div&gt;&lt;div class='property'&gt;DateModified: 2023-7-9 &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;13:53:20.960&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;20:58:48.716&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;EntryRefs: &lt;div class='checksum'&gt;ComponentLexemes: sQqBhRzBNF4t8JRD5cJZSbqKj+s=&lt;/div&gt;&lt;div class='property'&gt;HideMinorEntry: 0&lt;/div&gt;&lt;div class='property'&gt;RefType: 0&lt;/div&gt;&lt;div class='checksum'&gt;VariantEntryTypes: eij08bw0DK9KaeAfuRdjWDqpm2k=&lt;/div&gt;&lt;div class='checksum'&gt;ComponentLexemes: tL+Xym13h6h0wwCuWljgUhNONfc=&lt;/div&gt;&lt;div class='property'&gt;HideMinorEntry: 0&lt;/div&gt;&lt;div class='property'&gt;RefType: 0&lt;/div&gt;&lt;div class='checksum'&gt;VariantEntryTypes: eij08bw0DK9KaeAfuRdjWDqpm2k=&lt;/div&gt;&lt;div class='checksum'&gt;ComponentLexemes: jymxiaRA3eY95L+utIxCXTxx/ps=&lt;/div&gt;&lt;div class='property'&gt;HideMinorEntry: 0&lt;/div&gt;&lt;div class='property'&gt;RefType: 0&lt;/div&gt;&lt;div class='checksum'&gt;VariantEntryTypes: eij08bw0DK9KaeAfuRdjWDqpm2k=&lt;/div&gt;&lt;div class='checksum'&gt;ComponentLexemes: kAV870VFu49XUxX7jzNdcrGhAsY=&lt;/div&gt;&lt;div class='property'&gt;HideMinorEntry: 0&lt;/div&gt;&lt;div class='property'&gt;RefType: 0&lt;/div&gt;&lt;div class='checksum'&gt;VariantEntryTypes: ZMc9Td/+R2Ddhgf5Pf5akvBjC4o=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: 1&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: 8vuxP9oD+4MHboh6iDetvb5NpRY=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphoSyntaxAnalyses: &lt;div class='checksum'&gt;PartOfSpeech: l5rQPc7+BDIINxSQWJ/Iy2uvjZw=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Senses: &lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: be&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;MorphoSyntaxAnalysis: cWSJpwTkl43zsEVR3WuUSH3LduE=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by ZaalKikvidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8ac168bc-104b-4456-afea-e92a391e9244&amp;tag=&amp;label=Entry &quot;^0&quot;"
+	contextDataLabel="Entry &quot;^0&quot;">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="d261e7800975"
+		betaUserRevision="b3d9b120ee05"
+		path="Linguistics\Lexicon\Lexicon_09.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:02+04:00"
+			guid="e58d0019-951f-447c-b310-a44a3d6815dc"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:54:02+04:00"
+			guid="5ba3652f-46f4-4227-b21a-cbed0e6af38d"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:02+04:00"
+			guid="86f1f9ea-9d0f-456d-9154-898ffbb6d286"></message>
+	</annotation>
+</notes>

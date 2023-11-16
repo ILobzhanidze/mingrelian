@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=50528fe5-9f75-45c8-86a9-33dbd5d30c8d&amp;tag=&amp;label=Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 20 Segments 5 Analyses"
+		guid="33e7f972-4270-4944-be9d-2e9935997453">
+		<message
+			author="merger"
+			status="open"
+			guid="9d273608-ef03-4e8c-a6a9-f2bc9ba952f5"
+			date="2023-02-27T07:25:08Z">Text "text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები" Contents Paragraphs 20 Segments 5 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_363c54de-b178-491a-b740-ab7241d6e48f.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="9d273608-ef03-4e8c-a6a9-f2bc9ba952f5"
+	date="2023-02-27T07:25:08Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 20 Segments 5 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dkFYJ/a5q3suECLpNKNH3K9xtSE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;X+lWQ5gLw2k5HzvUoUrpn6ZtiXg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;dkFYJ/a5q3suECLpNKNH3K9xtSE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;bwfV1ntdzOWdi4QsPZpxZtuoz0s=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=50528fe5-9f75-45c8-86a9-33dbd5d30c8d&amp;tag=&amp;label=Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 20 Segments 5 Analyses"
+	contextDataLabel="Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 20 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="0dc52e3beee9"
+		betaUserRevision="b90279a19346"
+		path="Linguistics\TextCorpus\Text_363c54de-b178-491a-b740-ab7241d6e48f.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T21:10:24+04:00"
+			guid="8be41cb7-5b98-4a0d-a793-a468365dd614" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=a4e84d16-9d7b-4adf-8626-9106744fb672&amp;tag=&amp;label=Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 36 Segments 4 Analyses"
+		guid="9724e66d-af23-4a0b-a5f1-cbec4d3c8f6b">
+		<message
+			author="merger"
+			status="open"
+			guid="1db422dc-28dc-4445-ad3a-af68e009f956"
+			date="2023-03-01T11:54:42Z">Text "text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები" Contents Paragraphs 36 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_363c54de-b178-491a-b740-ab7241d6e48f.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="1db422dc-28dc-4445-ad3a-af68e009f956"
+	date="2023-03-01T11:54:42Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 36 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;byLS36AoVY7Ei/xtideC4TyQdug=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;NaEeDhrQNW3SmLODZQGmuNwTMlE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;byLS36AoVY7Ei/xtideC4TyQdug=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Rwti2r7eGvP5Y9Snln8fWCpaEFk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=a4e84d16-9d7b-4adf-8626-9106744fb672&amp;tag=&amp;label=Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 36 Segments 4 Analyses"
+	contextDataLabel="Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 36 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="b3a2b5dc3a5b"
+		betaUserRevision="87c0ee87e2a3"
+		path="Linguistics\TextCorpus\Text_363c54de-b178-491a-b740-ab7241d6e48f.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:19+04:00"
+			guid="2f2f48c3-88ec-4ad4-9c03-c756b02ca831" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:19+04:00"
+			guid="4f668b12-1f53-40e8-b9a8-432a6d6c36e4" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:19+04:00"
+			guid="b678cc0e-b461-49c7-8f29-d234a54fddfd" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:19+04:00"
+			guid="0f9497fe-9dc6-4aa1-9291-c29296cbcbd6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:20+04:00"
+			guid="e8595d18-44ff-4bca-9545-f5281f9fe244" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:20+04:00"
+			guid="3829d371-3370-4d7d-9095-44f3ca7d4c0a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:20+04:00"
+			guid="ad19408d-ef2c-43f4-8d8b-ff0a3bf1fe99" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:20+04:00"
+			guid="54559a5d-1b50-4ea1-836b-90664a774e33" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:21+04:00"
+			guid="fc476fd3-4c77-4c96-bc3b-5685a0e04d98" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:07+04:00"
+			guid="c0c8cfd6-3546-4664-972f-5f74b99a96db" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=56c30f7b-c9ae-4860-9671-1ea9c5170429&amp;tag=&amp;label=Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 76 Segments 1 Analyses"
+		guid="349454f2-9ab9-4ef5-9694-3916695cc6d3">
+		<message
+			author="merger"
+			status="open"
+			guid="2b18d864-49d9-41c1-8b06-fbea792786fe"
+			date="2023-08-25T20:17:57Z">Text "text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები" Contents Paragraphs 76 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_363c54de-b178-491a-b740-ab7241d6e48f.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="2b18d864-49d9-41c1-8b06-fbea792786fe"
+	date="2023-08-25T20:17:57Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 76 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Ifx6EcfiJFvoprFBqAxFjLbizJE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Ivpz9yl2rVEVTayo8hiTo1Yy4ug=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Ifx6EcfiJFvoprFBqAxFjLbizJE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;jaCOHmSa9EAZfnYtffqWUjC+Us=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=56c30f7b-c9ae-4860-9671-1ea9c5170429&amp;tag=&amp;label=Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 76 Segments 1 Analyses"
+	contextDataLabel="Text &quot;text 25 - თამუნა_ ზოგი მეგრული ტრადიცია და რიტუალური წესები&quot; Contents Paragraphs 76 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="f598da31333e"
+		betaUserRevision="78cdabc29a88"
+		path="Linguistics\TextCorpus\Text_363c54de-b178-491a-b740-ab7241d6e48f.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:36+04:00"
+			guid="34e4ea9f-fc09-4be1-bd8f-f896cd4e9f5c"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:37+04:00"
+			guid="ff9140a2-f7e2-487d-aad6-f3d505d72088"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:37+04:00"
+			guid="7ec93fc9-0dfd-43b0-a353-5dcff02f4133"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:37+04:00"
+			guid="27f0592a-e0dd-4d38-ba94-352c6f2c09a7"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:37+04:00"
+			guid="64978d9f-d982-4351-bda5-77916d3cdf75"></message>
+	</annotation>
+</notes>

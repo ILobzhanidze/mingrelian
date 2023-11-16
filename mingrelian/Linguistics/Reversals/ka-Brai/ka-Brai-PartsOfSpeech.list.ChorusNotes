@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="unknown"
+		guid="d32008b9-8c40-46d2-9a30-cbd236cc7767">
+		<message
+			author="merger"
+			status="open"
+			guid="a9a242d3-0295-45c4-8202-49bce6dd954a"
+			date="2022-10-17T07:58:45Z">unknown: IrinaLobzhanidze and User added the same element, but with different content.<![CDATA[<conflict
+	typeGuid="c1ed94d6-e382-11de-8a39-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothAddedMainElementButWithDifferentContentConflict"
+	relativeFilePath="Linguistics\Reversals\ka-Brai\ka-Brai-PartsOfSpeech.list"
+	type="Both added the same element, but with different content conflict"
+	guid="a9a242d3-0295-45c4-8202-49bce6dd954a"
+	date="2022-10-17T07:58:45Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;unknown: IrinaLobzhanidze and User added the same element, but with different content.&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="unknown"
+	contextDataLabel="unknown">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="f94e1464cd3b"
+		betaUserRevision="4e08ce9306cd"
+		path="Linguistics\Reversals\ka-Brai\ka-Brai-PartsOfSpeech.list"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2022-10-18T11:43:00+04:00"
+			guid="ee39606f-e195-4e69-8d10-cb0a2b3c6423"></message>
+	</annotation>
+</notes>

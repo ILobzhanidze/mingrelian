@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=162001ab-2dbf-41e0-aa40-3ff11417219a&amp;tag=&amp;label=Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 2 Segments 3 Analyses"
+		guid="af0e879a-bebd-4bc2-9cd2-c5628b979de8">
+		<message
+			author="merger"
+			status="open"
+			guid="9cdb8655-462a-4dc4-981d-f7fb9021a6e7"
+			date="2023-02-27T18:04:24Z">Text "ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად" Contents Paragraphs 2 Segments 3 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="9cdb8655-462a-4dc4-981d-f7fb9021a6e7"
+	date="2023-02-27T18:04:24Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 2 Segments 3 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7cK9zrTQPzTc5l3oYfthju+OAt4=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;bSRqHuLcLxw6awz3Jil0goOoKc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7cK9zrTQPzTc5l3oYfthju+OAt4=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;dMxssQam5cL58/HLVscgNO27LeA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=162001ab-2dbf-41e0-aa40-3ff11417219a&amp;tag=&amp;label=Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 2 Segments 3 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 2 Segments 3 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="92c9742992fb"
+		betaUserRevision="4de1763142c9"
+		path="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-02-28T20:23:55+04:00"
+			guid="25e6cc2b-a31e-45da-bf53-90b4334c790d" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=86048818-1bae-4e8d-8e58-c95102d47e6a&amp;tag=&amp;label=Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 27 Segments 8 Analyses"
+		guid="465b090c-bbe7-4768-a4a6-58d7bed2a29a">
+		<message
+			author="merger"
+			status="open"
+			guid="ac2f37d2-dc04-4b9a-a15c-a7c1e7ea9526"
+			date="2023-03-02T18:40:21Z">Text "ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად" Contents Paragraphs 27 Segments 8 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="ac2f37d2-dc04-4b9a-a15c-a7c1e7ea9526"
+	date="2023-03-02T18:40:21Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 27 Segments 8 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;CzMT7MEoZt2j4zr8Wr224swIXmA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;72LuStnCrfisdTc1etBE5McSmdg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;CzMT7MEoZt2j4zr8Wr224swIXmA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;gLhP4qIgmKoDbxHvROCigzSG1cI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=86048818-1bae-4e8d-8e58-c95102d47e6a&amp;tag=&amp;label=Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 27 Segments 8 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 27 Segments 8 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:16+04:00"
+			guid="cf19294a-ffee-42cd-bb47-bee41f846513" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:16+04:00"
+			guid="2f6e06e9-d86c-4f3f-93ab-b95dd19ff9f7" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:16+04:00"
+			guid="be18092a-474d-4085-a476-188151272b1e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:17+04:00"
+			guid="c9371cf1-4e05-4baf-a7ec-454b64185c3a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:17+04:00"
+			guid="73d45d69-6ec5-437f-8f2c-c5889b976b86" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:17+04:00"
+			guid="8aaf35a9-323d-4627-b43c-d21d8f9f9e4d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:17+04:00"
+			guid="0914b5cd-b79f-4682-b0ff-26735c7f86b8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:17+04:00"
+			guid="5329eafe-9d41-43e8-bd37-f51565e13580" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:18+04:00"
+			guid="ecaf3bd1-b747-41c5-a5d0-3ff982311e65" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:45+04:00"
+			guid="aa36fc45-1d10-46a5-b3e5-ca6e45950e8a" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=236314ad-2fa8-44f6-9bb4-5a0de40f86de&amp;tag=&amp;label=Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 11 Analyses"
+		guid="735a4ad6-2613-459d-84fb-8f340b10ade6">
+		<message
+			author="merger"
+			status="open"
+			guid="0b2ad795-935c-4075-8473-1c67891dfbaf"
+			date="2023-08-22T22:25:07Z">Text "text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად" Contents Paragraphs 1 Segments 11 Analyses: MARI and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="0b2ad795-935c-4075-8473-1c67891dfbaf"
+	date="2023-08-22T22:25:07Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 11 Analyses: MARI and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7YL1XYCESrFio8XSIIkEoAuBtbk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Ze+STDSDyy4bqMH6DAudO6LtZvI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7YL1XYCESrFio8XSIIkEoAuBtbk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xvh0NmWnoVV9rnaFtP8vgD6s7rc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=236314ad-2fa8-44f6-9bb4-5a0de40f86de&amp;tag=&amp;label=Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 11 Analyses"
+	contextDataLabel="Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 11 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="a27b25edf2ab"
+		betaUserRevision="0ca612aedda9"
+		path="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:23+04:00"
+			guid="d3e7081a-83b3-40d7-a723-25cb4b8e24df"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:24+04:00"
+			guid="7dc89133-b47f-4d06-8078-6dcfa37bda22"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:24+04:00"
+			guid="ed286e97-adbc-4c05-983d-56064335839e"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:24+04:00"
+			guid="a1d38c31-f1cb-4e66-98b8-e4d7867a0504"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:24+04:00"
+			guid="8f7a18c2-7de0-4147-9ec6-eb8f85422835"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=96173343-1da8-411e-b161-db0498c2f0e0&amp;tag=&amp;label=Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 17 Analyses"
+		guid="6eac11dd-3c92-4021-9bc7-09206f62c60d">
+		<message
+			author="merger"
+			status="open"
+			guid="fa71ca15-6d9f-412d-b1a8-f1f8da096fe1"
+			date="2023-08-22T22:25:07Z">Text "text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად" Contents Paragraphs 1 Segments 17 Analyses: MARI and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="fa71ca15-6d9f-412d-b1a8-f1f8da096fe1"
+	date="2023-08-22T22:25:07Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 17 Analyses: MARI and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;IcvDRbL2g/OoSFS8xwvo+p/wsyI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;q9vhhO9a4RWRHvEQJ5AxOFpuMb0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;IcvDRbL2g/OoSFS8xwvo+p/wsyI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WF/OAZLZ6Vz8c/YdoK3N23DDOIE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=96173343-1da8-411e-b161-db0498c2f0e0&amp;tag=&amp;label=Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 17 Analyses"
+	contextDataLabel="Text &quot;text 45_ნინო_მეგრელების ყოფა-ცხოვრება ძველად&quot; Contents Paragraphs 1 Segments 17 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="a27b25edf2ab"
+		betaUserRevision="0ca612aedda9"
+		path="Linguistics\TextCorpus\Text_5818a8fe-43ce-46c0-b65c-037345ada9cc.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:25+04:00"
+			guid="a4e8fef2-cf26-4b27-992e-0bfa7367f7f2"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:25+04:00"
+			guid="c1712df5-4217-456a-b59d-23d20ba7e2ab"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:25+04:00"
+			guid="06656003-e012-4740-8327-dce220493391"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:25+04:00"
+			guid="cf144aa7-62f8-4711-b8fa-d4f7c2f42717"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:25+04:00"
+			guid="e838fd55-8c74-47d2-97d3-6d255b7322bc"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:26+04:00"
+			guid="333aa7c8-81c3-4cab-9880-d9db21850f54"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:26+04:00"
+			guid="81d90a8f-85d9-4820-875b-cedb0c395208"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:26+04:00"
+			guid="86079c90-a23e-45b0-9129-63131a13ce34"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:26+04:00"
+			guid="79bccdd5-62ff-454e-9b7e-c4d7617b87df"></message>
+	</annotation>
+</notes>

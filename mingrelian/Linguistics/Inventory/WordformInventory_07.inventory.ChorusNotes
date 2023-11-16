@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4045dcbc-5b71-497a-b0c7-52c8fb4af1a2&amp;tag=&amp;label=Wordform &quot;მუთუნი&quot; Form"
+		guid="15d32ee3-68d6-4292-bdf1-d473cfabefc9">
+		<message
+			author="merger"
+			status="open"
+			guid="03f7b959-0ee2-43c0-b706-e0e24414191c"
+			date="2022-10-18T19:44:05Z">Wordform "მუთუნი" Form: User and User added different text to this element.<![CDATA[<conflict
+	typeGuid="c1ed6dbf-e382-11de-8a39-0800200c9a66"
+	class="Chorus.merge.xml.generic.XmlTextBothAddedTextConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Both Added Xml Text Conflict"
+	guid="03f7b959-0ee2-43c0-b706-e0e24414191c"
+	date="2022-10-18T19:44:05Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;მუთუნი&quot; Form: User and User added different text to this element.&lt;/div&gt;&lt;div class='alternative'&gt;User's version: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: მუთუნი&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: mutuni &lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's version: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: მუთუნი&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: mutuni&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=4045dcbc-5b71-497a-b0c7-52c8fb4af1a2&amp;tag=&amp;label=Wordform &quot;მუთუნი&quot; Form"
+	contextDataLabel="Wordform &quot;მუთუნი&quot; Form">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="645bb4816a72"
+		betaUserRevision="d1f916bb8108"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2022-10-19T23:04:33+04:00"
+			guid="af84a18a-00c0-452e-8f68-2242e77faa89" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=494a707a-cfd9-4e2d-9cbe-3289f98365d9&amp;tag=&amp;label=Wordform &quot;დაცვა&quot; Form"
+		guid="fda99444-cffc-4e1e-9c91-4df00084c2a3">
+		<message
+			author="merger"
+			status="open"
+			guid="2348a917-f146-4805-90d1-16a7d383945f"
+			date="2022-11-17T03:41:30Z">Wordform "დაცვა" Form: User and User added different text to this element.<![CDATA[<conflict
+	typeGuid="c1ed6dbf-e382-11de-8a39-0800200c9a66"
+	class="Chorus.merge.xml.generic.XmlTextBothAddedTextConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Both Added Xml Text Conflict"
+	guid="2348a917-f146-4805-90d1-16a7d383945f"
+	date="2022-11-17T03:41:30Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;დაცვა&quot; Form: User and User added different text to this element.&lt;/div&gt;&lt;div class='alternative'&gt;User's version: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: დაცვა&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: dɑt͡svɑ&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's version: &lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: დაცვა&lt;/div&gt;&lt;div&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;:  dɑt͡svɑ&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=494a707a-cfd9-4e2d-9cbe-3289f98365d9&amp;tag=&amp;label=Wordform &quot;დაცვა&quot; Form"
+	contextDataLabel="Wordform &quot;დაცვა&quot; Form">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="43f12a6cd2a8"
+		betaUserRevision="ba6626cad3f2"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2022-12-11T19:20:50+04:00"
+			guid="41eeec2b-3f4c-463b-b0c6-119f39bd56a9" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e3265e3e-3178-4856-80aa-4079e21c3321&amp;tag=&amp;label=Wordform &quot;ათასნერი და&quot; Analyses"
+		guid="68f7f3bf-0df6-4f8b-8abe-e6e8ec380534">
+		<message
+			author="merger"
+			status="open"
+			guid="f06c4ac5-29d3-4ba2-8428-5dbd0e2ff42a"
+			date="2023-02-26T18:56:36Z">Wordform "ათასნერი და" Analyses: User deleted this element, while Eva edited it. The merger kept the change made by Eva.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="f06c4ac5-29d3-4ba2-8428-5dbd0e2ff42a"
+	date="2023-02-26T18:56:36Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ათასნერი და&quot; Analyses: User deleted this element, while Eva edited it. The merger kept the change made by Eva.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Meanings&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Form&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;en&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;a&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;thousand&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;kinds&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;of&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ათასნერ&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: -ი&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: =და&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=e3265e3e-3178-4856-80aa-4079e21c3321&amp;tag=&amp;label=Wordform &quot;ათასნერი და&quot; Analyses"
+	contextDataLabel="Wordform &quot;ათასნერი და&quot; Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="a7df1c4a7645"
+		betaUserRevision="483fb0e4ca70"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:23+04:00"
+			guid="0bf27463-4485-4711-bc85-1cf89809df01" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:23+04:00"
+			guid="9f4fb870-29b6-4f55-b854-3a14f2113031" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:23+04:00"
+			guid="bb5cbe81-aadd-49c3-a73d-ebf9471dfdad" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:24+04:00"
+			guid="8f08e735-20d0-45b5-98b7-a6e683a25ff0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:24+04:00"
+			guid="a5f8a501-15eb-4c2d-8ce3-e24852099fa8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:24+04:00"
+			guid="f25492be-f65c-44be-9bc3-0acf2c8b6e92" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:24+04:00"
+			guid="cb4cf4a4-968a-4eea-a102-70139ae08e92" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:24+04:00"
+			guid="215a29eb-02aa-4bf0-99c6-e4105595b1fa" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:25+04:00"
+			guid="12c44083-41c4-4e69-a325-df7bf275b7df" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=72ca2634-abe9-4326-bdae-8898168e51c7&amp;tag=&amp;label=Wordform &quot;დევბაადით&quot; Analyses"
+		guid="9ac2d8b1-26a0-411c-b224-2c931797af50">
+		<message
+			author="merger"
+			status="open"
+			guid="52581802-63da-4279-9322-c1dc105e2e7e"
+			date="2023-03-01T18:32:27Z">Wordform "დევბაადით" Analyses: User deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="52581802-63da-4279-9322-c1dc105e2e7e"
+	date="2023-03-01T18:32:27Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;დევბაადით&quot; Analyses: User deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Category&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;Meanings: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: we were born&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: დევბაადით&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=72ca2634-abe9-4326-bdae-8898168e51c7&amp;tag=&amp;label=Wordform &quot;დევბაადით&quot; Analyses"
+	contextDataLabel="Wordform &quot;დევბაადით&quot; Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="68db546b55af"
+		betaUserRevision="af701f6f1d59"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:26+04:00"
+			guid="2969e43d-b803-4a4f-8f98-5f37188e3a9f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:26+04:00"
+			guid="58ddd41e-caeb-49fc-b42a-b0b06fa1a0b8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:26+04:00"
+			guid="29f8b90c-c9f7-498f-8cab-fee67900c692" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:27+04:00"
+			guid="fcc2a89e-68cc-4425-bb84-b01d65932b76" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:27+04:00"
+			guid="67b97803-4b6c-4ee8-8df2-ffd508c1aa8f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:27+04:00"
+			guid="e9d8bc97-b151-4f15-8ca8-eed42d0252d1" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:27+04:00"
+			guid="3aa16c45-9d04-4212-82d7-ced8affdf1ae" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:27+04:00"
+			guid="72fc4c0d-a722-475c-8f89-3d33e9b982fb" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:28+04:00"
+			guid="94c78c20-57c8-4fc9-a3fe-693c0f482d1a" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:22+04:00"
+			guid="63c68030-3aef-4df0-b6ab-e39379f2fd28" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5eb3c3a8-e845-499f-9b68-4540827990bd&amp;tag=&amp;label=Wordform &quot;ჭიჭეშ&quot; Analyses"
+		guid="3814f064-316b-42b5-9603-eeaa6672788a">
+		<message
+			author="merger"
+			status="open"
+			guid="6af1fb1a-533b-4876-b150-cfc54b7847d9"
+			date="2023-03-13T18:49:50Z">Wordform "ჭიჭეშ" Analyses: User deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="6af1fb1a-533b-4876-b150-cfc54b7847d9"
+	date="2023-03-13T18:49:50Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ჭიჭეშ&quot; Analyses: User deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Category&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;91FITAAnWeaF6VpmfrranaZqvZI=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ჭიჭეშ&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5eb3c3a8-e845-499f-9b68-4540827990bd&amp;tag=&amp;label=Wordform &quot;ჭიჭეშ&quot; Analyses"
+	contextDataLabel="Wordform &quot;ჭიჭეშ&quot; Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="bc2665be0fa8"
+		betaUserRevision="dee299d53eb7"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-14T16:39:12+04:00"
+			guid="9edfdd7a-1172-48f3-9813-56065d4d22fe" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=01a93ed6-1931-4a30-84d7-419128621343&amp;tag=&amp;label=Wordform &quot;ბაბუქუ&quot; Analyses"
+		guid="b353999e-a4d1-4cc9-8fc2-03c401c7b53c">
+		<message
+			author="merger"
+			status="open"
+			guid="364708b1-9177-45bc-910e-1d7a95c3b869"
+			date="2023-03-31T17:03:58Z">Wordform "ბაბუქუ" Analyses: User deleted this element, while Eva edited it. The merger kept the change made by Eva.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="364708b1-9177-45bc-910e-1d7a95c3b869"
+	date="2023-03-31T17:03:58Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ბაბუქუ&quot; Analyses: User deleted this element, while Eva edited it. The merger kept the change made by Eva.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Category: 91FITAAnWeaF6VpmfrranaZqvZI=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Meanings&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='property'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Form&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;&lt;span style=&quot;background: Yellow&quot;&gt;en&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;grandfather&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ბაბუ&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: -ქ&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: -უ&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=01a93ed6-1931-4a30-84d7-419128621343&amp;tag=&amp;label=Wordform &quot;ბაბუქუ&quot; Analyses"
+	contextDataLabel="Wordform &quot;ბაბუქუ&quot; Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="b038d7e14191"
+		betaUserRevision="f8eda43ecda7"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:58+04:00"
+			guid="6da7158d-554e-42ab-8563-ae0b45247f73" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:59+04:00"
+			guid="e545e31a-7170-46ad-8c98-59a71acb24cf" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:59+04:00"
+			guid="4fd977ff-e66a-45d3-9d29-3e4a339677bb" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:59+04:00"
+			guid="e6b9d94f-6b8f-44fd-be1c-5de6cc5dd535" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:45:59+04:00"
+			guid="4cd1b8af-c879-41bd-b6ac-8871c00e40d9" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:45:59+04:00"
+			guid="7b37730f-aa59-46c8-9dab-d5220cd91553" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:46:00+04:00"
+			guid="05dc2619-758b-4265-8c98-61c0e08198fd" />
+		<message
+			author="User"
+			status="open"
+			date="2023-04-01T16:46:00+04:00"
+			guid="5a49e0c4-0dc6-44fe-b810-3e99f2460d2d" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-04-01T16:46:00+04:00"
+			guid="6bacb603-1e8e-4f2d-8fd4-32a6b553eb11" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:11:06+04:00"
+			guid="e197a3d5-ab0e-43f1-83c9-af43acc31af0" />
+		<message
+			author="Eva"
+			status="open"
+			date="2023-03-31T21:11:06+04:00"
+			guid="6681562c-0681-4287-9cc4-7bcca78f361d" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-31T21:11:07+04:00"
+			guid="55b23f37-65fb-42c6-b837-25b37a2cdc01" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=13d90c4e-814d-4a88-81d8-2b1e959ddf69&amp;tag=&amp;label=Wordform &quot;ვაფუდი&quot; Analyses"
+		guid="cc1b7061-d90d-4eb2-956c-e0c307ea974e">
+		<message
+			author="merger"
+			status="open"
+			guid="bffb0394-7a2e-41cb-954a-cbb5bdfa5a5e"
+			date="2023-04-11T21:32:24Z">Wordform "ვაფუდი" Analyses: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="bffb0394-7a2e-41cb-954a-cbb5bdfa5a5e"
+	date="2023-04-11T21:32:24Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ვაფუდი&quot; Analyses: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;Meanings: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: he had me &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ვ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: v&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: tznbCSfskd6A5+eUNR1uB/F2Zxo=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 7o+GiCcBlQas/elXVIMFQbHLQ4w=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 6wBjUhMQzhHFlolTxJBsvSruLfY=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ა&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɑ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: DhSJvLqgHx5opRNYDQZTzTWstTM=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: sLSXbWXRhkrb/4uZE2ETIsU1Gsw=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: ayt49vVbmgKFAZzlyhpBP//bUzI=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ფ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: W5sJX2IdJ5Kq+ogIu6WKXkiRU/Y=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: ZMgtVkXLp7WYjvPlOCmFOeVN+tk=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 4ysSEQgtHLCfP+A4Bcgj3egVJ1w=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: უ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: u&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: XKobzEPR0oFtWxELk1YN14Xv3Ks=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: RZF6iGSXvvhN7cUP6x+G8w0JTwI=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: VftDS1GGvFhaW1Z6dfxpnnoSjDk=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: დ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: d&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: qROjl+Wg8GIMiMe1+8AKCKF8MFo=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: kQU9Fdn7yO0zF3bvT8U4Eo3jZ8s=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 6Igaqfkyq7/JGL1iReiv5S9AIl4=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ი&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Morph&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;tF4LU5zyqBcLLOeHEd8F35tvsT0=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ooWx7vd0EqoJB+I7+43SSIoondU=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Sense&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;o1g0AqAFqkuXoCTPNwMTNE8JzTA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=13d90c4e-814d-4a88-81d8-2b1e959ddf69&amp;tag=&amp;label=Wordform &quot;ვაფუდი&quot; Analyses"
+	contextDataLabel="Wordform &quot;ვაფუდი&quot; Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e9377bbcd4d"
+		betaUserRevision="177edee59f82"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:29+04:00"
+			guid="0cdb4ed5-5524-4490-a060-d272e9ab3b31"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:30+04:00"
+			guid="94f89264-5d7c-4ca5-9ea5-670e8a1adde0"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:30+04:00"
+			guid="de051fab-85b7-41e7-b7c8-dd1fb27910c9"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:30+04:00"
+			guid="6aa6f5b3-c8e2-4617-bd0c-ae3d593b0a37"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:30+04:00"
+			guid="aa555c30-ac85-4ac4-b8f1-a38515134a31"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d555cf60-14c9-44bd-aec9-50ba0140205a&amp;tag=&amp;label=Wordform &quot;სქანი&quot; Analyses"
+		guid="69b5175d-13d7-4903-ad44-05c61a368fae">
+		<message
+			author="merger"
+			status="open"
+			guid="1d9aa65d-213f-4d53-b129-0de2df90c82e"
+			date="2023-04-11T21:32:29Z">Wordform "სქანი" Analyses: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="1d9aa65d-213f-4d53-b129-0de2df90c82e"
+	date="2023-04-11T21:32:29Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;სქანი&quot; Analyses: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Category: pf3efujktJqkb/OJue/SNqZtDFE=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;Meanings: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: your&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: სქან&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: 8BfFtEERBXOx9PUug7kwdgFuzaQ=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 4/8xFnhyHURapyMh/0iJACkMd4g=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: tc3Xd19nVcQ+8gm/OlIZuTRqBvc=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ი&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Morph&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;tF4LU5zyqBcLLOeHEd8F35tvsT0=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;ooWx7vd0EqoJB+I7+43SSIoondU=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Sense&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;o1g0AqAFqkuXoCTPNwMTNE8JzTA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d555cf60-14c9-44bd-aec9-50ba0140205a&amp;tag=&amp;label=Wordform &quot;სქანი&quot; Analyses"
+	contextDataLabel="Wordform &quot;სქანი&quot; Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e9377bbcd4d"
+		betaUserRevision="177edee59f82"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:26+04:00"
+			guid="4b323d74-e3dc-4c39-8edf-c8dddec49f8a"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:26+04:00"
+			guid="d0194205-cab8-42ad-b3b3-f9f3bb484a62"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:26+04:00"
+			guid="b2c9c649-d24a-45fb-8848-e6ee1a75272a"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:26+04:00"
+			guid="4167a67a-6d24-4aef-9173-1ba6a1beb895"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:26+04:00"
+			guid="823d1578-5fa8-4a89-890c-a2d983ff674f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:27+04:00"
+			guid="01b87293-518d-4568-8633-0be21bb30339"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:27+04:00"
+			guid="3ab0d2c7-6faf-44d3-8d18-efbd5a5a779c"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:27+04:00"
+			guid="7a04d00f-9d01-4439-ad3c-cfd4c2c72ec6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:27+04:00"
+			guid="5b999598-7de1-4f50-b9c0-0fa1ce0d8743"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:27+04:00"
+			guid="3dc8c1c5-8a82-4a83-9384-9a61ae052891"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:28+04:00"
+			guid="991fcd3d-9ec9-440f-a1e7-a74f5bdc250d"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:28+04:00"
+			guid="231cdd12-02f8-4145-8947-22cdae6491b9"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:28+04:00"
+			guid="bab9ec25-752a-4860-a4bc-2cf1787f7150"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-04-12T01:35:28+04:00"
+			guid="94dcd7b5-dd72-4be3-9143-478107af372b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:35:28+04:00"
+			guid="ddeaa5a6-1401-449c-a36f-be7de2bdc6c6"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9ea080aa-c8eb-4fe5-8f57-0d6e3560690b&amp;tag=&amp;label=Wordform &quot;მირაგად&quot; Analyses"
+		guid="24e7a523-cd75-4b08-80ed-0cb7bea036fa">
+		<message
+			author="merger"
+			status="open"
+			guid="2faf4d9a-aefc-49c9-9575-ffe43825da09"
+			date="2023-07-09T13:52:29Z">Wordform "მირაგად" Analyses: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="2faf4d9a-aefc-49c9-9575-ffe43825da09"
+	date="2023-07-09T13:52:29Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;მირაგად&quot; Analyses: User deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: მ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: m&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: AHpVASjHBIulFDe77Dwtpnlgxz4=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: Ygn8DWUzY1pIQsfVmaQJl96W5hw=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: GaDv55qh5kzkImVJZfivLOPzago=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ი&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: l0hBsL2r/aJE451E8+rIZ5XQHvg=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: ppXK/mbpZfJmqtWYORvmgoMF4Kw=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 7Xkh4QKHIkPZi8+uUaoxrOUt59A=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: რაგად&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: hnAypF1G0f6TUxG/yNADYb+CnZM=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: id1n2PiHxOy3A6ZKjWdud/kwAFo=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 3EvEONBe0jbG2XIQlguM+re8pec=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: VTxkpoZjKdYF48oY7kb/aHI8o7k=&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;6rCah1Ai2faVuNh9IQR71S90I14=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: HM5aaNOYUTambnPrt+nwuIeuqn4=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9ea080aa-c8eb-4fe5-8f57-0d6e3560690b&amp;tag=&amp;label=Wordform &quot;მირაგად&quot; Analyses"
+	contextDataLabel="Wordform &quot;მირაგად&quot; Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="8dce6b48fa0f"
+		betaUserRevision="2bcf0f6284a4"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:55:30+04:00"
+			guid="64bbdc01-eeda-4f47-b9ff-6026133869f2"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:55:30+04:00"
+			guid="171de1e2-b000-4b81-b140-abd5b0853113"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:55:30+04:00"
+			guid="89ceb6e0-96ea-499c-845c-98770e4e2360"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:55:30+04:00"
+			guid="8e4fd49a-95c3-4b6b-a100-c91a52cd7a62"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:55:30+04:00"
+			guid="9ac4f80f-7feb-436b-8ca0-fc759564f202"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0ae70802-9da2-4ce9-b5a7-c5fec665ac93&amp;tag=&amp;label=Wordform &quot;მიდამღანსია&quot; Analyses"
+		guid="501797ea-7608-442e-bb27-cfbcc5b0135c">
+		<message
+			author="merger"
+			status="open"
+			guid="8d039357-a598-46db-9fe9-215f25df171e"
+			date="2023-07-15T08:25:43Z">Wordform "მიდამღანსია" Analyses: MARI deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="8d039357-a598-46db-9fe9-215f25df171e"
+	date="2023-07-15T08:25:43Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;მიდამღანსია&quot; Analyses: MARI deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: მიდა&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: NibETZllQN8x0Q142CfwAqky8pA=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 4+v2j+A+tvHuCPCuUziBlcyCWCI=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: i8GE0zDPwohXtyYYafPesIXdYUU=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: მ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: P3/WV/S9uLORUQ48PgOsloKympY=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: tB7pEoU5MlGYndyxI+5JhhdgJfM=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: nU9gogEI9In9n1aKR/ThDt9T/Gc=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: UKEUXAM2gu2zg3iRXecYr0W9L7M=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: ppXK/mbpZfJmqtWYORvmgoMF4Kw=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 7Xkh4QKHIkPZi8+uUaoxrOUt59A=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ღ&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ან&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: 53ay2mMDg0tg7UgtiVz2q8oszv0=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 3XeonoqjbvdM9VhH8/WrNSBj7Js=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: zSt40jlP70c29WZ1R/P9Cz6ZNQc=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ს&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: cskIiCF4maCvq0VwnB8mrUjzlNE=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: wwPv8hTAH4niZX7wX6+jhapctQM=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: fxpLlKIZ2TLc+oiqD265Ocmf0Do=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ი&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: i&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: +NaeD1rlt/bj/KAMKb1321Xkrc0=&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;nDjucYrlNRXXt8yuelhXu4XMM2M=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: ZrNmh312s0DQk8MjvO2r/r7u+y0=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ა&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɑ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: e66FQ3dmcjAWv5PcrGT1MAt28Tg=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: qJ6w2sg4R7vPzzea19zmTSlmUBM=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: Bufs9Sviv2X2yRiS7efn6s1RH44=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0ae70802-9da2-4ce9-b5a7-c5fec665ac93&amp;tag=&amp;label=Wordform &quot;მიდამღანსია&quot; Analyses"
+	contextDataLabel="Wordform &quot;მიდამღანსია&quot; Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5ad05b20e719"
+		betaUserRevision="6f55882bee82"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:21+04:00"
+			guid="4aafc92a-e12f-47d7-bb8d-26ea85b3726b"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:21+04:00"
+			guid="3cbfb256-2651-48bb-8a6f-73cdb2681e44"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:21+04:00"
+			guid="cafec7cf-3717-4fc9-a87a-589b5f0fe7b0"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:21+04:00"
+			guid="b39d40d0-d28f-4741-88fa-efcd8e099e43"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:22+04:00"
+			guid="bf3315b9-646e-4b43-9026-a9960ab70645"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2767f784-ef03-432a-87c1-52ef2d3b3f57&amp;tag=&amp;label=Wordform &quot;ათნეფიენანია&quot; Analyses"
+		guid="beab74f2-a1f8-44a3-a333-71607083c8ee">
+		<message
+			author="merger"
+			status="open"
+			guid="6c55f894-e80a-4eb2-be4e-5d8ea8100f4d"
+			date="2023-07-15T08:25:44Z">Wordform "ათნეფიენანია" Analyses: MARI deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="6c55f894-e80a-4eb2-be4e-5d8ea8100f4d"
+	date="2023-07-15T08:25:44Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ათნეფიენანია&quot; Analyses: MARI deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ათნ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: pSfspdbsaoHJ8Tpra6c0Zae7XEU=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: i4TjvWTBVxXBO0LTbnLpw80cM4A=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: teTz++0J7yt79XH8Gz/zAiIFnvY=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ეფ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɛp&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: DFM7IKOGwT6TUBN8SMNK4/IyF0k=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: +UASNGWO2rFbFKhKabVSeWi5A5A=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: DSsVgbcos+VsX0paqDByM3HFuF8=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ი&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: i&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: ErHW+aZnN2d1LGeNCzfPRFLev/o=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: fEylBMtJPG0T3gkS8PdYF0BpZPw=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: GfLt4d2yw2onikZAEwWBuEzNrS8=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Msa: G90O09UNImouTSUyI9ydg9dtjkk=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: +Q8ZGptQJXPMAs7kZHu8cjSHbr4=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ე&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: VrT9xTQT8w0sDMA5eQHACXJhOUQ=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: awVvwCOrezRhr6595Y5cCKhk+YA=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: uZuf9MNvWe4y2DEmTXVg+pytBvQ=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ნან&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: gZzw/NPiq45MHrj/Kk3Is6suzGk=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: aW5PuZlWrzYh6WsqLaDkBZDAu6U=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: GjUgEcrrEiFk4UhjO8rf3XG6RK8=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ი&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: i&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: +NaeD1rlt/bj/KAMKb1321Xkrc0=&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;nDjucYrlNRXXt8yuelhXu4XMM2M=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: ZrNmh312s0DQk8MjvO2r/r7u+y0=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ა&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɑ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: e66FQ3dmcjAWv5PcrGT1MAt28Tg=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: qJ6w2sg4R7vPzzea19zmTSlmUBM=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: Bufs9Sviv2X2yRiS7efn6s1RH44=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2767f784-ef03-432a-87c1-52ef2d3b3f57&amp;tag=&amp;label=Wordform &quot;ათნეფიენანია&quot; Analyses"
+	contextDataLabel="Wordform &quot;ათნეფიენანია&quot; Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5ad05b20e719"
+		betaUserRevision="6f55882bee82"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:18+04:00"
+			guid="c9ab0430-bbe1-4d5e-a978-9c93b0cb1280"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:18+04:00"
+			guid="69be14a7-97a8-461d-aa1f-1da038bef4cc"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:18+04:00"
+			guid="c3238eb1-dc1c-42ca-9a51-39a99ddf58a7"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:18+04:00"
+			guid="a92c754b-b365-4ba7-9a87-7848e0b2f9e4"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:19+04:00"
+			guid="6a01faf4-1609-4576-a59b-d51afa4f2857"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:19+04:00"
+			guid="95a1f75b-0c30-43d4-a8d5-a9e7ccc9633e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:19+04:00"
+			guid="ad510252-9576-4da7-ad29-fef59d50c248"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:19+04:00"
+			guid="309f48c1-74b1-4745-b341-905f8766432e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:19+04:00"
+			guid="f376bc87-3fb9-490e-a9ba-2de9d8c7adab"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:20+04:00"
+			guid="b9dbb415-12a6-4720-8684-679731387e72"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:20+04:00"
+			guid="cee51665-bc84-41bb-9d3a-574eecabd44c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:20+04:00"
+			guid="94b590c5-3bbe-4c30-a75a-229d479d1909"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:20+04:00"
+			guid="aa0c46c4-92d5-4f14-868f-cc5928184312"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:20+04:00"
+			guid="7b33d663-01bc-4031-9744-eb4124076da7"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:21+04:00"
+			guid="e7f19c24-5372-43ba-badb-4ee72c9baf33"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b2ab5a7a-0209-46eb-b607-b4c2c0945bc9&amp;tag=&amp;label=Wordform &quot;ბგორჷნქჷნ&quot; Analyses"
+		guid="d1d40e35-57aa-4073-be9a-d6cd7dbcca26">
+		<message
+			author="merger"
+			status="open"
+			guid="d6c3d15b-4269-44e8-bd2d-c2a2c3e22707"
+			date="2023-07-15T08:25:53Z">Wordform "ბგორჷნქჷნ" Analyses: MARI deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="d6c3d15b-4269-44e8-bd2d-c2a2c3e22707"
+	date="2023-07-15T08:25:53Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ბგორჷნქჷნ&quot; Analyses: MARI deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ბ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: b&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: 2zhjLbNwEt9cqMSwSQBqJWrs+e0=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 7o+GiCcBlQas/elXVIMFQbHLQ4w=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 6wBjUhMQzhHFlolTxJBsvSruLfY=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: გორ&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ქ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: k&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: JizPi+MrEM4jMeOr+L3Wxv5dzso=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ნ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: fM/bMTr76gCWBylK+FeHG9sDAuA=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: OzpnyJDmB1yLn6kvGR4jWORCotU=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: hgeGg3y1PsPNlPh9SrXSBmluHmY=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ქ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: k&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: JizPi+MrEM4jMeOr+L3Wxv5dzso=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: j0Q/na9xwpnguDntQpckQ7FCj3A=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: Ff85lxkWJ9lUED/9V7XGna0bI90=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ჷ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ə&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: a9WSnRAMkJ+wjnbQEvQBv0tZzYk=&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;nDjucYrlNRXXt8yuelhXu4XMM2M=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: ZrNmh312s0DQk8MjvO2r/r7u+y0=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ნ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: vM/pPk8F4roBLhgjuIPAZTrIaCA=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: kEWXjzV0mfeIzD2xgcPAaSm/v7Y=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: WS7T03nlWPJfhINAKRKbaDAe2uc=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b2ab5a7a-0209-46eb-b607-b4c2c0945bc9&amp;tag=&amp;label=Wordform &quot;ბგორჷნქჷნ&quot; Analyses"
+	contextDataLabel="Wordform &quot;ბგორჷნქჷნ&quot; Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="5ad05b20e719"
+		betaUserRevision="6f55882bee82"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:17+04:00"
+			guid="5f768ca1-eb69-497b-8062-737bf5188044"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:17+04:00"
+			guid="30e4adfd-d015-4cfa-a4a6-4fd5ee7d3918"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:17+04:00"
+			guid="4e0461fd-ff95-47df-b323-116a8af07a38"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:33:17+04:00"
+			guid="e3f73f06-13dc-4494-b330-44f7c0feae1b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:33:18+04:00"
+			guid="65ebb939-4f95-4d86-b516-c255a643b15c"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=fac0e316-f8a2-46fb-af19-b5b8b31b3be0&amp;tag=&amp;label=Wordform &quot;თეეშირდ&quot; Analyses"
+		guid="1f1bf68f-855f-4c21-a53a-f954457b30e9">
+		<message
+			author="merger"
+			status="open"
+			guid="d45c0a27-d4cf-4889-aaa4-4b3515f19053"
+			date="2023-07-17T06:27:31Z">Wordform "თეეშირდ" Analyses: ZaalKikvidze deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="d45c0a27-d4cf-4889-aaa4-4b3515f19053"
+	date="2023-07-17T06:27:31Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;თეეშირდ&quot; Analyses: ZaalKikvidze deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Category: f0XRtJEh3dGIqV7yy8TJI4IF/w0=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: თეეში&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: რ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: oDD+tEVOWaAcvk0jTd5hlhp2d3I=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: G90O09UNImouTSUyI9ydg9dtjkk=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: +Q8ZGptQJXPMAs7kZHu8cjSHbr4=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: დ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: d&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: qROjl+Wg8GIMiMe1+8AKCKF8MFo=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: BNeH8Vq44KTKZJ7aAwYLjOyguao=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 6Igaqfkyq7/JGL1iReiv5S9AIl4=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: yX8Cw3jDgfUrYmMQ2HD1i5pZbKU=&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;TzE5i98XuwbCZE5SAfl6tZjSFxc=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: HM5aaNOYUTambnPrt+nwuIeuqn4=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=fac0e316-f8a2-46fb-af19-b5b8b31b3be0&amp;tag=&amp;label=Wordform &quot;თეეშირდ&quot; Analyses"
+	contextDataLabel="Wordform &quot;თეეშირდ&quot; Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="d391250bb275"
+		betaUserRevision="bd3cac7f638b"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:24+04:00"
+			guid="31465757-950f-47d1-a2ba-5023f388abab"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:24+04:00"
+			guid="208ec21a-694b-4418-9d25-8c5402c532de"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:24+04:00"
+			guid="f5945673-c1ef-4ac5-9196-badf5f909f78"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:24+04:00"
+			guid="95cf0063-6fb1-40eb-8504-2ca2befa142f"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:25+04:00"
+			guid="4109141c-342c-4465-905e-10e40e24d074"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:25+04:00"
+			guid="26c0ec3a-97c4-4dee-b72e-56d0da5dc19d"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:25+04:00"
+			guid="5f165eb1-7369-4423-8e57-6c0ca14f6b78"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:25+04:00"
+			guid="da37c5dc-3f07-461f-9fc8-cb365cdf94ba"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:25+04:00"
+			guid="8914d928-ec37-4604-b352-42c448150cbd"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:26+04:00"
+			guid="5121ca28-f638-496c-8a81-7b98497b1087"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:26+04:00"
+			guid="4cb687f8-74fa-4262-ae8f-8fa0f6541975"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:26+04:00"
+			guid="b7b82c21-f5cd-45c8-94db-28fb1384aebc"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:26+04:00"
+			guid="16f4f728-c0c6-42ae-b4f8-a51006f051da"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:26+04:00"
+			guid="2e686f82-d51f-4134-b0de-52c79f5091e0"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:26+04:00"
+			guid="104de2ce-0ecc-4c80-86df-0ba400597090"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:31:27+04:00"
+			guid="92519561-2263-459a-bfea-88c7eab6ba78"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:31:27+04:00"
+			guid="1d8965af-f67c-47e8-a39c-b42ac3119c68"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8ac79fd2-e917-43fa-8009-598c809447d3&amp;tag=&amp;label=Wordform &quot;ინვოჯინექჷნ&quot; Analyses"
+		guid="9252a6ee-40ff-47b0-bbe0-c74734b11e74">
+		<message
+			author="merger"
+			status="open"
+			guid="1eaa6e4c-006d-4dcb-9523-97e4bcd46877"
+			date="2023-07-24T06:15:09Z">Wordform "ინვოჯინექჷნ" Analyses: User deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="1eaa6e4c-006d-4dcb-9523-97e4bcd46877"
+	date="2023-07-24T06:15:09Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;ინვოჯინექჷნ&quot; Analyses: User deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ინ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: XT+158owSX8s+7AWETR9H0k2fh0=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 256z5NLQDvXwPBzy0lt6kU9NlF4=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: UgyBuNqs/DSDG9T1ads5v0QoQA0=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ვ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: v&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: tznbCSfskd6A5+eUNR1uB/F2Zxo=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 7o+GiCcBlQas/elXVIMFQbHLQ4w=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 6wBjUhMQzhHFlolTxJBsvSruLfY=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ო&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɔ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: DhSJvLqgHx5opRNYDQZTzTWstTM=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: sLSXbWXRhkrb/4uZE2ETIsU1Gsw=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: ayt49vVbmgKFAZzlyhpBP//bUzI=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ჯინ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: II0NpIDQjgauWzVNLdtxKlnxnLE=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: GFmCq8/DaNHFuD9wFq/eJH5uHPk=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: dpjFEcXvpNstDjxqZIWpLfwMzYo=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ე&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: +oLORU7DpXdbdH/OmMd/KKdLvpU=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: +W6y1xOFkuUwZ9qzk5BygaSMVso=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: XgrtdZVOh3AmWtHYzPyjPQ8Uqts=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ქ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: k&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: /HPQSL7QIlvITS8kULVKOzn/rkY=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 1JG/Yhcz5TYjeS22tDdwxRYyR3U=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: +3Up4zgPSxlBbErI/7C16BhZEMA=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ჷ&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ə&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: a9WSnRAMkJ+wjnbQEvQBv0tZzYk=&lt;/div&gt;&lt;div class='checksum'&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Msa&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;:&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;pGRFvSuNM6zVUq2/cOHS1X00eKQ=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: FgMls8KMy4CdgBFiHmVnxh6Kg4E=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ნ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: fM/bMTr76gCWBylK+FeHG9sDAuA=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: Kuq7/O1vMJFGBxhBZwbNPFxd1mE=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: Tbpxwfi1+kmbdtrcg5HCVbqL2Tc=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=8ac79fd2-e917-43fa-8009-598c809447d3&amp;tag=&amp;label=Wordform &quot;ინვოჯინექჷნ&quot; Analyses"
+	contextDataLabel="Wordform &quot;ინვოჯინექჷნ&quot; Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="3f9e91ef458e"
+		betaUserRevision="2b665e88fdd6"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:06+04:00"
+			guid="d05e7dd0-fefb-46a1-ba9c-e8ac88923ddd"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:06+04:00"
+			guid="c04c78a5-e8f4-48c6-9aea-260f07dd0cc8"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:06+04:00"
+			guid="13dffca5-a47a-43b0-b7fe-35c999acf1d1"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:07+04:00"
+			guid="a33e24d3-ae51-4238-8edf-f33747b2eefa"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:07+04:00"
+			guid="6c3266d6-3ed7-4e07-b581-c69fb460e067"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:07+04:00"
+			guid="7d2a2237-590e-44ed-9376-73f164be16e1"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:07+04:00"
+			guid="e8eced5b-6ec0-47f3-8b98-a32a4519e90c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:07+04:00"
+			guid="cc61136b-498c-4484-b387-e02f68cc3304"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:08+04:00"
+			guid="e1ae1a00-cba7-46c1-a63a-ab10fcc9458c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-28T13:39:08+04:00"
+			guid="f9e7a2b1-5999-44f9-8c23-30e93782a327"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-28T13:39:08+04:00"
+			guid="ce32de28-2288-4f4f-bf06-e8cf6c0ef9d0"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0a948140-e645-4271-97b1-371012e9edcb&amp;tag=&amp;label=Wordform &quot;გეგრძელდა&quot; Analyses"
+		guid="235ed1f4-d12b-402a-ada5-16097e5e603a">
+		<message
+			author="merger"
+			status="open"
+			guid="8114f26c-e5cd-4963-b44d-7e6dde936ddb"
+			date="2023-08-16T04:13:57Z">Wordform "გეგრძელდა" Analyses: MARI deleted this element, while user edited it. The merger kept the change made by user.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="8114f26c-e5cd-4963-b44d-7e6dde936ddb"
+	date="2023-08-16T04:13:57Z"
+	whoWon="user"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;გეგრძელდა&quot; Analyses: MARI deleted this element, while user edited it. The merger kept the change made by user.&lt;/div&gt;&lt;div class='alternative'&gt;user's changes: &lt;div class='checksum'&gt;Category: mF+0O16PwVadZmPRHll1Kygp7pc=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: გე&lt;/div&gt;&lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf-fonipa&lt;/span&gt;: ɡɛ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: 8ibzGrSYbqHhh5jBSGe2MeHMasQ=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: Gkst9bY8YVPpUoDZqAD4tkaDitc=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: wy2SyDIBin5d1bBe2suzsHEdAVA=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: გრძელ&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: Mqo757DkvLAu5SaTz9Nd1AAYLI0=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;6WdfZn5I0ykbX3DbL1FMIGkALaw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;MYLMJ5kepiNnjvuopOqHg/ZLOCg=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: UPOM6dI2XHwFe0DKtCvI4z7gp4k=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: yX8Cw3jDgfUrYmMQ2HD1i5pZbKU=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 6rCah1Ai2faVuNh9IQR71S90I14=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: HM5aaNOYUTambnPrt+nwuIeuqn4=&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: და&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: IIBF3kJEvqRPn3RMqm8xdDdJC3w=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: 5HWnc+4JJKiMek3I6DKmLfD7Ay8=&lt;/div&gt;&lt;div class='checksum'&gt;Sense: 4DSCYI95wzs2xucvcFA8o1FPH2Q=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by user.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0a948140-e645-4271-97b1-371012e9edcb&amp;tag=&amp;label=Wordform &quot;გეგრძელდა&quot; Analyses"
+	contextDataLabel="Wordform &quot;გეგრძელდა&quot; Analyses">
+	<MergeSituation
+		alphaUserId="user"
+		betaUserId="MARI"
+		alphaUserRevision="49ce548bf19f"
+		betaUserRevision="1e8e098cf97e"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-22T13:25:40+04:00"
+			guid="61904e28-a620-451b-a1f6-777d035a4ecc"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-22T13:25:40+04:00"
+			guid="c25c1e8f-b757-4d56-8024-e1968b20b8c7"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-22T13:25:40+04:00"
+			guid="79ab86e7-eda2-41d2-a0f3-f1dadb0f5e22"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-22T13:25:40+04:00"
+			guid="8f87ce8b-5524-4217-b158-6cfe7664f1ee"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-22T13:25:41+04:00"
+			guid="eceb17eb-deaa-4b74-a141-f1302b431b7b"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=91219a36-55ef-4898-b144-295822750acb&amp;tag=&amp;label=Wordform &quot;გოლოფა&quot; Analyses"
+		guid="e3c1c6d8-2339-47d5-88fe-2489646344fe">
+		<message
+			author="merger"
+			status="open"
+			guid="b84e6e18-78d7-4b9a-b744-a2fb752560db"
+			date="2023-08-22T22:23:45Z">Wordform "გოლოფა" Analyses: MARI deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Inventory\WordformInventory_07.inventory"
+	type="Removed Vs Edited Element Conflict"
+	guid="b84e6e18-78d7-4b9a-b744-a2fb752560db"
+	date="2023-08-22T22:23:45Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Wordform &quot;გოლოფა&quot; Analyses: MARI deleted this element, while IrinaLobzhanidze edited it. The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Category: 91FITAAnWeaF6VpmfrranaZqvZI=&lt;/div&gt;&lt;div class='checksum'&gt;Evaluations: yAgXLNtq0Ts7jSWhYJaRPvhrKuM=&lt;/div&gt;&lt;div class='property'&gt;MorphBundles: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: გოლოფა&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ^0&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Morph: udU379zVYJlUPvEP3Ah103HnIAk=&lt;/div&gt;&lt;div class='checksum'&gt;Msa: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YoOkCCj7tU1b7AjCpJxR0cEfnq4=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;KDj6yGw17m5aclQGiTuGBfIYeas=&lt;/span&gt;&lt;/div&gt;&lt;div class='checksum'&gt;Sense: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;obIbfyWmq+nmMeT+kH7DSYQc/Lk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;GVt8O3PwXEdIlWtAOzZsrpPBRlA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=91219a36-55ef-4898-b144-295822750acb&amp;tag=&amp;label=Wordform &quot;გოლოფა&quot; Analyses"
+	contextDataLabel="Wordform &quot;გოლოფა&quot; Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="a27b25edf2ab"
+		betaUserRevision="0ca612aedda9"
+		path="Linguistics\Inventory\WordformInventory_07.inventory"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:26+04:00"
+			guid="be0b37d2-0b9f-44e0-bce9-bfe55ba89d9c"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:27+04:00"
+			guid="1f951e31-6685-44d0-883b-0c945d4c07c9"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:27+04:00"
+			guid="f74e339f-dc80-42f6-8c80-aa02bad55227"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:54:27+04:00"
+			guid="5437730c-8e7f-4b5d-a5e8-87279dfc82ff"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:54:27+04:00"
+			guid="03a5fbcb-cd26-42e4-9e3b-453c60adb069"></message>
+	</annotation>
+</notes>

@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=28637276-e6c9-4aab-9d39-3dd7f38ac981&amp;tag=&amp;label=Text &quot;ტექსტი 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 2 Segments 2 Analyses"
+		guid="124aa3ef-6685-4215-9228-e90ccce9262b">
+		<message
+			author="merger"
+			status="open"
+			guid="af7da15b-b42d-4e93-84de-f820ea774e37"
+			date="2022-12-11T15:20:01Z">Text "ტექსტი 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 2 Segments 2 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="af7da15b-b42d-4e93-84de-f820ea774e37"
+	date="2022-12-11T15:20:01Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 2 Segments 2 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YWd9YKAc0io547tJ6N7vEFF6+bQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;MlaW5roco9pZAbVLJw4NpRx87qM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YWd9YKAc0io547tJ6N7vEFF6+bQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WQBUToKtF7fPQrrg+gsOME5O0Ac=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=28637276-e6c9-4aab-9d39-3dd7f38ac981&amp;tag=&amp;label=Text &quot;ტექსტი 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 2 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 2 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="b8292e1c9963"
+		betaUserRevision="f90bf4b87974"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2022-12-11T19:20:47+04:00"
+			guid="50720232-b083-47fc-bc08-a753617d623e" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=40da8535-e2c3-43d9-a6ef-9368b8f2f001&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 7 Segments 2 Analyses"
+		guid="3e8c1bf0-dbc7-401c-a778-fc2d792c2c16">
+		<message
+			author="merger"
+			status="open"
+			guid="bb472e2a-eb2c-4a90-aa93-8223234ba6f8"
+			date="2023-02-20T18:22:57Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 7 Segments 2 Analyses: User and Eva edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="bb472e2a-eb2c-4a90-aa93-8223234ba6f8"
+	date="2023-02-20T18:22:57Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 7 Segments 2 Analyses: User and Eva edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;vt16DyaqwcNEdgKtL1E8bFp5xHw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xpPCCwyDuHaqwPU2R3JxJrV2tzA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;vt16DyaqwcNEdgKtL1E8bFp5xHw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WvudtVHR+6HjaqD9MDLwXZhoGs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=40da8535-e2c3-43d9-a6ef-9368b8f2f001&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 7 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 7 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="Eva"
+		alphaUserRevision="37fe1748df16"
+		betaUserRevision="af95b85f7167"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-23T20:21:55+04:00"
+			guid="7f84ec15-db41-483a-994f-484a015c28e0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-23T20:21:55+04:00"
+			guid="ad9263b9-3f82-4cb1-8182-0eab70edfe12" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-23T20:21:55+04:00"
+			guid="aedcdbd0-6633-4c95-9d08-24d63b06090c" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-23T20:21:55+04:00"
+			guid="a69a483f-ae91-4288-bfd3-59e7b07294d6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-23T20:21:55+04:00"
+			guid="05f36055-4c2c-4783-b120-7cf86fed23ab" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=6abebf4a-5192-4dec-8ce7-d8190e0dfb80&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 11 Segments 5 Analyses"
+		guid="b7d3fb2f-bf14-4514-b12e-daf9c80af66f">
+		<message
+			author="merger"
+			status="open"
+			guid="972f0f8b-a507-4276-ba02-20ea5b813cc8"
+			date="2023-02-24T22:00:15Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 11 Segments 5 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="972f0f8b-a507-4276-ba02-20ea5b813cc8"
+	date="2023-02-24T22:00:15Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 11 Segments 5 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;yE3pfgq62gFaQWrep658rBbqKos=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;XLIdiy2GKD5wQZp1rZLNb4SOQ9g=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;yE3pfgq62gFaQWrep658rBbqKos=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;UHyjyvm4mihqR61YxEIFfEKiD7k=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=6abebf4a-5192-4dec-8ce7-d8190e0dfb80&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 11 Segments 5 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 11 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="6cb0a460f5b7"
+		betaUserRevision="0327075eef6b"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:31+04:00"
+			guid="35664b12-fb41-443d-b94b-5f0987bd26d0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:31+04:00"
+			guid="ac60460b-4890-466c-a8a6-60b450ab74d9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:31+04:00"
+			guid="37fb9f09-ea43-41c8-8b99-0feaff1fccae" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:32+04:00"
+			guid="fd872f17-1735-4a84-ac7c-3ab9956b554a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:32+04:00"
+			guid="b7f32fe8-51d1-4d50-a568-8909ce3f1ae4" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9b9c14d6-d17b-4e70-b82d-cdd4507ba38a&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 21 Segments 4 Analyses"
+		guid="9d2a73c4-74af-4517-8880-2a05b4bb5828">
+		<message
+			author="merger"
+			status="open"
+			guid="77deb98c-252c-4207-b409-bdb29279c677"
+			date="2023-02-24T22:00:15Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 21 Segments 4 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="77deb98c-252c-4207-b409-bdb29279c677"
+	date="2023-02-24T22:00:15Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 21 Segments 4 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;O4Mkf4rFtvOjNbLCc4EgT0YeYa0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;6B7fqlejihG1TqxrD+jh6kghAsk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;O4Mkf4rFtvOjNbLCc4EgT0YeYa0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;YwNd/6yYMb6EQQJfAhJDYbgqJ3c=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9b9c14d6-d17b-4e70-b82d-cdd4507ba38a&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 21 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 21 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="6cb0a460f5b7"
+		betaUserRevision="0327075eef6b"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:32+04:00"
+			guid="960c16c1-9b3e-4497-af9d-5477986e8154" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:32+04:00"
+			guid="e0a3eac0-4efa-4c21-863b-5c6cf5afab01" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:32+04:00"
+			guid="823f0047-790c-4175-ab8d-8445835af9c3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:33+04:00"
+			guid="9c064737-0189-4549-9f40-67c1c59ae00c" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:33+04:00"
+			guid="797b1c46-de95-4ea6-b098-13b2f801193f" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2830bb4b-841e-4807-af58-808e115d0467&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 10 Analyses"
+		guid="aef0567c-0f5a-4fc1-91b8-85f830d78af3">
+		<message
+			author="merger"
+			status="open"
+			guid="4ca496e9-2ee1-47d5-8445-bdcc51818202"
+			date="2023-02-27T18:04:48Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 23 Segments 10 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="4ca496e9-2ee1-47d5-8445-bdcc51818202"
+	date="2023-02-27T18:04:48Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 10 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;T/OGmk1gqB6SYFUne47xgRwbQ8c=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ubyE/kQqN5yrCRZYUqEDsSRR+iU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;T/OGmk1gqB6SYFUne47xgRwbQ8c=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;aaB1edE8G5YA19T8zwqzLWzXiJ0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=2830bb4b-841e-4807-af58-808e115d0467&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 10 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 10 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="92c9742992fb"
+		betaUserRevision="4de1763142c9"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-02-28T20:23:50+04:00"
+			guid="b54112ba-d982-44d5-a4c1-5f44bab14dc1" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3e32ea72-b8fa-4524-aebd-8a317d7372a3&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 18 Segments 2 Analyses"
+		guid="a13ae0da-cc06-4bd0-90a9-05a536544f15">
+		<message
+			author="merger"
+			status="open"
+			guid="43d01da1-c92b-492e-b51a-6060f0bfbc6d"
+			date="2023-03-01T10:14:10Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 18 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="43d01da1-c92b-492e-b51a-6060f0bfbc6d"
+	date="2023-03-01T10:14:10Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 18 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;d+zlocO5BYrBCZoA+q9leTWB50k=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;cfTODiz3R1umnhSyJAZtE0v0bdw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;d+zlocO5BYrBCZoA+q9leTWB50k=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ioNuwywO3DE/YOAb2aYyDBzn2i4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3e32ea72-b8fa-4524-aebd-8a317d7372a3&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 18 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 18 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7ebd9e101003"
+		betaUserRevision="6d17f14c037a"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:34+04:00"
+			guid="18dec26c-9e05-49a9-9d7d-b1d29a28570a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:34+04:00"
+			guid="6bac4a4c-776b-47dd-a7da-fd29600fbba9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:34+04:00"
+			guid="96caec09-1fd8-4f49-86a9-7b7f8c4abfad" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:35+04:00"
+			guid="b80ea99d-ef00-478d-be92-26d12c249f09" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:35+04:00"
+			guid="25d02a14-ca9e-4cf0-a594-831a203aee20" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:35+04:00"
+			guid="c9ecd6c7-a09e-4137-a9f8-1f7100edd3e1" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:35+04:00"
+			guid="aa798326-a912-45a5-aa67-de4b86f8282a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:35+04:00"
+			guid="d668a621-c123-43e7-955c-6d45a31d9e9d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:36+04:00"
+			guid="4b923d40-05ef-4e85-81aa-6f5a3c6efe77" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:16+04:00"
+			guid="e9a1ec9a-d502-4d07-80c4-3fef596c9141" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d54eb316-d37f-4de2-bfca-1c01141e96eb&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 5 Analyses"
+		guid="0b043153-9c28-42d9-9405-bde44720a8b3">
+		<message
+			author="merger"
+			status="open"
+			guid="ec902e81-6c26-4cc6-b250-d48a0cc31707"
+			date="2023-03-01T16:21:25Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 15 Segments 5 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="ec902e81-6c26-4cc6-b250-d48a0cc31707"
+	date="2023-03-01T16:21:25Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 5 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;nIHHAt0TyxftBhqZTw2mOlL6HPI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;w8Okji7SBihx3uebpdayAEBp6F0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;nIHHAt0TyxftBhqZTw2mOlL6HPI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;u9vmhaPxdQTysCOr2kvTIA5Uqok=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d54eb316-d37f-4de2-bfca-1c01141e96eb&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 5 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7471f0001220"
+		betaUserRevision="e5074777c57e"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:28+04:00"
+			guid="4e16bda7-e9a5-4d27-a2fa-a75a04d9594f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:28+04:00"
+			guid="c082aae4-1739-4825-85cd-3af38abf44b3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:28+04:00"
+			guid="ff44bd7d-015e-4761-bc0d-e133c3d879db" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:29+04:00"
+			guid="09ffdde9-539e-42a4-af34-ac1362c902e2" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:29+04:00"
+			guid="94d9c972-fe7e-4fd4-a8fb-317819a63c4a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:29+04:00"
+			guid="f3b9141b-9958-46e4-999e-40677aa28ae4" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:29+04:00"
+			guid="b918fed1-597b-4d38-b7bc-67f753077a03" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:30+04:00"
+			guid="e52b0812-983f-4fc0-88ff-49fc2871e2f8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:32+04:00"
+			guid="6d3c440d-ff4e-46b4-ae65-518808794e8a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:32+04:00"
+			guid="64f70994-19b4-4b28-8da6-e81b9ea4e1d0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:32+04:00"
+			guid="c2e03dd2-ca08-469d-bd2e-0e48f15c0e7b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:32+04:00"
+			guid="ce33bc7a-09ad-48ed-ad70-3326a358b214" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:33+04:00"
+			guid="1347d6df-3254-4ef9-b2e3-aa5e8c79e044" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:33+04:00"
+			guid="8c9a2882-b482-44fe-8757-7218dee5f929" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:33+04:00"
+			guid="4a0c7299-0ad0-4020-a3f6-d26fb9a74f6d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:33+04:00"
+			guid="523bcb4f-2624-4e42-bb6d-6d40799f5b9a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:34+04:00"
+			guid="4967109d-da3c-4b50-a91c-bb99a335862e" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:24+04:00"
+			guid="b3e6fb03-e72a-469c-8cc1-ec8c34bdf81c" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=fcfd5f19-2571-4503-a412-6c2e745a62c6&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 1 Analyses"
+		guid="5ebe5c1f-69b0-46a7-8362-1a8e1c726d04">
+		<message
+			author="merger"
+			status="open"
+			guid="51388bd9-5b1f-45ff-81b6-13833334140f"
+			date="2023-03-02T09:50:08Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 15 Segments 1 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="51388bd9-5b1f-45ff-81b6-13833334140f"
+	date="2023-03-02T09:50:08Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 1 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;wRJW7mGIMZmtAX38qLTnL5JpkUc=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2F+U6/ffiTk8jVV+h8NCJsLgRQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;C9OibgD9g1mhhy7PGFvfn0HFdDE=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2F+U6/ffiTk8jVV+h8NCJsLgRQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=fcfd5f19-2571-4503-a412-6c2e745a62c6&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 15 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="0a1003f82f38"
+		betaUserRevision="284a6466287e"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:41+04:00"
+			guid="84123584-d333-4e4a-9f58-141ec356fb41" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:41+04:00"
+			guid="8d7d718f-9eae-47c0-84fe-835e1e147bf0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:41+04:00"
+			guid="4ad907d9-b6d0-4da3-9fd8-63962b304155" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:42+04:00"
+			guid="6f548f3c-1e10-4e97-aeec-ff65717568a3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:42+04:00"
+			guid="7220961e-5e60-417a-93fb-50e62f618bdf" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:42+04:00"
+			guid="6cde717f-02c7-4b0e-b29c-5dcc60ac9bca" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:42+04:00"
+			guid="258dca08-ae8c-42d6-ab7f-51f0e1617b64" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:42+04:00"
+			guid="ac4cd9eb-f185-462b-93c9-07665b09020e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:43+04:00"
+			guid="55a0d44d-06a7-4e5d-b810-21e9d37bd807" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:43+04:00"
+			guid="5d572047-c4b7-42f8-8edc-c85da93ae3e4" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:43+04:00"
+			guid="966a5453-5732-46c3-874c-2c8a7b356cd0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:43+04:00"
+			guid="2cba9230-3274-4eaf-8b13-16cce54f6870" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:44+04:00"
+			guid="b37660a4-266f-4bbf-bd87-a956ec92404f" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:57+04:00"
+			guid="0ccf5548-5485-49a9-9f12-c9d4a13aa9f3" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=33c0f31c-6820-4271-baea-21c0017592ac&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 7 Analyses"
+		guid="4436fda4-56f2-4dc6-8bf8-5f080696c42d">
+		<message
+			author="merger"
+			status="open"
+			guid="a1ed9ba8-c002-474a-a240-f0323a4a5139"
+			date="2023-03-02T09:50:08Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 23 Segments 7 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="a1ed9ba8-c002-474a-a240-f0323a4a5139"
+	date="2023-03-02T09:50:08Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 7 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;n3s0UUCUo1OlFcaa2hH14emeUrA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;8EuHW4gAGAJ2Ojiux8g75k1C4sY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;n3s0UUCUo1OlFcaa2hH14emeUrA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;dvN3H8BlbzYBvJ1ODmVnU927rE0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=33c0f31c-6820-4271-baea-21c0017592ac&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 7 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 23 Segments 7 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="0a1003f82f38"
+		betaUserRevision="284a6466287e"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:44+04:00"
+			guid="a980346a-a000-427c-9b46-67de78856e6d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:44+04:00"
+			guid="7dd4ceea-0b72-43bd-8831-e9571424bc5f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:44+04:00"
+			guid="47fbe443-5ff5-48ea-bf91-c249ba4d26c4" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:44+04:00"
+			guid="32537acd-9987-44b6-bfc5-1298d39170e9" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:45+04:00"
+			guid="a806f666-9724-408f-a3c2-20080295b27a" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:07+04:00"
+			guid="b41a025b-4c8e-4188-bdff-764fb82c4981" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=bedb9414-4a79-4eb3-857d-d494a8790ae9&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 15 Analyses"
+		guid="d8b8bad2-1319-4c80-b68e-531e4e708df0">
+		<message
+			author="merger"
+			status="open"
+			guid="42c88fe5-2b5d-479d-98bc-61834013ac56"
+			date="2023-03-02T18:40:42Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 69 Segments 15 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="42c88fe5-2b5d-479d-98bc-61834013ac56"
+	date="2023-03-02T18:40:42Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 15 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YoIgAwbnSH4TyJAhn6zl9Ab4Yf4=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;kDKNkk1uDRFAI/cAm1zyEFPEEi8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;YoIgAwbnSH4TyJAhn6zl9Ab4Yf4=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;v3XQE+oxM4KZ0d/w0abb2mSNkMA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=bedb9414-4a79-4eb3-857d-d494a8790ae9&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 15 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 15 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T10:55:18+04:00"
+			guid="e4703b11-6a0a-4d3e-94cd-c4b2dec1aa97" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T10:55:18+04:00"
+			guid="72a57729-258d-4578-bda2-223f3dcd67d8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T10:55:18+04:00"
+			guid="4579a3cb-870a-4f27-98ac-a904c53ec671" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T10:55:18+04:00"
+			guid="05ca0f7b-f03d-4916-bc33-496a7bbd4fde" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T10:55:18+04:00"
+			guid="c8b4cafe-4a73-45dd-b605-63bd2f521e87" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T12:59:34+04:00"
+			guid="39e30a07-026e-48fd-8edc-9a630bde1055" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=36481d97-758d-43f6-aa91-9eb6fb8ed56b&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 38 Segments 4 Analyses"
+		guid="5376b282-4d70-43ee-98e5-fd9d4b7e3ae0">
+		<message
+			author="merger"
+			status="open"
+			guid="da472281-74c7-4f68-8744-0979da7c076b"
+			date="2023-03-14T12:18:29Z">Text "Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 38 Segments 4 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="da472281-74c7-4f68-8744-0979da7c076b"
+	date="2023-03-14T12:18:29Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 38 Segments 4 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;N8yfShojRc6OPIw8yNgtnx4k6vg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;gstRevsUc8JYj84ldb3Rigos5PE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;N8yfShojRc6OPIw8yNgtnx4k6vg=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;XE9/3q/a29YsfK+pJcdfvb0+K2k=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=36481d97-758d-43f6-aa91-9eb6fb8ed56b&amp;tag=&amp;label=Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 38 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 38 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="fca1d9d1848f"
+		betaUserRevision="c7ea0dca68e1"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-14T16:39:00+04:00"
+			guid="70dbc8e7-3c4d-43f8-9f2a-c6be16ad19af"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d0190674-160b-4eab-b54e-c8a6863664d6&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 67 Segments 5 Analyses"
+		guid="c0020f77-e60b-48ac-b443-c05e60e4630d">
+		<message
+			author="merger"
+			status="open"
+			guid="260f7a78-9457-4dbf-9c82-2772bbde01dc"
+			date="2023-05-11T02:52:18Z">Text "Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 67 Segments 5 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="260f7a78-9457-4dbf-9c82-2772bbde01dc"
+	date="2023-05-11T02:52:18Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 67 Segments 5 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;rGsYJMBWtXqKFWnOzkektxdZoHA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ch1y5FX9P4YbL/ZVuF8hZqfTitU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;rGsYJMBWtXqKFWnOzkektxdZoHA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;DeEgzgNcfEjqBj8sdXVKHHP2oIo=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d0190674-160b-4eab-b54e-c8a6863664d6&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 67 Segments 5 Analyses"
+	contextDataLabel="Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 67 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="ce9ee28a9224"
+		betaUserRevision="013dc4c6a6bb"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-11T08:09:22+04:00"
+			guid="35b54e92-4b0b-49a4-bd5f-8025e7d2b90c"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5da0d9f1-cc60-41fa-bdf6-a0bde4341960&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 6 Analyses"
+		guid="67cc42bd-ffdd-48a8-b07d-34638475f7c8">
+		<message
+			author="merger"
+			status="open"
+			guid="f5c2833a-3bfe-42e6-b812-bb9f7a2e7973"
+			date="2023-05-11T02:52:18Z">Text "Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 69 Segments 6 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f5c2833a-3bfe-42e6-b812-bb9f7a2e7973"
+	date="2023-05-11T02:52:18Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 6 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;KPAt2vyMH3Di7dSuU6Dg/BW8G84=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;5gLnOdtY5ABYmoHJIkKb3awCLoU=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;KPAt2vyMH3Di7dSuU6Dg/BW8G84=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;zt+0nk8w9Pf1vPWsE50y9e2O/54=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5da0d9f1-cc60-41fa-bdf6-a0bde4341960&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 6 Analyses"
+	contextDataLabel="Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 6 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="ce9ee28a9224"
+		betaUserRevision="013dc4c6a6bb"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-11T08:09:23+04:00"
+			guid="95974d77-15bb-4be6-9cc4-706dcfcef4c0"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5eb21c80-dce2-4f43-8ffe-3074774c99ff&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 82 Segments 4 Analyses"
+		guid="ffcca0f3-dc96-43a5-a859-14ff0fab9c82">
+		<message
+			author="merger"
+			status="open"
+			guid="824ae337-9d7a-4a6e-9567-eab4f5eef720"
+			date="2023-05-11T02:52:18Z">Text "Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 82 Segments 4 Analyses: IrinaLobzhanidze and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="824ae337-9d7a-4a6e-9567-eab4f5eef720"
+	date="2023-05-11T02:52:18Z"
+	whoWon="IrinaLobzhanidze"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 82 Segments 4 Analyses: IrinaLobzhanidze and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;epiT6XbKBkbatNQP7di48Dlwc10=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;gwh8lGND3lMiLf3gZqJoultrk08=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;epiT6XbKBkbatNQP7di48Dlwc10=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xKN/PJZoL1RrYUs3qYnRCto9i2Q=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by IrinaLobzhanidze.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5eb21c80-dce2-4f43-8ffe-3074774c99ff&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 82 Segments 4 Analyses"
+	contextDataLabel="Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 82 Segments 4 Analyses">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="ce9ee28a9224"
+		betaUserRevision="013dc4c6a6bb"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-05-11T08:09:24+04:00"
+			guid="57aa3a9a-23cb-4c0d-926a-5ea2145331e3"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=373219ff-1d7b-4879-9f98-f5f39c9926c8&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 16 Segments 1 Analyses"
+		guid="08014b38-eb57-4817-af92-f7157dbe5cdd">
+		<message
+			author="merger"
+			status="open"
+			guid="dc2deccc-3b8b-469d-9242-eab9fb42208e"
+			date="2023-07-09T20:59:14Z">Text "Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 16 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="dc2deccc-3b8b-469d-9242-eab9fb42208e"
+	date="2023-07-09T20:59:14Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 16 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;PnUPq9HaY2IRM7H5AceaNDWtoY8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;YFqontZEFwLWdhLnRrhGsI01T7A=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;PnUPq9HaY2IRM7H5AceaNDWtoY8=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;5ZVCuy0hS5t79iPcYnpuMmouSdQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=373219ff-1d7b-4879-9f98-f5f39c9926c8&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 16 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 16 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="ec36e12fbe36"
+		betaUserRevision="e1641b92e590"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:50+04:00"
+			guid="a5bb6cee-c225-4699-9408-c49a762af0f3"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:54:50+04:00"
+			guid="dadb3cbd-157c-47a1-95de-5da06afd09cf"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:50+04:00"
+			guid="a82d8921-8539-4dac-858a-da65d5dc54f2"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-12T14:54:50+04:00"
+			guid="cdeb7296-6b71-4f00-b399-36df60a6ffd0"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-12T14:54:50+04:00"
+			guid="d65e5532-ab53-4da9-b51a-7c88882867cf"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d5b11a80-895f-4e3d-a4be-0a37f500859e&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 12 Analyses"
+		guid="60b9735a-ad97-4c5b-a029-7ec53efd7352">
+		<message
+			author="merger"
+			status="open"
+			guid="94575d8b-c36a-4b22-bc59-73fa21c5e9c9"
+			date="2023-08-13T07:45:15Z">Text "Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი " Contents Paragraphs 69 Segments 12 Analyses: User and MARI edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="94575d8b-c36a-4b22-bc59-73fa21c5e9c9"
+	date="2023-08-13T07:45:15Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 12 Analyses: User and MARI edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;pwnEAlkGBza8Zda5pZcl6bUi4NQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;cFJRKq+ZXTvcCPKPiYHhhsA/PaQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;pwnEAlkGBza8Zda5pZcl6bUi4NQ=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Tj/RhANXsxvvcoozHpYxT2qpKVE=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d5b11a80-895f-4e3d-a4be-0a37f500859e&amp;tag=&amp;label=Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 12 Analyses"
+	contextDataLabel="Text &quot;Gloss_Text 6_ რუსუდან გერსამია_ტობავარჩხილი &quot; Contents Paragraphs 69 Segments 12 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="MARI"
+		alphaUserRevision="8c2e621b993c"
+		betaUserRevision="432e3ab763a1"
+		path="Linguistics\TextCorpus\Text_e15609da-c4f8-4213-8e98-72f0a902bd73.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:45+04:00"
+			guid="9827b54b-f934-48ee-8b30-601458fe1102"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:45+04:00"
+			guid="e26b5f45-f42f-4295-bf40-677b27098334"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:45+04:00"
+			guid="d0df9ef9-993f-456e-80b9-f89b2260c110"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:45+04:00"
+			guid="6347ea76-e6dc-4f39-9f83-1e9356b31b36"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:45+04:00"
+			guid="e1634092-581f-4abf-aec6-faf1c3173236"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:46+04:00"
+			guid="cf0eeb0d-fd9b-4391-8098-53269bdc54d4"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:46+04:00"
+			guid="5efefa4e-4100-467b-96fb-677457eb9c53"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:46+04:00"
+			guid="8471ab7d-d0b1-4931-8a83-d37131d03f5a"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:46+04:00"
+			guid="3f9d4b83-262c-4ee5-9a28-a9c711712c35"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:46+04:00"
+			guid="c2c889cf-48ef-4075-901f-1ad521994950"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:47+04:00"
+			guid="b0093a62-e365-4f82-a54f-88bd5bd3d2fc"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:47+04:00"
+			guid="43c2b93f-79c3-456e-a0c5-52c55ecde31f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:47+04:00"
+			guid="7eb6d793-0105-4fe2-9851-c08edeff61f8"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-08-14T19:22:47+04:00"
+			guid="c373ff1f-a89f-455a-9cb9-bd97bc4504a4"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-08-14T19:22:47+04:00"
+			guid="312af1fe-bab8-4495-921e-aa383704bcfd"></message>
+	</annotation>
+</notes>

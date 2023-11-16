@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=f4b5f5b6-5ae3-44ab-9ef1-0ee4aa565d25&amp;tag=&amp;label=Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses"
+		guid="be57b46a-d8bc-4fd3-b02f-443efe00da0a">
+		<message
+			author="merger"
+			status="open"
+			guid="33efd276-d409-411f-8286-206b353c6589"
+			date="2023-03-02T09:49:59Z">Text "Text 21 - ნინო- ნათლობის წესი" Contents Paragraphs 11 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_64c710ab-96a9-4358-be66-788ba344d679.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="33efd276-d409-411f-8286-206b353c6589"
+	date="2023-03-02T09:49:59Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;XpD+l0DrB0k4uNcJeWm8d8fgcoA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;AU6JtmBEFq1099f/8PZPqDeMGIs=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;XpD+l0DrB0k4uNcJeWm8d8fgcoA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;oOJjH3PPrHLXaY+sE7jjVXq9eKQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=f4b5f5b6-5ae3-44ab-9ef1-0ee4aa565d25&amp;tag=&amp;label=Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="0a1003f82f38"
+		betaUserRevision="284a6466287e"
+		path="Linguistics\TextCorpus\Text_64c710ab-96a9-4358-be66-788ba344d679.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:52+04:00"
+			guid="24c0e771-1ada-48ea-9167-c7d05d70551a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:09:52+04:00"
+			guid="26ba4fb6-e50a-4f4c-898d-6a8b96e8b573" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:09:53+04:00"
+			guid="6a45850c-8203-4da3-8725-4aeac8caaa34" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:03+04:00"
+			guid="7e1a02b6-cd63-4a6c-afb7-d84029c46c8e" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=f4b5f5b6-5ae3-44ab-9ef1-0ee4aa565d25&amp;tag=&amp;label=Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses"
+		guid="4cafd077-80a4-4fe9-817e-fe5d0caf0d93">
+		<message
+			author="merger"
+			status="open"
+			guid="b6fb2a8c-1201-4248-b64a-f6f33e5dd0c5"
+			date="2023-03-02T18:40:25Z">Text "Text 21 - ნინო- ნათლობის წესი" Contents Paragraphs 11 Segments 2 Analyses: User and IrinaLobzhanidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_64c710ab-96a9-4358-be66-788ba344d679.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b6fb2a8c-1201-4248-b64a-f6f33e5dd0c5"
+	date="2023-03-02T18:40:25Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses: User and IrinaLobzhanidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;MPJAXLDY4rTNzRHmuqi85qzM8zc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;vN8FdHJCP9t1bJVvAPaUkmz+B9c=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;IrinaLobzhanidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;MPJAXLDY4rTNzRHmuqi85qzM8zc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;oOJjH3PPrHLXaY+sE7jjVXq9eKQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=f4b5f5b6-5ae3-44ab-9ef1-0ee4aa565d25&amp;tag=&amp;label=Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="IrinaLobzhanidze"
+		alphaUserRevision="3d52ff99da54"
+		betaUserRevision="6857b28266cd"
+		path="Linguistics\TextCorpus\Text_64c710ab-96a9-4358-be66-788ba344d679.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:12+04:00"
+			guid="9a99794c-7469-4ba3-a287-e326ba2c62bf" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:12+04:00"
+			guid="e2c0dbde-1112-45cd-914f-232592b64ccf" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:12+04:00"
+			guid="3dbc69fb-9d93-4769-b773-28d7bf2659b1" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:13+04:00"
+			guid="a6855745-0414-4278-be2e-90f6279f2780" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:13+04:00"
+			guid="a631e079-45e3-4ff7-bd27-b488abb1c385" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:13+04:00"
+			guid="c4effb10-2b9e-4304-b17e-cc52b0b14400" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:13+04:00"
+			guid="9428dbff-4cd5-4f5f-a2d5-34a03326dfc8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:13+04:00"
+			guid="d12e1fa3-f897-427a-8bfb-26398b02d5f3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:14+04:00"
+			guid="cca548a4-b741-4ebe-b60c-c64b77413cc1" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:14+04:00"
+			guid="41044794-e03d-4cac-b7e8-0e82d1c6fca5" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:14+04:00"
+			guid="cb618613-3e01-471f-bc26-d739888737db" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:14+04:00"
+			guid="994021a3-03ce-42d0-82f8-82db7ad92035" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:15+04:00"
+			guid="715e25af-ea1f-4e40-9240-ad53f119ef57" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:15+04:00"
+			guid="461bbca5-9913-4162-be62-085118ae149f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:15+04:00"
+			guid="c4ce8673-e986-4e54-b00e-fcf349639b4b" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:08:15+04:00"
+			guid="f9aad7b9-2ea9-4521-830f-4c89b69fa0a6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:08:16+04:00"
+			guid="bf1bccd7-e5b1-47bc-b056-1486ae9e5d81" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:00:55+04:00"
+			guid="91cba1ab-215a-4e7a-a183-ea59855e7593" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d6f9ddb6-b75c-4ad4-8831-20b4a1990a5e&amp;tag=&amp;label=Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 5 Analyses"
+		guid="ad5ccc40-3c98-42b4-9bab-c4a1d256ebd5">
+		<message
+			author="merger"
+			status="open"
+			guid="37034423-7630-4974-abd9-afaa1c23242b"
+			date="2023-09-08T03:16:01Z">Text "Text 21 - ნინო- ნათლობის წესი" Contents Paragraphs 11 Segments 5 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_64c710ab-96a9-4358-be66-788ba344d679.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="37034423-7630-4974-abd9-afaa1c23242b"
+	date="2023-09-08T03:16:01Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 5 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cI/8YO2L9R0MVJBHwm32cZS4aFI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;J7XDhCdyeMjYf0GVawXagxBalic=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;cI/8YO2L9R0MVJBHwm32cZS4aFI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;XyIEUF2IyCgtcmm4WepECrNgCNI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d6f9ddb6-b75c-4ad4-8831-20b4a1990a5e&amp;tag=&amp;label=Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 5 Analyses"
+	contextDataLabel="Text &quot;Text 21 - ნინო- ნათლობის წესი&quot; Contents Paragraphs 11 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="9430aa3f5bb3"
+		betaUserRevision="dc29bc23b8c0"
+		path="Linguistics\TextCorpus\Text_64c710ab-96a9-4358-be66-788ba344d679.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:21+04:00"
+			guid="7ab9366e-da06-4107-b185-38d2eac2e830"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:22+04:00"
+			guid="3b7490f1-da5d-42af-8e4e-cfb61ea2cdd8"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:22+04:00"
+			guid="1efae7ac-49dd-4871-bd54-ec4fb5b8d5bc"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:22+04:00"
+			guid="e6c1d3e2-8058-4eda-83fe-5a7ffd4f7ee7"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:22+04:00"
+			guid="9ddeb41b-9463-44d7-a505-c3f6da89cbc5"></message>
+	</annotation>
+</notes>

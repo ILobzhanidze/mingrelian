@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=be2701ce-c431-4db7-b4bb-a7604c89812e&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments"
+		guid="0af17ef7-0c65-42e0-bffc-4951955f66a4">
+		<message
+			author="merger"
+			status="open"
+			guid="3448f9b7-89a8-416c-90dd-c685057a5f5d"
+			date="2023-02-23T17:42:46Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 7 Segments: ZaalKikvidze deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Removed Vs Edited Element Conflict"
+	guid="3448f9b7-89a8-416c-90dd-c685057a5f5d"
+	date="2023-02-23T17:42:46Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments: ZaalKikvidze deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;sGWVaU+D+tlyYU77786z2DnuO48=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;y/hBP7d0o8jSh9F2Rr6a0w4euWY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=be2701ce-c431-4db7-b4bb-a7604c89812e&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="216f8b17b0d3"
+		betaUserRevision="af6b09053b60"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:51+04:00"
+			guid="f578f800-1396-448f-a7ad-a7435037117b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:51+04:00"
+			guid="5c8367e2-688e-4b74-9e87-3a3e38acadf1"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:53+04:00"
+			guid="6114ddbc-7390-4510-b6de-9cdb2c202f64"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=abc864e5-a222-4e5a-92db-06e66cfe04b0&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments 2 Analyses"
+		guid="bb1cd689-ee37-4161-8e52-1732a362dbf1">
+		<message
+			author="merger"
+			status="open"
+			guid="3a7dee0e-76fa-43a5-86ce-3e6f406d2d32"
+			date="2023-02-23T17:42:46Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 7 Segments 2 Analyses: User and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3a7dee0e-76fa-43a5-86ce-3e6f406d2d32"
+	date="2023-02-23T17:42:46Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments 2 Analyses: User and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;tn7JFsneAdFnRUwvgLANzp8uwH0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;jl5KCj2pmpXqLG5LxECftiUYO88=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;tn7JFsneAdFnRUwvgLANzp8uwH0=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;wDxy26UrzkHMIrOBY/bSHAgqilc=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=abc864e5-a222-4e5a-92db-06e66cfe04b0&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 7 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="216f8b17b0d3"
+		betaUserRevision="af6b09053b60"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:33:52+04:00"
+			guid="e80fca16-d3e0-41d5-9673-4697535cb04c"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=86365564-74c1-4731-b380-6f4d813e7588&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments"
+		guid="ff95281b-a24e-4564-9f34-be1c3523dbda">
+		<message
+			author="merger"
+			status="open"
+			guid="5062bff2-20e6-4064-9b37-6bfeec15c339"
+			date="2023-02-23T17:42:46Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 8 Segments: ZaalKikvidze deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="3d9ba4ac-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.EditedVsRemovedElementConflict"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Removed Vs Edited Element Conflict"
+	guid="5062bff2-20e6-4064-9b37-6bfeec15c339"
+	date="2023-02-23T17:42:46Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments: ZaalKikvidze deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;i1qrbMNE4NVysKB1qv3PsHNo9aw=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;yTuJ/F04rwsm1kk2dK44cxeruI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=86365564-74c1-4731-b380-6f4d813e7588&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="216f8b17b0d3"
+		betaUserRevision="af6b09053b60"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:33:51+04:00"
+			guid="ace56287-75bf-4a95-b91c-e5d616277e14"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=182b8bda-d198-470e-bcac-571dbd138eff&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments 1 Analyses"
+		guid="26967c01-a323-422b-85aa-166d6377891c">
+		<message
+			author="merger"
+			status="open"
+			guid="e22d2ab0-069d-4bf6-9a8c-ffb8064848ab"
+			date="2023-02-23T17:42:47Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 8 Segments 1 Analyses: User and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="e22d2ab0-069d-4bf6-9a8c-ffb8064848ab"
+	date="2023-02-23T17:42:47Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments 1 Analyses: User and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;HD6WU0Cy3gzsYFHe86I4V0UBI7k=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;cKypYhgEbI9godsz8l+3Zduwka8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;HD6WU0Cy3gzsYFHe86I4V0UBI7k=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Zf7yziCeocep8yvA7eazJEGLMKw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=182b8bda-d198-470e-bcac-571dbd138eff&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments 1 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 8 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="216f8b17b0d3"
+		betaUserRevision="af6b09053b60"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:49+04:00"
+			guid="177d39fa-3d10-4827-94f9-ce1afb8b93a4"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:49+04:00"
+			guid="e07db0d6-1c86-465d-9274-bcbf558e04f8"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:49+04:00"
+			guid="150b2f3f-b0f3-4188-a854-a03338a8bd41"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:49+04:00"
+			guid="da4b8c92-bfb6-4e7f-85a6-c75b2b09a309"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:50+04:00"
+			guid="98169955-9d36-4cf4-95e1-a2c57049987d"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d8b5e1f9-5314-4c72-8f10-e0428a800adf&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 1 Analyses"
+		guid="fa80ec55-ec46-43aa-a4e7-86d2a45c5fa4">
+		<message
+			author="merger"
+			status="open"
+			guid="c259dc09-00ba-4fc6-8d5c-a041c6905b96"
+			date="2023-02-23T17:42:47Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 9 Segments 1 Analyses: User and ZaalKikvidze edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="c259dc09-00ba-4fc6-8d5c-a041c6905b96"
+	date="2023-02-23T17:42:47Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 1 Analyses: User and ZaalKikvidze edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xSu6Tx/VBA6XAqidyMSnd5TS49g=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2qgQoR4rUbwIAQnvtpTWwU8TB4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;ZaalKikvidze's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;VCeGruDJhdhei9Y+RDbOAcSE3sw=&lt;/span&gt;&lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2qgQoR4rUbwIAQnvtpTWwU8TB4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=d8b5e1f9-5314-4c72-8f10-e0428a800adf&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 1 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="ZaalKikvidze"
+		alphaUserRevision="216f8b17b0d3"
+		betaUserRevision="af6b09053b60"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:50+04:00"
+			guid="6860e3cc-b545-4cd3-914e-bdf5e2fe0f3e"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:50+04:00"
+			guid="8365924d-d7a7-44a7-8a72-7641110ad00b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:50+04:00"
+			guid="9968ac67-d369-4247-835d-62351807fdb3"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:51+04:00"
+			guid="592bcba9-4b8b-4131-81be-3fc4e0fe6a56"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:51+04:00"
+			guid="a077e8d0-8608-4b81-b731-532629df37fb"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b4cd035d-fc28-4c6a-bddd-29945df7663e&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses"
+		guid="74117fef-f4cb-4ad7-8a2d-7a3dc4e0651c">
+		<message
+			author="merger"
+			status="open"
+			guid="ce0a774d-aef5-4671-9e64-8e47e7d5e418"
+			date="2023-02-24T05:31:07Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 9 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="ce0a774d-aef5-4671-9e64-8e47e7d5e418"
+	date="2023-02-24T05:31:07Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3bIvWXwGqOG0yGqxT/Ro2mD1bNo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;yA7LO0cfM7sRfHrqRu/Ax9b3254=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3bIvWXwGqOG0yGqxT/Ro2mD1bNo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;J9nBdpWySiPGEVTOdomuy8ubwk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b4cd035d-fc28-4c6a-bddd-29945df7663e&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="a630b1ac8cc3"
+		betaUserRevision="1afc8f0a05f5"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:46+04:00"
+			guid="dcb648ec-f6c1-4289-a7bb-ced797a70b03"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:46+04:00"
+			guid="c96c5e99-f616-49a4-8db2-3e202c7bbb3f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:46+04:00"
+			guid="3e2fb6ed-d1bb-4b62-af6e-5b254f7bdf62"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:47+04:00"
+			guid="8fe0ce29-a27f-4122-8251-9d71b633ae9e"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:47+04:00"
+			guid="0f10a406-f7a7-49e4-b86d-74b487860983"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b4cd035d-fc28-4c6a-bddd-29945df7663e&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses"
+		guid="bf4791b7-93ba-43a0-81bf-f8da78a9a8b3">
+		<message
+			author="merger"
+			status="open"
+			guid="29a8e994-8080-4e7c-94d9-3f3797dd38b2"
+			date="2023-02-24T18:27:19Z">Text "ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი" Contents Paragraphs 9 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="29a8e994-8080-4e7c-94d9-3f3797dd38b2"
+	date="2023-02-24T18:27:19Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3bIvWXwGqOG0yGqxT/Ro2mD1bNo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;yA7LO0cfM7sRfHrqRu/Ax9b3254=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;3bIvWXwGqOG0yGqxT/Ro2mD1bNo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;J9nBdpWySiPGEVTOdomuy8ubwk=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b4cd035d-fc28-4c6a-bddd-29945df7663e&amp;tag=&amp;label=Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses"
+	contextDataLabel="Text &quot;ტექსტი 37-რუსუდან გერსამია - გოლოფა დო ჭოროფაშ რიტუალი&quot; Contents Paragraphs 9 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="9a866f4a2ead"
+		betaUserRevision="508d211b6d09"
+		path="Linguistics\TextCorpus\Text_a6d28379-8bba-4fa7-89e0-70722df4c896.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:44+04:00"
+			guid="f4d15c35-c6cf-4622-9a76-668f8f1a4e12"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:44+04:00"
+			guid="2cab60cf-b52e-4472-bbf4-13a5b340f81e"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:44+04:00"
+			guid="b772e6ba-4047-445d-aa31-d47a43c9314b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:45+04:00"
+			guid="a82dd23d-ff0a-4c49-8a46-2a4cfbd2de70"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:45+04:00"
+			guid="21492dce-0ade-4588-965a-72d6efa19e5d"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:45+04:00"
+			guid="430fb409-48ba-4833-b343-06ec998d913f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:45+04:00"
+			guid="5bf2309a-09cc-4f80-811b-d4e9b1ef8396"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-02-27T10:36:46+04:00"
+			guid="3747a913-c10e-406f-92ab-7cda10631c6f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-02-27T10:36:46+04:00"
+			guid="6b7144e7-ba6e-482f-9437-f47f5945602f"></message>
+	</annotation>
+</notes>

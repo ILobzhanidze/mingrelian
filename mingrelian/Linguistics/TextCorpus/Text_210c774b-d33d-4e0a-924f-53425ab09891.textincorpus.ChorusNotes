@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=14b1b242-c0bd-47f0-a342-f6dbb76195ba&amp;tag=&amp;label=Text &quot;text 35_ნინო_თუთუნი&quot; Contents Paragraphs 1 Segments 5 Analyses"
+		guid="7125b5b4-bfe0-4dc7-ac66-b7d31bd77b42">
+		<message
+			author="merger"
+			status="open"
+			guid="189c7751-be33-4398-823d-8334fc507dff"
+			date="2023-07-15T17:01:59Z">Text "text 35_ნინო_თუთუნი" Contents Paragraphs 1 Segments 5 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_210c774b-d33d-4e0a-924f-53425ab09891.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="189c7751-be33-4398-823d-8334fc507dff"
+	date="2023-07-15T17:01:59Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;text 35_ნინო_თუთუნი&quot; Contents Paragraphs 1 Segments 5 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;wbPzm6/Jlh5QmCKNa9w8a4zxSxo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;g96Zr/xEPtXikqhlIxEPjX7g5xQ=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;wbPzm6/Jlh5QmCKNa9w8a4zxSxo=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;uDQPbRxFH6urRLd2G4ZnEtzhBv8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=14b1b242-c0bd-47f0-a342-f6dbb76195ba&amp;tag=&amp;label=Text &quot;text 35_ნინო_თუთუნი&quot; Contents Paragraphs 1 Segments 5 Analyses"
+	contextDataLabel="Text &quot;text 35_ნინო_თუთუნი&quot; Contents Paragraphs 1 Segments 5 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="93edbc4b7692"
+		betaUserRevision="e0175f97d285"
+		path="Linguistics\TextCorpus\Text_210c774b-d33d-4e0a-924f-53425ab09891.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:47+04:00"
+			guid="77caf7d1-aa5b-4d67-841e-6b98ea5c50b1"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:47+04:00"
+			guid="fcfb4695-2e65-436d-bc33-b524f4519426"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:47+04:00"
+			guid="b9e91ab3-ec92-483b-b82e-314513408a1f"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:47+04:00"
+			guid="78f049df-990e-4712-a48a-9f46ab03081b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:47+04:00"
+			guid="0ef89549-de54-4863-bba5-2158405ecad7"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=bc8173d7-bae2-4bb1-b2a8-9478dbdb6db0&amp;tag=&amp;label=Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 6 Analyses"
+		guid="cac26daa-c57d-4b83-bee6-75c7cd5f82b3">
+		<message
+			author="merger"
+			status="open"
+			guid="4e30ba9f-9936-4eeb-bfd7-0f4e9df6f42a"
+			date="2023-10-25T13:57:57Z">Text "ZS_Tobacco Crops", "ZS_თუთუნის კულტურა" Contents Paragraphs 1 Segments 6 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_210c774b-d33d-4e0a-924f-53425ab09891.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="4e30ba9f-9936-4eeb-bfd7-0f4e9df6f42a"
+	date="2023-10-25T13:57:57Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 6 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;S+hFIT4G5DNg9dr2l/qlNH5spVA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;nQqiaieHjO+w3i9EDxPSrNXIVHo=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;S+hFIT4G5DNg9dr2l/qlNH5spVA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;2JNCQLSS3wbmXfCvkvLmTS5u0/4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=bc8173d7-bae2-4bb1-b2a8-9478dbdb6db0&amp;tag=&amp;label=Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 6 Analyses"
+	contextDataLabel="Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 6 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="eadd76aac5d7"
+		betaUserRevision="ad9a1fe86cb8"
+		path="Linguistics\TextCorpus\Text_210c774b-d33d-4e0a-924f-53425ab09891.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:17+04:00"
+			guid="3c73699e-920d-4a30-89e8-cd04de9fa88b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:18+04:00"
+			guid="4897a511-141a-4c5f-b2a6-c0414ca3a0a6"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:18+04:00"
+			guid="f92f2780-ee38-40da-9ca8-dc686d542211"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:18+04:00"
+			guid="d1d93d45-2187-467d-a5fb-7f1b6afda2e2"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:18+04:00"
+			guid="fb71ba70-595d-44b0-bde9-32bcd326b5b2"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=24bbae35-659a-4c1c-8c55-0720aae63cc9&amp;tag=&amp;label=Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 10 Analyses"
+		guid="2c1262c1-1e99-462e-8a60-4ad9fa1df3c1">
+		<message
+			author="merger"
+			status="open"
+			guid="f12d6d57-de31-4eca-9c61-966b4813e0db"
+			date="2023-10-25T13:57:57Z">Text "ZS_Tobacco Crops", "ZS_თუთუნის კულტურა" Contents Paragraphs 1 Segments 10 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_210c774b-d33d-4e0a-924f-53425ab09891.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f12d6d57-de31-4eca-9c61-966b4813e0db"
+	date="2023-10-25T13:57:57Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 10 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;GVfGCk66233iu8F09FkY0NgKBPk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xSuRNAokVEJrld/Hj24uZb475g8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;GVfGCk66233iu8F09FkY0NgKBPk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;sYkRJ4rd8E+0SN7dHONZ9+NXB1A=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=24bbae35-659a-4c1c-8c55-0720aae63cc9&amp;tag=&amp;label=Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 10 Analyses"
+	contextDataLabel="Text &quot;ZS_Tobacco Crops&quot;, &quot;ZS_თუთუნის კულტურა&quot; Contents Paragraphs 1 Segments 10 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="eadd76aac5d7"
+		betaUserRevision="ad9a1fe86cb8"
+		path="Linguistics\TextCorpus\Text_210c774b-d33d-4e0a-924f-53425ab09891.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:18+04:00"
+			guid="0846be48-d119-44e8-8214-f189a2786d86"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:19+04:00"
+			guid="3b0fc962-0cba-4b11-8b96-fe10a76dcf70"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:19+04:00"
+			guid="a6890ef4-8117-450e-9063-3ae9d85fddc1"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-11-07T12:11:19+04:00"
+			guid="8e341050-ee7b-4e9f-ad08-2bb4b068fd88"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-11-07T12:11:19+04:00"
+			guid="ba800adb-fdff-46fb-9f49-ed8fa79298fd"></message>
+	</annotation>
+</notes>

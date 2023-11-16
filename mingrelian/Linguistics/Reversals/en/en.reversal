@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Reversal>
+	<header>
+		<ReversalIndex
+			guid="33cdfa74-f863-46c0-8790-484f780d1d7d">
+			<DateCreated
+				val="2022-5-16 8:40:2.26" />
+			<DateModified
+				val="2022-5-16 8:40:2.26" />
+			<Name>
+				<AUni
+					ws="en">English</AUni>
+			</Name>
+			<PartsOfSpeech />
+			<WritingSystem>
+				<Uni>en</Uni>
+			</WritingSystem>
+		</ReversalIndex>
+	</header>
+</Reversal>

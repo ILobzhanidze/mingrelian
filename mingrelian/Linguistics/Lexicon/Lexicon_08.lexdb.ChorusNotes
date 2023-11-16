@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5f81ab25-295b-4029-bbf2-5542dab30ae4&amp;tag=&amp;label=Entry &quot;ჩაი&quot;"
+		guid="418c697d-923d-4183-bd3d-5db6953c75ce">
+		<message
+			author="merger"
+			status="open"
+			guid="4fe85f8b-d5c3-4fc3-90e2-27800931cea1"
+			date="2023-04-11T21:32:57Z">Entry "ჩაი": IrinaLobzhanidze deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_08.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="4fe85f8b-d5c3-4fc3-90e2-27800931cea1"
+	date="2023-04-11T21:32:57Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry &quot;ჩაი&quot;: IrinaLobzhanidze deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='property'&gt;DateCreated: 2023-4-2 12:20:27.655&lt;/div&gt;&lt;div class='property'&gt;DateModified: 2023-4-10 &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;9:56:17.223&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;15:30:47.211&lt;/span&gt;&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: 1&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: ჩაი&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: 8vuxP9oD+4MHboh6iDetvb5NpRY=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;MorphoSyntaxAnalyses: &lt;div class='checksum'&gt;PartOfSpeech: 91FITAAnWeaF6VpmfrranaZqvZI=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;Senses: &lt;div class='property'&gt;Gloss: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;en&lt;/span&gt;: tea_plantation&lt;/div&gt;&lt;/div&gt;&lt;div class='checksum'&gt;MorphoSyntaxAnalysis: sbK13QoFe0SL7/IW3GnLvh3EXy8=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5f81ab25-295b-4029-bbf2-5542dab30ae4&amp;tag=&amp;label=Entry &quot;ჩაი&quot;"
+	contextDataLabel="Entry &quot;ჩაი&quot;">
+	<MergeSituation
+		alphaUserId="IrinaLobzhanidze"
+		betaUserId="User"
+		alphaUserRevision="9e9377bbcd4d"
+		betaUserRevision="177edee59f82"
+		path="Linguistics\Lexicon\Lexicon_08.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-04-12T01:34:42+04:00"
+			guid="a006095e-729c-497e-b408-84be43b54d08"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3112c355-d975-47c7-8ffd-aa00c833f94c&amp;tag=&amp;label=Entry &quot;აშონა&quot;"
+		guid="25c1aecd-dec1-4053-93fb-3d40b8541e39">
+		<message
+			author="merger"
+			status="open"
+			guid="b2abd3ba-f12f-4567-862c-cfd3c6b9a118"
+			date="2023-08-25T20:17:53Z">Entry "აშონა": MARI deleted this element, while User edited it. The merger kept the change made by User.<![CDATA[<conflict
+	typeGuid="56F9C347-C4FA-48F4-8028-729F3CFF48EF"
+	class="Chorus.merge.xml.generic.RemovedVsEditedElementConflict"
+	relativeFilePath="Linguistics\Lexicon\Lexicon_08.lexdb"
+	type="Removed Vs Edited Element Conflict"
+	guid="b2abd3ba-f12f-4567-862c-cfd3c6b9a118"
+	date="2023-08-25T20:17:53Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Entry &quot;აშონა&quot;: MARI deleted this element, while User edited it. The merger kept the change made by User.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='property'&gt;DateCreated: 2023-06-28 17:59:18.442&lt;/div&gt;&lt;div class='property'&gt;DateModified: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;2023-08-17&lt;/span&gt; &lt;span style=&quot;background: Yellow&quot;&gt;2023-8-17&lt;/span&gt; 11:22:19.146&lt;/div&gt;&lt;div class='property'&gt;DoNotUseForParsing: False&lt;/div&gt;&lt;div class='property'&gt;EntryRefs: &lt;div class='property'&gt;HideMinorEntry: 0&lt;/div&gt;&lt;div class='property'&gt;RefType: 0&lt;/div&gt;&lt;div class='checksum'&gt;VariantEntryTypes: eij08bw0DK9KaeAfuRdjWDqpm2k=&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;HomographNumber: 1&lt;/div&gt;&lt;div class='property'&gt;LexemeForm: &lt;div class='property'&gt;Form: &lt;div class='ws'&gt;&lt;span class=&quot;ws&quot;&gt;xmf&lt;/span&gt;: აშონა&lt;/div&gt;&lt;/div&gt;&lt;div class='property'&gt;IsAbstract: False&lt;/div&gt;&lt;div class='checksum'&gt;MorphType: 8vuxP9oD+4MHboh6iDetvb5NpRY=&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3112c355-d975-47c7-8ffd-aa00c833f94c&amp;tag=&amp;label=Entry &quot;აშონა&quot;"
+	contextDataLabel="Entry &quot;აშონა&quot;">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="f598da31333e"
+		betaUserRevision="78cdabc29a88"
+		path="Linguistics\Lexicon\Lexicon_08.lexdb"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:37+04:00"
+			guid="50835fc4-8ccf-4028-8e52-0749cd5f0b7f"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:38+04:00"
+			guid="9eae36cf-faae-47bf-bb0d-5a71b445e16b"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:38+04:00"
+			guid="ce9942f3-3eda-41f1-a645-cbe69c476249"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-09-11T20:53:38+04:00"
+			guid="bd58ee7b-6c22-4942-bb96-17ca4d247e68"></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-09-11T20:53:38+04:00"
+			guid="19860e66-953b-413d-8c17-2cf83cf0f691"></message>
+	</annotation>
+</notes>

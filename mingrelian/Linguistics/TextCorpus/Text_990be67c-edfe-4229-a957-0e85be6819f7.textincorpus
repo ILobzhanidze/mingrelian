@@ -1,0 +1,2663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="990be67c-edfe-4229-a957-0e85be6819f7">
+		<Contents>
+			<StText
+				guid="496e4f04-b84b-45e6-aa2c-d0aeeee9830f">
+				<DateModified
+					val="2023-11-8 8:41:0.231" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="f97b97bd-8b01-4968-bce8-82a40b96b05c">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">ჩქინწკჷმა ტრადიციათ რე ათჯგუა მუდგარენ, ნამუსუთ, გაზაფხულიშ ართ თუთაშ განმავლობას მიღუნა ათეჯგუა ტრადიცია დო ამდღა ხოლო ვაგრძეჲენთ. ართ თუთაშ განმავლობას ეჩდოხუთ ოჯახი ჸონუნს თაქ ბინეხისჷ, რე თიჯგუა პერიოდი ირ წანას. თე ეჩდოხუთ კოჩი, ოჯახი არძა ართმაჟიას ოხვარუუ თე ბინეხიშ ჸონუას.არძა ოჯახის იჸონუუ ბინეხი ანუ ათჯგუა მუდგაენი მიღუნა დღესასწაულცაჲ. მუთუნ გვაჲე დიდ გლახა ვარე მოხვამჲაფიჲი და, თე ეჩდოხუთ ოჯახშე მითინ ვეემურს სოთინი შხვადო, არძა რე სოფერს დო მუშ ჸუდეს დო არძა ართმაჟიას მოხვარებას რე. თიჯგუა დღაჲეფ რე, ნამუსიც მთელ ცხოვრებას ირიათო გუგაშინენ. დო მუთმურს ხალხი, სტუმარეფი, მიდგაწკუმა მიღუნა კონტაქტეფინ, ესწრებუნა ჩქინ თე პროცესეფი მუჭო რე, სიტყვაშა ჸონუაში პროცეს მუ რე, მებინეხეობაში, ისტორიეფი მითმიყვებუუ, რე ციგანობეფ რე და ათეჯგუა მუდგარენეფ.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="3db6b67c-d234-47c7-a05f-7ba74f7902b1">
+								<Analyses>
+									<refseq
+										guid="bf4458b5-4e49-4cef-9976-53c71d780b8a"
+										t="r" />
+									<refseq
+										guid="87bd9744-d83d-4de9-ac4e-d3d79bc06270"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="3f035d7a-20b1-4817-bcac-a681db059da1"
+										t="r" />
+									<refseq
+										guid="1fb28ad0-fbf9-4476-b233-8d4ce6f870a0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="376cce17-60dc-446c-a72c-094456efc8d0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="3a93e507-e510-4e8e-b267-ddc987bd0b10"
+										t="r" />
+									<refseq
+										guid="65c57d0a-4e75-4a23-9150-475981094869"
+										t="r" />
+									<refseq
+										guid="26989e9a-9c77-456c-857d-34e4dc3b649d"
+										t="r" />
+									<refseq
+										guid="70d480f2-11ed-4be5-8984-0bf7180d126d"
+										t="r" />
+									<refseq
+										guid="f9e6661d-c7ba-4c78-a771-4f7a57412586"
+										t="r" />
+									<refseq
+										guid="b4c0b3ed-3a9c-4ddf-9297-b69850efd299"
+										t="r" />
+									<refseq
+										guid="47b38aab-f274-405d-8d4d-51636aa5185a"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="45e40db6-1f0b-48b6-9bea-2faab0b6e801"
+										t="r" />
+									<refseq
+										guid="981015f4-d665-4003-84e2-e236e5409702"
+										t="r" />
+									<refseq
+										guid="97e0236d-d779-4a8b-9cae-b52b8f079cfc"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We have a certain tradition and it lasts for a month, and we still have this tradition. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- ჩვენთან ტრადიციად არის ასეთი რაღაც, რომელიც ერთი თვის განმავლობაში გვაქვს ასეთი ტრადიცია და დღესაც ვაგრძელებთ. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="408fd23b-5600-4991-91a4-092f38654fea">
+								<Analyses>
+									<refseq
+										guid="65c57d0a-4e75-4a23-9150-475981094869"
+										t="r" />
+									<refseq
+										guid="26989e9a-9c77-456c-857d-34e4dc3b649d"
+										t="r" />
+									<refseq
+										guid="70d480f2-11ed-4be5-8984-0bf7180d126d"
+										t="r" />
+									<refseq
+										guid="8d6ea55f-578a-474f-847b-3cc38476e0ea"
+										t="r" />
+									<refseq
+										guid="acab6c82-b01b-4835-a356-f44e6157f3e9"
+										t="r" />
+									<refseq
+										guid="3157a14a-594c-4dd2-aed2-a6224dd457d2"
+										t="r" />
+									<refseq
+										guid="87f4a016-a809-4166-9e5c-1e7687db126b"
+										t="r" />
+									<refseq
+										guid="52acbcba-dbd5-474d-96a5-ade7a80ee721"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="28e55f25-d86f-4dfc-b32d-9a3c2f3daf58"
+										t="r" />
+									<refseq
+										guid="7a9ec027-57b9-4a8c-9b4f-5ed5275d46ea"
+										t="r" />
+									<refseq
+										guid="2b2fc459-35a5-46e2-8590-410f1f58c851"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="132" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">For a month, twenty-five families graft vines; there is such a period every year.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ერთი თვის განმავლობაში ოცდახუთი ოჯახი ამყნობს ვენახს, არის ასეთი პერიოდი ყოველ წელს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0afb4117-11ba-4b2a-b524-48386c235fbd">
+								<Analyses>
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="8d6ea55f-578a-474f-847b-3cc38476e0ea"
+										t="r" />
+									<refseq
+										guid="d63d2689-d52c-45c3-8fb5-a784def4175f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="acab6c82-b01b-4835-a356-f44e6157f3e9"
+										t="r" />
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="0e43bd35-2072-4f4a-b2be-d07e6e197981"
+										t="r" />
+									<refseq
+										guid="8a0b8726-636e-4c9f-a49a-663817f882fc"
+										t="r" />
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="763eb35e-e04a-4ba8-b757-351d13f42641"
+										t="r" />
+									<refseq
+										guid="52bda391-8883-4e7c-8b22-6a629badafc4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="217" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">These twenty-five men, families help each other in vine grafting.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს ოცდახუთი კაცი, ოჯახი ყველა ერთმანეთს ეხმარება ამ ვენახის დამყნობაში.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a24a5454-a75a-4d64-8e23-640775f86d93">
+								<Analyses>
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="1c6144e2-e731-4514-8da1-b5a747f98bd7"
+										t="r" />
+									<refseq
+										guid="9395c665-144b-4572-98d6-507978b8634a"
+										t="r" />
+									<refseq
+										guid="c42a2598-7eb8-46e4-b2b9-d4557f702c7f"
+										t="r" />
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="3f035d7a-20b1-4817-bcac-a681db059da1"
+										t="r" />
+									<refseq
+										guid="d5b80e42-fa4a-44b0-be12-3fe9f51606ff"
+										t="r" />
+									<refseq
+										guid="f9e6661d-c7ba-4c78-a771-4f7a57412586"
+										t="r" />
+									<refseq
+										guid="afdd5563-8174-4f49-b2cf-a2ae8a224efc"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="281" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Every family grafts vines, that is, we have something like a festival.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ყველა ოჯახში იმყნობა ვენახი ანუ რაღაც დღესასწაულის მაგვარი გვაქვს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="48878c01-ed8a-4d15-a6ae-6bdc1d81bc4f">
+								<Analyses>
+									<refseq
+										guid="fd7c647b-2a27-4247-afc8-60f6680e1bf4"
+										t="r" />
+									<refseq
+										guid="eec31e56-8191-47df-aca9-2b0e8ee0d2ab"
+										t="r" />
+									<refseq
+										guid="af392eaf-95fe-4d64-93a9-f576cec5ac30"
+										t="r" />
+									<refseq
+										guid="3a31675e-cd8c-4c41-b888-99f29bf9d58e"
+										t="r" />
+									<refseq
+										guid="a6d6e855-e6aa-4d18-a6c6-c85f6246aa2b"
+										t="r" />
+									<refseq
+										guid="4ca7849b-b36c-499b-ba5c-0158d9639da7"
+										t="r" />
+									<refseq
+										guid="5bad405e-0c40-4cef-babb-11a1ba393aa4"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="8d6ea55f-578a-474f-847b-3cc38476e0ea"
+										t="r" />
+									<refseq
+										guid="5ddf15d5-8ac9-4e61-a773-69f1ea2ca6d3"
+										t="r" />
+									<refseq
+										guid="cc34232b-22ee-4e00-a74f-b3d220b04562"
+										t="r" />
+									<refseq
+										guid="e8264c0f-f0f1-4041-8e19-3e6f91a1b8cb"
+										t="r" />
+									<refseq
+										guid="a243024d-90ed-47eb-96e3-f3cf5163aa53"
+										t="r" />
+									<refseq
+										guid="458a5d7b-e198-4be4-ba0b-80935c6d7a69"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="e94c6d28-3bd9-45cd-9535-60a6ffad3755"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="f97b010d-a96f-493f-a12b-6d8b77fb905f"
+										t="r" />
+									<refseq
+										guid="4c48fb5c-b345-4bd2-be37-97a3a6c2c006"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="0e43bd35-2072-4f4a-b2be-d07e6e197981"
+										t="r" />
+									<refseq
+										guid="6440a85d-a15b-4e57-ad4a-f93ec5a0a83b"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="349" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Unless something very bad has happened, no one of the twenty-five families leave, all of them are in the village and at home, everybody helps each other.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">თუ რაიმე ძალიან ცუდი რამ არ არის მომხდარი, ამ ოცდახუთი ოჯახიდან არავინ არ მიდის არსად სხვაგან, ყველა არის სოფელში და თავის სახლში, ყველა ერთმანეთის მოხმარებაშია.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="bce8bcd0-c59f-4ff9-8c02-b5ef46e11f09">
+								<Analyses>
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="bc512e62-a9d0-40de-8b3c-a20097fe1254"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4f00b8a8-69a3-4996-bab6-a0fedc4ab990"
+										t="r" />
+									<refseq
+										guid="fa9d5189-819d-4a95-b5ec-a2d45bd6b308"
+										t="r" />
+									<refseq
+										guid="02f29d53-043c-4d70-9d29-4000b1202445"
+										t="r" />
+									<refseq
+										guid="a21da38c-4639-4d03-871e-b82329a0bbf1"
+										t="r" />
+									<refseq
+										guid="67f0bfab-350b-4a22-9a86-4327eeb77617"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="501" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">These are the days you will remember for all of your life.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ისეთი დღეებია, რომელიც მთელი ცხოვრება გაგახსენდება.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a6263518-8102-4312-880b-5ca968efe5ec">
+								<Analyses>
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="ca1ad432-7644-48fd-a2cc-b3bca771392b"
+										t="r" />
+									<refseq
+										guid="8eab9298-de9a-46c9-af10-5ddd443851f0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9798b3c7-3c57-4be6-a8e3-260281ea1558"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="56840ab9-d324-4aea-b351-3f3895029850"
+										t="r" />
+									<refseq
+										guid="7a50252f-eca4-4747-8b73-65b347bbd2b4"
+										t="r" />
+									<refseq
+										guid="d6af0819-dd95-4a63-84ac-525548c3dc54"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="590e2680-c6a1-4b8c-9f9c-67badac2b921"
+										t="r" />
+									<refseq
+										guid="56d9e29a-22cf-4a82-9d24-a991ae695b21"
+										t="r" />
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="e2c4fa81-8d54-4826-9cb1-95d3abec9052"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="686b9877-1a21-481e-a9e8-82d58e1d4ab9"
+										t="r" />
+									<refseq
+										guid="9493eb3f-916a-4712-85c7-88bab1d26495"
+										t="r" />
+									<refseq
+										guid="9ca712ce-f1b9-4816-ad16-a9a96da9cf1a"
+										t="r" />
+									<refseq
+										guid="b8a6515a-6711-4fb2-afbe-62aa4091ef9a"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="430f007b-f093-48da-829e-c5b7196ff5a4"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="303f3d95-1b54-4f2f-9b1e-a53fe62b643b"
+										t="r" />
+									<refseq
+										guid="1ea020f0-a145-43aa-b47e-e8a8361517ca"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="eea5db35-1f36-4634-a50e-19a1dc741936"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="05dfca82-66d3-412d-b171-c7ce211aff88"
+										t="r" />
+									<refseq
+										guid="b4c0b3ed-3a9c-4ddf-9297-b69850efd299"
+										t="r" />
+									<refseq
+										guid="e16f700b-7896-4c8d-963f-e77d1f7b4975"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="560" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And people, guests arrive, with whom we have contacts; they attend these processes which we have here, for example, a process of grafting; they tell stories about vine-making, there are jokes, and so on.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და ჩამოდის ხალხი, სტუმრები, , ვისთანაც გვაქვს კონტაქტები, ესწრებიან ჩვენ ამ პროცესებს, თუ რა არის, მაგალითად დამყნობის პროცესი, ყვებიან მევენახეობის ისტორიებს, არის ხუმრობები და ასეთი რაღაცები.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="082905fa-033b-4dd3-a6b1-92d367e25f06">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-აი ბინეხიის მუჭო გითმიოჸონაანთ აი, მაგაჲითო ოჯაეში ქიგიოჸონათ ან შხვა ჯიშიშ ბინეხი, მუჭო გითმიონანთ, მუ გოსაჭირნა თეშოოთ?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="319b3c0d-84ca-422e-a842-df351fc98256">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="3ed9a8c0-0685-4818-9dd2-24a0fd6de3d1"
+										t="r" />
+									<refseq
+										guid="a4726540-f65d-4bbb-a8e8-b46f4819085f"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="b6c056dc-54d7-4e0e-a9f7-34a6b4bf3c21"
+										t="r" />
+									<refseq
+										guid="3ed9a8c0-0685-4818-9dd2-24a0fd6de3d1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="288172f3-6e15-48cb-92d9-43457132f519"
+										t="r" />
+									<refseq
+										guid="51a3712a-8023-4066-8855-2c56b3f915cf"
+										t="r" />
+									<refseq
+										guid="a3494f1b-35ca-48c5-91ac-afcffc583428"
+										t="r" />
+									<refseq
+										guid="34a238ec-aab4-4b4a-bd79-08a89585a092"
+										t="r" />
+									<refseq
+										guid="8734f21a-8335-4979-970c-272a2ac420a0"
+										t="r" />
+									<refseq
+										guid="7b67bb08-8e0c-4009-aa25-8bfc6068ca4f"
+										t="r" />
+									<refseq
+										guid="c42a2598-7eb8-46e4-b2b9-d4557f702c7f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="a271c16e-5668-4dbf-b0d3-1efb5807672d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="add1d701-9413-44fd-8002-efb46228bc07"
+										t="r" />
+									<refseq
+										guid="3266b0fc-e35d-4340-b84a-9d3716963571"
+										t="r" />
+									<refseq
+										guid="637a9d09-c198-46fa-8139-073679b9ccd2"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">How do you graft vines? For example, how do you graft Ojaleshi vine or other vatieties? What do you need for that?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- ვენახს როგორ ამყნობთ, მაგალითად, ოჯალეში რომ დაამყნოთ ან სხვა ჯიშს ყურძენი, როგორ ამყნობთ, რა გჭირდებათ ამისთვის?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="46a1fd72-4f63-49b3-a6f8-1fcf73fcdd54">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ანუ რე თიჯგუა  საძირე, მწარეს უძახუუთ, ნამუსუც. სოიშახ ლახარა იჸუაფუუდ ბინეხის, ბინეხ ვეჸონუდ საერთოთ დო ბინეხ პირდაპირ დითმიციკუაფუუდ ლერწიშეე. უკულ მუჭო მაჲართ პროცესეფქ, ლახარაქ მაჲართუუ, თეშ უკუჲ ამერიკაშე იჸუ მიშაღაჲირ საძირექ, ნამუთ მწარეს უძახუთუ დო ჸეთიშა გითმიჸონაფუ თენა. იმზადებუუ, წინა ართ თუთათ მუთმოხვადუუ თეშ დამზადებაა, თეშ სხუნუა,  გასუფთავება ოდო ართ... ანუ ირჩეუ დღაჲეფ. რიგრიგობით მიღუნა ჩქი დღაეფ,  ნამუსუთ ამდღა ათეშ, ართიშ დიჸონუუ, მაჟია, მაჟია დღას მაჟიას დოპონუნთ . დო თენა უკუჲ პროცესი ვთოხუთ ცივი მეთოდ ჯოხოო თეს. ჯვეეშ მეთოდ . ცივი მეთოდით მჷთმოხვადუუ თეშ შენახვაა. სიტყვაშა ქვიშას ეკიბღაანთ დო ქვიშას თენა კონებო, თე ეჩდოხუთუთო ვკირუუნთ დო ქვიშაას ინახუუ, თექ მუთმოხვადუუ თეშ შეხორცებაა, თექ შეეზრდა, დაფესვიანება. დაფესვიანებაშ უკუჲ ჟირ ბარპიჲს, თაშ უძახუუთ ჩქიი,  დიხააშ კინ  მინორთინაფაა, დიხას გენმუორთინუანთჷ, თე დიხა დამუშებუჲ რე. უკუჲ გინმომიღუნა გაჲე დო თექ იკეთენს ფესვის. ანუ ჩქინი ძირითადი რე, ბუნებაშა ვორეთ დამოკიდებუჲი, მუთუნეერ პროცეეს ვამიღუნა ნერგიწკმა გიშაჸონაფა. ანუ სიცოცხლისუნარიოანობა, გამოყვანა ჰაერპროცენტობათ რე. ეჩდოვითი პროცენტ გიშმაპუნა, სოდგარენი ჟარნეჩ პროცენტშახ, ზოგშახ ამინდიშ მიხედვით გვერდ  ხოჲო გიშმაპუნაა.   ანუ შხვა სანერგეეფ, ნამუც რე სერთიფიცირებუჲი, ნამუსიც დიდ საანერგეეფი, შეუებუნა გიშეონანიი ოშ პროცენტიან, ოთხონეჩდოვითპროცენტიან ნერგიი, ხარისხით სიტყვაშა  მარა, ჩქი უფრო ცივი მეთოდიი, უფრო სიცოცხლისუნარიენ რე ჩქინ ნერგი, შეხორცებააშ მხრიივ, ვირუსიშ მხრივ დო ირფეიშ მხრიივ. ანუ ართ ართი ჸათენა უღ ჩქიინ დადებითი. ქო ნაკლებ მიღუნაა გამოსავაჲი, მარა მეტ ხარისხიან რე დო მეტ, უფრო მეტი მაჸიდე მიჸუნა, მთეჲ სამარგაჲოს ჩქი ვამარაგენთ თაურეშე, ენა ჩქინოოთ საამაყო რე.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="39dfd575-72ff-4779-8bcc-13710926d625">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="a02ce47f-ee57-4c07-8165-fd617ced577e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e24e31f3-57dd-4497-a453-1941c75f05a3"
+										t="r" />
+									<refseq
+										guid="c38a4198-d68f-40af-96f3-5a4e4918cff8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="c791722c-57ca-44ff-a9f1-2dac22c2e898"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, there is a stock, we call it bitter, on which we graft.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- ანუ არის ისეთი საძირე, მწარეს ვეძახით, რომელზეც [ვამყნობთ].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2c0323b2-8441-425b-9560-517c06d0f462">
+								<Analyses>
+									<refseq
+										guid="d05a36a5-ff01-4ed5-be2a-3c312e538c4f"
+										t="r" />
+									<refseq
+										guid="66ceccc1-1550-4892-a34a-c92692a86869"
+										t="r" />
+									<refseq
+										guid="ec0b9525-7fb2-49d4-ba3a-09daedc91c1b"
+										t="r" />
+									<refseq
+										guid="5a59a82c-e6c3-4187-9f22-5fc6566ea653"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="0e7d2332-5131-4af4-af8f-6f3f746e4114"
+										t="r" />
+									<refseq
+										guid="a2a8d674-5c87-4d55-a1eb-568b5cfdf1d4"
+										t="r" />
+									<refseq
+										guid="22f15b2f-6b38-40e4-b512-8da0480d06c7"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="0e7d2332-5131-4af4-af8f-6f3f746e4114"
+										t="r" />
+									<refseq
+										guid="27f0e48b-727f-41a0-b7e7-fe481ff58076"
+										t="r" />
+									<refseq
+										guid="752ebc24-27d1-4397-bbb3-0fc183aa0bff"
+										t="r" />
+									<refseq
+										guid="1ef3d126-e726-4b3c-9873-17b2d481b58f"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="50" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Before the desease affected the vine, it was not grafted at all, and was planted immediately as a one-year-old vine shoot.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">სანამ ვენახში დაავადება იქნებოდა, ის არ ემყნობოდა საერთოდ და პირდაპირ ლერწამიდან ირგვებოდა [=მრავლდებოდა].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2675f6e5-f25b-4f75-bb4c-f8fd4ced21d8">
+								<Analyses>
+									<refseq
+										guid="1f1864b2-ed25-402d-8650-596f99a93f57"
+										t="r" />
+									<refseq
+										guid="1b3abcfa-2653-4168-9ddd-af233529a49e"
+										t="r" />
+									<refseq
+										guid="dfa9dd7f-ad21-4bab-a3cb-eb5b9c6784ff"
+										t="r" />
+									<refseq
+										guid="2d1a7cf6-264d-441a-93e1-9b5e15bcea95"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9d2a9310-1ea1-461a-b158-a60a42dbf849"
+										t="r" />
+									<refseq
+										guid="9c066663-42fb-4f83-ba80-c80c4cd95acc"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="9954fc88-5c25-4691-ad26-6dedd76fd0c3"
+										t="r" />
+									<refseq
+										guid="c559ed00-f5c8-4005-a0c9-8189ee25d744"
+										t="r" />
+									<refseq
+										guid="d94f4065-9be0-42cc-b6ce-727750a3ac06"
+										t="r" />
+									<refseq
+										guid="ff9b6124-186a-4b3d-a32b-823b822d0d96"
+										t="r" />
+									<refseq
+										guid="24e9add6-6e2a-4906-9a23-98e092b0b0aa"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e42dc19f-548f-4efb-8d05-5705b532b05e"
+										t="r" />
+									<refseq
+										guid="e24e31f3-57dd-4497-a453-1941c75f05a3"
+										t="r" />
+									<refseq
+										guid="9ba1180f-0225-4625-8134-47e451eca2a5"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="c3dd5f89-0f7e-49e1-9f3d-9b46dde2fbe5"
+										t="r" />
+									<refseq
+										guid="b22f887b-b85d-4f03-a476-a99c1bd1100b"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="147" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Afterwards, when the processes developed, when the disease affected it, a stock was imported from America, which we call bitter, and it is grafted on it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მერე როგორც წამოვიდა პროცესები, ავადობა წამოვიდა, ამის მერე ამერიკიდან იქნა შემოტანილი საძირე, რომელსაც მწარეს ვეძახით და იმაზე ემყნობა ეს. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="dda0dee2-30c0-403e-863b-696afb27a73b">
+								<Analyses>
+									<refseq
+										guid="10bb242e-4a82-4d14-ad87-ef4d5dcde20f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="38b1828a-c2da-4370-bad3-e2298a6b8090"
+										t="r" />
+									<refseq
+										guid="65c57d0a-4e75-4a23-9150-475981094869"
+										t="r" />
+									<refseq
+										guid="4f88c09d-b92c-4a39-9d4a-066c1096237d"
+										t="r" />
+									<refseq
+										guid="22c799c7-fdf4-4a49-8216-cb13bb7db25d"
+										t="r" />
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="c1e21cb2-bdb2-46f9-b6e8-ff6f8edd42f0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="874489e8-b5d5-445d-bdea-2874e227dfc1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="282e8145-f0a4-4118-b5eb-78a1a152570a"
+										t="r" />
+									<refseq
+										guid="8a88cf3b-64ef-4f4e-960b-291d374b1cfd"
+										t="r" />
+									<refseq
+										guid="65c57d0a-4e75-4a23-9150-475981094869"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="63f0c524-6a15-4deb-867e-a0cd87255e5d"
+										t="r" />
+									<refseq
+										guid="7b0fa87e-98a6-41a7-aa2f-1bb6195e5f2d"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="284" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A stock vine is chosen; it is prepared, pruned and cleaned a month before [grafting], and days are chosen.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მზადდება [საძირე], ერთი თვით ადრე ხდება მ,ისი მომზადება, მისი გასხვლა და გასუფთავება და ირჩევა დღეები.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="fb6117b3-12e4-4822-8aba-4f79966f21a7">
+								<Analyses>
+									<refseq
+										guid="60084a9f-fd64-4401-a8dd-318e8461479a"
+										t="r" />
+									<refseq
+										guid="f9e6661d-c7ba-4c78-a771-4f7a57412586"
+										t="r" />
+									<refseq
+										guid="e5edb24a-d16a-4ade-9017-d75fbca9098a"
+										t="r" />
+									<refseq
+										guid="b332b666-08fd-4910-9172-0f9e80ea43b7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="376cce17-60dc-446c-a72c-094456efc8d0"
+										t="r" />
+									<refseq
+										guid="45e40db6-1f0b-48b6-9bea-2faab0b6e801"
+										t="r" />
+									<refseq
+										guid="df7202f0-4447-4638-b6da-946ebf85460f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e12738a7-9ec8-4bf1-9388-6d5c5082a4a5"
+										t="r" />
+									<refseq
+										guid="75b59536-b208-4c02-a983-1255f2b14ee0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1bd04e5c-6fa0-4e75-8af0-9a27c835431e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1bd04e5c-6fa0-4e75-8af0-9a27c835431e"
+										t="r" />
+									<refseq
+										guid="b6ded961-e356-472e-bbc2-6231c5d6bbdd"
+										t="r" />
+									<refseq
+										guid="59db9d9a-7e9a-4185-a677-44f1e2538aeb"
+										t="r" />
+									<refseq
+										guid="246b69e7-2a37-46d1-b5c7-f9ce2b9e8d06"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="392" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We have days in queue during which on one day one vine is grafted, on another - that of another person.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რიგრიგობით გვაქვს ჩვენ დღეები, რომელშიც დღეს ერთის დაემყნობა, მეორე [დღეს] მეორეს დავამყნობთ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="cf21a926-16f7-4880-b30c-5ba90e4f5206">
+								<Analyses>
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="9954fc88-5c25-4691-ad26-6dedd76fd0c3"
+										t="r" />
+									<refseq
+										guid="48c44121-86c9-4777-b765-04d092be2c37"
+										t="r" />
+									<refseq
+										guid="1639cb18-4c0a-4d00-8c38-930c580758bc"
+										t="r" />
+									<refseq
+										guid="89d65f53-83f0-4bda-963b-fadf5dce204f"
+										t="r" />
+									<refseq
+										guid="d30c524a-476a-4705-b018-846c9326e888"
+										t="r" />
+									<refseq
+										guid="c823b75d-125c-4d4d-9d4e-62b9d1b1f4de"
+										t="r" />
+									<refseq
+										guid="91089ab3-b3b2-4abd-b924-8229d72797d5"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="493" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It is referred to as fifteen cold methods.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">თხუთმეტი ცივი მეთოდი ჰქვია ამას.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="22f38597-4cfc-4048-96df-fe56ac949f4c">
+								<Analyses>
+									<refseq
+										guid="cbaf0b40-ea8f-4cd6-960a-bf43d3d05348"
+										t="r" />
+									<refseq
+										guid="d30c524a-476a-4705-b018-846c9326e888"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="543" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It's an old method.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ძველი მეთოდია.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="7da2c477-6ad0-41f3-afbd-f621923541ae">
+								<Analyses>
+									<refseq
+										guid="89d65f53-83f0-4bda-963b-fadf5dce204f"
+										t="r" />
+									<refseq
+										guid="1b85617f-00bc-48fe-8726-016808cff3e7"
+										t="r" />
+									<refseq
+										guid="d27ede0d-2480-408d-9e09-b30da60aa7f0"
+										t="r" />
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="8f7bab6e-6efd-4864-b639-cdb1d9ea6b09"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="557" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It is stored by means of the cold method.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ცივი მეთოდით ხდება ამის შენახვა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0857d60d-86ee-4ed6-a7a0-59e5c237aac4">
+								<Analyses>
+									<refseq
+										guid="686b9877-1a21-481e-a9e8-82d58e1d4ab9"
+										t="r" />
+									<refseq
+										guid="fb328a37-746d-4e0b-aa46-b179a41ed414"
+										t="r" />
+									<refseq
+										guid="cc052e51-3393-4ba0-9504-9fd1d1bbc303"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="fb328a37-746d-4e0b-aa46-b179a41ed414"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="ab142e17-8150-4403-86ea-88eeba6da935"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="1c64d086-e9a9-4a61-b96d-6b16980fda17"
+										t="r" />
+									<refseq
+										guid="0518f50e-ff3b-4f57-82c4-a31b80022199"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="0fff96de-bbfd-432f-8bde-30063b8dd2a8"
+										t="r" />
+									<refseq
+										guid="e11b4f26-0ca5-485c-a3e7-7e993eef359a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1998f08f-d162-4377-9367-478c1d3b9cf0"
+										t="r" />
+									<refseq
+										guid="22c799c7-fdf4-4a49-8216-cb13bb7db25d"
+										t="r" />
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="5d7bf558-39dc-4e97-9133-68905488b5c7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1998f08f-d162-4377-9367-478c1d3b9cf0"
+										t="r" />
+									<refseq
+										guid="49de8238-a764-4d49-9c0a-9fbed49e72a0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8a7a495c-84fd-4883-997b-dd9c68295302"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="596" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">For instance, we bring sand and they are kept in sand as bunches; there are twenty-five ones in a bunch. There they merged, fuse and get rooted.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მაგალითად, ქვიშას მოვიტანთ და ქვიშაში კონებად შეკრული ინახება; ოცდახუთ-ოცდახუთად ვკრავთ. იქ ხდება ამის შეხორცება, შეზრდა, დაფესვიანება. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="cf138e3d-2d1d-49d1-a25e-745eb599839c">
+								<Analyses>
+									<refseq
+										guid="0f23fde3-5687-4062-86a5-983d8fd4cd8d"
+										t="r" />
+									<refseq
+										guid="9954fc88-5c25-4691-ad26-6dedd76fd0c3"
+										t="r" />
+									<refseq
+										guid="5d467457-f056-4382-9554-4c9c4518b04d"
+										t="r" />
+									<refseq
+										guid="f29f5563-0437-4635-ac5e-ead60a0e2668"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="067633ca-67a8-4934-8f97-ba10e14a37dc"
+										t="r" />
+									<refseq
+										guid="58012603-4049-406e-85b4-d0cc0dc3ec03"
+										t="r" />
+									<refseq
+										guid="b2589b36-4fe3-49dd-b32b-257b6b931bcb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="473649bc-290b-4bd9-b0cd-27399dc4e4c6"
+										t="r" />
+									<refseq
+										guid="df714f96-fa13-4ff7-88e6-102cc1813b3c"
+										t="r" />
+									<refseq
+										guid="934b4c70-67e5-4798-bac9-1041f52bbfb4"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2272a90c-5c9b-4c38-aa5a-c9c910169966"
+										t="r" />
+									<refseq
+										guid="f155919c-ab23-4dea-96ae-b5bad23e0b27"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="befcd81c-b45e-488a-90dc-49dcf5a0e1c5"
+										t="r" />
+									<refseq
+										guid="eaf934f0-2f84-41fe-8ac8-368b51a301aa"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="746" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">After having got rooted, we turn the soil twice with a spade, this is how we refer to it, soil is cultivated.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დაფესვიანების შემდეგ ორი ბარის პირს, ასე ვეძახით ჩვენ, მიწის ისევ ამოტრიალება და მიწის დამუშავება არის [=მიდის].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="42bfe600-7eee-4cf4-92b7-0cabc7f66a4f">
+								<Analyses>
+									<refseq
+										guid="9954fc88-5c25-4691-ad26-6dedd76fd0c3"
+										t="r" />
+									<refseq
+										guid="fac36976-933c-4793-8dd1-f0650ae71815"
+										t="r" />
+									<refseq
+										guid="fc3905c7-543d-4b14-b849-a50011300108"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="1998f08f-d162-4377-9367-478c1d3b9cf0"
+										t="r" />
+									<refseq
+										guid="e04b888f-a1dc-4e5a-b9ff-8e1ebcca0f11"
+										t="r" />
+									<refseq
+										guid="ef1f5f30-0353-4ade-be1d-45d0421768b6"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="868" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Afterwards we take them out and there they get rooted.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მერე გამოგვაქვს გარეთ და იქ იკეთებს ფესვს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="733ac7a1-d40b-4820-bc0c-ce7472c35b59">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="be13cc96-4819-49d2-9453-d22f322b87b4"
+										t="r" />
+									<refseq
+										guid="66df936a-4559-4b35-8a15-d0a0c8361019"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ade531ee-0dd8-42bc-8805-d47c180590e6"
+										t="r" />
+									<refseq
+										guid="ca67fa1d-5db0-45c4-a727-f9e6be31f1d9"
+										t="r" />
+									<refseq
+										guid="25442205-6a45-4090-8d5c-754d1335858c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e5b0d182-de04-4656-b151-331ea03e96ad"
+										t="r" />
+									<refseq
+										guid="86bf09bf-57d5-46e2-a392-a6353fb3a7c2"
+										t="r" />
+									<refseq
+										guid="763f939b-cb22-4799-801d-86288c355f49"
+										t="r" />
+									<refseq
+										guid="2694b167-f4de-41ca-9c2c-a1d2c93a7d8d"
+										t="r" />
+									<refseq
+										guid="36e9a43f-9220-44bf-87a4-96c9e9ee98d1"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="913" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, the main thing for is that we depend on nature; we have nothing to do with saplings; we don't grow them.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ ჩვენთვის ძირითადია, რომ ბუნებაზე ვართ დამოკიდებულია; არანაირი კავშირი არ გვაქვს ნერგთან, რომ გამოვიყვანოთ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="00f6b914-1205-44a1-88f0-a6e8c0806511">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="8668b6b9-9dff-4453-8039-b44eaf62a621"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a7e9045b-6ee4-4051-b24d-ddf79dfb0e62"
+										t="r" />
+									<refseq
+										guid="603be3bf-c29e-459c-8577-8b4f972aa638"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1013" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">This is to say that their vitality, viability depends on air percentage.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ სიცოცხლისუნარიანობა, გამოყვანა ჰაერპროცენტობაზეა [დამოკიდებული]</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="7fe2521e-00fe-4db3-9831-990a957a0335">
+								<Analyses>
+									<refseq
+										guid="0c4907a6-6961-43c8-a885-048887af4324"
+										t="r" />
+									<refseq
+										guid="1f352d8d-0bc6-4660-b932-e2f1bdd62d9d"
+										t="r" />
+									<refseq
+										guid="90cde294-c550-4857-89a8-b1e8aa9ca9cb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="afbf0105-b70a-4ec8-b9ed-38aab9b226a7"
+										t="r" />
+									<refseq
+										guid="23008680-c59c-4b41-93fe-82f9e795ef6a"
+										t="r" />
+									<refseq
+										guid="c6548ab6-4932-4758-9dc4-9d72a75cc964"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4a669a66-4090-4d27-9c61-be5b2fa22c91"
+										t="r" />
+									<refseq
+										guid="36bd438c-9124-403d-aec2-4733b5061951"
+										t="r" />
+									<refseq
+										guid="f798b3da-737e-4085-945e-133723e85ab9"
+										t="r" />
+									<refseq
+										guid="11e0e91c-f606-4f63-89c8-6338fd238404"
+										t="r" />
+									<refseq
+										guid="554370ee-1ab7-418d-add8-9f69c8c03e2e"
+										t="r" />
+									<refseq
+										guid="e5cfa4d7-8ec8-4b57-b576-67f75ab464a4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1069" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We yield about thirty, forty percent; sometimes, thanks to weather, we yield even half of them.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">სადღაც ოცდაათი, ორმოცი პროცენტი გამოგვყავს, ზოგჯერ ამინდის მიხედვით ნახევარიც გამოგვყავს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="ab5f46d5-d51a-4096-8d8a-f3da08eceafa">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="a669d3f8-8f74-4bc8-bdb9-1c7eb8c6ff92"
+										t="r" />
+									<refseq
+										guid="af41f54d-5718-47a2-936b-bf53111d8f0c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1301bb10-fa00-4de8-9bd2-9f32a120b959"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="1a236cef-8058-416a-899f-6ab89d619c55"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4f00b8a8-69a3-4996-bab6-a0fedc4ab990"
+										t="r" />
+									<refseq
+										guid="af392eaf-95fe-4d64-93a9-f576cec5ac30"
+										t="r" />
+									<refseq
+										guid="ac3cbdcd-8ef6-4b4e-a9f5-eae871bda048"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="946ba4d6-d924-4d71-8a20-cb2d6e32d393"
+										t="r" />
+									<refseq
+										guid="a3c852e0-c1c5-4f73-b00f-1fe07e5629cd"
+										t="r" />
+									<refseq
+										guid="96d5e16a-db16-4e3f-997a-ea0b839b09b7"
+										t="r" />
+									<refseq
+										guid="9ac563d9-ee9b-4e73-8b2a-30f56b86bf93"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8f587476-9860-4f24-a03f-0fec0c3e452d"
+										t="r" />
+									<refseq
+										guid="0527d0e5-aa44-4d2a-985d-ae53efcf0e04"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4cadcd7e-8da0-4627-af2d-c35943e2bd6c"
+										t="r" />
+									<refseq
+										guid="686b9877-1a21-481e-a9e8-82d58e1d4ab9"
+										t="r" />
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e5edb24a-d16a-4ade-9017-d75fbca9098a"
+										t="r" />
+									<refseq
+										guid="fd5b91dc-6292-4000-9faa-8f0d46d85efe"
+										t="r" />
+									<refseq
+										guid="89d65f53-83f0-4bda-963b-fadf5dce204f"
+										t="r" />
+									<refseq
+										guid="5d7a63ba-d721-4d03-a0d9-85e3e9f830e3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="88c331f2-2b4e-4dae-883b-5d0e84c62463"
+										t="r" />
+									<refseq
+										guid="82202a33-9ce0-4235-88d5-67b805972036"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="56d9e29a-22cf-4a82-9d24-a991ae695b21"
+										t="r" />
+									<refseq
+										guid="b73c02d7-99f1-4367-ad16-b6d400e2f56b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6e6c9198-48c4-4cb8-b804-5435c033b7fe"
+										t="r" />
+									<refseq
+										guid="1f0be3bb-93ea-459e-ab98-51e371cfa2a7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="66c3a685-5460-4276-9d00-88bd0785f508"
+										t="r" />
+									<refseq
+										guid="a75ca7dc-e4dd-4561-88e3-616651fc1621"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="dbea1410-fe51-48c3-94dc-a206d6474d88"
+										t="r" />
+									<refseq
+										guid="1f0be3bb-93ea-459e-ab98-51e371cfa2a7"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1176" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, other nurseries, which are certified and which are large nurseries, are able to yield a hundred percent, ninty percent. However, in terms of quality, our cold method yields in more vital sapling, with respect to merging, viruses, and everything.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ სხვა სანერგეები, რომელიც არის სერთიფიცირებული, რომელშიც დიდი სანერგეებია, შეუძლიათ გამოიყვანონ ას პროცენტიანი, ოთხმოცდაათპროცენტიანი ნერგი, სიტყვაზე, ხარისხით, მაგრამ ჩვენი ცივი მეთოდით [გამოდის] უფრო სიცოცხლისუნარიანი ნერგი, შეხორცების მხრივ, ვირუსის მხრივ და ყველაფრის მხრივ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b03f227c-9a13-4ba0-8123-df4537dbc79d">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="f561119b-4848-42af-87c7-e4f9a52c71d4"
+										t="r" />
+									<refseq
+										guid="84e02362-16cf-469e-8615-a2b8c8384757"
+										t="r" />
+									<refseq
+										guid="4eafe99f-4d5d-4fcc-afe6-2756572e28a6"
+										t="r" />
+									<refseq
+										guid="f5899db1-9961-457a-b73f-8e54ddaf7709"
+										t="r" />
+									<refseq
+										guid="6154d8ab-26c4-468b-91ab-5a51824324d9"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1450" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">This is to say that this is one of the positive [aspects] of our [method].</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ, ერთ-ერთი ეს აქვს ჩვენსას დადებითი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0c99e21d-2d90-4c56-830a-9fac1498c668">
+								<Analyses>
+									<refseq
+										guid="09ad91e1-026f-4c20-b72e-18a6f08b901e"
+										t="r" />
+									<refseq
+										guid="11ab1c94-afa2-45a3-92a7-50a4cd601c51"
+										t="r" />
+									<refseq
+										guid="71763ed5-eb98-4913-be33-ba16bb792948"
+										t="r" />
+									<refseq
+										guid="aa97d9db-3ba1-4962-9b52-6109aa7ac844"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="9c957b81-8d95-46ca-acdf-9b31280a7c3f"
+										t="r" />
+									<refseq
+										guid="0e080192-bf4b-4a91-a1d0-f862c746435d"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="9c957b81-8d95-46ca-acdf-9b31280a7c3f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="fd5b91dc-6292-4000-9faa-8f0d46d85efe"
+										t="r" />
+									<refseq
+										guid="b7ae744f-40fd-479f-bad0-5142dace095c"
+										t="r" />
+									<refseq
+										guid="d7eee659-117a-43ef-83e1-bdc0db78f234"
+										t="r" />
+									<refseq
+										guid="05027a04-3de4-40c4-8c02-b9afff3c8c5c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b46dc6e1-6ffb-4505-a1f5-900e56b56f12"
+										t="r" />
+									<refseq
+										guid="7c9e738a-ac44-460c-9715-966e5b1ff872"
+										t="r" />
+									<refseq
+										guid="e5edb24a-d16a-4ade-9017-d75fbca9098a"
+										t="r" />
+									<refseq
+										guid="2c6d1d4b-c766-4fd8-8467-36b4bd0cdfaa"
+										t="r" />
+									<refseq
+										guid="b89262b1-c85c-49d7-a8ec-53a6631981b8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="485ae29d-eff1-4c77-a6c6-2e6e70659b1b"
+										t="r" />
+									<refseq
+										guid="484fd671-c7cb-425c-8395-9d4053aef802"
+										t="r" />
+									<refseq
+										guid="92469179-9138-4cf2-b3d6-fa34b41aad9f"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1489" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes, we have a smaller harvest but it is of more quality, we have more buyers, we supply Samegrelo from here. We are proud of it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">კი, ნაკლები გვაქვს მოსავალი, მაგრამ მეტად ხარისხიანია, უფრო მეტი მყიდველი გვყავს, მთელ სამეგრელოს ჩვენ ვამარაგებთ აქედან, ეს ჩვენთვის საამაყოა. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="fd8e4a4e-dd8a-4ef2-9d2a-e51445810407">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-აი არძაშე ჯგიირ პერიოდ თე  ბინეხიჲ დარგუაფაჲო მუ დროო რე?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="746ba42e-8578-4e1b-9270-20a84237d2f9">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="3ed9a8c0-0685-4818-9dd2-24a0fd6de3d1"
+										t="r" />
+									<refseq
+										guid="74eed46c-1f4d-4a9a-9d83-126bde4070e6"
+										t="r" />
+									<refseq
+										guid="136c9556-0223-445f-b2d8-f34633d87ff1"
+										t="r" />
+									<refseq
+										guid="5a91ce4d-05f1-4930-9e46-1c4e6e506000"
+										t="r" />
+									<refseq
+										guid="48e81575-1355-4a6e-92ca-0b60f8ddecd6"
+										t="r" />
+									<refseq
+										guid="8f2fd1f7-0aae-4881-82b5-ab0b55c5b9f6"
+										t="r" />
+									<refseq
+										guid="ce8445b2-7ea2-444f-af21-92cc60e764e4"
+										t="r" />
+									<refseq
+										guid="b8a6515a-6711-4fb2-afbe-62aa4091ef9a"
+										t="r" />
+									<refseq
+										guid="ddecf5c8-a3d0-45a3-adab-679067284a81"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, which is the best period for planting the vine?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- აი, ყველაზე კარგი პერიოდი ამ ვენახის დარგვისთვის, რომელია?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="4407a5e3-bebb-49e7-b8da-7b2b41a965fa">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- მუ დრო, დეკემბერშე იჭყაფუუ აპრიჲიშ თუთაშაახ. ანუ საუკეთესო პერიოდ რე თებერვაჲი, იანვარიი, სოიშაახ ჯაშა წყარი მეურსუუ.  ანუ ჯააშ წყარიშ ეჭოფუაშაახ უჯგუუშ რე, თიგურშენ  ნამდგა, ნერგიის გეჲოოთანჷქჷნ, პირდაპირ ქჷდარგუანჷქჷნ, წყარ ვააფ ეჭოფიჲინ თეჲ, პირდაპირ გეჭოფუნს. მუდროსჷთ ვარენო გეჲოოთანქ სიტყვაშა მარტიიშ თუთას დო ქუდარგუანქ აპრიჲს, ვარდა ქიშინახ დო გოოდა მარტიიჲ თუთას, იგივე თიმ დღას ქდარგუე, მაჟია პროცეეს მუთმოხვადუუ, ნამუსც კინ აფ ეჲოჭოფაჲ წყაარ დო გუუჭირდუუ მაგაჲითო გოჲოფააქ ქიუაას ვარდა მუთუნქ ათეჯგუა მდგომარეობას. არძაჲ უმოს საუკეთესო პერიოდიე თებერვაჲი, იანვარიშ პერიოდი, დეკემბერშეე. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="839093ca-0e3c-4d77-99e2-02943672131e">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="b8a6515a-6711-4fb2-afbe-62aa4091ef9a"
+										t="r" />
+									<refseq
+										guid="43e46496-b81a-4066-84ea-946fc0a0814f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f04e4122-7854-4789-9c12-9cbe40540ac6"
+										t="r" />
+									<refseq
+										guid="c2433e4c-d332-4c0f-bced-a8d892b20728"
+										t="r" />
+									<refseq
+										guid="246da41a-7a3b-455d-9580-55530daa188c"
+										t="r" />
+									<refseq
+										guid="64ab52cb-ca56-47ac-8b42-a6629daeb257"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">What time, it starts in December, lasting till April.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- რა დრო, დეკემბერში იწყება აპრილის თვემდე. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2ce70765-d421-4c5c-b683-2ef479b806a5">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="62ef6135-8485-4969-bc70-2ed067d97f75"
+										t="r" />
+									<refseq
+										guid="5a91ce4d-05f1-4930-9e46-1c4e6e506000"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="67027294-7975-49de-a2be-96b923a7c156"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="131d17e0-0f92-4455-a444-d6a5076c2099"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="7cad7c8e-69d7-4eda-a404-45a66b2769f9"
+										t="r" />
+									<refseq
+										guid="a49797de-98e9-484c-afda-7a436c4fb941"
+										t="r" />
+									<refseq
+										guid="bf808897-2990-4b6e-948f-7f9f2f58d452"
+										t="r" />
+									<refseq
+										guid="18200a86-e8e0-4d02-b801-7661cdba6927"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="47" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">This is to say that the best period is February, January until water reaches it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ საუკეთესო პერიოდია თებერვალი, იანვარი, სანამ ხემდე წყალი მივა</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="bcdec4c7-b0bd-4181-a97e-1926dd491f05">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="9e37680b-ea3b-41c9-a5b7-5013c8c38cdc"
+										t="r" />
+									<refseq
+										guid="cbd304fd-2526-492a-8552-2e240525eefc"
+										t="r" />
+									<refseq
+										guid="02a37c96-be3b-446d-92f1-3ee9b67da0d6"
+										t="r" />
+									<refseq
+										guid="0284cb8c-077e-4865-a81d-2ba18c8e7df7"
+										t="r" />
+									<refseq
+										guid="782b3f3b-ff32-4409-bb63-99cf25f7ed12"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f524796e-96d4-4404-bc3d-16f1bb5427e3"
+										t="r" />
+									<refseq
+										guid="09f826dc-ae47-402d-b8f8-3b048243cbbe"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="60ba3575-ef33-4f95-b829-573c0caeea14"
+										t="r" />
+									<refseq
+										guid="6ec3fddd-6ddf-4457-82e7-be250d0f3da6"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="27f0e48b-727f-41a0-b7e7-fe481ff58076"
+										t="r" />
+									<refseq
+										guid="f5078d13-688c-4590-856d-e1603f12c61b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="41f366bf-e9cd-43e8-9b4c-a079fb3a8db8"
+										t="r" />
+									<refseq
+										guid="6e884750-6711-4d6f-9f4b-b5ce653a6abd"
+										t="r" />
+									<refseq
+										guid="0869f971-45a2-4b0e-9315-6c3a1c25720e"
+										t="r" />
+									<refseq
+										guid="7465d966-d75a-4487-9170-08747f3c1644"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="27f0e48b-727f-41a0-b7e7-fe481ff58076"
+										t="r" />
+									<refseq
+										guid="66fa3131-c2e6-4037-bdfb-6cb1a60c2870"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="121" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">This is to say that it is better before water is absorbed because when you unearth saplings and plant them without having absorbed water, it will absorb it directly [in a new soil].</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ ხის [მიერ] წყლის აღებამდე [=შესრუტვამდე] უკეთესია, იმიტომ რომ, ნერგს რომ ამოყრი, პირდაპირ რომ დარგავ ისე, წყალი რომ არა აქვს აღებული, პირდაპირ აიღებს [ახალ ნიადაგში].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="9b9deced-f3f5-4390-bb24-f1a14b0c0a42">
+								<Analyses>
+									<refseq
+										guid="d017d4c4-4019-495e-9940-37f9093225b1"
+										t="r" />
+									<refseq
+										guid="07efaee3-9ad5-42d4-a147-52507535d9dd"
+										t="r" />
+									<refseq
+										guid="34e921d6-a7f0-42e6-b872-3dc1753b09fb"
+										t="r" />
+									<refseq
+										guid="686b9877-1a21-481e-a9e8-82d58e1d4ab9"
+										t="r" />
+									<refseq
+										guid="739c6363-8598-4b2c-9f7a-e9299fa29af6"
+										t="r" />
+									<refseq
+										guid="68d26a0d-9569-4816-9d78-8878ff4d17dd"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="8afc9174-8a9d-42fc-b9be-793f0b6e6a8a"
+										t="r" />
+									<refseq
+										guid="b4a60a97-13b4-4a82-92d7-3582bcc26553"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2c147ed3-7e51-479f-83b1-e5d93d0df4f7"
+										t="r" />
+									<refseq
+										guid="bb915cd7-8ba2-4d3b-8d6c-4d4c16665fbe"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="c826fd52-b1f0-4b62-8c76-35c1717a063a"
+										t="r" />
+									<refseq
+										guid="8e1e0f48-03a2-4bb7-9d9e-924551e3bbbe"
+										t="r" />
+									<refseq
+										guid="68d26a0d-9569-4816-9d78-8878ff4d17dd"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="254c9ff1-84d5-43b5-aa1f-23656027fed3"
+										t="r" />
+									<refseq
+										guid="d7d43192-6755-4fb3-ab21-c4cfcb7c2479"
+										t="r" />
+									<refseq
+										guid="b6ded961-e356-472e-bbc2-6231c5d6bbdd"
+										t="r" />
+									<refseq
+										guid="123ef9a9-a012-4124-b5c9-baaf8ea18a1f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="54b8cd14-577e-4f7a-b90e-c7a08c33acd3"
+										t="r" />
+									<refseq
+										guid="86bf09bf-57d5-46e2-a392-a6353fb3a7c2"
+										t="r" />
+									<refseq
+										guid="f3751135-b3e0-44e8-b9c7-ef51cb5eb8b7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9128662f-5057-4cc3-8e6e-ca5cff3a9f1b"
+										t="r" />
+									<refseq
+										guid="0c2d0eb6-b3cb-49d2-9d55-6b59f5ecb889"
+										t="r" />
+									<refseq
+										guid="b2a374f1-6113-4d2b-bb0a-d6a93419abb8"
+										t="r" />
+									<refseq
+										guid="406462bc-053e-4924-a715-a3f8efb51f94"
+										t="r" />
+									<refseq
+										guid="e705fd96-609c-48e1-88b7-a1f74366586b"
+										t="r" />
+									<refseq
+										guid="4bc04e80-8eac-4b59-8088-92eac4749c01"
+										t="r" />
+									<refseq
+										guid="9cf2bf3c-2557-42d6-9b76-838b4c24a94f"
+										t="r" />
+									<refseq
+										guid="288172f3-6e15-48cb-92d9-43457132f519"
+										t="r" />
+									<refseq
+										guid="d8e23181-3c0a-4113-9a79-66320bc06a7a"
+										t="r" />
+									<refseq
+										guid="b55a4480-c6d1-4cbc-a2c3-047bbec0a720"
+										t="r" />
+									<refseq
+										guid="2c147ed3-7e51-479f-83b1-e5d93d0df4f7"
+										t="r" />
+									<refseq
+										guid="9ae6def2-dcaa-4ac7-802c-fcb2d1485008"
+										t="r" />
+									<refseq
+										guid="b4c0b3ed-3a9c-4ddf-9297-b69850efd299"
+										t="r" />
+									<refseq
+										guid="62b59251-10fa-4067-b8cb-447ebb95c7a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="266" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Whenever it is, say, if you unearth them in March and plant in April, or store them, and if you want, plant them on the same day in March, there occurs another process that they have to absorb water again. Hence, it will suffer if there is drought or such a situation.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რა დროსაც არ არის რომ, [=როცა] სიტყვაზე, მარტის თვეში ამოყრი და  დარგავ აპრილში, ან შეინახავ და თუ გინდა, მარტის თვეში იმავე დღეს რომ დარგო, უკვე მეორე პროცესი ხდება, რომლითაც ისევ აქვს ასაღები წყალი, ამიტომ გაუჭირდება, თუ გვალვა ან ასეთი მდგომარეობა დაემთხვევა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="31ba52bc-2412-479c-ac04-64a61111de09">
+								<Analyses>
+									<refseq
+										guid="1d141ea3-952d-4824-8cd0-a6ddc65fbdd0"
+										t="r" />
+									<refseq
+										guid="574d2022-e111-4a62-9813-09a51f03b0d3"
+										t="r" />
+									<refseq
+										guid="62ef6135-8485-4969-bc70-2ed067d97f75"
+										t="r" />
+									<refseq
+										guid="f42305da-2a2f-48c5-8195-c46632b03dde"
+										t="r" />
+									<refseq
+										guid="67027294-7975-49de-a2be-96b923a7c156"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="279969a3-eb12-4501-89c1-0dcaa2a103ed"
+										t="r" />
+									<refseq
+										guid="bf32221c-ca3a-4bb3-97f6-c1ee4806774d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a87aa632-6599-4dd9-bb8b-c2be243aa442"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="528" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The best period is February, January, starting from December.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ყველაზე უკეთესი პერიოდია თებერვალი, იანვრის პერიოდი, დეკემბრიდან. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="a1f8df27-93bf-48f5-a8e5-6e30cb4fff96">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ქიდარგუანქუნ თის ოკონო  უკუი მუთუნ პროცედურა?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="2284ba7c-e52f-4701-9bfb-ffb4922934e5">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="265c8510-07d5-4f3e-9022-ec6c8585d349"
+										t="r" />
+									<refseq
+										guid="955c3fa9-7216-47e2-9c8d-a2f41b2a288b"
+										t="r" />
+									<refseq
+										guid="6768389a-348c-401b-96c1-ac049742f8c8"
+										t="r" />
+									<refseq
+										guid="b123303a-c157-4abb-86c6-3b4ce1dc5eba"
+										t="r" />
+									<refseq
+										guid="fd7c647b-2a27-4247-afc8-60f6680e1bf4"
+										t="r" />
+									<refseq
+										guid="e2af33bd-2e77-4041-98aa-d4674d03aeca"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Does it need any procedures after you plant it?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">-რომ დარგავ, იმასაც უნდა რაიმე პროცედურა?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="faea902c-0831-4145-8c02-3850264d2442">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- დორგუაფაშოთ განსაკუთრებუჲი, მუჭომ სკუასჷნ თეშ უჲუანთ ჩქიი. ირ დღაას თექ ოკო ორდეე. თიში მწვანე ოპერაციეფი იჭყაფუუ, რდუალაა, დიხაშ გოღაჲა, ფესვის იკეთენს ჟიდოო,  ფესვიშ მოშორება. ანუ სოდგარეენ ჟირ თუთაშ განმავლობას თექ ოკო ორდეე ირიათო, ნერგიშ გვერდით, ნამუსჷთ ჯგირ ნერგიქ ქჷგოკო იჸუასდა. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="9b8c5549-5310-4f3d-986f-c6c2a3b4c046">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="2891a702-d656-40b1-878e-fc9f659ed496"
+										t="r" />
+									<refseq
+										guid="4353f5d7-0355-4023-a56f-5b6aaca36b83"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9df8d58b-0147-4597-8cf2-80916d70b6d3"
+										t="r" />
+									<refseq
+										guid="37c9c6f9-233c-4393-8ef9-ad6557250bc3"
+										t="r" />
+									<refseq
+										guid="d61a363e-0dcb-46b8-bdbe-6121cea13d81"
+										t="r" />
+									<refseq
+										guid="dd604371-98cf-43eb-8123-f97d9a6287bf"
+										t="r" />
+									<refseq
+										guid="0ebcc69d-1a6d-4add-a788-e68c09abff01"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">For planting, we take care of vines in a particular way, in a similar way as we take care of our children.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- დარგვისთვის განსაკუთრებული, როგორც შვილს ვუვლით, ისე ვუვლით [ვენახსაც] ჩვენ. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="08c8b1de-fc04-4e2a-abac-9d7b6903cded">
+								<Analyses>
+									<refseq
+										guid="7a9ec027-57b9-4a8c-9b4f-5ed5275d46ea"
+										t="r" />
+									<refseq
+										guid="77f6aeac-c7ff-4022-996c-f30724392a28"
+										t="r" />
+									<refseq
+										guid="1998f08f-d162-4377-9367-478c1d3b9cf0"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="f98b0d3c-927d-42b8-aca5-52ecadde6e13"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="61" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">You have to be there every day.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ყოველდღე იქ უნდა იყო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="c0439580-840c-4089-9f1f-5120f22ed66c">
+								<Analyses>
+									<refseq
+										guid="abdf1f00-f25b-4f57-8924-4b3438b3b9f2"
+										t="r" />
+									<refseq
+										guid="2b421e16-bded-4bde-9115-ed979292ab55"
+										t="r" />
+									<refseq
+										guid="e2742d91-3bac-4201-a393-d9fe96eb511b"
+										t="r" />
+									<refseq
+										guid="c2433e4c-d332-4c0f-bced-a8d892b20728"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="21753489-024c-4f4f-8a0b-fe18f0b2161a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6a788c9f-de8b-4388-9fa2-b7bb33a5948e"
+										t="r" />
+									<refseq
+										guid="2880f2fb-e81c-47dc-a12f-dc0d5f374f30"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ef1f5f30-0353-4ade-be1d-45d0421768b6"
+										t="r" />
+									<refseq
+										guid="e04b888f-a1dc-4e5a-b9ff-8e1ebcca0f11"
+										t="r" />
+									<refseq
+										guid="907bc795-f136-41c8-b406-75cbfde72388"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8d2ce0d5-1841-4ec8-a9a2-980dc3acdb73"
+										t="r" />
+									<refseq
+										guid="3cbdde55-8a07-4edd-a97f-9a3b8ed38524"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="85" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Its green operations begin, growing, removing soil, roots grow above and they are to be removed.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მისი მწვანე ოპერაციები იწყება, გაზრდა, მიწის გამოცლა, ფესვს იკეთებს მაღლა და [იმ] ფესვის მოშორება</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6db1fae3-d5fb-40b6-9e35-2976da97ffa2">
+								<Analyses>
+									<refseq
+										guid="ef316c0f-71a4-497b-80f1-6427f6d2dbe3"
+										t="r" />
+									<refseq
+										guid="3f5d7d56-0ca6-4279-96ff-d774377bf192"
+										t="r" />
+									<refseq
+										guid="5d467457-f056-4382-9554-4c9c4518b04d"
+										t="r" />
+									<refseq
+										guid="26989e9a-9c77-456c-857d-34e4dc3b649d"
+										t="r" />
+									<refseq
+										guid="70d480f2-11ed-4be5-8984-0bf7180d126d"
+										t="r" />
+									<refseq
+										guid="1998f08f-d162-4377-9367-478c1d3b9cf0"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="f98b0d3c-927d-42b8-aca5-52ecadde6e13"
+										t="r" />
+									<refseq
+										guid="a21da38c-4639-4d03-871e-b82329a0bbf1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6eea44d8-7df9-4a5e-bd60-69204cc1d580"
+										t="r" />
+									<refseq
+										guid="af7e5a83-8322-4b43-9a74-04a2dd8f9758"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6517235c-4849-4139-bf2f-93fb99b9ef67"
+										t="r" />
+									<refseq
+										guid="bdecfb3e-6f14-4439-b1bb-89000b6f466d"
+										t="r" />
+									<refseq
+										guid="8ec707e7-cf32-49cd-bf14-848fc66a4732"
+										t="r" />
+									<refseq
+										guid="79b4c1a4-74b4-4d10-bf0f-4bc6ac5ee0f1"
+										t="r" />
+									<refseq
+										guid="fb9abded-c7dd-4efd-b8d3-ef9d3f2c48a0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="180" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">This is to say that, for about two months, you have to be there every time, beside a sapling, if you want it to become a good sapling. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ანუ სადღაც ორი თვის განმავლობაში იქ უნდა იყო სულ, ნერგის გვერდით, თუ გინდა, რომ კარგი ნერგი გამოვიდეს. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2023-2-20 8:25:2.786" />
+		<DateModified
+			val="2023-9-30 4:4:10.444" />
+		<Genres>
+			<refcol
+				guid="c13f39e2-ea5e-11de-9645-0013722f8dec"
+				t="r" />
+		</Genres>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">SM_Vineyard Care and Grafting</AUni>
+			<AUni
+				ws="xmf">SM_ ვენახის მოვლა და დამყნობა</AUni>
+		</Name>
+		<Source>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Nika Partsvania</Run>
+			</AStr>
+			<AStr
+				ws="ka-Brai">
+				<Run
+					ws="ka-Brai">ნიკა ფარცვანია</Run>
+			</AStr>
+			<AStr
+				ws="xmf-fonipa">
+				<Run
+					ws="xmf-fonipa">nikʼɑ pɑrt͡svɑniɑ </Run>
+			</AStr>
+		</Source>
+	</Text>
+</TextInCorpus>

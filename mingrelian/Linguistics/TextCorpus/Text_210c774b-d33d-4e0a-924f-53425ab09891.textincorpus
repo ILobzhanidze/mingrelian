@@ -1,0 +1,740 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="210c774b-d33d-4e0a-924f-53425ab09891">
+		<Contents>
+			<StText
+				guid="5f5d3fea-c9b9-45fb-bc7f-66a9ac33416c">
+				<DateModified
+					val="2023-11-6 13:48:17.691" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="12d51b4b-d2e1-422b-86b1-187dcc58398d">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">უკული არძა ოჯახის უღუდუ ჭიჭე დიხა. სოდე ვარდუო თუთუმი ხომ, პაპიროსიში დინახალე მილაძჷნ თენა. პაპიროსი -  ჩქიმი ბაბუს უღუდ თენა.   ოდო ეთინა, მარანი, ცალკე უღუუდ არძას. ეთიჯგუათჷდჷ თინა (ზემოთ ხსენებულით) კეთებული. ოდო უკული ჩქ გემდგჷდეს მარანი. თექ მარანს ჩქიმი ბაბუ დო უღუდეს, ბაბუს ხოლო თეში უღუდჷ. დო ჸათეში მაგინძა ქორდ სკუალეფი თი  ინა, მუ ჯოხო თის, ლიში, ნამუსუთი კჷლეშ ძაფი, მანგიორო ინა მიღუდეს შპაკატეფი. ოდო ეთი შპაკატის ქუკლურღვანდეს თის დო თით იჭაჭუდ თინა. ოდო ათაში ქიგლადვანდეს ისჷ, ჟირი ინაჯგუას გაკეთენდეს მუდგასჷდჷნი, ვარა ქჷდაშკვანდეს, ვარა მუდგასიენი ჟირ ჯას ოდო ქიგლადვანდეს თის დო თით გასქირუანდეს თი ინა, მუ ჯოხო თის, თუთუმს. ოდო უკული დოჩიჩოლჷნდეს თის დო ეთის შუნდეს. ათენა ფშჷ. ენა გვალო ძამო ფშჷ. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="8bc87e21-2fb0-4122-930b-42ddfa1033d4">
+								<Analyses>
+									<refseq
+										guid="93dc25bd-4234-4a59-acba-cd82acb78512"
+										t="r" />
+									<refseq
+										guid="374d4558-3964-47ab-b078-239bb62ec46d"
+										t="r" />
+									<refseq
+										guid="a0c0134c-dfaa-47de-a6db-fae07d105ddd"
+										t="r" />
+									<refseq
+										guid="45a3c082-45b1-4b80-9e0c-8253b820f1e8"
+										t="r" />
+									<refseq
+										guid="a78f4829-9a16-473a-9393-cb0ce78488d5"
+										t="r" />
+									<refseq
+										guid="a81524b4-7e82-4ce5-8839-a5d22a5c533f"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">All families owned a small plot of land.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მერე ყველა ოჯახს ჰქონდა პატარა მიწა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b60bb863-4fa8-45cb-a145-a736ab0fecce">
+								<Analyses>
+									<refseq
+										guid="ea6131d9-24de-4aa9-86b7-32e96c7ef01d"
+										t="r" />
+									<refseq
+										guid="4780fd48-a157-4fa9-9a44-29640cef7f72"
+										t="r" />
+									<refseq
+										guid="f5dc4a20-2fb4-400b-9597-554334063d35"
+										t="r" />
+									<refseq
+										guid="c9663459-527d-482a-aa19-2ee125d04b75"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b6cdd92d-825c-43b6-8724-2d1b2a2cbe5d"
+										t="r" />
+									<refseq
+										guid="f9d0bf39-a9d6-4187-8843-5e31187fd49d"
+										t="r" />
+									<refseq
+										guid="40855ed8-c28f-4959-8529-004758d181d4"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="35" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en"> A place where tobacco was dried, something what is inside a cigarette.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">[ადგილი], სადაც არ იყო რომ თამბაქო ხმება, პაპიროსის შიგნით რომ დევს  ეს. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="69d79a78-b450-493c-8399-976e4fdcf1f9">
+								<Analyses>
+									<refseq
+										guid="5b2d0851-7161-4784-8a52-4602041cf574"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="a1ef23fe-48da-404e-be91-6e7766a1dd8c"
+										t="r" />
+									<refseq
+										guid="1dbd5e8c-901c-4a75-80dd-630130460e26"
+										t="r" />
+									<refseq
+										guid="07525675-e2b9-4ee8-9a9c-a3629e33d538"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="93" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A cigarette with a cardboard tube - this is what my grandfather had.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">პაპიროსი -  ბაბუაჩემს ჰქონდა ეს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="1f6c8959-3857-405a-ae26-e8450d93bf9b">
+								<Analyses>
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="25cdfadf-a7cd-4e91-b3e5-599f47b0a952"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4ab2abae-5309-4be0-8b4d-5733d9bd54ed"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="64237928-c3f8-4c48-bb9b-db679a7ce57c"
+										t="r" />
+									<refseq
+										guid="2b22daa0-06f2-4897-9f7c-8aab089791d2"
+										t="r" />
+									<refseq
+										guid="60957fd1-10c3-4420-82ed-db28f27a1c5f"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="130" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, everybody had a wine-cellar standing separately.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ხოდა, ის მარანი ცალკე ჰქონდა ყველას. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="14b1b242-c0bd-47f0-a342-f6dbb76195ba">
+								<Analyses>
+									<refseq
+										guid="ce2ae78f-b3a1-4303-bb0e-372bb63ded08"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="5819eca3-c97e-4215-8990-872036156c52"
+										t="r" />
+									<refseq
+										guid="279dda38-e7c1-426a-8a92-2c07b0a1bd0b"
+										t="r" />
+									<refseq
+										guid="e292f9a2-dd5d-42c3-af0d-a6d7fd976c5a"
+										t="r" />
+									<refseq
+										guid="e62da372-4cee-4bfd-b0d1-ba3352a53139"
+										t="r" />
+									<refseq
+										guid="3995439b-c3b9-4c2d-a6fc-4a976ba22cb4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="168" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was constructed that way.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai"> ისეთი იყო ის (ზემოთ ხსენებულით) გაკეთებული. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="bc8173d7-bae2-4bb1-b2a8-9478dbdb6db0">
+								<Analyses>
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="b8d570c5-370a-4bfa-a64d-c9907170dbc2"
+										t="r" />
+									<refseq
+										guid="93c77028-ef7c-438b-b5dc-1673cff4b8b6"
+										t="r" />
+									<refseq
+										guid="ab4aa738-89f7-433a-9dce-108a60de91ba"
+										t="r" />
+									<refseq
+										guid="4ab2abae-5309-4be0-8b4d-5733d9bd54ed"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="214" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And we had a wine-cellar.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მერე ჩვენ გვედგა მარანი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6d2d7ef4-0760-45e6-ab2e-913d808ea5bf">
+								<Analyses>
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="70b806dc-0116-43d9-af1d-d37bdd4b1177"
+										t="r" />
+									<refseq
+										guid="a1ef23fe-48da-404e-be91-6e7766a1dd8c"
+										t="r" />
+									<refseq
+										guid="540b9f31-140b-4a00-9bf4-60be68e2ce5f"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="565b8cb0-3f3c-48ae-b3cd-083b5908c7a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1dbd5e8c-901c-4a75-80dd-630130460e26"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="66b469df-37e7-4d8d-b90b-a797378cf53f"
+										t="r" />
+									<refseq
+										guid="3714a44c-4b21-4856-83fb-e31f05ce095d"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="245" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There, in the wine-cellar, my grandfather dried tobacco and he had that. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">იქ, მარანში ბაბუაჩემი [კიდევ აშრობდა თამბაქოს] და ჰქონდათ [ეს]. ბაბუჩემსაც ისე ჰქონდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="17348abd-7211-4c8d-be9a-59bc2e46492d">
+								<Analyses>
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="66493c42-2bc5-42c3-a126-5944c6a85515"
+										t="r" />
+									<refseq
+										guid="08faca1f-1ca4-4a44-a4ad-6dd3cd2d72b0"
+										t="r" />
+									<refseq
+										guid="e27535bc-74bd-4dcd-96e1-b58bc933d872"
+										t="r" />
+									<refseq
+										guid="123e57f5-0802-4c42-a308-b40bc212da81"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="1376f4b7-0c00-4bac-8284-c7262113b04e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="715dfdb3-3c56-4e39-afd3-e134ca5c5142"
+										t="r" />
+									<refseq
+										guid="e422e53a-5265-4e8e-a1fb-559e9345f301"
+										t="r" />
+									<refseq
+										guid="7af1cb32-3066-4cc7-81a8-e986b3efc91f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="10fcb9e4-882c-4c57-8f79-599c058e16be"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="58228da1-9441-4ab1-b8c5-d0c842ef385b"
+										t="r" />
+									<refseq
+										guid="1e6b0543-47de-4e35-9524-ec9807373693"
+										t="r" />
+									<refseq
+										guid="bbe849e9-ffd3-44a4-b171-231f491f8316"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d1c8bd0d-cde0-4770-b4f1-0e4c5b4284be"
+										t="r" />
+									<refseq
+										guid="1376f4b7-0c00-4bac-8284-c7262113b04e"
+										t="r" />
+									<refseq
+										guid="1bf25bcb-b129-469a-a9de-8c1b93692297"
+										t="r" />
+									<refseq
+										guid="dfb6aff7-38d2-4b44-8b48-caee676100d4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="301" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, it was this long, it had a needle in which a rope is inserted that we had instead of a thread.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">  და ამ სიგრძე კი იყო, ნემსი რომ ჰქონდა, რომელშიც  ეყრებოდა ბაწარი, რომელიც ძაფის ნაცვლად გვქონდა. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="7991f1c0-7a39-467d-aaad-d7bdb87a4868">
+								<Analyses>
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="06726134-4a86-4c68-972d-407c2a1ddebf"
+										t="r" />
+									<refseq
+										guid="7283b9cb-1914-437c-992d-46c8162d31ea"
+										t="r" />
+									<refseq
+										guid="4588de44-6228-47f0-be86-9426839b165f"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="eaa75093-7f17-48a4-8563-b9e0a4b16147"
+										t="r" />
+									<refseq
+										guid="a739e662-22bf-4899-bc82-569fba057e97"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="414" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, ropes were inserted into it and was strung with it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და იმ ბაწრებს გაუყრიდნენ იმაში და იმით აისხმებოდა ის.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="24bbae35-659a-4c1c-8c55-0720aae63cc9">
+								<Analyses>
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="5099cc73-b4bb-4f8e-957b-f090ccd56e51"
+										t="r" />
+									<refseq
+										guid="4acce6ce-611d-4dd2-935c-c58cc8c5c077"
+										t="r" />
+									<refseq
+										guid="e3e7ac60-9e1a-4c93-98c7-474fbc16ae5d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="bf9d9d64-c256-41bc-9f76-f41dcbfa7c10"
+										t="r" />
+									<refseq
+										guid="35e7865a-8bb2-4dbe-a557-ce018908c6bf"
+										t="r" />
+									<refseq
+										guid="4ceff1ec-1b06-4dde-8003-38a062254920"
+										t="r" />
+									<refseq
+										guid="c62a31e5-b1be-4141-a08f-da3062265d84"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="360a119b-9b2c-41c5-bbd3-e2ed225cf9d6"
+										t="r" />
+									<refseq
+										guid="54a5dd93-33e6-49c3-84d2-4353f5804b1a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="435f350b-d750-4665-8b23-b92b9404fc47"
+										t="r" />
+									<refseq
+										guid="910bf6b1-eb19-49e9-8755-46f7244a306c"
+										t="r" />
+									<refseq
+										guid="dc55ad11-9e9d-4cd1-9b4e-1acd3257106f"
+										t="r" />
+									<refseq
+										guid="5d305953-3779-4fac-9ecc-e1b18eef6c1b"
+										t="r" />
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="4acce6ce-611d-4dd2-935c-c58cc8c5c077"
+										t="r" />
+									<refseq
+										guid="4588de44-6228-47f0-be86-9426839b165f"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="cc6cde92-4fac-4930-86aa-5c246f9a42d1"
+										t="r" />
+									<refseq
+										guid="43d40590-6a0d-46c1-9289-b9c6bf646f7e"
+										t="r" />
+									<refseq
+										guid="fdf5912c-a289-407f-b8ab-0ab72402b368"
+										t="r" />
+									<refseq
+										guid="1376f4b7-0c00-4bac-8284-c7262113b04e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="715dfdb3-3c56-4e39-afd3-e134ca5c5142"
+										t="r" />
+									<refseq
+										guid="e422e53a-5265-4e8e-a1fb-559e9345f301"
+										t="r" />
+									<refseq
+										guid="dc5de0f5-43cf-4426-ab3b-30c9a702b84b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="126cf9e9-8e88-435d-9cfc-4cb68b972fe4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="469" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, it was hung on it and dried it, what do you call it, tobacco.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ხოდა, ასე ჩამოდებდნენ იმაზე და იმით გააშრობდნენ იმ იმას, რა ჰქვია მაგას, თამბაქოს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="1d5f9339-9561-412e-b434-1117f722294f">
+								<Analyses>
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="9bf1e705-e84e-45ad-9948-f20adb36951f"
+										t="r" />
+									<refseq
+										guid="54b7e351-fc0b-4a76-bc0e-88233b22e195"
+										t="r" />
+									<refseq
+										guid="dc5de0f5-43cf-4426-ab3b-30c9a702b84b"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="a0f665d9-1123-4a50-861e-a1da44a0b086"
+										t="r" />
+									<refseq
+										guid="4e4de06c-4975-43f1-9964-45288f240662"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="648" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, they crumbled it and smoked it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და მერე დაფსვნიდნენ იმას და იმას სვამდნენ (=ეწეოდნენ).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="3251915e-4d8f-46a7-9166-3dbbb548266b">
+								<Analyses>
+									<refseq
+										guid="f70d1983-cd8e-4f7c-8541-843dfac1cf9c"
+										t="r" />
+									<refseq
+										guid="b992b595-2e9d-4431-9dd1-20ef4d224d38"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="691" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I remember that.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს მახსოვს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="30b234d4-3ee6-46f1-a1f4-d8e62f05194b">
+								<Analyses>
+									<refseq
+										guid="485ae29d-eff1-4c77-a6c6-2e6e70659b1b"
+										t="r" />
+									<refseq
+										guid="ed1cfa64-e7fe-4ac1-a5d4-9418f37dc5ab"
+										t="r" />
+									<refseq
+										guid="f51ca707-d4eb-4032-a30e-f13aa20d76a8"
+										t="r" />
+									<refseq
+										guid="b992b595-2e9d-4431-9dd1-20ef4d224d38"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="702" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I remember that very well.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს ძალიან კარგად მახსოვს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2023-2-16 5:54:7.787" />
+		<DateModified
+			val="2023-10-25 13:57:57.617" />
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">ZS_Tobacco Crops</AUni>
+			<AUni
+				ws="xmf">---ZS_თუთუნის კულტურა</AUni>
+		</Name>
+		<Source>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Opelia Tskvitaia</Run>
+			</AStr>
+			<AStr
+				ws="ka-Brai">
+				<Run
+					ws="ka-Brai">ოფელია ცქვიტაია</Run>
+			</AStr>
+			<AStr
+				ws="xmf-fonipa">
+				<Run
+					ws="xmf-fonipa">ɔpɛliɑ t͡skvitʼɑiɑ</Run>
+			</AStr>
+		</Source>
+	</Text>
+</TextInCorpus>

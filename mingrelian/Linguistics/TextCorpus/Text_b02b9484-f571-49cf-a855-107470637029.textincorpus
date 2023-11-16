@@ -1,0 +1,599 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="b02b9484-f571-49cf-a855-107470637029">
+		<Contents>
+			<StText
+				guid="e7631b09-b6f8-40ed-9681-d1f0f7db9092">
+				<DateModified
+					val="2023-11-5 15:25:19.936" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="c4fc3843-8433-4ea8-b62d-6af5fbc8c1f9">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">ასე კილეგანწყუმუე, ათაში ხე ხომ ქააფჷნა ღურელემს ხე  გეინებული, ვარო?! გეწკურილს უწინა თეს, გეინებული. ათენა დღას ვაუძირ, ოში ღურელი გეჲოთეს მარა, ათე ხეგოფაჩილი დღას ვაუძირ მარა, იშენი მასმა დღას, მესამე დღეს მკლავის გახსნას უწინა - ხეშ, კილეში განწყუმუ, კილეშ განწყჷმჷ, მასმა დღას, მასმა დღას. მუთუნი ინაქ ვამუხვად გვალო ორშაბათიქდა თიწკჷმა მასმა დღას. თი კილეგანწყუმუს ვარ მარა, ჟარნეჩი, მაჟარნეჩა დღას დოვილესკო ოკო აუცილებელო საქონელი ოდო ეთი საქონელი თიშ ინაქ იუკონ ოკო, მისავალქ თი ინაშა - ღურელშა. ათეჯგუა მუდგარენსჷ ტრადიცია რდჷ თენა. ტრადიციულიდჷ თენა დო, თიში მაჟარნეჩა დღას, მეორმოცე დღეს, ვართ იშო დო ვართ აშო, მაჟარნეჩა დღას, მუდგა დღა მუხვადჷდჷნი - გეჸვილაფა - ათენას უძახუდეს გეჸვილაფას. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="f2ddeda4-b1f0-4243-8e28-da960315aed7">
+								<Analyses>
+									<refseq
+										guid="1a0db27b-356e-4906-aa10-8a25b6ca60d2"
+										t="r" />
+									<refseq
+										guid="a7ba2667-ad0e-43b7-baf0-231492aa72c9"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="553a3d8c-48d5-451f-8143-d6c0d3fcdf7c"
+										t="r" />
+									<refseq
+										guid="1d41ae63-b8af-42c8-91af-55ff3adc1153"
+										t="r" />
+									<refseq
+										guid="ed2192a3-fb48-48f7-8b7e-4aee7d704c82"
+										t="r" />
+									<refseq
+										guid="a659f17a-34bf-4afb-82fa-174156fa8ab8"
+										t="r" />
+									<refseq
+										guid="cda62584-8184-46e1-97c6-ea62d65ebd73"
+										t="r" />
+									<refseq
+										guid="1d41ae63-b8af-42c8-91af-55ff3adc1153"
+										t="r" />
+									<refseq
+										guid="394c5018-435d-428c-8917-89cd84c12613"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="cc135219-895b-40d0-bcd1-c359b3e9c311"
+										t="r" />
+									<refseq
+										guid="c72c192e-7335-4892-96a2-f0b2f03f54e5"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Now, there is 'uncrossing of hands'; this is to uncross a dead person's crossed hands on their breast like this.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ახლა  კილეშგანწყუმუ (=მკლავის გახსნა) არის [რა]: აი, ასე ხომ აქვს მიცვალებულს ხელი დაიმასქნილი (= გულზე დაწყობილი), [იმის გახსნა].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="f2d634fc-38f4-46e2-96a6-ab8830938921">
+								<Analyses>
+									<refseq
+										guid="8288e099-8f31-4929-a810-31175bea6fd8"
+										t="r" />
+									<refseq
+										guid="82fcbfcc-5029-46bd-b219-946a007e3e29"
+										t="r" />
+									<refseq
+										guid="84f607ad-2767-4516-a558-99cc5c10074e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="84cb8cc2-eaac-4676-9d44-4690df24a381"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="71" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It is referred to as 'arranged.'</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დაწყობილს ეძახიან ამას.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="61f5b7b5-350c-41eb-88cf-3171c99d3e75">
+								<Analyses>
+									<refseq
+										guid="f70d1983-cd8e-4f7c-8541-843dfac1cf9c"
+										t="r" />
+									<refseq
+										guid="4758a592-807d-413e-81a9-47cbd9981fae"
+										t="r" />
+									<refseq
+										guid="40b6bb76-4231-4054-a0aa-a9b7d2c017b3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="7c7a1249-0f55-43a8-8eba-8ed277109f7f"
+										t="r" />
+									<refseq
+										guid="b6de7040-74c0-4ba2-8721-272187432e52"
+										t="r" />
+									<refseq
+										guid="83eb83c1-e046-4f34-951c-1ab6b541154f"
+										t="r" />
+									<refseq
+										guid="a7600ec6-0a18-4628-93fb-fd1ce10bd51c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="341d5db7-3148-432f-b941-5734c35642ce"
+										t="r" />
+									<refseq
+										guid="4758a592-807d-413e-81a9-47cbd9981fae"
+										t="r" />
+									<refseq
+										guid="40b6bb76-4231-4054-a0aa-a9b7d2c017b3"
+										t="r" />
+									<refseq
+										guid="a7600ec6-0a18-4628-93fb-fd1ce10bd51c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ca430fa5-bb8c-41f9-a830-72451a5c0239"
+										t="r" />
+									<refseq
+										guid="0c4e7439-b871-4041-9bab-15ef0e50a950"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f522579a-46b7-4195-b813-1d87fc2d14c2"
+										t="r" />
+									<refseq
+										guid="e02fa937-163e-4ce7-ade7-4507ecbbeedd"
+										t="r" />
+									<refseq
+										guid="6b266b24-f39e-48d6-ab81-151e3732d5da"
+										t="r" />
+									<refseq
+										guid="17eddd01-a742-44d6-aba9-38a570f9011d"
+										t="r" />
+									<refseq
+										guid="27d21685-afd8-4c5d-b81e-bc743965f2ac"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="3058856f-88fc-44cd-bd11-0e5031981db3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="7a62dc73-7493-496d-ab3f-8469a1dffa75"
+										t="r" />
+									<refseq
+										guid="cc30d435-130d-4c49-8a00-bdd62059c1cc"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="48df247c-8ce1-42dd-a9f8-0b775044acd8"
+										t="r" />
+									<refseq
+										guid="4c351e93-9a75-4a58-b519-0ae522905506"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="87d18a34-aefb-4834-93c9-ac8be4c3b830"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="87d18a34-aefb-4834-93c9-ac8be4c3b830"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="103" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A hundren dead were exhumated but nobody has been one with uncrossed hands, but, on the third day, there should be a ritual of ucrossing of hands; yes, on the third day.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ასი მკვდარი ამოთხარეს, მაგრამ არასოდეს უნახავს [ვინმეს] ხელგაშლილი (=გაშლილი ხელით), მაგრამ მესამე დღეს მაინც უწევს ხელის, მკლავის გახსნის [რიტუალი]; დიახ, მესამე დღეს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="f4b47f40-ada5-428f-8037-aa43559e09dc">
+								<Analyses>
+									<refseq
+										guid="c97006ab-ec03-4b79-a622-23335830304b"
+										t="r" />
+									<refseq
+										guid="07cbef67-34e3-4df8-a509-9b4d918ecafa"
+										t="r" />
+									<refseq
+										guid="25415cc5-9b51-453b-aba3-7c3f1fa404de"
+										t="r" />
+									<refseq
+										guid="1e7db00c-3f25-4510-bf64-79358593f2b8"
+										t="r" />
+									<refseq
+										guid="038c75ca-9eab-4154-8c59-ea9e350a6491"
+										t="r" />
+									<refseq
+										guid="476248c3-a7e1-41fa-858f-a0f818e33dea"
+										t="r" />
+									<refseq
+										guid="0c4e7439-b871-4041-9bab-15ef0e50a950"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="296" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">On the third day if it does not coincide with Monday.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მესამე დღეს, თუ მთლად ორშაბათი არ დაემთხვა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="45607037-ed4d-4872-a1c8-a9f3e0e3f98f">
+								<Analyses>
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="2022b5ee-e43b-41f2-9a43-8c4b495d0182"
+										t="r" />
+									<refseq
+										guid="1b4b09ab-20ff-4221-9a51-62c8f363e807"
+										t="r" />
+									<refseq
+										guid="a7600ec6-0a18-4628-93fb-fd1ce10bd51c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="3a7e719c-5722-4926-ab48-225aba16661e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5d70d8b5-fac1-4fdb-8005-207d5278513f"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="b6148ebc-72f9-4fe5-ad9d-d58a16a0951f"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="1d8ecada-95f5-4ba6-8a1e-776d354aa492"
+										t="r" />
+									<refseq
+										guid="1ed6ea18-28c6-492d-9ed8-0bb5b1861700"
+										t="r" />
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="1ed6ea18-28c6-492d-9ed8-0bb5b1861700"
+										t="r" />
+									<refseq
+										guid="80c68ef5-2990-4e49-970b-338b8794d996"
+										t="r" />
+									<refseq
+										guid="085080d6-f805-4ffa-9278-a322b4edb4a5"
+										t="r" />
+									<refseq
+										guid="07bd9e91-2ffd-4a76-99f4-fbda731d88df"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ac903aa3-e509-4672-8a18-c38fde22c87e"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="aebf2a48-4d95-4bcd-94c2-da69e8a5dd3d"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="c8462b78-736f-45ca-94ee-146020b4fc01"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="355" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Not on the day of uncrossing of hands, but, on the fortieth day, a cow or ox was to be slaughtered by all means and that was to be an offering for the dead person.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მკლავის გახსნაზე არა, მაგრამ ორმოცი, მეორმოცე დღეს აუცილებლად  უნდა დაეკლათ საქონელი და ის საქონელი უნდა ყოფილიყო მისავალი (=შეწირული) მიცვალებულისთვის.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b0247c85-bc14-41bf-b46c-568c1b913485">
+								<Analyses>
+									<refseq
+										guid="2e2b750f-d87f-48cb-b4eb-28f45884f6a1"
+										t="r" />
+									<refseq
+										guid="45a9fda1-565e-44be-99a9-3199fb0f184a"
+										t="r" />
+									<refseq
+										guid="f469e520-c3b9-4d44-ab0d-c7475c4cd4e5"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="506" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There was a tradition like this.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რაღაც ამგვარი ტრადიცია იყო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="56cd41dc-194b-41c1-bd98-beaf1a398b87">
+								<Analyses>
+									<refseq
+										guid="1f7fa2b7-1a9e-4587-9820-3d06c20300a2"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="82af4b9c-e90d-4fb9-9786-c48fafc294bb"
+										t="r" />
+									<refseq
+										guid="5d70d8b5-fac1-4fdb-8005-207d5278513f"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="38ef7866-41c4-42e3-a4e8-1536fb65501b"
+										t="r" />
+									<refseq
+										guid="1694c355-4d36-4b34-b832-8b24d79403ee"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ebb1bdf2-72ad-4612-8207-5e19eb037613"
+										t="r" />
+									<refseq
+										guid="81fbfbf4-2d9a-45bb-b844-dc38d176c5db"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="ebb1bdf2-72ad-4612-8207-5e19eb037613"
+										t="r" />
+									<refseq
+										guid="9cfd5b3e-5e10-43e1-a297-5e70b26a9a30"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5d70d8b5-fac1-4fdb-8005-207d5278513f"
+										t="r" />
+									<refseq
+										guid="7ec59ed6-0136-4e2d-bf39-5e1501f931a6"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9d3b53cc-5485-424a-a04b-3651c59d13fe"
+										t="r" />
+									<refseq
+										guid="2b2041d4-c4e6-4091-b0b4-c79d6f550c16"
+										t="r" />
+									<refseq
+										guid="7e01deae-7ceb-48fd-a04f-00052a714b3d"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="4835ce41-d3df-49bf-9bc1-36f645dfda44"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="c5ef68bd-ddb2-43b7-bfff-a3da3ce410b1"
+										t="r" />
+									<refseq
+										guid="e53198bb-d77d-4e88-a1cf-7e55b917ed2e"
+										t="r" />
+									<refseq
+										guid="9d703e03-820a-474c-b380-ac5672e6dbb8"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="544" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was traditional that, exactly on the fortieth day, neither earlier or later,- whatever day it was, [a cow or ox was to be sacrificed]. That was called "geq'vilapa" [=sacrifice].</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ტრადიციული ის იყო, რომ ზუსტად მეორმოცე დღეს, არც იქით და არც აქეთ, რა დღეც არ უნდა ყოფილიყო, [შეეწირათ საქონელი], ამას ერქვა "</Run>
+										<Run
+											ws="xmf">გეჸვილაფა</Run>
+										<Run
+											ws="ka-Brai">" ("დაკვლა" = შეწირვა)</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2023-2-8 8:30:11.172" />
+		<DateModified
+			val="2023-10-20 16:11:58.824" />
+		<Genres>
+			<refcol
+				guid="c076f554-ea5e-11de-9793-0013722f8dec"
+				t="r" />
+		</Genres>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">ZS_ Ritual Related to the Deceased: "Uncrossing of Hands"</AUni>
+			<AUni
+				ws="xmf">----ZS_ მიცვალებულთან დაკავშირებული რიტუალი: კილეშგანწყუმუ</AUni>
+		</Name>
+		<Source>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Opelia Tskvitaia</Run>
+			</AStr>
+			<AStr
+				ws="ka-Brai">
+				<Run
+					ws="ka-Brai">ოფელია ცქვიტაია</Run>
+			</AStr>
+			<AStr
+				ws="xmf-fonipa">
+				<Run
+					ws="xmf-fonipa">ɔpɛliɑ t͡skvitʼɑiɑ</Run>
+			</AStr>
+		</Source>
+	</Text>
+</TextInCorpus>

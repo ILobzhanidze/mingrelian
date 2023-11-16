@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Discourse>
+	<header>
+		<DsDiscourseData
+			guid="c3fe8c1e-ea5e-11de-9e45-0013722f8dec">
+			<ChartMarkers />
+			<Charts />
+			<ConstChartTempl />
+		</DsDiscourseData>
+	</header>
+	<DsChart
+		class="DsConstChart"
+		guid="033b6f43-f62a-4d6e-b6be-38e4d3dfc30f">
+		<BasedOn>
+			<objsur
+				guid="bafa9111-ac95-499d-9c32-d9590eb8d95d"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-3-1 5:52:32.352" />
+		<DateModified
+			val="2023-3-1 5:52:32.352" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="038ae846-1995-411a-99bb-58158b259577">
+		<BasedOn>
+			<objsur
+				guid="baeb6bd6-534c-44e8-b25c-ed9bdcfd3bef"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-23 3:53:53.575" />
+		<DateModified
+			val="2023-2-23 3:53:53.575" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="14809f71-8bba-4190-ac69-5db0e39acd0a">
+		<BasedOn>
+			<objsur
+				guid="39174523-96f2-43b3-ab20-5406deb9a7a6"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-23 3:52:45.412" />
+		<DateModified
+			val="2023-2-23 3:52:45.412" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="17e00f33-17cb-4427-a1aa-0fe26550ce11">
+		<BasedOn>
+			<objsur
+				guid="bd0defaf-59e6-450b-bfdf-0cb10faeafbc"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-11-20 15:32:58.213" />
+		<DateModified
+			val="2022-11-20 15:32:58.213" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="1ae44165-b3ff-475a-afbd-c7894bbf8ee0">
+		<BasedOn>
+			<objsur
+				guid="ee2b3103-4f79-4ef2-9c8a-e1deadca45c9"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-14 5:9:3.494" />
+		<DateModified
+			val="2023-2-14 5:9:3.494" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="1f8c8c80-7b92-4d19-9a2d-235a15957d6a">
+		<BasedOn>
+			<objsur
+				guid="a2582c98-65f5-4a01-8a1c-4d1fb57ce9ca"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-15 8:58:29.335" />
+		<DateModified
+			val="2023-2-15 8:58:29.335" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="20fa5cf7-8d46-441a-bf86-96da9ee3f920">
+		<BasedOn>
+			<objsur
+				guid="b147c9bf-57e0-43d3-aa26-43285bff7e2d"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-9-24 16:48:12.101" />
+		<DateModified
+			val="2023-9-24 16:48:12.101" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="222fc9dd-84c2-42e9-b7bc-9996ac13d37c">
+		<BasedOn>
+			<objsur
+				guid="daf49d51-b0f1-4126-8a00-013191e5484d"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-12-24 16:25:39.945" />
+		<DateModified
+			val="2022-12-24 16:25:39.945" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="2285e5c6-3b98-4ce2-acc0-06c67f769444">
+		<BasedOn>
+			<objsur
+				guid="751fd8da-0b1d-4292-823c-2faea7ba9ae3"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-10-5 15:26:58.378" />
+		<DateModified
+			val="2022-10-5 15:26:58.378" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="2408dd0d-f7eb-4e1a-a98d-08e72eab4d96">
+		<BasedOn>
+			<objsur
+				guid="28881956-39f9-40e9-88b4-4d25276b6be7"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-8 9:23:57.469" />
+		<DateModified
+			val="2023-2-8 9:23:57.469" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="31321868-2229-4e67-ae71-db04c6755d6d">
+		<BasedOn>
+			<objsur
+				guid="e2fcac6b-a17e-4fb0-ab50-e4f35e6fa386"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-9 15:35:55.414" />
+		<DateModified
+			val="2023-2-9 15:35:55.414" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="32716403-5cf7-419f-b0d1-0f4f873eb98a">
+		<BasedOn>
+			<objsur
+				guid="533636ee-98ca-4237-9126-df79b8299e26"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-10-5 16:20:53.856" />
+		<DateModified
+			val="2022-10-5 16:20:53.856" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="345d86b1-e49a-4729-ad63-94c9f8c2d9d0">
+		<BasedOn>
+			<objsur
+				guid="8f745f57-4599-4a34-80ca-eb0ee39f678a"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-1-18 15:7:9.384" />
+		<DateModified
+			val="2023-1-18 15:7:9.384" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="3f529ceb-8b2c-4967-b2d4-abd4e39b0324">
+		<BasedOn>
+			<objsur
+				guid="457c4bb8-d375-4772-9bea-c6bbec91f1ad"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-7 5:47:42.161" />
+		<DateModified
+			val="2023-2-7 5:47:42.161" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="40a614b8-648d-45f2-9e83-a31391d205f3">
+		<BasedOn>
+			<objsur
+				guid="5f5d3fea-c9b9-45fb-bc7f-66a9ac33416c"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-16 5:54:7.787" />
+		<DateModified
+			val="2023-2-16 5:54:7.787" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="42055a5d-c437-4ddd-991c-489c90222b01">
+		<BasedOn>
+			<objsur
+				guid="51dc1dbf-7418-4951-8d42-8043386f55ac"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-1-3 16:46:6.372" />
+		<DateModified
+			val="2023-1-3 16:46:6.372" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="4812608c-39c5-4bad-9d15-1d2f06c6300d">
+		<BasedOn>
+			<objsur
+				guid="0a948b55-7f43-4103-8d28-1b77ce2302f8"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-12-23 20:14:31.717" />
+		<DateModified
+			val="2022-12-23 20:14:31.717" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="4afc0a63-4021-4c06-8f66-a5e87737c0d1">
+		<BasedOn>
+			<objsur
+				guid="00383105-7bf9-4ba9-9d8d-b60876791ae8"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-8 9:44:16.176" />
+		<DateModified
+			val="2023-2-8 9:44:16.176" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="4d6b1644-965d-4faf-bafd-9876cc17647e">
+		<BasedOn>
+			<objsur
+				guid="dd496837-d3b6-4c67-b1e5-3f7ff79c4691"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-23 3:51:16.686" />
+		<DateModified
+			val="2023-2-23 3:51:16.686" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="50373f46-bd58-474d-9ac9-70adcf577bc2">
+		<BasedOn>
+			<objsur
+				guid="d98ed1ac-6981-43c2-9986-28db40f9ba6e"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-16 5:50:4.471" />
+		<DateModified
+			val="2023-2-16 5:50:4.471" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="5237617d-cf44-4a34-b97b-e3f946f71b4b">
+		<BasedOn>
+			<objsur
+				guid="f541437b-9b75-4802-8afd-f340798cdede"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-16 5:55:4.955" />
+		<DateModified
+			val="2023-2-16 5:55:4.955" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="5b1bf69e-64ea-4bd6-a1fb-fdff5938a4b5">
+		<BasedOn>
+			<objsur
+				guid="5ca39ac9-3068-4d0b-b9fc-6b45ccbb505b"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-10-2 16:36:30.304" />
+		<DateModified
+			val="2022-10-2 16:36:30.304" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="5f08d3e7-d03a-4c83-9be6-1fb3fd3f2d26">
+		<BasedOn>
+			<objsur
+				guid="04f8aebe-0028-4d68-a01b-23a457a1b57d"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-11-25 18:43:23.140" />
+		<DateModified
+			val="2022-11-25 18:43:23.140" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="6d1d8c04-91ba-4da9-946f-b271a0e30f57">
+		<BasedOn>
+			<objsur
+				guid="1ad500d0-2332-4a63-bd5d-2808d3dec355"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-11-1 20:19:16.609" />
+		<DateModified
+			val="2022-11-1 20:19:16.609" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="77f4003c-e823-43b9-a933-b6e9017b8264">
+		<BasedOn>
+			<objsur
+				guid="64210980-5f3d-4a3a-82cd-7333a87c86bc"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-16 5:53:22.842" />
+		<DateModified
+			val="2023-2-16 5:53:22.842" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="7a2d3f80-aeef-47bf-8a56-9dfd838cf903">
+		<BasedOn>
+			<objsur
+				guid="444a89a5-1ce0-483f-a0d5-ae619f9c3721"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-14 5:3:28.950" />
+		<DateModified
+			val="2023-2-14 5:3:28.950" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="80eacaab-f2ae-4c5e-88de-e268e0c8abea">
+		<BasedOn>
+			<objsur
+				guid="fec9c13c-7a1a-4bcc-9470-188fb80ef70d"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-16 5:51:39.644" />
+		<DateModified
+			val="2023-2-16 5:51:39.644" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="814f2566-ee98-4189-9cf6-8bb056f6266c">
+		<BasedOn>
+			<objsur
+				guid="76dce22a-4eb5-47c2-88ef-0526c3a71a87"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-11-7 22:7:19.473" />
+		<DateModified
+			val="2022-11-7 22:7:19.473" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="84600fda-f9f8-42bd-be81-fce85cbc6b02">
+		<BasedOn>
+			<objsur
+				guid="4210c6f4-2d74-495b-97b8-38b9348a841d"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-20 11:27:25.368" />
+		<DateModified
+			val="2023-2-20 11:27:25.368" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="8bd2205c-41b3-42bd-a1ad-076ed81d2a53">
+		<BasedOn>
+			<objsur
+				guid="d64e7569-2575-41e8-b697-ae508bbd99b8"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-8 8:45:12.877" />
+		<DateModified
+			val="2023-2-8 8:45:12.877" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="8bdb8048-ed8a-4ab4-9970-052f86e29b56">
+		<BasedOn>
+			<objsur
+				guid="6b095e93-d25e-4593-9d12-b3b4cbf43f32"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-14 5:5:0.530" />
+		<DateModified
+			val="2023-2-14 5:5:0.530" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="98527981-23fc-4c5c-b4d3-5865510dda58">
+		<BasedOn>
+			<objsur
+				guid="a01c2a70-1289-4ec0-8ff4-c9568fd22f29"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-14 5:6:38.463" />
+		<DateModified
+			val="2023-2-14 5:6:38.463" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="98aa9a94-b646-4bfd-88b3-3ec142d77318">
+		<BasedOn>
+			<objsur
+				guid="983ccf16-c765-4371-9909-105b9c308b81"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-8 12:26:20.988" />
+		<DateModified
+			val="2023-2-8 12:26:20.988" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="9971c476-895d-48bd-8d0b-3b23f4d240ea">
+		<BasedOn>
+			<objsur
+				guid="a3d4e53a-6a04-498e-a56a-8bcd06ca8238"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-3-1 5:54:7.145" />
+		<DateModified
+			val="2023-3-1 5:54:7.145" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="9a8d5de9-f5be-4649-8b81-64814b5bfaa7">
+		<BasedOn>
+			<objsur
+				guid="04e1e5ed-bd10-429d-b662-e720fc5fef46"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-5-28 9:52:55.299" />
+		<DateModified
+			val="2022-5-28 9:52:55.299" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="a1d9086f-1ac4-4b91-b35d-70af3b3c8575">
+		<BasedOn>
+			<objsur
+				guid="0830a800-643d-4042-94d7-20b096b4db8f"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-12-24 16:22:49.299" />
+		<DateModified
+			val="2022-12-24 16:22:49.299" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="a3a0a311-7026-4737-ac84-cd6f1f0c1389">
+		<BasedOn>
+			<objsur
+				guid="a412a681-c3c2-4194-9126-043e72419ef4"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-12-27 10:6:24.249" />
+		<DateModified
+			val="2022-12-27 10:6:24.249" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="acd1a24b-f840-4042-81a9-2418c437694c">
+		<BasedOn>
+			<objsur
+				guid="f81cf21e-a2a4-4a32-98c7-9bf46146ea34"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-11-20 15:24:5.485" />
+		<DateModified
+			val="2022-11-20 15:24:5.485" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="b8588c5d-62aa-4aae-883b-1829c69ffb20">
+		<BasedOn>
+			<objsur
+				guid="479ee7f9-96cd-4a75-84c4-0701f06db3f4"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-7 4:28:29.347" />
+		<DateModified
+			val="2023-2-7 4:28:29.347" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="bab8f47b-fbc9-4ee2-bf2d-1a845b4e4609">
+		<BasedOn>
+			<objsur
+				guid="4f9e186c-1d33-47b8-890d-f3ad7f6b466b"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-1-21 5:58:9.937" />
+		<DateModified
+			val="2023-1-21 5:58:9.937" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="c2e9d833-bca4-49e8-815e-3873b9d8fff7">
+		<BasedOn>
+			<objsur
+				guid="722bc68a-9111-4411-830f-27c42cf1af7b"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-24 17:48:54.575" />
+		<DateModified
+			val="2023-2-24 17:48:54.575" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="cd3da7b6-4201-42e5-987e-df49054367c8">
+		<BasedOn>
+			<objsur
+				guid="e7631b09-b6f8-40ed-9681-d1f0f7db9092"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-8 8:30:11.196" />
+		<DateModified
+			val="2023-2-8 8:30:11.196" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="d08ca08e-a2b6-4ddb-a4db-8bd373f08e0c">
+		<BasedOn>
+			<objsur
+				guid="beb4b39b-6130-4860-8a1e-b112651db90e"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-3-10 6:5:31.505" />
+		<DateModified
+			val="2023-3-10 6:5:31.505" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="d3451fc8-9a8e-4789-8ff8-616aba6a0283">
+		<BasedOn>
+			<objsur
+				guid="3e459f86-8813-47c6-ab8b-e3773a14471c"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-26 12:8:18.613" />
+		<DateModified
+			val="2023-2-26 12:8:18.613" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="de9fba09-6f8e-49d6-90fd-a1ee212eb1f7">
+		<BasedOn>
+			<objsur
+				guid="cd4c0c92-29e5-471c-805a-1bdfaae42334"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-1-8 15:41:55.273" />
+		<DateModified
+			val="2023-1-8 15:41:55.273" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="e4e1d5db-50d8-402e-b6f7-4189535dd65e">
+		<BasedOn>
+			<objsur
+				guid="bd18ca7a-4550-491c-8680-e5dde8575bef"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-3-1 5:50:12.750" />
+		<DateModified
+			val="2023-3-1 5:50:12.750" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="e927a17b-6fc4-4efd-ab12-cf48e1629189">
+		<BasedOn>
+			<objsur
+				guid="496e4f04-b84b-45e6-aa2c-d0aeeee9830f"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-20 8:25:2.802" />
+		<DateModified
+			val="2023-2-20 8:25:2.802" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="e985e3ff-8aab-4f64-8d71-b47f353a88de">
+		<BasedOn>
+			<objsur
+				guid="76bc0ee1-25b3-4a92-8c76-90926a612b4c"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-8 11:50:29.901" />
+		<DateModified
+			val="2023-2-8 11:50:29.901" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="ea2bcc7f-5e2d-43bf-a310-797c08b65abd">
+		<BasedOn>
+			<objsur
+				guid="011737a4-c376-4da4-b2f6-728c902698be"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2022-10-1 19:12:5.943" />
+		<DateModified
+			val="2022-10-1 19:12:5.943" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+	<DsChart
+		class="DsConstChart"
+		guid="fba915b6-48fd-4777-aba0-44f3c7faeb6b">
+		<BasedOn>
+			<objsur
+				guid="0998512d-68b1-4217-91ec-04da6a3a0577"
+				t="r" />
+		</BasedOn>
+		<DateCreated
+			val="2023-2-24 12:13:49.922" />
+		<DateModified
+			val="2023-2-24 12:13:49.922" />
+		<Template>
+			<objsur
+				guid="c414012a-ea5e-11de-99fc-0013722f8dec"
+				t="r" />
+		</Template>
+	</DsChart>
+</Discourse>

@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+		guid="91742de3-47ef-41e2-8ba2-6ba8aa141a8c">
+		<message
+			author="merger"
+			status="open"
+			guid="db46fcd8-ddcc-4cae-a8f3-0cae2679a471"
+			date="2023-03-01T10:13:55Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="db46fcd8-ddcc-4cae-a8f3-0cae2679a471"
+	date="2023-03-01T10:13:55Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;PdXPdeo4Z/xzzJKFym0UD+NX2Mk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;auXeS0xrF/tRiTdkGGrruiliYI8=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;PdXPdeo4Z/xzzJKFym0UD+NX2Mk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;osZcXqGYzrR4gGiD/MOH5EuJn2A=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7ebd9e101003"
+		betaUserRevision="6d17f14c037a"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:39+04:00"
+			guid="8f3a871c-be0c-420c-8c27-72cdd7b1b2e3" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:39+04:00"
+			guid="6a1e6cb0-922a-466b-96d0-818c60ea41aa" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:39+04:00"
+			guid="32d8b287-efed-4da3-97d8-cbb795ea6aa8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-04T09:51:39+04:00"
+			guid="8c2f0aae-4ea9-4f78-8dcd-ef9ca33f112d" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-04T09:51:40+04:00"
+			guid="b230f43c-d703-4f0a-a900-8f5a386be367" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:22+04:00"
+			guid="c77a0601-aa4f-433c-bb03-4621695f13d5" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+		guid="c3e88b27-57f3-4d24-823d-11b6fef55b64">
+		<message
+			author="merger"
+			status="open"
+			guid="24d80b0e-8f38-4d45-9352-327587b36f34"
+			date="2023-03-01T11:54:46Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="24d80b0e-8f38-4d45-9352-327587b36f34"
+	date="2023-03-01T11:54:46Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;osZcXqGYzrR4gGiD/MOH5EuJn2A=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;gvbeGELefYCvzV3SnpU9glr+dbw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;osZcXqGYzrR4gGiD/MOH5EuJn2A=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;7fGB9Umg9eaaYlzTUf1F2Zw2tYA=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="b3a2b5dc3a5b"
+		betaUserRevision="87c0ee87e2a3"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:15+04:00"
+			guid="39f03c8e-ba44-4643-88f7-8999aa79af5f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:15+04:00"
+			guid="237f5cce-be4c-4bb6-ad40-231179b3e3bd" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:15+04:00"
+			guid="82389169-95b8-4b35-8fed-6383a4c78a97" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:16+04:00"
+			guid="1c1ceac6-dd70-4c7c-8e7b-2c62d7bdc71a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:16+04:00"
+			guid="b43c0e78-1649-4e06-9f5f-dc07b035f5a0" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:16+04:00"
+			guid="111c36b0-3fbb-4fb0-b731-62db67c5c083" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:16+04:00"
+			guid="a490bcb8-d22f-4617-ad98-b9da9f31db74" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:16+04:00"
+			guid="64e146e6-99ec-4f5d-b1fb-06170d21a986" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:17+04:00"
+			guid="9520c139-6610-47ea-b622-9534eab79533" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:17+04:00"
+			guid="9675dfd8-f05a-4330-910e-374c105ff7bb" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:17+04:00"
+			guid="c46fca76-d369-4d45-ab5a-e925efdd89ff" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:18+04:00"
+			guid="54b8eb3a-2963-4c72-bda9-e8735f849c29" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:18+04:00"
+			guid="ca15413f-5221-4907-8bd3-aabb825b0703" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:11:18+04:00"
+			guid="42090a7e-4a29-4178-bf05-6e625b9e4e2e" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:11:18+04:00"
+			guid="af5326ee-3601-4076-8265-9fba8bb4c32e" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:02:05+04:00"
+			guid="32a79312-69b0-438a-8fb5-f26328287ccc" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+		guid="c25c009d-becf-48f0-9dc1-c10ecc6604aa">
+		<message
+			author="merger"
+			status="open"
+			guid="6d7d20ea-e732-4e07-b95f-c52316940db5"
+			date="2023-03-01T15:29:50Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="6d7d20ea-e732-4e07-b95f-c52316940db5"
+	date="2023-03-01T15:29:50Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7fGB9Umg9eaaYlzTUf1F2Zw2tYA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;9EUnC4wFgOBAZrkZpQMPoRYrB4I=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;7fGB9Umg9eaaYlzTUf1F2Zw2tYA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Owebt/arEA3dxlVlqX7uZv8i278=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="edc1afd95d0a"
+		betaUserRevision="768974a99ee0"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:51+04:00"
+			guid="aa30437e-f794-4940-9f0b-f2a44b46bfaf" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:51+04:00"
+			guid="b100b4f1-424d-4bac-834d-b9a98c6b0f0a" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:51+04:00"
+			guid="63398b8e-3317-44db-aee9-4d613f7a9704" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:44+04:00"
+			guid="0f6d214e-6654-47a8-b5ae-1af67165fbf5" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+		guid="eab9891f-6820-482f-a255-fb8cc7d37525">
+		<message
+			author="merger"
+			status="open"
+			guid="4df3eafd-1e08-454a-b353-b248ec676654"
+			date="2023-03-01T16:21:06Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="4df3eafd-1e08-454a-b353-b248ec676654"
+	date="2023-03-01T16:21:06Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Owebt/arEA3dxlVlqX7uZv8i278=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;IoI3KhPXwTtSMVQTIvijtnUA018=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;Owebt/arEA3dxlVlqX7uZv8i278=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;9EUnC4wFgOBAZrkZpQMPoRYrB4I=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b7a1317d-8673-4650-a4dd-a65202960d9c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 8 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="7471f0001220"
+		betaUserRevision="e5074777c57e"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:38+04:00"
+			guid="4d8278a8-4889-4d74-a144-644eb5d468d6" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:38+04:00"
+			guid="4c99eabf-fdc2-4227-beb9-61a7e0fcdf98" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:38+04:00"
+			guid="c6cef513-51fd-46c1-a5c8-2077a4dfddb8" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-03-03T11:10:38+04:00"
+			guid="10ab4f04-1948-450d-bdfd-7f3bf8779d9f" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-03-03T11:10:39+04:00"
+			guid="0cffa95c-1805-4491-b01b-9eeb3cefcd4f" />
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-03T13:01:29+04:00"
+			guid="edc74ffb-9ef6-4944-bffa-98cd827041a2" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9ace9a06-d518-4934-adbd-22cf51b0f2db&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 32 Analyses"
+		guid="d60de239-6418-404d-ad71-70f5ef53c54f">
+		<message
+			author="merger"
+			status="open"
+			guid="f5cbfdd3-2821-495b-b9df-add512ab2e91"
+			date="2023-03-12T14:12:49Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 4 Segments 32 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="f5cbfdd3-2821-495b-b9df-add512ab2e91"
+	date="2023-03-12T14:12:49Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 32 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;8s5VHeAXIUG1kqHhkg0bHZjKF1U=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;z9+M9ScoS6OGvIYV4T78d2/s0k0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;8s5VHeAXIUG1kqHhkg0bHZjKF1U=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ZMmmpTuqLWos0S14Ka17am0PEW4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=9ace9a06-d518-4934-adbd-22cf51b0f2db&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 32 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 32 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:15:53+04:00"
+			guid="ef96e6ad-a058-4952-883c-eb5f4e992846" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:03+04:00"
+			guid="27811cdb-2ebe-42ec-9e39-c1a6c1bb2d28" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:04+04:00"
+			guid="03adfc11-e242-4268-ad53-d281b0b6ad36" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:04+04:00"
+			guid="c5bd6278-3a3b-4645-aa19-0e9c4d3d3ce6" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:04+04:00"
+			guid="7ca04e95-f44d-4e58-bec9-96f768a036db" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:04+04:00"
+			guid="12fd2e23-be3d-4a54-8906-9214c51cfb2a" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:04+04:00"
+			guid="906fde4e-18a4-42e3-b845-25410a1cd326" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:05+04:00"
+			guid="0a0b4d77-ea41-4d8f-947c-f44d61e43db3" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:05+04:00"
+			guid="91fdc5fe-dd14-4f0f-a3ed-6ad1cd3d99a6" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:05+04:00"
+			guid="12aaa242-9213-4e10-ba4c-f6206e05febe" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0f68ab58-e5c9-4fd0-9ff7-cbd9fb5354bb&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 33 Analyses"
+		guid="90a0ee54-8f5d-447c-8b65-27705f3ac60a">
+		<message
+			author="merger"
+			status="open"
+			guid="3de8653c-dced-49b6-8870-6868957ffb2d"
+			date="2023-03-12T14:12:49Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 4 Segments 33 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3de8653c-dced-49b6-8870-6868957ffb2d"
+	date="2023-03-12T14:12:49Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 33 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;xKn1TpWBscP1sbl92zKf1b+7ThI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;ZDHGj8Ygm2BsiL4h+Ntr7xe3O0A=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;xKn1TpWBscP1sbl92zKf1b+7ThI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;SSDm+VaNXx0uRqBBgMy0t758OwI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=0f68ab58-e5c9-4fd0-9ff7-cbd9fb5354bb&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 33 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 33 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="624cfd93ba28"
+		betaUserRevision="74993c2ec8b2"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-12T18:16:02+04:00"
+			guid="fde73b9b-3366-478c-a704-c0d6337508f8" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:05+04:00"
+			guid="4c47637d-1791-4f6c-84b4-33ac4a6707ec" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:06+04:00"
+			guid="d6daf447-087a-4f8a-80e6-d2cf8eac561a" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:06+04:00"
+			guid="e8621f41-57f9-4cd5-86bb-0a2bb3dedd72" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:06+04:00"
+			guid="17f61ffc-d1b6-4b94-a4f1-65355e9b2a55" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:06+04:00"
+			guid="721d0dae-7ee2-4f82-93a1-3aec3144c8e4" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:06+04:00"
+			guid="f7c85d53-3ebb-45fb-9c1a-7153703b89b0" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:07+04:00"
+			guid="45b8ae87-eb1c-4479-8b32-f6730494e722" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-12T22:53:07+04:00"
+			guid="8b387029-b9f6-4e19-8d1f-c851eace6abe" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-12T22:53:07+04:00"
+			guid="5a8571d2-3c84-45cd-ad6c-cc273b2a0576" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3c8ce8dc-5167-40b1-93f2-a4a71e96f617&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 9 Analyses"
+		guid="9a7ad4ed-9dbb-4536-b9cc-53e2dc1a853d">
+		<message
+			author="merger"
+			status="open"
+			guid="d847f5cd-1ef0-44ee-b32b-eea67afca8c4"
+			date="2023-07-15T17:02:03Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 4 Segments 9 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="d847f5cd-1ef0-44ee-b32b-eea67afca8c4"
+	date="2023-07-15T17:02:03Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 9 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;0rGS5D5JT4O1R6OeJp/FdWwubxE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;aVaZqF+rtfzauKLHN0/LBKNIVvI=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;0rGS5D5JT4O1R6OeJp/FdWwubxE=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;88epA1GzQzh5rjAI7IYBFDprB+Q=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3c8ce8dc-5167-40b1-93f2-a4a71e96f617&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 9 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 9 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="93edbc4b7692"
+		betaUserRevision="e0175f97d285"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:38+04:00"
+			guid="1446fa62-e9e1-4d04-91ff-e9fb64b25181"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:38+04:00"
+			guid="605d4738-d936-4269-ab97-55eee804b7f9"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:38+04:00"
+			guid="26c7e307-2542-456d-b588-09bbb209cc42"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:38+04:00"
+			guid="be4f4747-6466-4f47-a155-b1d9eb78210f"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:38+04:00"
+			guid="0a5cd2ee-72ec-4f80-8927-66d28eec7b53"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:39+04:00"
+			guid="fa1007e8-fdc6-46b2-bc42-685f070b7007"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:39+04:00"
+			guid="d779c18f-5ff6-42ad-b17a-e0fcedc6302e"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:39+04:00"
+			guid="c874f96e-1b2c-4ae0-91b6-eeda6a899fb6"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:39+04:00"
+			guid="92b578c1-7ae9-4db1-a605-97fd19c34947"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:39+04:00"
+			guid="e2415dc8-1199-48f5-9c33-c50f1240a518"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:39+04:00"
+			guid="d1d7580e-d218-4aab-b841-96abea142711"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3e2fbd1e-2b14-4bab-9d8b-6b1b57c4c979&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 14 Analyses"
+		guid="0b74668b-bb71-4a4b-b221-61d4812ca964">
+		<message
+			author="merger"
+			status="open"
+			guid="6ab09b08-a548-4df6-aabd-7e5cfc083b0e"
+			date="2023-07-15T17:02:03Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 4 Segments 14 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="6ab09b08-a548-4df6-aabd-7e5cfc083b0e"
+	date="2023-07-15T17:02:03Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 14 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;C3OnDEQmQkMrG0oAUAj0BQPYrMA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;WZUMfqKCBwIUDmWg88FOgH0QCb0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;C3OnDEQmQkMrG0oAUAj0BQPYrMA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;xgb3lAAP1WQ97B+aV30qWWpoTRg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=3e2fbd1e-2b14-4bab-9d8b-6b1b57c4c979&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 14 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 14 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="93edbc4b7692"
+		betaUserRevision="e0175f97d285"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:40+04:00"
+			guid="8b99d5eb-cc11-4741-accb-f4ffad0c310a"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:40+04:00"
+			guid="f38b81d7-8ac9-406f-a8c3-3ff99765f1e0"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:40+04:00"
+			guid="2b8bd5e3-a7c8-4d46-accf-e5b6ab1e22ba"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:40+04:00"
+			guid="729f6edd-d835-46f9-a18f-c0efede46d99"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:40+04:00"
+			guid="2da16d43-cb0b-4e16-b12e-26c7e6b34894"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:41+04:00"
+			guid="0396ad15-d11a-4101-9fdf-6f549a7292b7"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:41+04:00"
+			guid="d850ae8f-6183-4845-96f8-d075f53866e6"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:41+04:00"
+			guid="a48bf285-8635-4177-9416-136a9e409eea"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:41+04:00"
+			guid="1fb6f954-3afa-4e74-9e67-f4473e936c7c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:41+04:00"
+			guid="7d304b3b-eefb-464b-a071-a2dda75ea66a"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:41+04:00"
+			guid="5e9a3938-a214-494c-ae3b-4764ad5739ae"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b15d5349-2c48-44fe-8f5b-bf95b241161c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 28 Analyses"
+		guid="b32c4e34-b6b2-4e24-a605-40db61620633">
+		<message
+			author="merger"
+			status="open"
+			guid="a53e02e5-655f-4db5-a1fd-6d72f23bcd6a"
+			date="2023-07-15T17:02:03Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 4 Segments 28 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="a53e02e5-655f-4db5-a1fd-6d72f23bcd6a"
+	date="2023-07-15T17:02:03Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 28 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;4HtxLZUc3w93pbZfl67M+gk/sfc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;EhDkP47ywib8n6ZKVy3wYJjoiX0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;4HtxLZUc3w93pbZfl67M+gk/sfc=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;170xApyw3inuSvci+n/Tw1DqMXo=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=b15d5349-2c48-44fe-8f5b-bf95b241161c&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 28 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 4 Segments 28 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="93edbc4b7692"
+		betaUserRevision="e0175f97d285"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:42+04:00"
+			guid="366636c8-dade-4131-be50-a8020e6468d1"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:42+04:00"
+			guid="c98da38b-674a-4f0b-8194-109907931819"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:42+04:00"
+			guid="5a935098-c12a-454e-906e-89e057cd2ab1"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:42+04:00"
+			guid="2f542408-ae45-422f-aeee-633da5658b38"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:42+04:00"
+			guid="9685f751-fa28-4cf7-8dea-618bae8d65bc"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:43+04:00"
+			guid="f254b585-96b1-4667-a6a2-d877d116f24b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:43+04:00"
+			guid="53229d95-7048-4e8c-a9f7-7993d9147c6b"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:43+04:00"
+			guid="8208f635-38a3-4808-be2f-3779aa673c9e"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:43+04:00"
+			guid="57444fea-b1c1-4b40-b0f7-35546ce7d6ea"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:43+04:00"
+			guid="1aa9a5d8-4bb7-4e81-ad5c-9e3e38f92d33"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:44+04:00"
+			guid="dd43f4a0-61d7-4a7c-b87b-31ee830eb48f"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=03a82e3c-8578-4276-8664-7ac6ba157545&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 6 Segments 7 Analyses"
+		guid="1f308454-0cf5-4985-b737-6ab02f47f118">
+		<message
+			author="merger"
+			status="open"
+			guid="a834ed87-0b77-45bf-8ddc-73ca95f5fd44"
+			date="2023-07-15T17:02:03Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს" Contents Paragraphs 6 Segments 7 Analyses: User and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="a834ed87-0b77-45bf-8ddc-73ca95f5fd44"
+	date="2023-07-15T17:02:03Z"
+	whoWon="User"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 6 Segments 7 Analyses: User and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;pduLeSl5DXXe/M/6vzc52mHO6xw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;cy5V7HjcdauWHKXhg/X7Qk3+OQM=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;pduLeSl5DXXe/M/6vzc52mHO6xw=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Nm4uWR3JWD0QYb7zq/xb1OEOsBY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by User.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=03a82e3c-8578-4276-8664-7ac6ba157545&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 6 Segments 7 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალოს&quot; Contents Paragraphs 6 Segments 7 Analyses">
+	<MergeSituation
+		alphaUserId="User"
+		betaUserId="User"
+		alphaUserRevision="93edbc4b7692"
+		betaUserRevision="e0175f97d285"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:44+04:00"
+			guid="35bdb9ab-08a9-4b4c-b272-ce480b18e397"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:44+04:00"
+			guid="7edea9c7-3350-461d-8c33-8643fdba1db9"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:44+04:00"
+			guid="766e4447-e4ec-404b-884d-0ed5b82c13c5"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-07-17T16:32:44+04:00"
+			guid="c13f19d0-47db-41a4-b0d3-281ad0c27303"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-17T16:32:45+04:00"
+			guid="88d3d62c-b9d8-4be3-97c7-8aee0b52b818"></message>
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=af0d880f-ef5c-423c-92b7-5546d5562e97&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალო&quot; Contents Paragraphs 4 Segments 17 Analyses"
+		guid="95a39f69-54da-4631-b9c9-cb8096f0723c">
+		<message
+			author="merger"
+			status="open"
+			guid="b5a89c1b-dc12-411a-a2fd-e7ceb6d84723"
+			date="2023-09-14T09:50:18Z">Text "Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალო" Contents Paragraphs 4 Segments 17 Analyses: USER and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="b5a89c1b-dc12-411a-a2fd-e7ceb6d84723"
+	date="2023-09-14T09:50:18Z"
+	whoWon="USER"
+	htmlDetails="&lt;head&gt;&lt;meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალო&quot; Contents Paragraphs 4 Segments 17 Analyses: USER and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;USER's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;i3MwDuCWrJXDd29piAai1D/DPeI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;3TvEEnsQfri6QMBpj6MUPQV+Cq0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;i3MwDuCWrJXDd29piAai1D/DPeI=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;HCAV3ckrpf8jOXpXMTJsZTXFsw0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by USER.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=af0d880f-ef5c-423c-92b7-5546d5562e97&amp;tag=&amp;label=Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალო&quot; Contents Paragraphs 4 Segments 17 Analyses"
+	contextDataLabel="Text &quot;Text 16_რუსუდან გერსამია_ხვამაშ ტრადიცია სამარგალო&quot; Contents Paragraphs 4 Segments 17 Analyses">
+	<MergeSituation
+		alphaUserId="USER"
+		betaUserId="User"
+		alphaUserRevision="dd111fd6c1f6"
+		betaUserRevision="814dfd6c429f"
+		path="Linguistics\TextCorpus\Text_40b3b2c0-35d9-4132-82f8-357d29d91993.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:02+04:00"
+			guid="e3d8bb23-3bf2-42b3-bce5-2a98397928a1"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:02+04:00"
+			guid="97d09c45-cc2e-4974-a4d6-1db82203aeab"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:02+04:00"
+			guid="fe178663-aa7b-4718-8d58-49868373179c"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:03+04:00"
+			guid="bc9f849a-4a71-4dcf-a80f-e1b077443045"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:03+04:00"
+			guid="606e9689-d7f7-40aa-af19-44c97b0056f2"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:03+04:00"
+			guid="246a34b8-bd8b-4193-b31a-323120ce99c1"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:03+04:00"
+			guid="3d903717-6e30-4af1-8b08-51b93aa05e85"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:03+04:00"
+			guid="a7253a2b-7604-440e-9bbf-bfc913f74e7b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:03+04:00"
+			guid="83e9b0e9-3fe6-48c6-a6af-a8e6b6c3c74a"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:04+04:00"
+			guid="cdd38d7f-7ee7-4997-863a-827799c3f325"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:04+04:00"
+			guid="5755828c-046f-4b2b-bf79-9bebb51e2cea"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:04+04:00"
+			guid="2f7be4e8-57fb-45da-8ef3-b8df4c69086b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:04+04:00"
+			guid="35243510-4eb6-4d68-b846-40b385bcb6ba"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:04+04:00"
+			guid="3901763f-355d-4fda-a2ce-b2c34f95902b"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:05+04:00"
+			guid="66a6bb23-2d04-4620-b406-1b58d8bb12f2"></message>
+		<message
+			author="User"
+			status="open"
+			date="2023-09-24T12:15:05+04:00"
+			guid="6b780f4e-42bb-4a95-b727-aeb26e67d39d"></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-09-24T12:15:05+04:00"
+			guid="f95b1d83-1ddf-4f7b-b694-02419673f6dc"></message>
+	</annotation>
+</notes>

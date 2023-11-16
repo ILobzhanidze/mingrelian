@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notes
+	version="0">
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5d6a892b-cc3a-4a24-83a4-f23fe8f63c1a&amp;tag=&amp;label=Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 2 Analyses"
+		guid="1a1c74af-47e6-41b5-81fc-8bbe49a925f2">
+		<message
+			author="merger"
+			status="open"
+			guid="3740d874-56f1-4509-b497-39b3058d75d7"
+			date="2023-03-25T19:54:51Z">Text "Text 18 _ნინო წულაია_გვარის ისტორია" Contents Paragraphs 5 Segments 2 Analyses: Eva and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_06436dd8-d935-427c-b796-2f2374b38913.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="3740d874-56f1-4509-b497-39b3058d75d7"
+	date="2023-03-25T19:54:51Z"
+	whoWon="Eva"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 2 Analyses: Eva and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;Eva's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;k3gUa/1Nkoq2dP4+MzhqNSvsVbA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;Q5qzAbjdT4pFJSjdLGhnGlOvv4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;k3gUa/1Nkoq2dP4+MzhqNSvsVbA=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;mG9SBthKhUtNFxpsURwwrAv8zoY=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by Eva.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=5d6a892b-cc3a-4a24-83a4-f23fe8f63c1a&amp;tag=&amp;label=Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 2 Analyses"
+	contextDataLabel="Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 2 Analyses">
+	<MergeSituation
+		alphaUserId="Eva"
+		betaUserId="User"
+		alphaUserRevision="2f7ec20c7575"
+		betaUserRevision="4233b82cf7d3"
+		path="Linguistics\TextCorpus\Text_06436dd8-d935-427c-b796-2f2374b38913.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Eva"
+			status="closed"
+			date="2023-03-25T23:58:20+04:00"
+			guid="f1213a34-a08d-4963-8fd6-0f2bc77d61cd" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:41+04:00"
+			guid="f7c83784-0419-4a24-9703-217d75c67881" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:41+04:00"
+			guid="c62194a6-4352-412d-b7ae-5f77aebe611b" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:41+04:00"
+			guid="27ddc65f-b78f-4c83-8a9a-c6adf5852e50" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:42+04:00"
+			guid="905a0246-6a47-4995-813e-b11281d8f6c2" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:42+04:00"
+			guid="63261393-79ac-4936-ae90-6cd7bf9a82ab" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:42+04:00"
+			guid="9b22ee6e-6ce6-4c4e-8a04-aed8957485fe" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:42+04:00"
+			guid="2a568aa9-bf8a-4be9-8ede-b211ba9c275a" />
+		<message
+			author="User"
+			status="open"
+			date="2023-03-31T01:25:42+04:00"
+			guid="6d8cda2f-78ac-4714-a416-699d2c6a3461" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-03-31T01:25:43+04:00"
+			guid="b6dc4127-73d8-4682-a2ae-8a3a98ccdc6b" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=92520b5e-e36c-4768-a2ca-c3933a186fe1&amp;tag=&amp;label=Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses"
+		guid="b53e6dde-4dd1-4d67-b879-325b6ace17e0">
+		<message
+			author="merger"
+			status="open"
+			guid="e16e0248-74bd-4c59-9772-959c3cc3a4d1"
+			date="2023-06-30T21:37:02Z">Text "Text 18 _ნინო წულაია_გვარის ისტორია" Contents Paragraphs 5 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_06436dd8-d935-427c-b796-2f2374b38913.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="e16e0248-74bd-4c59-9772-959c3cc3a4d1"
+	date="2023-06-30T21:37:02Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;chdecmyCWrrFfun4ungsHcLACws=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;mXnBtkYCyFvSne2oXAqBnxGk8i0=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;chdecmyCWrrFfun4ungsHcLACws=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;z0PKhUduL6odWawb97n5QCZ/OJg=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=92520b5e-e36c-4768-a2ca-c3933a186fe1&amp;tag=&amp;label=Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="f0555600c27d"
+		betaUserRevision="76940cba4432"
+		path="Linguistics\TextCorpus\Text_06436dd8-d935-427c-b796-2f2374b38913.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-01T15:14:06+04:00"
+			guid="c5a8ee39-41a2-4bb6-b16d-a22aae52afb1" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-01T15:14:06+04:00"
+			guid="6703513c-419b-41fc-9af8-5d31b0f75975" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-01T15:14:06+04:00"
+			guid="da399377-bb4e-4b82-9c1f-56515f89478e" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-01T15:14:06+04:00"
+			guid="a59079a9-f35e-4cba-af1c-38b07afbab5a" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-01T15:14:07+04:00"
+			guid="a798b379-6595-4a34-9f2e-feb8b8da4ecf" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-01T15:14:07+04:00"
+			guid="3645283d-c5d7-4a35-a1ce-ac6e191cf990" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-01T15:14:07+04:00"
+			guid="25a73684-b245-4788-a771-263eece77a18" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-01T15:14:07+04:00"
+			guid="0257d9e1-db90-4686-87ed-d4c348cbe752" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-01T15:14:07+04:00"
+			guid="c86f4f84-8e37-467c-b06f-2d2781d31d02" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-01T15:14:07+04:00"
+			guid="9560bd77-d4fc-433c-b259-12bf236d4f37" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-01T15:14:08+04:00"
+			guid="0e758148-a1c1-4927-b2d3-6788d520f769" />
+	</annotation>
+	<annotation
+		class="mergeConflict"
+		ref="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=92520b5e-e36c-4768-a2ca-c3933a186fe1&amp;tag=&amp;label=Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses"
+		guid="70463e62-dfe2-4aeb-bdf4-095dd591c476">
+		<message
+			author="merger"
+			status="open"
+			guid="0c4be09b-8c9d-4464-9a69-143a6ab1be64"
+			date="2023-07-04T15:06:33Z">Text "Text 18 _ნინო წულაია_გვარის ისტორია" Contents Paragraphs 5 Segments 1 Analyses: MARI and User edited the same part of this data.<![CDATA[<conflict
+	typeGuid="3d9ba4ae-4a25-11df-9879-0800200c9a66"
+	class="Chorus.merge.xml.generic.BothEditedTheSameAtomicElement"
+	relativeFilePath="Linguistics\TextCorpus\Text_06436dd8-d935-427c-b796-2f2374b38913.textincorpus"
+	type="Both Edited the Same Atomic Element"
+	guid="0c4be09b-8c9d-4464-9a69-143a6ab1be64"
+	date="2023-07-04T15:06:33Z"
+	whoWon="MARI"
+	htmlDetails="&lt;head&gt;&lt;style type='text/css'&gt;div.alternative {margin-left:  0.25in} div.ws {margin-left:  0.25in} div.property {margin-left:  0.25in} div.checksum {margin-left:  0.25in}&lt;/style&gt;&lt;/head&gt;&lt;body&gt;&lt;div class='description'&gt;Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses: MARI and User edited the same part of this data.&lt;/div&gt;&lt;div class='alternative'&gt;MARI's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;KxNFkrCb++HHPyV/Mo/LeqqFYWk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;YjnG0yCh59dr5M2Y29nCeLFw6Z4=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='alternative'&gt;User's changes: &lt;div class='checksum'&gt;Analyses: &lt;span style=&quot;text-decoration: line-through; color: red&quot;&gt;KxNFkrCb++HHPyV/Mo/LeqqFYWk=&lt;/span&gt;&lt;span style=&quot;background: Yellow&quot;&gt;FYlTpJt854K306kiOFEkLzY2oDw=&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class='mergechoice'&gt;The merger kept the change made by MARI.&lt;/div&gt;&lt;/body&gt;"
+	contextPath="silfw://localhost/link?app=flex&amp;database=current&amp;server=&amp;tool=default&amp;guid=92520b5e-e36c-4768-a2ca-c3933a186fe1&amp;tag=&amp;label=Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses"
+	contextDataLabel="Text &quot;Text 18 _ნინო წულაია_გვარის ისტორია&quot; Contents Paragraphs 5 Segments 1 Analyses">
+	<MergeSituation
+		alphaUserId="MARI"
+		betaUserId="User"
+		alphaUserRevision="fee8e65ed30c"
+		betaUserRevision="f8847a524da6"
+		path="Linguistics\TextCorpus\Text_06436dd8-d935-427c-b796-2f2374b38913.textincorpus"
+		conflictHandlingMode="WeWin" />
+</conflict>]]></message>
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-07T23:42:22+04:00"
+			guid="2780c01e-53af-42f5-8865-fceddb71a7fb" />
+		<message
+			author="Irina Lobzhanidze"
+			status="open"
+			date="2023-07-07T23:42:23+04:00"
+			guid="868cf5c1-4973-4cf7-a06a-8803edbfde48" />
+		<message
+			author="Irina Lobzhanidze"
+			status="closed"
+			date="2023-07-07T23:42:23+04:00"
+			guid="470cf087-dcc2-4654-a8c1-b6ebef5f44c8" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-05T22:40:52+04:00"
+			guid="5bebd0b4-c0e7-42ec-a1be-948998b2025f" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-05T22:40:53+04:00"
+			guid="d974ff19-0f06-4ceb-82f5-a76df93bf380" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-05T22:40:53+04:00"
+			guid="780aa0da-58db-4b89-a91f-1fd3c0037ac0" />
+		<message
+			author="User"
+			status="open"
+			date="2023-07-05T22:40:53+04:00"
+			guid="e645316e-8961-4cdc-988c-bc605d93aad2" />
+		<message
+			author="User"
+			status="closed"
+			date="2023-07-05T22:40:53+04:00"
+			guid="8f9c5d93-4511-4f53-a01f-22f82dd4323b" />
+	</annotation>
+</notes>

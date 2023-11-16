@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="9ea0a4c4-a4a0-4548-b6b0-453d80ab8aa9">
+		<DateCreated
+			val="2022-7-8 20:30:21.394" />
+		<DateModified
+			val="2022-7-8 20:30:21.394" />
+		<IsTranslated
+			val="False" />
+		<MediaFiles>
+			<CmMediaContainer
+				guid="15442186-51f2-4333-bb31-2b6d1250b1bc" />
+		</MediaFiles>
+	</Text>
+</TextInCorpus>

@@ -1,0 +1,2580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="a6d28379-8bba-4fa7-89e0-70722df4c896">
+		<Contents>
+			<StText
+				guid="dd496837-d3b6-4c67-b1e5-3f7ff79c4691">
+				<DateModified
+					val="2023-11-8 2:43:51.716" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="dd8d7974-b088-49e5-8e7c-6f06fe0cd675">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- სახელი, გვარი?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="659fc1ca-79de-4e3d-b425-b8adf36c22a5">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="08d66106-8c83-40af-9652-648a592a255e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="994562ed-4cf7-42cb-ba5d-b621fdf94be8"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Your first name and last name?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">-სახელი, გვარი?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="2ba30fa7-27a5-41b4-b09a-3a1879504e80">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- შანავა ლუიზა.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="d6c76b9c-64f8-4391-a56f-a876a9bcc7ec">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="810163b2-1408-4225-805d-f3d23c4cbf71"
+										t="r" />
+									<refseq
+										guid="3a9b9b07-d945-42e2-89f5-0161279e6811"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Shanava Luiza.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">-შანავა ლუიზა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="aaeac1d0-133f-4d59-8660-591c5140f377">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-სო ცხოვრენქ?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="4cd50a2a-f81d-4359-b470-ade5d015ba83">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="9b60fe06-7d07-42da-97db-8d9edbb01c73"
+										t="r" />
+									<refseq
+										guid="6aad1da6-9164-4a8a-8ccd-09bfd487798f"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Where do you live?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">სად ცხოვრობ?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="02f70639-ae96-4402-bcac-6b47177473fd">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ჭურღულიას ქუჩა ნომერი ექვსი. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="c67ffc6c-9e39-4d8d-84fd-be7f63d4c5f7">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="4e43e374-f7c0-4a79-bf03-31a862072858"
+										t="r" />
+									<refseq
+										guid="5442c51a-c4c8-47c1-8d9e-fff8e9b918c5"
+										t="r" />
+									<refseq
+										guid="205d4c1a-c007-402f-876f-4229672a9cad"
+										t="r" />
+									<refseq
+										guid="f0b01595-445f-47d4-ad6d-a401f03c8506"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Churgulia Street Number six.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- ჭურღულიას ქუჩა ნომერი ექვსი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="3a38a3b5-ae95-4216-aede-0ebf7e294e81">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-სო რე ენა; ნამჷ რაიონი რე?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="0c6db5ee-9294-4b95-bb86-08b6d0541615">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="9b60fe06-7d07-42da-97db-8d9edbb01c73"
+										t="r" />
+									<refseq
+										guid="ab795372-3967-4be3-a824-b844b4462dce"
+										t="r" />
+									<refseq
+										guid="485ae29d-eff1-4c77-a6c6-2e6e70659b1b"
+										t="r" />
+									<refseq
+										guid="995db246-d26d-47aa-9443-81e09e5bdf9c"
+										t="r" />
+									<refseq
+										guid="98900d36-b333-4ec8-b593-94e6cec5a57d"
+										t="r" />
+									<refseq
+										guid="bb068137-58b1-4b91-873c-48353a5c1a62"
+										t="r" />
+									<refseq
+										guid="ab795372-3967-4be3-a824-b844b4462dce"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Where is it? Which District is it?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- სად არის ეს? რომელი რაიონია?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="be2701ce-c431-4db7-b4bb-a7604c89812e">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- წალენჯიხის რაიონი. ვაიმე ქორთულო იფჩიებუქ,  წალენჯიხაში რაიონი; დედააა.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="8b176f57-9d7a-4e0a-bc01-5ac85a3bba78">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="df1deb32-61d4-47fa-8cb7-cac7a28bfc3f"
+										t="r" />
+									<refseq
+										guid="2af4abbd-5b71-4b1e-8dc4-a60eca4662f3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Tsalenjikha District.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- წალენჯიხის რაიონი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="abc864e5-a222-4e5a-92db-06e66cfe04b0">
+								<Analyses>
+									<refseq
+										guid="e2c676e1-3b81-4dcc-9958-dd59ee2ceffa"
+										t="r" />
+									<refseq
+										guid="5cbee956-301f-4902-ad2a-4f6670af842a"
+										t="r" />
+									<refseq
+										guid="9fd730dc-34a1-44e0-b70b-d842f99b48fe"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="18476b49-fcf8-43ac-8f0e-114fe0f653bd"
+										t="r" />
+									<refseq
+										guid="bb068137-58b1-4b91-873c-48353a5c1a62"
+										t="r" />
+									<refseq
+										guid="995db246-d26d-47aa-9443-81e09e5bdf9c"
+										t="r" />
+									<refseq
+										guid="c82e3b30-63c8-4710-9f5a-7fd9941f9140"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="21" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Oh, dear, I am speaking Georgian. Tsalenjikha District; oh, dear!</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ვაიმე, ქართულად ვლაპარაკობ, წალენჯიხის რაიონი;  ვაიმე!</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="86365564-74c1-4731-b380-6f4d813e7588">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ქიმეჩი ასე მუდგაინი ჯვეში ამბეფი; მუდგა  გჷგაშინენჷ ნებისმიერი. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="182b8bda-d198-470e-bcac-571dbd138eff">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="080c6508-f6ea-4f4a-aaed-c468f55497a0"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="e30054e6-4702-4167-a8ee-67d1e9a2d5f4"
+										t="r" />
+									<refseq
+										guid="707ed74d-133f-4352-82e1-462af58fce1e"
+										t="r" />
+									<refseq
+										guid="4e9ec71d-6696-47fc-9737-17f978798c8e"
+										t="r" />
+									<refseq
+										guid="995db246-d26d-47aa-9443-81e09e5bdf9c"
+										t="r" />
+									<refseq
+										guid="16b67331-10b8-4b2f-afc9-4a8266e16f64"
+										t="r" />
+									<refseq
+										guid="3ed9dbc8-aa60-4ac1-ac79-805b2e150e73"
+										t="r" />
+									<refseq
+										guid="d5439b17-2cbd-4f37-be15-c0af2dfbb75a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Tell me now a new story, whatever you remember.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- მომიყევი ახლა რაიმე ახალი ამბავი; ის, რაც გაგახსენდება.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="b5326dbf-dbf9-4b4c-9ba9-756c36fbe052">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ჯვეში ამბე ფშჷ, ქალბატონო, ართი, ნამუთჷ  ვამიძირუ დღასინჷ. ვორდი შემთხვევასჷ სოფელი წალენჯიხაში რაიონი სოფელ ნაკიფუს. იყო, რდჷ ჭვემეფი ირიათო თი მარას, გადაუღებელი, საშინელი. დო თიმ დღას ხოლო ვითაართ საათ იჸვუაფუდუ ალბათ ეკოვრთინჷ მიცვალებულიში ონგარშა დო ვორწყექ დღას ვამიძირუნ ფერც. გუმუღუნა მიცვალებულიში ბარგი დო ფენენა გალე. თიჯგუა ადგილცჷ გაგმიღჷ  ნამდა, ვითომ ორწყე ჟი ცა. დო მუს ნიშნენს თენა მაქ მა ქეშვეკითხინ, მიპასუხეს ნამდა, ათე ჭვემასია ჯგირო ესეგი გოუღანცია ოდო კოც მართედას იინია ღურელიში ონგარშა. ვარა თიჯგუა თავსხმა ჭვემა რდჷ, კოც ვეშულებუდჷ გიმილკო გალე დო ოჯახშა მინილკო, მაშნაშე გჷთილკო  დო მუთუნ გაკეთჷკო გალე. მა მანგარო გამიკვირდჷ,  თიშენი ნამდა, ბაღანა ვორდი იწკმა დო ვამაფუდუ ნაძირეფი თე შემთხვევა, ვამიჩქუდუ. დო თიშ უკული იგრძელებუდუ, ჭვემეფი მუჟამი მუხვადჷდჷნი, თაში სოფელეფი ჩქინწკჷმა, ჩქინ რაიონს. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="d8b5e1f9-5314-4c72-8f10-e0428a800adf">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="707ed74d-133f-4352-82e1-462af58fce1e"
+										t="r" />
+									<refseq
+										guid="0c5c5828-44f5-4179-a500-71e325dd5bb2"
+										t="r" />
+									<refseq
+										guid="2fb32725-a553-4d2c-955f-39f4aefb275f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="26d90838-3a85-412e-938e-b7d468fcaf80"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="abcc44ba-4396-4b83-8849-47bb9b7c4245"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9b8d57ef-5254-41be-a8c7-3c75477e0ee2"
+										t="r" />
+									<refseq
+										guid="517d2555-a149-4cbb-ba4f-af18d1a6529e"
+										t="r" />
+									<refseq
+										guid="60cf5f90-fb6b-43a8-9d33-f315d6514d0d"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I remember an old story, madam, which I have never seen before.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- ერთი ძველი ამბავი მახსოვს, ქალბატონო, რომელიც [ადრე] არასოდეს არ მინახავს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b4cd035d-fc28-4c6a-bddd-29945df7663e">
+								<Analyses>
+									<refseq
+										guid="5380844f-c0d6-4891-9b02-9c76be0c3483"
+										t="r" />
+									<refseq
+										guid="d03b2482-e7cc-4f46-8383-8b03a0012746"
+										t="r" />
+									<refseq
+										guid="9de1a80a-a129-4eab-b82d-ebb12d804977"
+										t="r" />
+									<refseq
+										guid="18476b49-fcf8-43ac-8f0e-114fe0f653bd"
+										t="r" />
+									<refseq
+										guid="bb068137-58b1-4b91-873c-48353a5c1a62"
+										t="r" />
+									<refseq
+										guid="8a325c35-3012-48c4-9f10-a458be7364b1"
+										t="r" />
+									<refseq
+										guid="941baac1-ada3-4353-a27a-f6f4616ab9ef"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="61" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I was at a funeral in the village of Sachino, Tsalenjikha District.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ვიყავი შემთხვევაზე [=გასვენებაში] წალენჯიხის რაიონ სოფელ საჩინოში.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="329c126c-45dc-4a95-ab36-e8c1688711e9">
+								<Analyses>
+									<refseq
+										guid="ed9b6c20-4050-4a46-b8a9-f1f27f1585cf"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="18569108-3af5-4bdd-b48b-486fa87a3437"
+										t="r" />
+									<refseq
+										guid="29b3e41f-2e64-4fb9-898c-95e48207b861"
+										t="r" />
+									<refseq
+										guid="fdf5912c-a289-407f-b8ab-0ab72402b368"
+										t="r" />
+									<refseq
+										guid="805a1600-33c4-4e6c-ba22-5b2c69bc04f0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="9bdaf353-ab5e-49d3-9e4a-dcdd6f9d9366"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e3476b6a-bda5-4929-9489-d2ee1aac2a63"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="120" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There were incessant rains in that week, incessant, terrible.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ყოველთვის [=გადაბმულად] იყო წვიმები იმ კვირას, გადაუღებელი, საშინელი. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="e50503a7-f74e-4f11-aedf-b33d5fa1e0c9">
+								<Analyses>
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="d7d43192-6755-4fb3-ab21-c4cfcb7c2479"
+										t="r" />
+									<refseq
+										guid="b6ded961-e356-472e-bbc2-6231c5d6bbdd"
+										t="r" />
+									<refseq
+										guid="4a14001e-3c42-4cf6-8ebb-d5ceb4b9a2e3"
+										t="r" />
+									<refseq
+										guid="bbdad68a-88b0-4d41-867d-8dc690c9f450"
+										t="r" />
+									<refseq
+										guid="8c5da6fc-e46d-4eda-993e-9a9c63b4e9d5"
+										t="r" />
+									<refseq
+										guid="1a79342c-f2fc-4b93-9eb9-66a9fd51e1e9"
+										t="r" />
+									<refseq
+										guid="30065ec2-9f80-4b2e-8ae0-e7f10524f3ea"
+										t="r" />
+									<refseq
+										guid="b0a45efa-aae6-4945-ac0a-882b3bf31edf"
+										t="r" />
+									<refseq
+										guid="ac02d47b-a83e-4cbb-9f2f-c3a53a0bbf45"
+										t="r" />
+									<refseq
+										guid="53619caf-c18a-43a1-9b23-d7923da68bb1"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="b7e05721-6ccb-456a-9e30-3d90b1abf9de"
+										t="r" />
+									<refseq
+										guid="b6ded961-e356-472e-bbc2-6231c5d6bbdd"
+										t="r" />
+									<refseq
+										guid="be731a88-7ae7-494d-b28d-3f170a7ca0bd"
+										t="r" />
+									<refseq
+										guid="be9b99f4-9fee-4f6d-8395-d4d9358941ce"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="177" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, on that day, it would be eleven o'clock when I arrived at the funeral, and saw something I had never seen.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და იმ დღესაც თერთმეტი საათი იქნებოდა, ალბათ, როცა მიცვალებულის გასვენებაზე ავედი და ვხედავ ისეთს, როგორიც არასოდეს მინახავს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a47dca77-cb0f-496d-b94e-8813a478441b">
+								<Analyses>
+									<refseq
+										guid="f5bb8e8a-115b-40ef-9629-31433e807940"
+										t="r" />
+									<refseq
+										guid="ac02d47b-a83e-4cbb-9f2f-c3a53a0bbf45"
+										t="r" />
+									<refseq
+										guid="3b459a9d-6003-42ce-a5ee-eec3985b1baf"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="0df0ea31-bb45-4baa-97d0-3b990e48f1a2"
+										t="r" />
+									<refseq
+										guid="7e5fa5ee-78be-4356-82fb-13b8e2f0bf29"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="287" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">They brought out the dead person's clothes and hung tup outdoors.hem </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">გამოაქვთ მიცვალებულის ტანსაცმელი და ფენენ გარეთ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="273a31ba-1730-450c-8b93-d2b2acfc05b0">
+								<Analyses>
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="85030462-1dda-46cf-abf5-277ca8043930"
+										t="r" />
+									<refseq
+										guid="fa330ead-a88c-4320-b9f3-3f81c537e831"
+										t="r" />
+									<refseq
+										guid="caded215-3186-4e56-b768-03f2dacc46fe"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="0cacc994-2cc0-4968-ab62-334ea3767c14"
+										t="r" />
+									<refseq
+										guid="5b42018f-b703-4a60-a72b-e5be73c023d8"
+										t="r" />
+									<refseq
+										guid="ffd56e76-c1b8-4932-9030-3c4245d2e9f2"
+										t="r" />
+									<refseq
+										guid="8a2663b8-e1d3-4496-9392-db3e40c35cca"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="332" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Besides, they brought it to a place as though the sky saw it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ისეთ ადგილას გამოიტანეს, რომ ვითომ ხედავს ცა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="08495840-e759-4b26-bc6c-53ea3d6d7779">
+								<Analyses>
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="76950546-6f84-42ef-80d3-4d05c8304ad3"
+										t="r" />
+									<refseq
+										guid="10b55ffa-858e-46dc-b741-f8290d43178b"
+										t="r" />
+									<refseq
+										guid="ca907981-3cb0-4d69-ae96-628f000bb096"
+										t="r" />
+									<refseq
+										guid="e921ded8-5e39-489c-8076-ebbe5b861bdc"
+										t="r" />
+									<refseq
+										guid="c917c0d2-16c2-4aef-8dbd-40eb707031d3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="23b61408-cf17-4695-8f42-aecdaa5c8307"
+										t="r" />
+									<refseq
+										guid="770ae4f1-b70e-433f-b6cd-1c51a954b5e1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="9778a677-4846-4a4d-92b5-1b825d0ecfde"
+										t="r" />
+									<refseq
+										guid="4452a05d-0a79-4719-844a-9b0627d200c1"
+										t="r" />
+									<refseq
+										guid="de9131a3-68e7-4dee-900a-cefcf37e7f01"
+										t="r" />
+									<refseq
+										guid="738c29cc-3039-4b68-808f-7149ae6eb266"
+										t="r" />
+									<refseq
+										guid="1a1c3929-5bf1-41f0-b681-c34f3a9dee63"
+										t="r" />
+									<refseq
+										guid="b8c055a9-813f-4572-9f05-ae8110571f0d"
+										t="r" />
+									<refseq
+										guid="08a90bf5-3cfe-41fd-9015-61ac8169fa2f"
+										t="r" />
+									<refseq
+										guid="660562d7-e5de-47d8-aa6c-e440c35da08c"
+										t="r" />
+									<refseq
+										guid="f660f1a1-f6e1-4de8-b154-536f11414bf2"
+										t="r" />
+									<refseq
+										guid="53619caf-c18a-43a1-9b23-d7923da68bb1"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="382" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, when I asked what it meant, they answered that rain would stop and one would be able to come to the funeral.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და რას ნიშნავს ეს-მეთქი, მე რომ ვკითხე, მიპასუხეს, რომ წვიმას კარგად გადაიღებს  და კაცს (=ადამიანს) შეეძლებაო მიცვალებულის სატირალში მოსვლა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="997fa966-dfe9-40ed-aa56-8899ed196ec8">
+								<Analyses>
+									<refseq
+										guid="435f350b-d750-4665-8b23-b92b9404fc47"
+										t="r" />
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="98432fa3-7e01-4da4-b5cb-64d64ae89716"
+										t="r" />
+									<refseq
+										guid="e099ee31-3744-496c-a28c-42978f0fa0c2"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b8c055a9-813f-4572-9f05-ae8110571f0d"
+										t="r" />
+									<refseq
+										guid="7cc9739e-0b5e-41a4-92cd-189e6f338a3a"
+										t="r" />
+									<refseq
+										guid="ed1f21fb-9a8f-4f46-8844-50271527bdb9"
+										t="r" />
+									<refseq
+										guid="8bece56e-050d-4c8c-a757-04a1b53fe4ec"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="e9d20571-302e-4122-93d3-e2d21d832658"
+										t="r" />
+									<refseq
+										guid="ce0da4c9-07db-4edc-80a7-861b819d5135"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="09fd94c2-50bc-4cbe-94fb-568947566f35"
+										t="r" />
+									<refseq
+										guid="5e0c6e17-2091-426c-9297-1e1f247aa2ab"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="fd7c647b-2a27-4247-afc8-60f6680e1bf4"
+										t="r" />
+									<refseq
+										guid="2c467dd3-92be-4422-9933-e999af837a84"
+										t="r" />
+									<refseq
+										guid="7e5fa5ee-78be-4356-82fb-13b8e2f0bf29"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="515" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, it was such a storm that no one was able to get out and enter the house, to get off a car and do something outdoors.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">თორემ ისეთი თავსხმა წვიმა იყო, კაცს (=არავის) შეეძლო გამოსულიყო გარეთ და ოჯახში შესულიყო, მანქანიდან გადმოსულიყო და რაიმე გაეკეთებინა გარეთ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="87185058-94a8-4a44-bc31-26b19e78fa77">
+								<Analyses>
+									<refseq
+										guid="e921ded8-5e39-489c-8076-ebbe5b861bdc"
+										t="r" />
+									<refseq
+										guid="84a51fde-7626-4acb-b534-d39361f73707"
+										t="r" />
+									<refseq
+										guid="b5d2b990-5584-425a-9666-e83ab9f1bdd9"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="dd868d01-7bfa-45df-a719-781d2911a8ac"
+										t="r" />
+									<refseq
+										guid="770ae4f1-b70e-433f-b6cd-1c51a954b5e1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2426f198-a3d1-40e7-9617-58b5c65b10a4"
+										t="r" />
+									<refseq
+										guid="5380844f-c0d6-4891-9b02-9c76be0c3483"
+										t="r" />
+									<refseq
+										guid="31846e20-d0ca-4776-888f-638ccf0b8475"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="8a00c526-ed04-42ee-b202-38ba85ba2649"
+										t="r" />
+									<refseq
+										guid="df2a485d-3bd6-4d72-92c2-0cf68aa791f9"
+										t="r" />
+									<refseq
+										guid="99a31d70-6cdc-4499-9181-433604dc4fa3"
+										t="r" />
+									<refseq
+										guid="191b882e-1c99-4fc3-bdd5-fcb72b8730e6"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="27dd0bff-1720-4c93-a20e-4c1b8ee335b4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="634" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I was taken by surprise because I was a child and I had not seen such a thing, I didn't know.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მე მაგრად გამიკვირდა, იმიტომ რომ, ბავში ვიყავი მაშინ და არ მქონდა ნანახი ეს შემთხვევა, არ ვიცოდი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="76b5cba4-4df5-44e0-a739-2d83b8845866">
+								<Analyses>
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="b8d570c5-370a-4bfa-a64d-c9907170dbc2"
+										t="r" />
+									<refseq
+										guid="e875556b-c354-46ce-8db5-84c936590536"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="18569108-3af5-4bdd-b48b-486fa87a3437"
+										t="r" />
+									<refseq
+										guid="b8b3b82a-2759-4d55-b690-5ccd6cd81f9e"
+										t="r" />
+									<refseq
+										guid="28d9a8f4-c5c6-45c3-adda-40a7b42c07c7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="45bed4dd-308b-4e00-bbe9-81903c7aa2af"
+										t="r" />
+									<refseq
+										guid="c187c53e-985c-4f5b-9347-a85ca5f37429"
+										t="r" />
+									<refseq
+										guid="4cfeb3f1-4fb0-47ff-b050-1e72f809076f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="56d9e29a-22cf-4a82-9d24-a991ae695b21"
+										t="r" />
+									<refseq
+										guid="028662f6-6ac2-4627-a25a-021c7c8d0f65"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="737" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, afterwards, they kept doing it in our villages, in our district, when rains coincided with it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და ამის შემდეგ გრძელდებოდა ასე სოფლებში ჩვენთან, ჩვენს რაიონში, როცა წვიმები მოხვდებოდა (=დაემთხვეოდა), </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="b31008ee-6722-4a82-95d6-5519e8e8340e">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- პირიქით რდჷ , ჩხანა რდჷ დო გოლოფა რდჷნი  მუთუნს ორთჷდჷო ხალხი?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="132206fa-8979-4e48-8044-38cfb4886c13">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="2e38c54b-dde8-403e-b782-2416741ff320"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b3fc2924-234e-4b27-80a7-b253568789cf"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="e2afee82-77f8-4a19-b6ce-e3640065b4dc"
+										t="r" />
+									<refseq
+										guid="aabaf84b-4c90-4f37-a751-c5f41130cbaa"
+										t="r" />
+									<refseq
+										guid="6e664f6c-261d-49de-add4-290a1b9bead8"
+										t="r" />
+									<refseq
+										guid="148476a7-934e-4bff-aa21-c1f79657ead5"
+										t="r" />
+									<refseq
+										guid="8eab9298-de9a-46c9-af10-5ddd443851f0"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When it was the way around, there was heat and drought, did people do anything?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- პირიქით [როცა] იყო, აი, სიცხეები და გვალვები როცა იყო, რამეს აკეთებდა ხალხი?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="83348755-4cd4-4e7c-a8f1-8d8797eac364">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- ო, გოლოფა დო ჩხანა მუჟამს გჷმოდირთჷდჷნი, თიმ შემთხვევას მა ფშჷ ნამდა, ბაღანემც დოშაყარანდეს, ქალაბატონეფს ხოლო. ჭიჭე კუკლას მუდგასჷრენი გაკეთენდეს, კუკლაშჷნერო დო უჸუნუანდეს გამავალი წყარც. მორთენდეს კოჩი იშკვიდუდუკო, კოჩი მეუღუდუკონჷ თეში რკიაფის, ხმაურს, ვაი უის. დიშაყარუდუ მთელი ხალხი. დასურო უჩქჷდეს კოჩი შკვიდელი რდჷნჷ დო ხალხიში გროვა იშაყარუდჷ წყარპიც. ოღონდ წყარპიც ოკო მოხვადჷკო ოკო თეს, გამდინარე წყარს.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="aa0c851b-7191-4189-a3cc-30ba4540ab5b">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="58585990-e6d5-481f-824b-cb2afb44a9ed"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e2afee82-77f8-4a19-b6ce-e3640065b4dc"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="b3fc2924-234e-4b27-80a7-b253568789cf"
+										t="r" />
+									<refseq
+										guid="70e6a924-fb77-4a71-89f8-f0fe312fc9e9"
+										t="r" />
+									<refseq
+										guid="b5f4fecc-c38d-495f-9865-6d208fb036fd"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a4e1a9db-f0e0-4643-8dd2-2fa86b8ccca0"
+										t="r" />
+									<refseq
+										guid="fd53a0a1-7e60-46c8-ad18-b502befe8990"
+										t="r" />
+									<refseq
+										guid="e921ded8-5e39-489c-8076-ebbe5b861bdc"
+										t="r" />
+									<refseq
+										guid="3b4d4798-df83-47ed-8801-8e0b961c9832"
+										t="r" />
+									<refseq
+										guid="770ae4f1-b70e-433f-b6cd-1c51a954b5e1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="15aab0cf-774b-4e19-81e0-ab903c2eb3d8"
+										t="r" />
+									<refseq
+										guid="7ec9994d-8913-4cd0-8f9a-c8d38f8ddbca"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ea5e7bac-4c2b-4679-80c2-94ea1995f872"
+										t="r" />
+									<refseq
+										guid="4a14001e-3c42-4cf6-8ebb-d5ceb4b9a2e3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes, when there was drought and heat, in that case, as I remember, children were gathered, women as well.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">-დიახ, გვალვა და სიცხე როცა გამოდგებოდა, იმ შემთხვევაში მე მახსოვს, რომ ბავშებს შეყრიდნენ, ქალბატონებსაც.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="24625e45-7578-4286-9906-08ce6c7daeca">
+								<Analyses>
+									<refseq
+										guid="391eb136-3d03-4387-a38c-c0b7b5d0997f"
+										t="r" />
+									<refseq
+										guid="b0cb5287-f7cc-42b9-b2a5-bcf34650158b"
+										t="r" />
+									<refseq
+										guid="01524c00-fa3d-4acb-a881-97e897b931d5"
+										t="r" />
+									<refseq
+										guid="fe7e908b-e153-4d45-945d-b316ef85f449"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1c795f2f-69f4-41dd-8833-4a6fc2ec3cdf"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="62daa2fa-7451-4b1b-9b4b-597b4833d523"
+										t="r" />
+									<refseq
+										guid="abf0ec82-4b39-4785-bbdd-8815f5231e10"
+										t="r" />
+									<refseq
+										guid="edf583af-bb5c-4c75-843f-4cea3b76226a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="114" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">They made a sort of a small doll and let it in flowing water.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რაღაცნაირ პატარა თოჯინას გააკეთებდნენ, თოჯინასავით და გააყოლებდნენ გამავალ წყალს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="7240c264-238d-42b3-9c3f-dca7804c6376">
+								<Analyses>
+									<refseq
+										guid="41d0e3b0-4ea8-409e-a17e-962d4e665a29"
+										t="r" />
+									<refseq
+										guid="d63d2689-d52c-45c3-8fb5-a784def4175f"
+										t="r" />
+									<refseq
+										guid="4c53f4af-d28b-4179-895e-77d93c39a761"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d63d2689-d52c-45c3-8fb5-a784def4175f"
+										t="r" />
+									<refseq
+										guid="d0185b11-a719-42b7-859a-adcc6d9402d5"
+										t="r" />
+									<refseq
+										guid="da3255f2-7780-4157-9943-2c83c777a867"
+										t="r" />
+									<refseq
+										guid="14422e17-5ff6-4364-9114-97784105c00c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="522fb6f4-6f39-42eb-860d-0f4766a4f405"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="32133a8b-e1af-4b67-83a4-12a8b24cd462"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="192" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">They began shouting and screaming, weeping and wailing, as if a human being was taken by water.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მორთავდნენ ისეთ კივილს, ხმაურს, ვაი-ვუის, თითქოს კაცი (=ადამინაი) მიჰქონდა წყალს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6aa30f10-1702-41fb-942e-43a379d8c018">
+								<Analyses>
+									<refseq
+										guid="c45a076f-edb4-4cc9-9698-03a37eb2ff18"
+										t="r" />
+									<refseq
+										guid="05c52949-661a-43f3-813c-3f324dfa3c5f"
+										t="r" />
+									<refseq
+										guid="8eab9298-de9a-46c9-af10-5ddd443851f0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="268" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">All the people got together.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">შეგროვდებოდა მთელი ხალხი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="d5f74d68-a460-4a50-ac3d-b279a8e9a5d4">
+								<Analyses>
+									<refseq
+										guid="a9b813a3-a14c-4467-aa93-c6729779a718"
+										t="r" />
+									<refseq
+										guid="b1adb4b8-6da2-4ad4-8a57-d1f954a38ea5"
+										t="r" />
+									<refseq
+										guid="d63d2689-d52c-45c3-8fb5-a784def4175f"
+										t="r" />
+									<refseq
+										guid="6204fb06-f5f3-4390-9474-20512622b9aa"
+										t="r" />
+									<refseq
+										guid="9075cb7a-3f10-4f08-b239-4eb1b2f3dbc5"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="d31d284b-28ea-485f-86a3-62e9e260ce92"
+										t="r" />
+									<refseq
+										guid="2cd71397-9989-4321-8622-5a8e3ec1800a"
+										t="r" />
+									<refseq
+										guid="27d56bd8-420d-471c-92ce-b74f7efcdf2b"
+										t="r" />
+									<refseq
+										guid="440c6a94-16f7-4232-9cee-24da3a21fb94"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="292" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">[Villagers] thought that someone really drowned, and there was a big crowd along the bank.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">[სოფლის მოსახლეობამ] მართლა იცოდა (=ეგონათ), რომ  კაცი (=ადამიანი) დაიხრჩო და წყლისპირას ხალხის გროვა იკრიბებოდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="e237c96b-1624-47bb-b12f-937a2d7ba4b0">
+								<Analyses>
+									<refseq
+										guid="d4f76414-1a40-4097-9d8c-55559ce20e6a"
+										t="r" />
+									<refseq
+										guid="440c6a94-16f7-4232-9cee-24da3a21fb94"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="4d87b8cf-fdf2-4cfb-b1f0-907e795a44b2"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="fa9ceb0e-fa9c-450a-946b-18df3c9ec12c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="cd6e6094-0d48-4a5e-8d23-1f69235f4edd"
+										t="r" />
+									<refseq
+										guid="0f72255c-7e1a-4d8d-9bf1-9cb60684c42a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="363" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">But it had to take place at a bank of water, running water.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ოღონდ [ეს] უნდა მომხდარიყო წყლისპირას, გამდინარი წყლის. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="077c69f3-1a0a-4ac4-8694-01b312bfd6c3">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- მუთუნი კონკრეტული ხო ვარშჷნა თეცალი შემთხვევა?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="b20eb3de-aa96-41c3-b5c0-26c6530ada59">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="379a3b7d-4589-418e-9cfe-e3e36b5cc90c"
+										t="r" />
+									<refseq
+										guid="e0857eb5-fcf2-4022-8be4-eef19527d343"
+										t="r" />
+									<refseq
+										guid="6c36ede9-b1da-4155-9e8b-7be9f3db0f85"
+										t="r" />
+									<refseq
+										guid="3c96710b-2552-48e4-ade6-3c02e7421378"
+										t="r" />
+									<refseq
+										guid="2d9b80f5-f48f-4879-94a9-40d1e2ad663a"
+										t="r" />
+									<refseq
+										guid="191b882e-1c99-4fc3-bdd5-fcb72b8730e6"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Do you remember such a specific instance?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- რაიმე კონკრეტული ასეთი შემთხვევა ხომ არ გახსოვთ?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="5040cd37-776f-4a18-afac-90bb48d4a9ec">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- მა ფშჷ თეცალი შემთხვევა. ბაღანეფი გალუჸუნაფუდუ უფრო დიდი ასაკიშ ძღაბის წყარშა. ჩქი გვალო ახლოს მიღუდეს წყარი. ქერეყანი ჯოხოდჷ სახელო თი ადგიილს, წალენჯიხაში რაიონს. გალუჸუნაფჷდეს, ბრელი ბაღანეფი დოუშაყარუუდუ დო უმოსი დიდის თი კუკლა ქინუოთამუდჷ  დო დავაი რკიეთ ასე, კოჩ იშკვიდუნია  - უთუქუალჷდ. მოუსვეს რკიაფინი, თელი სოფელქ თექი დიშაყარჷ  დო ბაბუ გახანგებული მიშჷ. ტოლვილეფ რდეს მოულირეფი ხოლო, თინეფი ხოლო, ირკოჩი გახანგებული მირულედჷ.  თეელი მაზანდარას ართი ვარი, ხუთიქ დიშკვიდჷ  კოჩქჷნჷ  უჩქუდეს, თიჯგუა მდგომარეობა რდჷ. მარა დასურო ქუმორთ ჭვემაქ თიშ უკული, დასურო ქიუ. თიჯგუა გოლოფა რდჷ, შურო ვარდჷ, ა, ალბათ ართი ჟირი თუთას ნაჭვემა დო თიმ სერს დოჭვემჷ   დასურო. ჩქიმ შემთხვევას მაფჷ თენა ქოთ გჷნაგონ დო ქოთ ნაძირეფჷ ჩქიმ თოლით. ართი ჟარნეჩდოვით წანაშ წოხჷლე. ამდღა ვარ, ართი ჟარნეჩდოვითი წანა ქიი თიშ უკული, ხოლო მეტი. დო ამდღა სუმონეჩდოვითი წანაშა მუთუნჷ ვემემიძჷ. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="f7d0d8c9-135d-4200-9693-26b9d04e905e">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="e921ded8-5e39-489c-8076-ebbe5b861bdc"
+										t="r" />
+									<refseq
+										guid="3b4d4798-df83-47ed-8801-8e0b961c9832"
+										t="r" />
+									<refseq
+										guid="2d9b80f5-f48f-4879-94a9-40d1e2ad663a"
+										t="r" />
+									<refseq
+										guid="191b882e-1c99-4fc3-bdd5-fcb72b8730e6"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I remember such an instance.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- მე მახსოვს ასეთი შემთხვევა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="1a8e7663-2389-4494-96a1-6b10d5e95854">
+								<Analyses>
+									<refseq
+										guid="ce02aa88-6323-427a-bba2-5c2d0ea6d5b8"
+										t="r" />
+									<refseq
+										guid="1026ca92-108c-4192-8c16-86b50d7a21e3"
+										t="r" />
+									<refseq
+										guid="2dbd9592-410d-4990-9e15-713a89eca3e4"
+										t="r" />
+									<refseq
+										guid="93f63a1c-b7c6-4fba-ac16-96eeea69b9aa"
+										t="r" />
+									<refseq
+										guid="ff904d35-6a28-44f7-a353-f1c86032da40"
+										t="r" />
+									<refseq
+										guid="cfef1687-9968-4987-84ca-cd4a0bad6d58"
+										t="r" />
+									<refseq
+										guid="547a0e17-37f9-4024-a0b2-41118821254a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="27" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">A girl took younger children to the river.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ბავშები ჩაუყვანია უფრო დიდი ასაკის გოგოს წყალზე (=მდინარეზე).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2a3f9791-333c-4bb1-851d-67ec33154c87">
+								<Analyses>
+									<refseq
+										guid="e5edb24a-d16a-4ade-9017-d75fbca9098a"
+										t="r" />
+									<refseq
+										guid="4101c4e1-8ed4-4416-ab49-78cbea7098c6"
+										t="r" />
+									<refseq
+										guid="28d977d5-9afb-4214-9686-91f19c685a87"
+										t="r" />
+									<refseq
+										guid="1bf25bcb-b129-469a-a9de-8c1b93692297"
+										t="r" />
+									<refseq
+										guid="bf808897-2990-4b6e-948f-7f9f2f58d452"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="81" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The river was very near to us.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ჩვენ ძალიან ახლოს გვქონდა წყალი (=მდინარე).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="9c6edc87-0f21-4e84-8eea-67fbc2eeceef">
+								<Analyses>
+									<refseq
+										guid="d13a4609-76a9-462d-a012-16901abc9388"
+										t="r" />
+									<refseq
+										guid="04020c5f-b1a9-4d06-84ee-97da76729760"
+										t="r" />
+									<refseq
+										guid="88fa631b-34f6-441c-82dc-f9955d8a92b7"
+										t="r" />
+									<refseq
+										guid="fdf5912c-a289-407f-b8ab-0ab72402b368"
+										t="r" />
+									<refseq
+										guid="8e0d1d5b-c55c-4421-a9f0-25899fd9d212"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="18476b49-fcf8-43ac-8f0e-114fe0f653bd"
+										t="r" />
+									<refseq
+										guid="028662f6-6ac2-4627-a25a-021c7c8d0f65"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="112" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The name of the place was Kerekani, Tsalenjikha District.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ქერეყანი ერქვა სახელად იმ ადგილს, წალენჯიხის რაიონს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a92e3ef0-900e-4a0d-8ce3-89be9b2eeaff">
+								<Analyses>
+									<refseq
+										guid="fef91cb1-778d-4dbb-b48f-b6b3150f81a1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="c73a132f-1b66-44c7-8e8e-45b2e6d3f457"
+										t="r" />
+									<refseq
+										guid="ce02aa88-6323-427a-bba2-5c2d0ea6d5b8"
+										t="r" />
+									<refseq
+										guid="9913e22b-44d3-4651-b07d-418bd5934a50"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="d2d32cec-bcec-4a8d-b9c0-11afa496ea48"
+										t="r" />
+									<refseq
+										guid="83f53b1c-67bb-405a-ad7b-60a8ce851754"
+										t="r" />
+									<refseq
+										guid="fdf5912c-a289-407f-b8ab-0ab72402b368"
+										t="r" />
+									<refseq
+										guid="81cee14e-d493-48a1-b850-f3540438a6bb"
+										t="r" />
+									<refseq
+										guid="32b92e4b-4101-4b25-898e-b9f052a7c90e"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="bfa0a7e3-d2d9-448d-ab01-b5eb21905332"
+										t="r" />
+									<refseq
+										guid="409d6d95-2f3f-4751-95e0-4389b0887f25"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6966f9e2-35d7-4fed-b2e3-c04f9b2f0ed9"
+										t="r" />
+									<refseq
+										guid="ffb2fb83-b4f8-4367-92dd-d8d1693be0c0"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="568733db-4f58-42f6-a1a1-f4efcc201044"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="167" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">She brought children there; she gathered many children and dropped a doll [into the water] and told the children to scream that someone was drowning.  </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ჩაუყვანიათ, ბევრი ბავშვი შეუკრიბავს და უფრო დიდს ის თოჯინა ჩაუგდია და მიდით იკივლეთ ახლა, კაცი იხრჩობაო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="346600ef-6d1f-4155-ad9a-a150e9b9229d">
+								<Analyses>
+									<refseq
+										guid="208070d1-7d11-46ea-ab2d-e7344035821e"
+										t="r" />
+									<refseq
+										guid="6a790569-498f-4e74-abf8-6a86c05c34eb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="0ca85077-6856-4a21-b80e-7968e34b1380"
+										t="r" />
+									<refseq
+										guid="28e80b5e-4f44-4572-9e21-fe748e55f30f"
+										t="r" />
+									<refseq
+										guid="581782a3-b606-425f-9301-3414e4a311c9"
+										t="r" />
+									<refseq
+										guid="12446d28-854f-4290-b138-a133923f45ff"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="45e222f2-e767-4c67-8b54-d395cd7523bf"
+										t="r" />
+									<refseq
+										guid="951ab961-1a5a-4585-9177-71498b890d9a"
+										t="r" />
+									<refseq
+										guid="51e9c7e3-ce8a-4d09-9ed1-5dd9935d005e"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="296" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When they began screaming, the whole village gathered there and grandfather was going there as a madman.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რომ მორთეს კივილი, მთელი სოფელი შეიყარა და ბაბუა გაგიჟებული მიდიოდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="891747d6-1188-427e-98d6-995d578c6210">
+								<Analyses>
+									<refseq
+										guid="bb5bdefa-38b8-47ae-a3db-7ff76bded2f6"
+										t="r" />
+									<refseq
+										guid="a450b935-3528-4d2c-a5df-15ae565e7e5c"
+										t="r" />
+									<refseq
+										guid="131c8f11-09df-480d-a553-d2a54832901b"
+										t="r" />
+									<refseq
+										guid="4a14001e-3c42-4cf6-8ebb-d5ceb4b9a2e3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="93464b09-86e9-4708-a695-23c80fb9999e"
+										t="r" />
+									<refseq
+										guid="4a14001e-3c42-4cf6-8ebb-d5ceb4b9a2e3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="60b718b8-d747-4297-b39a-24d0fe41171e"
+										t="r" />
+									<refseq
+										guid="951ab961-1a5a-4585-9177-71498b890d9a"
+										t="r" />
+									<refseq
+										guid="9eed1ab6-8cb6-4530-a7ff-813bf4f2a8e7"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="367" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Even refugees came there. They too, all of the people ran as madmen.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ლტოლვილებიც იყვნენ მოსულები, ისინიც, ყველა გაგიჟებული მირბოდა. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="586ccaad-fd9a-4098-805c-68cbb61bab3d">
+								<Analyses>
+									<refseq
+										guid="bd7ac9c3-5f0a-4caa-8e11-38aba6a45532"
+										t="r" />
+									<refseq
+										guid="7893a1b1-68ec-40a3-b90b-d507e96e46c4"
+										t="r" />
+									<refseq
+										guid="abcc44ba-4396-4b83-8849-47bb9b7c4245"
+										t="r" />
+									<refseq
+										guid="beebf4c1-f009-4e0e-bba4-527397bb4d60"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="857c296b-63dd-4006-a993-8c21790d32ee"
+										t="r" />
+									<refseq
+										guid="ac09b7d0-b5ee-410d-8c13-45988f2b327b"
+										t="r" />
+									<refseq
+										guid="988d1bcf-41f7-4e5a-88b5-9533e968fb45"
+										t="r" />
+									<refseq
+										guid="7d90c24e-e764-42ac-bf34-26002e36a945"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="a5d8a49d-7610-4307-9792-1f979cc00f9b"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="440" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There was the situation that people in whole Mazandara thought not one, but five people drowned.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მთელ მაზანდარაში ეგონათ, ერთი კი არა,  ხუთი კაცი დაიხრჩო, ისეთი მდგომარეობა იყო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="37ed490a-165c-4ab7-b466-714f82ec144a">
+								<Analyses>
+									<refseq
+										guid="916de4d9-f8a2-430b-aa87-40701370b9b7"
+										t="r" />
+									<refseq
+										guid="a9b813a3-a14c-4467-aa93-c6729779a718"
+										t="r" />
+									<refseq
+										guid="45d090d1-4428-4c0c-a3f7-7204ce11abd3"
+										t="r" />
+									<refseq
+										guid="26dc42c0-4b24-4376-979e-a39a1d0711d2"
+										t="r" />
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="b8d570c5-370a-4bfa-a64d-c9907170dbc2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a9b813a3-a14c-4467-aa93-c6729779a718"
+										t="r" />
+									<refseq
+										guid="d2ab6447-1f49-48fc-b5a5-f9c5087926a1"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="526" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">But afterwards it actually rained, it came true.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მაგრამ მართლა მოვიდა ამის მერე წვიმა, მართლა იქნა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6f02dc91-2a60-451c-8b2a-6d2653005b8b">
+								<Analyses>
+									<refseq
+										guid="ea8e8d41-de37-445c-adb7-29d2e89a2683"
+										t="r" />
+									<refseq
+										guid="e2afee82-77f8-4a19-b6ce-e3640065b4dc"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="bed23655-2b03-4d16-9e44-7eb436201bd2"
+										t="r" />
+									<refseq
+										guid="122041c2-04a6-486b-a465-7d0ad9214de0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="547d47c4-71fb-449b-b472-5926e39dd749"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="30065ec2-9f80-4b2e-8ae0-e7f10524f3ea"
+										t="r" />
+									<refseq
+										guid="956c3580-6c25-4a53-ac01-16da29d76e3c"
+										t="r" />
+									<refseq
+										guid="68d26a0d-9569-4816-9d78-8878ff4d17dd"
+										t="r" />
+									<refseq
+										guid="7baf9091-ca70-48b5-91ae-3069bef5ff93"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="d7d43192-6755-4fb3-ab21-c4cfcb7c2479"
+										t="r" />
+									<refseq
+										guid="e9dc51db-c125-4bc7-ab6d-48ed55bbe16d"
+										t="r" />
+									<refseq
+										guid="523bb004-8c08-434e-8d82-d34559b9a7d4"
+										t="r" />
+									<refseq
+										guid="a9b813a3-a14c-4467-aa93-c6729779a718"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="575" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There was such a drought that, for a months of two, there was no rain at all, and, that evening, it actually rained. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ისეთი გვალვა იყო, საერთოდ არ იყო, ალბათ ერთი-ორი თვე ნაწვიმარი და იმ საღამოს იწვიმა მართლა. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6a039dfe-32a4-45bc-9087-13caf48af103">
+								<Analyses>
+									<refseq
+										guid="c3a8b150-0357-43c5-b47f-db5fd5a954a2"
+										t="r" />
+									<refseq
+										guid="fd53a0a1-7e60-46c8-ad18-b502befe8990"
+										t="r" />
+									<refseq
+										guid="c8a71fe9-3656-4e5f-86c4-794007c22076"
+										t="r" />
+									<refseq
+										guid="7b15f15f-a508-46eb-b9f8-b2cd881267f2"
+										t="r" />
+									<refseq
+										guid="e79248f6-702a-47ee-b275-d3a1beaae881"
+										t="r" />
+									<refseq
+										guid="122f0df2-4002-4e8b-a021-e663a09e726d"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="e79248f6-702a-47ee-b275-d3a1beaae881"
+										t="r" />
+									<refseq
+										guid="59c07d3e-ca74-4277-9374-74ba11be7bfa"
+										t="r" />
+									<refseq
+										guid="c3a8b150-0357-43c5-b47f-db5fd5a954a2"
+										t="r" />
+									<refseq
+										guid="c49ac82e-724d-40fb-bf79-f562cdb8f10b"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="669" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">I have both heard and seen that.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ჩემს შემთხვევაში მაქვს ეს განაგონიც და ნანახიც ჩემი თვალით.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="5869ac43-b832-4266-ae53-9aed79399540">
+								<Analyses>
+									<refseq
+										guid="1ba0547a-7690-44f5-9739-2adf2a9596ec"
+										t="r" />
+									<refseq
+										guid="17cdb29c-e4d4-46a6-ad24-7637c8624331"
+										t="r" />
+									<refseq
+										guid="631978c4-ebbb-4f9f-bc7f-091cf32c7ab5"
+										t="r" />
+									<refseq
+										guid="a554bb19-c3c2-4848-8eda-7e9d092a2801"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="735" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was about fifty years ago.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ერთი ორმოცდაათი წლის წინ. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b72ed55e-a721-4e3c-bc40-af598a55a8a3">
+								<Analyses>
+									<refseq
+										guid="45e40db6-1f0b-48b6-9bea-2faab0b6e801"
+										t="r" />
+									<refseq
+										guid="070ca814-750c-41a6-9215-83bcad2572d1"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1ba0547a-7690-44f5-9739-2adf2a9596ec"
+										t="r" />
+									<refseq
+										guid="37bdf737-dd86-4246-8bb2-c32dad9d620f"
+										t="r" />
+									<refseq
+										guid="30caadd3-f619-4814-be9b-9e81a4ec5f95"
+										t="r" />
+									<refseq
+										guid="188b3b76-0421-42b2-b9a8-424c600f5e24"
+										t="r" />
+									<refseq
+										guid="6d63307c-3719-45ba-9ed9-d29b6db2eff7"
+										t="r" />
+									<refseq
+										guid="b8d570c5-370a-4bfa-a64d-c9907170dbc2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4a14001e-3c42-4cf6-8ebb-d5ceb4b9a2e3"
+										t="r" />
+									<refseq
+										guid="3c9dea7d-413b-42c9-85ce-58e19008246e"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="766" />
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="3a385079-3d5a-4eeb-b2fc-d2bda3e59063">
+								<Analyses>
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="45e40db6-1f0b-48b6-9bea-2faab0b6e801"
+										t="r" />
+									<refseq
+										guid="92b7efaa-291c-4429-884f-e0bf31e7842b"
+										t="r" />
+									<refseq
+										guid="fd1e1740-a6ee-438a-b2f5-7aa6cb6c64c8"
+										t="r" />
+									<refseq
+										guid="be5d8396-f4fe-4344-822f-68663c9cb6bb"
+										t="r" />
+									<refseq
+										guid="3d1b7ed5-1c5b-4ec0-bbb0-e020741c9490"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="826" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, presently I am almost seventy.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და დღეს სამოცდაათ წლამდე არაფერი მიკლია.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="72a20079-9940-4f1b-83ad-5564a2427118">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- დო ამდღა თეჯგუა მუდგარენეფიში გურშენი ინფორმაცია ქუღუნანო ახალგაზდეფს?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="70249ae8-d64f-4be9-9c3c-9be5dd095681">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="45e40db6-1f0b-48b6-9bea-2faab0b6e801"
+										t="r" />
+									<refseq
+										guid="57ef7ca9-29c8-45e8-80b9-989e67459039"
+										t="r" />
+									<refseq
+										guid="2133ac51-09df-4ba0-b539-8d45e3ebb8c5"
+										t="r" />
+									<refseq
+										guid="16d690d1-1823-4348-bf8f-4a1fd1cf6bf0"
+										t="r" />
+									<refseq
+										guid="da80fb8a-9f93-41ac-92b1-86da88f0dc26"
+										t="r" />
+									<refseq
+										guid="04ba003e-92d8-4523-9089-2468f013bc9d"
+										t="r" />
+									<refseq
+										guid="fc63f0cf-e49c-4011-9571-9bb97110c40e"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, are young people informed about such things presently? </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">-და დღეს ასეთ რაღაცებზე ინფორმაცია თუ აქვთ ახალგაზრდებს?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="50d9e33f-1968-41d0-bae6-c426a73a830b">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">- არა, ვარე თეჯგუა ონფორმაცია მუთუნი ვაარსებენს ასე. ახალემს თეშა ვააჩოდჷ. ახალეფი უმუსო მუნეფიში საქმე, მუნეფიში კომპიუტერული საქმიანობა, მუნეფიში ტელეფონი, მუნეფიში გართობა დო თეს რე ჩქიმ შეხედულებათ დო შილებე შხვადოშხვანერ მდგომარეობა რდასჷნჷ. </Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="c9e34d3f-5de4-412a-8502-09e2ccb0e6ac">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="950fbf2c-cb66-47bc-b6ae-b078571dec06"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a6d6e855-e6aa-4d18-a6c6-c85f6246aa2b"
+										t="r" />
+									<refseq
+										guid="57ef7ca9-29c8-45e8-80b9-989e67459039"
+										t="r" />
+									<refseq
+										guid="656f47cb-6c6d-42fc-a659-f341fed0742d"
+										t="r" />
+									<refseq
+										guid="379a3b7d-4589-418e-9cfe-e3e36b5cc90c"
+										t="r" />
+									<refseq
+										guid="4be79388-b078-4de4-87e1-25fb34d8577f"
+										t="r" />
+									<refseq
+										guid="eae9d8b8-bb28-4d3a-999d-321f7043eb3f"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">No, no such information is available presently.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">არა, არაფერი ასეთი ინფორმაცია არ არსებობს ახლა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="48695be7-2ca2-4f44-b4c5-21991c29cc43">
+								<Analyses>
+									<refseq
+										guid="6b30d1c6-1af0-4294-8c85-544bb023e39a"
+										t="r" />
+									<refseq
+										guid="1c1b8198-8393-41db-8bd0-72154747d9f4"
+										t="r" />
+									<refseq
+										guid="b31a4531-3a3c-4a74-8eaf-852ce13763d2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="53" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Presently, nobody has time for that.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ახლებს ამისთვის არ სცალიათ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="18ba2456-bee1-4283-95d3-3987406f08cb">
+								<Analyses>
+									<refseq
+										guid="378955f2-136b-4640-b513-720e19b01c27"
+										t="r" />
+									<refseq
+										guid="0b614952-1792-4211-9f1a-12d3a965a04c"
+										t="r" />
+									<refseq
+										guid="b5ddcf60-35c5-4ba3-8023-7d522dbe1452"
+										t="r" />
+									<refseq
+										guid="08325bd4-8195-44c0-804a-192ec6eec8a4"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b5ddcf60-35c5-4ba3-8023-7d522dbe1452"
+										t="r" />
+									<refseq
+										guid="ee338e94-2c65-4c3a-a74c-8260e035c4fb"
+										t="r" />
+									<refseq
+										guid="50bf97e5-7004-426c-9560-07a108b5d651"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b5ddcf60-35c5-4ba3-8023-7d522dbe1452"
+										t="r" />
+									<refseq
+										guid="d3d35fc4-baf6-46df-888b-253d051f5281"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b5ddcf60-35c5-4ba3-8023-7d522dbe1452"
+										t="r" />
+									<refseq
+										guid="c18b5555-a657-4364-ac4a-a8eebc526182"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="fa9ceb0e-fa9c-450a-946b-18df3c9ec12c"
+										t="r" />
+									<refseq
+										guid="ab795372-3967-4be3-a824-b844b4462dce"
+										t="r" />
+									<refseq
+										guid="c3a8b150-0357-43c5-b47f-db5fd5a954a2"
+										t="r" />
+									<refseq
+										guid="20c0e82c-a92e-4b3b-89fc-0743becb176f"
+										t="r" />
+									<refseq
+										guid="6983ebbc-7659-480c-b5da-f6118bec7f2d"
+										t="r" />
+									<refseq
+										guid="b87cf910-2666-4b1a-9517-cff73021db63"
+										t="r" />
+									<refseq
+										guid="e6ebde7d-49a3-401d-819b-32aa6eafcf8c"
+										t="r" />
+									<refseq
+										guid="a5d8a49d-7610-4307-9792-1f979cc00f9b"
+										t="r" />
+									<refseq
+										guid="5990091f-20e6-4248-a6d9-88b79c6e8d3c"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="75" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Young people mind their business, their computer, their entertainment, and they are keen on these, in my opinion, and it may be differently elsewhere.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ახლებს უფრო თავიანთი საქმე, თავიანთი კომპიუტერული საქმიანობა, თავიანთი გართობა და ამას არიან ჩემი შეხედულებით [აყოლილები] და შეიძლება სხვაგან სხვანაირად იყოს. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2023-2-23 3:51:16.660" />
+		<DateModified
+			val="2023-10-20 15:51:19.366" />
+		<Genres>
+			<refcol
+				guid="c076f554-ea5e-11de-9793-0013722f8dec"
+				t="r" />
+		</Genres>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">ZS_The Ritual of Drought and Rain</AUni>
+			<AUni
+				ws="xmf">37---ZS_ გვალვისა და წვიმის რიტუალი</AUni>
+		</Name>
+		<Source>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Luiza Shanava</Run>
+			</AStr>
+			<AStr
+				ws="xmf">
+				<Run
+					ws="xmf">ლუიზა შანავა</Run>
+			</AStr>
+		</Source>
+	</Text>
+</TextInCorpus>

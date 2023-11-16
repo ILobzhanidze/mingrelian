@@ -1,0 +1,4157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextInCorpus>
+	<Text
+		guid="40b3b2c0-35d9-4132-82f8-357d29d91993">
+		<Contents>
+			<StText
+				guid="8f745f57-4599-4a34-80ca-eb0ee39f678a">
+				<DateModified
+					val="2023-11-6 13:48:17.691" />
+				<Paragraphs>
+					<ownseq
+						class="StTxtPara"
+						guid="79ecbff6-4fdd-497d-8cf9-395053bb76f5">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ხვამაშ ტრადიცია არსებენდუო სამარგალოს?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="5ed9222d-2403-49e7-93e1-570abe11ba09">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="0c612bce-e957-4e6b-9971-04799c3579a6"
+										t="r" />
+									<refseq
+										guid="f469e520-c3b9-4d44-ab0d-c7475c4cd4e5"
+										t="r" />
+									<refseq
+										guid="f165b8d2-4539-4009-a954-6e688fa7c043"
+										t="r" />
+									<refseq
+										guid="68ef7d23-5aa1-46f4-a9e7-545368895d55"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Were there a tradition of sacrifice in Samegrelo?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დალოცვის (=შეწირვის) ტრადიცია თუ არსებობდა სამეგრელოში?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="6a4351b6-7f38-47aa-8102-34385236ccd8">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ქო</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="b5afc041-4456-4349-8756-43f1e95d1f83">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="7237a4c0-b613-449d-9491-15e1d29632f1"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- კი</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="3d6b5d4a-4be1-42e8-81c8-a67fb9d99673">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-მუ რდჷ თენა, მუს ეკავშირებუდუ დო მუშნერო მიშჷ?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="a021e985-2420-455f-9aa7-b8f6e1a882f0">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="1e333177-f0e0-447a-a26b-e4cec66b9809"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8ef49238-64cc-40ab-841b-474c4f851989"
+										t="r" />
+									<refseq
+										guid="a5e47ae9-7de1-4af5-8331-b2f03ae2f780"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="76e4e5fd-889c-4734-8ea8-a215e5fc1beb"
+										t="r" />
+									<refseq
+										guid="51e9c7e3-ce8a-4d09-9ed1-5dd9935d005e"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">What was that? What was that associated with and how did it proceed?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">რა იყო ეს, რას უკავშირდებოდა და  რანაირად მიმდინარეობდა?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="29ee29e0-f3c9-40d3-bd21-185dbbf02bc1">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ბაბჷჩქიმს, ჩქიმ ბაბუს ჯოხოდ გიორგი დო გიორგის უღუდუ ოხვამერი  ლაგვანეფი. სუმ ლაგვანი უნთხორჷდჷ. ათე სუმ ლანგვანშე დამორჩილს, ღვინიშ დოდგჷმა ქიჸედჷნჷ თინწკჷმა, ღვინც ქინაბუნდ სუმხოლო ლაგვანც. ართიდ დიდ ოხვამერი, მაჟრა დჷ  თიშე უკლაში, სამანცხვაროს უძახჷდეს დო საღორონთოს უძახჷდეს. ათე ოხვამერეფი რდჷ. ათე ოხვამერც ქინაბუნდუ ათე ღვიინც. დეეღვინებუდუ; დუც მოუჭაბუნდუ იშო დიხათჷ თეს. თენა უღუდუ მიინდორო ეშაღობილცჷ. თექი ხოლოს ოსურთაგანს ოჭყალ ნინათ ოკო ვემკორთჷკონ, თი ადგილც, მუშენდა თექ თი ოხავმერ ლაგვანეფი უნთხორჷდჷ  თისჷ დო ეთი ჭყალა თექ ვააფუ, ვააკოდ ხოლოს, თიშ არემარეს დო გვარიან დიხა ქაფუდუ ჩქიმ ბაბუს თენა ეშაღობილი თე ლაგვანეფშე. თე ლაგვანეფ დიიიდი მუდათ აფუდჷ ეშაღობილი დო სუმ ლაგვანი შქაადიხას უნთხორჷდჷ. დიიდ ოხვამერშა მიშეშჷ: ჩხოუ ჸუნდუ დო პატჷნია უჯოხოდჷ. ათე ჩხოუს ქჷდებადებუდჷ გიინი, იახან, თინასჷ ბჟას ხოლო ვაუჭვალჷნდეს თი ჩხოუს. ის ვენნაჭვალანდეს შხვა ჩხოუს ხოლო, ეთ გინქ ოკო წუუკონ თექ თინა, თი ჟინ მუუდა. ასე ააა, დაუშვათდა, აჸ, ასე დიდ ხვამა რე აასენ თიწკჷმა, ართ მარათ წოხლე ქიდიჭყაანდ თეშ ჭვალუას ბები, ჟირ ძუძუსუ. ათე ჟირ ძუძუს გეჭვალჷნდჷნ, თიშ ბჟა ცალკე ოკო ქანაწუკონ. ჸათე ბჟას ცალკე ქანაწუანდჷ, ეთი ბჟაშ ჸვალც ცალკე ინახჷდჷ. ათე ხვამაშ დროსჷ დოოჭუნდეს ხაჭაპურცუ, კჷციშ მიკოჭუაფილო, ელაჭოფაფილო კჷცით. სუმ მუდათ, კვარისებულო გაკეთენდეს თეს დიდეფც. ართი, მაჟჷრა, მასმა, სუმხოლოს თე ოხვამერიშ ჸვალ მიშაძჷდჷ თეეს. ჸათე ჸვალ მიშაძჷდჷნ თეს, ბაბუ ჩქიმი ქიმიშ, იახა,  თეიშა ლაგვანშა მიდეშ, დიხას გამნარღვანდჷ, იახა, თეს გაასუფთენდ, იახადო, ღვინც გასინჯენდჷ, და მუჭომი რდჷ დო  ოხ, ჯგირ ჸოფენია. მარა უნჩაშ მოთა მა ვორდი დო მა ოკო მეპუნდიკონ თეეს. კუჩხბედნერ ლექია სი, სკან უკულ ათეზმა მოთალეფი პუნსია - თქუაანდ. მიდამჸონანდ მა, ხეშა ხჷრკეთ ქიგუბუნდი წყარც, ხეს გუობონაფუანდი, თე ლაგვანეფც ჩაუთხინუანდი, ღვინც გასინჯენდ. გინიბლენდით თევრეშე, იახადო, სუმხოლო სკუალეფი -  შალვა, მიშა დო ჟორა  -  სუმხოლო სკუალეფ დო თენეფიშ სკუალეფით არძო ქიდიფჩოქუდით. იახადო დო, ბაბუ გეჭოფუნდ სანთელც, იახადო, „ჩქიმ აწმახვამალეფია, დიხვამუა სკან დიდებაქ, იახავა“  დო ათე სანთელს ქუგომლუანდეს. დო „ღორონთია თენეფშა, მოთალეფშა, სკუალეფშა ჯანმთელობა, ბედნერება ქიმემიჩია“ - თქუანდ ცოდა კოჩი. იახა დო ათაშ დოფხვამანდეს ჩქჷ, სუმშა ქიგნომლუანდეს თე სანთელც. ათე სანთელს ქუმუნტალენდ დო ღვინც გეჲობუნდუ, ათენა ჭირქათ, ოშ გრამიან ჭირქას ქინაბუნდუ,  აათე ჭირქათ ხოლო ქიგნომლუანდეს არძოს. ჲახადო, „ღორონთქ დორხვამანია, ღორონთქ ბრელ დამორჩილი, ღვინიშ მოულა გორთანაფჷდანია დო, იახადო, ბეედნერო ქოჸოფედათია“. დოოფხვამანდეს ათაშ, გეეშუნდ თესჷ დო ვალდებულ ვორდით თენეფ ჭიჭე ჭიჭე, ვამაშვედესო, მაშვედესო, ჭიჭე ჭიჭე იშენ თე ღვინ ოკო გეგჷნოფშუნდით... . გეფშვითკონ ოკო ოდო ათე ხაჭაპური, თენეფი, თაქ ოკო ობჭკომითკონ ოკო, სუმხოლო ხაჭაპური, თიქ ოკო ვეგნორთჷკონ თეექი. აათე გინც დოვილჷნდჷ დო ქუდაპატიჟენდჷ  თიჯგურა კათას, ნამდა ჩხუპიქ ვეჸუკო მუშ ჸუდესჷ, ართიანს ვეჩხუბესჷკო, ხვამაშ მეტიქ დო ბირაშ მეტიქ მუთუნქ ოკო ვეჸუკონ თექ. ათენასჷ სიდოშ ოჯახი რდჷ თესჷ, თქვან ოჯახი დჷ - გერსამიეფიშ ოჯახი, მიშაშ ოჯახი დჷ  თესჷ დო მიდაში ოჯახი რდჷ ხოლო თექ, მაქსჷმე ხოლო გლახა კოჩ ვაარდ, შელია. ათენეფს ქუდაპატიჟენდჷ. იახადო, თე სკუალეფშე ხოლო ნამთინ ჯგჷრ ქაკათჷდჷდა თის მოლეჸუნანდჷ მუნეფი დო ვარდა ხიპიჩიანი ქორდჷდა, თის ვეჸონანდეს. ედო ჸათჷნეფს ქუდაპატიჯენდჷ დო ვით ვითოხუთ კოჩი, ბაბუ პარიკმახელო მუშენდ წალენჯიხასჷ დო წალენჯიხაშე ხოლო გეკიჸუნანდ მუ მუშ ამხანაგეფც. თი ხორციქ თექ ოკო გეთუკონ თიმდღას. თიქ ოკო ვეჩუკონ თი ხორციქ ოკო. მაჟია დღასჷ ვარა აკეჭირებუდეს გურ, ვარა მუთუნინ, ვარა ჭყალაქ ქიჸუკო, ვარა მუთუნინ,  თინა ვაკოდ. ძვალეფც აკოშაყარანდჷ დო წყენწყარშა მიდეღანდჷ დო თექ ქინარღვანდ. თიქ ხოლო ვადოსკჷდჷკონ ოოკო, სოთინ ოკო ვენკოძჷდჷკონ თიში ძვალი დო მუთუნინ თეშ, ირფელ ართო...</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="d4fd2c8d-6b71-4b35-8e12-f3ab120c83c9">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="01ad3fdb-c54b-47d9-a43d-7ef2f4ffe90b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2e13ebee-d479-4073-84e5-f1d9c0263e45"
+										t="r" />
+									<refseq
+										guid="1dbd5e8c-901c-4a75-80dd-630130460e26"
+										t="r" />
+									<refseq
+										guid="4d368d20-fd3c-41a8-aba3-6e581c8c1a5b"
+										t="r" />
+									<refseq
+										guid="907d455e-a9d3-4480-8c83-d93d95f81a9e"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="be0f1464-2552-430b-8a9b-d7560c547f0f"
+										t="r" />
+									<refseq
+										guid="9a6e6284-7076-4634-bc01-ea33c8414f46"
+										t="r" />
+									<refseq
+										guid="88553e48-67de-4198-875a-c5258811d285"
+										t="r" />
+									<refseq
+										guid="e67bed19-2208-4c1a-a964-5c524ea3a683"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">My grandfather's name was Giorgi, and Giorgi had pitchers intended for sacrifice.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ბაბუაჩემს, ჩემს ბაბუას ერქვა გიორგი და  გიორგის ჰქონდა დასალოცავი (= შეთქმული, შესაწირი) ქვევრები.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="35b2a1e9-8adc-4ede-bf62-d5044846027f">
+								<Analyses>
+									<refseq
+										guid="ad8f30ad-b119-491e-8fa2-30e9003ad62e"
+										t="r" />
+									<refseq
+										guid="4817ef69-6b3d-44aa-a57b-830c19efa994"
+										t="r" />
+									<refseq
+										guid="9ede4476-47d5-4ec7-873c-b0f06d8cf430"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="74" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He buried three pitchers.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">სამი ქვევრი ჰქონდა ჩამარხული.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2d2d5c8b-0fd8-4e74-a955-0158f2c503a7">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="ad8f30ad-b119-491e-8fa2-30e9003ad62e"
+										t="r" />
+									<refseq
+										guid="517ebd10-8302-44fa-a781-99acc17e07f4"
+										t="r" />
+									<refseq
+										guid="f7fbfd09-c276-42ed-a625-15d16de99c0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="524e0c56-a417-4d7f-b6d9-685fd6efb1c2"
+										t="r" />
+									<refseq
+										guid="dc94022b-efe1-4996-9b5b-9e0cd7427701"
+										t="r" />
+									<refseq
+										guid="91d850a9-21ea-4c5b-adc8-c36fc5a2614d"
+										t="r" />
+									<refseq
+										guid="41e26a4b-1e38-4e94-a14d-bbd7cea84bcd"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="040a9550-dd16-4a38-8784-53e9de784e4d"
+										t="r" />
+									<refseq
+										guid="b2ed4e03-4df0-44ca-aea7-a58c7a7468cf"
+										t="r" />
+									<refseq
+										guid="6b9d3f7e-d163-4a14-bd5d-bf0e37b7d0cc"
+										t="r" />
+									<refseq
+										guid="938b7939-22f2-481c-bf93-207a9c95f583"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="97" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Of the three pitchers, in autumn, when the time for making wine came, he poured wine in the three pitchers. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ სამი ქვევრიდან შემოდგომაზე , როცა ღვინოს დაყენების დრო დადგებოდა, ღვინოს ჩაასხამდა სამივე ქვევრში.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0e94595b-1347-401c-add7-0abf22b32fa9">
+								<Analyses>
+									<refseq
+										guid="2c80815c-11db-4f4f-9d24-6b5ee8b2b4a5"
+										t="r" />
+									<refseq
+										guid="797e1940-e36f-48ab-a1ac-40413b033932"
+										t="r" />
+									<refseq
+										guid="da882a6f-143e-4423-976c-164559e952a5"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ca4decc7-faa9-4053-85b1-34d6639db7ce"
+										t="r" />
+									<refseq
+										guid="bd61b7b2-12ab-4649-b969-4e6bf9be2454"
+										t="r" />
+									<refseq
+										guid="ffaf8665-24b3-413a-92d8-d9109ec5c474"
+										t="r" />
+									<refseq
+										guid="1056c234-ab60-44d4-9ad5-cfb72c597c0e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d19fb62c-3b9f-4a36-a27a-1af1de07f656"
+										t="r" />
+									<refseq
+										guid="8d5cc2e9-c516-4924-af8a-74c16a1dd67a"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="25a464e5-9121-43a0-8ea6-240d86c239da"
+										t="r" />
+									<refseq
+										guid="8d5cc2e9-c516-4924-af8a-74c16a1dd67a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="192" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">One was a big sacrifice pitcher, another was smaller than that; they were called For the Savior and For God.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ერთი დიდი სალოცავი (=შეთქმული) [ქვევრი], მეორე იმაზე ნაკლები, სამანცხვაროს [=მაცხოვრისთვის]და საღორონთოს [ღმერთისთვის]ეძახდნენ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a90c673e-b429-4948-8e8e-aaf86582e231">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="706ad62b-66c2-4850-bbc0-fdc682ae79c9"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="281" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">They were sacrifices.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს სალოცავები  (= შესაწირი) იყო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="47bca654-ee33-4d3f-a36a-648dfe6c5fb0">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="f9c9047b-9955-4662-90eb-c05fa3389418"
+										t="r" />
+									<refseq
+										guid="2a483bf2-6a5d-4096-b3f7-b985fcf1f535"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="269d8691-c586-4ad7-9f6d-26851e3c1e79"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="301" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was the sacrifices where he poured wine in.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ სალოცავებში (=შესაწირ ქვევრებში) ჩაასხამდა ღვინოს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a705bb5f-ba16-4a2e-9398-afbb63941eb0">
+								<Analyses>
+									<refseq
+										guid="ff9c26c0-3457-4f49-92b1-c44bd2873389"
+										t="r" />
+									<refseq
+										guid="995db246-d26d-47aa-9443-81e09e5bdf9c"
+										t="r" />
+									<refseq
+										guid="a4b77b91-73e8-4f91-9792-bb3ff44247f8"
+										t="r" />
+									<refseq
+										guid="f21771c8-4e47-4e6f-8d6d-a0c2e1c08aa9"
+										t="r" />
+									<refseq
+										guid="3f401a1f-149c-4182-8096-99b850fe70b3"
+										t="r" />
+									<refseq
+										guid="ea7f1a50-162c-429e-b5f1-7611bdcb50af"
+										t="r" />
+									<refseq
+										guid="1a151c74-6865-40c7-8f0e-800d4e47f9c1"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="336" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When the wine became mature, he plastered the lid with earth.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დაღვინდებოდა; თავს მოუწებავდა მიწით.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="f30074bb-5526-46e5-a17a-3d3560eec0a8">
+								<Analyses>
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="9a6e6284-7076-4634-bc01-ea33c8414f46"
+										t="r" />
+									<refseq
+										guid="e1d80f67-0217-4e34-a187-5c8ac2aee301"
+										t="r" />
+									<refseq
+										guid="ef3fe450-0387-4388-9251-e19509ce68e6"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="381" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He kept them in the field, in a fenced area.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს ჰქონდა მინდვრად შემოღობილში.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="3c8ce8dc-5167-40b1-93f2-a4a71e96f617">
+								<Analyses>
+									<refseq
+										guid="581782a3-b606-425f-9301-3414e4a311c9"
+										t="r" />
+									<refseq
+										guid="58c428a5-5479-4aa5-82fb-c19737beb097"
+										t="r" />
+									<refseq
+										guid="6f5a9e2c-c224-4117-a03d-a1bd0fbcffe4"
+										t="r" />
+									<refseq
+										guid="d04bc727-3cbd-4283-bf2e-5082d76fefb7"
+										t="r" />
+									<refseq
+										guid="a36ac688-df6a-4876-a28b-fc9eb0b97f11"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="88ff0b0a-2c74-4686-850e-f1cba7254a7c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="a555b4e3-60a4-423f-ba16-a17966aca7ab"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d7c7458d-f058-46f3-a1c8-1794b5720168"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="91533032-9711-42ed-b6ca-a29f029d53b7"
+										t="r" />
+									<refseq
+										guid="8cef6fc9-004a-4c22-9e9e-8b30a6662ef5"
+										t="r" />
+									<refseq
+										guid="9ede4476-47d5-4ec7-873c-b0f06d8cf430"
+										t="r" />
+									<refseq
+										guid="b9d7dba5-18e6-48b1-8fe5-7af510df70d1"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="9b0506f7-76e8-4afc-91a6-af0e54ca975e"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="c170c6a7-1f29-4692-9cf6-1ac061e33b14"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="c1544f6f-e75b-4a68-9f9f-55e44755b781"
+										t="r" />
+									<refseq
+										guid="58c428a5-5479-4aa5-82fb-c19737beb097"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1f9fadea-ca51-42a1-9e83-593d19d86b92"
+										t="r" />
+									<refseq
+										guid="1f657072-8004-40d2-9cd4-3002c48c6c9f"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="45e8ad0a-3767-4254-b9ff-b9d520459eca"
+										t="r" />
+									<refseq
+										guid="a445d5cc-02d1-48a9-98ab-04479bc5a477"
+										t="r" />
+									<refseq
+										guid="26b6c24a-75b9-4dc2-9c00-7bbabfa1a755"
+										t="r" />
+									<refseq
+										guid="c3a8b150-0357-43c5-b47f-db5fd5a954a2"
+										t="r" />
+									<refseq
+										guid="1dbd5e8c-901c-4a75-80dd-630130460e26"
+										t="r" />
+									<refseq
+										guid="012b5401-64f8-4cf4-8926-7c87d406c50a"
+										t="r" />
+									<refseq
+										guid="7eb14df1-7b9b-4866-afb1-b9021c7c78be"
+										t="r" />
+									<refseq
+										guid="9c63a173-f29e-471f-a25a-43202072cef1"
+										t="r" />
+									<refseq
+										guid="f4ae56eb-2193-4108-ab06-3d514ca01a22"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="413" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">No cursing woman should pass by the place because the pitchers for sacrifice were fenced and delimited from other pitchers.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">იქ ახლოს ქალთაგანს მაწყევარი ენით არ უნდა გაევლო;  იმ ადგილას, რადგან დალოცვის (= შესაწირიი)  ქვევრები შემოღობილი იყო და გამიჯნული იყო სხვა ქვევრებისგან.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="44ebf32a-05b7-4327-acea-c6eefc8f90d7">
+								<Analyses>
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="82f1f11d-6c52-40c1-9bf9-5ef3827ea8d2"
+										t="r" />
+									<refseq
+										guid="9405148c-4cb2-48a3-a3c6-be5dbedcd655"
+										t="r" />
+									<refseq
+										guid="6e8d30ca-af27-43f0-8a73-f96900d426b8"
+										t="r" />
+									<refseq
+										guid="1c1ef76c-2c21-44df-bacb-7a0be3f1a84e"
+										t="r" />
+									<refseq
+										guid="7eb14df1-7b9b-4866-afb1-b9021c7c78be"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="ad8f30ad-b119-491e-8fa2-30e9003ad62e"
+										t="r" />
+									<refseq
+										guid="4817ef69-6b3d-44aa-a57b-830c19efa994"
+										t="r" />
+									<refseq
+										guid="e67a73df-7afc-4ff8-9fe7-1fef5657625b"
+										t="r" />
+									<refseq
+										guid="9ede4476-47d5-4ec7-873c-b0f06d8cf430"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="639" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The pitchers were fenced with a large that [net] and, in the middle, the three pitchers were buried.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს ქვევრები დიდი იმით [= ბადით] იყო შემოღობილი და სამი ქვევრი შუაში იყო ჩაფლული.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="2f77d888-cb8f-47f4-8fa7-b2ee2cf79889">
+								<Analyses>
+									<refseq
+										guid="c8811034-2f1e-4a69-b94f-d0337f5c803c"
+										t="r" />
+									<refseq
+										guid="77d8e47f-fd95-4a68-b8b0-c9ff19e26f87"
+										t="r" />
+									<refseq
+										guid="2f370694-2378-4b30-88d1-446caf5f8cd9"
+										t="r" />
+									<refseq
+										guid="8ecd2b22-2995-41c2-915b-57de850a385b"
+										t="r" />
+									<refseq
+										guid="da88f5ea-513d-48f1-a3e1-78fdba636715"
+										t="r" />
+									<refseq
+										guid="13df7737-4cc1-4e94-bfcc-ce4810f733d8"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="a46af573-af30-4691-ac6d-592822699bfd"
+										t="r" />
+									<refseq
+										guid="09bef0c9-4155-4e65-8282-9e52c95e6054"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="716" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He went into the big sacrifice: He had a cow; he called her Patonia.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დიდ დასალოცში (= შესაწირში) შედიოდა: ძროხა ჰყავდა, პატონიას ეძახდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0d6370c2-9d80-4b6d-80ad-23db4c06be62">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="76780021-bccb-4944-8156-395a0f3faf68"
+										t="r" />
+									<refseq
+										guid="b9b72620-09e7-4d17-b2b8-183b947ae7b5"
+										t="r" />
+									<refseq
+										guid="81572aaa-b927-430e-80ad-bae1e447d88c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1346f82b-3b51-45a2-992c-1c2ebf862786"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6afe075d-1459-4506-9667-1ee750120e8d"
+										t="r" />
+									<refseq
+										guid="bb071843-439a-4ae8-b31d-6603fa9b3e7f"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="16b21014-ef02-446b-b3f7-e77a6b66248b"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="76780021-bccb-4944-8156-395a0f3faf68"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="770" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When the cow gave birth to a calf, she was not milked.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">როცა ეს ძროხა შობდა ხბოს, მას, იმ ძროხას რძეს არ  უწველიდნენ (=ამ ძროხის რძეს არ წველიდნენ).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="bf4d97f0-4aa3-4105-a9e9-94c1a0628ff6">
+								<Analyses>
+									<refseq
+										guid="c8e9133d-aa76-4800-9723-f63267ab792f"
+										t="r" />
+									<refseq
+										guid="a19faad2-30ce-4a4b-9aaa-0d9b44533287"
+										t="r" />
+									<refseq
+										guid="a32616cb-6c39-4e49-9e4d-e87793f58e91"
+										t="r" />
+									<refseq
+										guid="76780021-bccb-4944-8156-395a0f3faf68"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="c5a97cfd-8c1e-4110-8f5e-7b79802856ef"
+										t="r" />
+									<refseq
+										guid="fcd29973-7f84-434e-85f3-32d4330af1ae"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6e692c81-ab0a-4dfc-baea-bf9660450cb8"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="334eaea5-60ed-490b-85b3-8d35d86cc98e"
+										t="r" />
+									<refseq
+										guid="93a31fc2-7526-4790-954f-c641637b3f21"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="847" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Neither was the calf was given milk from another cow; the calf was to suck it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მას არ მიაწველავდნენ სხვა ძროხასაც (= ძროხის რძეს);  ხბოს უნდა ეწოვა ის ზემოთა ის [დარჩენილი ორი თითი].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="3e2fbd1e-2b14-4bab-9d8b-6b1b57c4c979">
+								<Analyses>
+									<refseq
+										guid="1a0db27b-356e-4906-aa10-8a25b6ca60d2"
+										t="r" />
+									<refseq
+										guid="5d8e2113-b9eb-49e7-b5bf-8f2744dd490e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="353ff740-8c2b-476c-a4ca-c2dc00f24009"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="3cc82ed2-bf65-4c98-96d3-f797ef2a96ec"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1a0db27b-356e-4906-aa10-8a25b6ca60d2"
+										t="r" />
+									<refseq
+										guid="797e1940-e36f-48ab-a1ac-40413b033932"
+										t="r" />
+									<refseq
+										guid="cba3024d-ca87-413d-9715-10dec304bc42"
+										t="r" />
+									<refseq
+										guid="ab795372-3967-4be3-a824-b844b4462dce"
+										t="r" />
+									<refseq
+										guid="450e73eb-4245-45c2-92c9-0180474c3682"
+										t="r" />
+									<refseq
+										guid="4aecf742-4d1a-4cdd-9f61-7e616c444e3c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="379e1ed4-a09f-4e51-a21a-9b29f245d557"
+										t="r" />
+									<refseq
+										guid="aa757882-322b-400c-b055-ccdce802bbba"
+										t="r" />
+									<refseq
+										guid="e22aa19e-b66e-433e-ae08-ab09d6af3121"
+										t="r" />
+									<refseq
+										guid="6df73be6-f540-4d92-87b0-6e2e8c6eaef8"
+										t="r" />
+									<refseq
+										guid="c958d3ed-4543-42e1-945e-cfe3c0eda01a"
+										t="r" />
+									<refseq
+										guid="3ac84767-3dcb-4a01-83d0-33571ac7a8a6"
+										t="r" />
+									<refseq
+										guid="27a8050d-d513-4990-b194-d1cc1b04a8e7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5d467457-f056-4382-9554-4c9c4518b04d"
+										t="r" />
+									<refseq
+										guid="bcc7d956-55f9-4afe-844f-9227858a25c2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="925" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Say the ritual of great sacrifice approached.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დავუშვათ და, უკვე მოახლოვდა დიდი დალოცვა (=დალოცვის რიტუალი).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="8305d80e-1bbc-439a-9b04-06cc412f8569">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="5d467457-f056-4382-9554-4c9c4518b04d"
+										t="r" />
+									<refseq
+										guid="1840b4af-30da-4ef5-a751-ed53a23be842"
+										t="r" />
+									<refseq
+										guid="161943a8-db87-4199-a6fc-4d3c483ad2d8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1f9fadea-ca51-42a1-9e83-593d19d86b92"
+										t="r" />
+									<refseq
+										guid="65b37524-47a1-46b0-ac9b-a683bb8b8e5d"
+										t="r" />
+									<refseq
+										guid="64237928-c3f8-4c48-bb9b-db679a7ce57c"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="7b95ed8b-6fa5-4661-bc56-4d1ad40a099e"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1038" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When he milked the two udders, he was to curdle the milk separately.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ ორ ძუძუს რომ მოწველიდა, მისი რძე ცალკე უნდა შეედედებინა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6821052d-ec51-4044-a5f4-cbc955e1bbda">
+								<Analyses>
+									<refseq
+										guid="709d8f47-c86f-4e82-90f7-0f11ac9df49e"
+										t="r" />
+									<refseq
+										guid="bb071843-439a-4ae8-b31d-6603fa9b3e7f"
+										t="r" />
+									<refseq
+										guid="64237928-c3f8-4c48-bb9b-db679a7ce57c"
+										t="r" />
+									<refseq
+										guid="437d3c55-24db-4f24-b8de-872ce78c2333"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b8edad4-b10e-4bf5-a985-f126f719b62b"
+										t="r" />
+									<refseq
+										guid="7e661a35-a371-4ff6-9d8b-d82094e1d4b1"
+										t="r" />
+									<refseq
+										guid="74d54a44-532a-49bd-8255-1eb7128b3f19"
+										t="r" />
+									<refseq
+										guid="64237928-c3f8-4c48-bb9b-db679a7ce57c"
+										t="r" />
+									<refseq
+										guid="d89df0a1-5ca5-4c3e-91c0-854b12e7962a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1094" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He curdled the milk separately. He kept the milk separately.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ რძეს ცალკე შეადედებდა, იმ რძეს ცალკე ინახავდა. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="af0d880f-ef5c-423c-92b7-5546d5562e97">
+								<Analyses>
+									<refseq
+										guid="1a4168f5-cade-44f4-97a1-468233e95444"
+										t="r" />
+									<refseq
+										guid="0c612bce-e957-4e6b-9971-04799c3579a6"
+										t="r" />
+									<refseq
+										guid="87b75c4b-3232-4bd2-ab0c-3b87809378ea"
+										t="r" />
+									<refseq
+										guid="2fcfe59b-5aeb-44a0-ae21-393b483b0e10"
+										t="r" />
+									<refseq
+										guid="49d473e4-611d-494a-8c8d-44d67c1e2db9"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="881356fe-f681-4c6b-8ff0-6c561eb2d65e"
+										t="r" />
+									<refseq
+										guid="cb55feb3-5f67-4edb-9294-368ee7c21c8a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6655b7ac-8a5e-401d-b0b1-588ebf7889dc"
+										t="r" />
+									<refseq
+										guid="75beb296-e3bb-4105-8277-ebdacd27ddf3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1152" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">During a sacrificing ritual, khachapuri [cheese pie] was baked.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დალოცვის [რიტუალის] დროს გამოაცხობდნენ ხაჭაპურს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="680c71be-6da7-4c31-9781-5c466045c1cf">
+								<Analyses>
+									<refseq
+										guid="ad8f30ad-b119-491e-8fa2-30e9003ad62e"
+										t="r" />
+									<refseq
+										guid="5934116d-833e-4fe4-bf8c-fe82a797e752"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="282c5c55-1844-4ce0-9627-23b2ae159a7f"
+										t="r" />
+									<refseq
+										guid="aabf470b-88fc-4ee1-b0b8-f533d9114300"
+										t="r" />
+									<refseq
+										guid="db1fe20e-cc5f-4b40-9dc7-bb0f88b1e00c"
+										t="r" />
+									<refseq
+										guid="a392d735-e25e-48a1-967b-4ec37ed5e4a3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1228" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was baked in three [parts], like round loaves; they baked big ones.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">სამ იმად  [ნაწილად],   კვერებისებურად, დიდებს გააკეთებდნენ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="ce713d92-04c0-409c-a91b-4f2ac70f262b">
+								<Analyses>
+									<refseq
+										guid="e8c2e4e6-42d9-4f1e-ad82-01cd89ffcab0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="db7d9531-4faf-4960-b8f3-8d6a619b9150"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5012abf9-d96d-4b10-93ed-41f44a9ae722"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="369b6d79-0cc9-4d3e-8250-d920769ce897"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="ef0d3bc9-c611-4c51-a830-fbec263ce6b4"
+										t="r" />
+									<refseq
+										guid="0b2161d3-47c2-4022-9e87-8e6099d0404b"
+										t="r" />
+									<refseq
+										guid="bfeff2a2-0e55-4039-941a-f79fd7944670"
+										t="r" />
+									<refseq
+										guid="932d08fd-a0f3-48bb-bd9c-b6dc2f3850b9"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1274" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">One, two, three; there was the cheese from the sacrifice in the three.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ერთი, მეორე, მესამე,  სამივეში ამ  სალოცავის (= შეთქმული საქონლის) ყველი იყო ჩადებული.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="c447e8ff-1875-4937-b224-6c06a7c8766f">
+								<Analyses>
+									<refseq
+										guid="879b19c1-7e44-4d97-9024-678e9331bc93"
+										t="r" />
+									<refseq
+										guid="0b2161d3-47c2-4022-9e87-8e6099d0404b"
+										t="r" />
+									<refseq
+										guid="ecf2338d-5773-461f-af4e-a5b3250e63e7"
+										t="r" />
+									<refseq
+										guid="db1fe20e-cc5f-4b40-9dc7-bb0f88b1e00c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="45e222f2-e767-4c67-8b54-d395cd7523bf"
+										t="r" />
+									<refseq
+										guid="a1ef23fe-48da-404e-be91-6e7766a1dd8c"
+										t="r" />
+									<refseq
+										guid="969eb087-2e6d-4153-91bd-35ad14f3b5df"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b7cd61f5-8170-42f2-b939-f489a7933e1e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a8f79f08-e833-49ea-ab2e-c2a6f214f2a1"
+										t="r" />
+									<refseq
+										guid="5e27347d-d6cb-441f-9bd7-ffeea7b66e26"
+										t="r" />
+									<refseq
+										guid="e9c0e7c8-6681-474e-b0a2-11c73887b742"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8b0e4dc1-d334-4b61-bf49-baa7f393f163"
+										t="r" />
+									<refseq
+										guid="40f27b4f-c273-48f0-af69-813efde071bc"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b7cd61f5-8170-42f2-b939-f489a7933e1e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1c6fedbd-babb-44e8-aa71-310fd6307083"
+										t="r" />
+									<refseq
+										guid="7ab906c7-ad62-4649-ac8b-2b7fc0ce2bea"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b47211c2-bcf1-49b4-938d-695e91ca2646"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="040a9550-dd16-4a38-8784-53e9de784e4d"
+										t="r" />
+									<refseq
+										guid="bc3d1a17-c66a-4e77-a19f-0b91138588f4"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e689e403-e436-43b1-8708-0f4edc8b848d"
+										t="r" />
+									<refseq
+										guid="858ef4bf-9f1d-48de-bba9-f9e15130ddb3"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="c739f46a-2450-4b45-b8d1-1a2f8b8e4f99"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f574a691-2553-4070-87c3-e0852c8619cf"
+										t="r" />
+									<refseq
+										guid="b0448d92-29bf-4334-8a14-d70f1e279bf4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1337" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There was the cheese in them. And my grandfather went to the pitcher, removed earth from it, cleaned it, tasted the wine, and said that it was good.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ ყველჩადებულს, ხოდა  ბაბუაჩემი  ქვევრთან წავიდოდა, შემოაცლიდა მიწას, ამას გაასუფთავებდა, ღვინოს გასინჯავდა, კარგი ყოფილაო [იტყოდა].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="4883ffd6-5577-4ffc-a92f-0efbe7a4ad94">
+								<Analyses>
+									<refseq
+										guid="a7600ec6-0a18-4628-93fb-fd1ce10bd51c"
+										t="r" />
+									<refseq
+										guid="30d966be-7b50-4358-b649-5d2e2a943391"
+										t="r" />
+									<refseq
+										guid="192684de-57f8-49f0-b907-486c4ec54948"
+										t="r" />
+									<refseq
+										guid="faaf03cd-0726-4940-a66a-2d8e3262c8ee"
+										t="r" />
+									<refseq
+										guid="5380844f-c0d6-4891-9b02-9c76be0c3483"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="faaf03cd-0726-4940-a66a-2d8e3262c8ee"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="bece6ca2-3489-4ede-b3da-d2a3e78cc56d"
+										t="r" />
+									<refseq
+										guid="ab2d87a7-5132-4fa7-a3f5-3f4ccfd777e0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1513" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">However, I was a senior grandchild, and I was to be taken with him.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">თუმცა უფროსი შვილიშვილი მე ვიყავი და მე უნდა წავეყვანე მას.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="a52e20c5-a493-4443-b943-a745598576cc">
+								<Analyses>
+									<refseq
+										guid="bcf9558d-5db7-498c-8097-71faeefbaabb"
+										t="r" />
+									<refseq
+										guid="59e5b9bd-2c6f-434a-bf40-8641d3128ca9"
+										t="r" />
+									<refseq
+										guid="74d5b1d9-aabc-4720-828e-11ea3dc33ee4"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="688f40ef-f131-431e-97c4-43c681464618"
+										t="r" />
+									<refseq
+										guid="9c09fe6e-08e5-4709-a781-b7ed7ec9ad95"
+										t="r" />
+									<refseq
+										guid="0859e650-2908-46dc-9034-a97d123c68c7"
+										t="r" />
+									<refseq
+										guid="ccc72429-8129-4440-88ab-1ff8a3e6c869"
+										t="r" />
+									<refseq
+										guid="99909bf8-229d-4f34-814d-22c241b8f724"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="248e332b-965e-49b3-8c8c-a573106321b2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1565" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He said that I brought happiness because so many grandchildren were born to him after me.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ფეხბედნიერი ხარო, [რადგან] შენ მერე ამდენი შვილიშვილი მყავსო - იტყოდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="7ee66e13-5ccc-48dd-9226-5efef043ff9b">
+								<Analyses>
+									<refseq
+										guid="1a89a9d5-4e4a-45cd-b38e-98094308152b"
+										t="r" />
+									<refseq
+										guid="faaf03cd-0726-4940-a66a-2d8e3262c8ee"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="903b4e36-7188-4a44-8f15-5367c103c356"
+										t="r" />
+									<refseq
+										guid="02064c16-5ec0-4704-a7e1-a8b77c606b08"
+										t="r" />
+									<refseq
+										guid="69fe7737-ab69-4763-9dab-f2bdb3ff32f0"
+										t="r" />
+									<refseq
+										guid="8efc5881-d84f-4e60-a89d-bd32d6a07b19"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="aa4c7a13-b341-48eb-8621-bb971d0bb526"
+										t="r" />
+									<refseq
+										guid="f4a24927-283e-433f-8737-2318e9a34507"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a075e99b-3e55-4a4d-a426-bf1664bf33e3"
+										t="r" />
+									<refseq
+										guid="74acdb7d-7b47-453a-badc-264247e39401"
+										t="r" />
+									<refseq
+										guid="c98a1411-234e-4c95-8612-23925b41bb38"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="040a9550-dd16-4a38-8784-53e9de784e4d"
+										t="r" />
+									<refseq
+										guid="c24f85e4-e265-4756-96b0-eea8c8c18699"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1630" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He took me; I poured water from the jug to allow him wash his hands; we removed earth from the pitchers; he tasted the wine.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">წამიყვანდა მე; ხელზე ხელადით დავუსხამდი წყალს, ხელს დავაბანინებდი,  ამ ქვევრებს შემოვაცლიდი [მიწას], ღვინოს გასინჯავდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="ef009073-756d-4689-9057-ec5f15bb523d">
+								<Analyses>
+									<refseq
+										guid="fd91f593-6953-40e7-b8ad-76dacfbd704f"
+										t="r" />
+									<refseq
+										guid="b09d39e6-2dff-407c-8fcc-25f238cee5ba"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="18650d05-a21b-4531-8134-cf8d921fc98d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="bebcf017-449b-4efd-a264-03d0681aeb42"
+										t="r" />
+									<refseq
+										guid="123e57f5-0802-4c42-a308-b40bc212da81"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="dc521bc9-81d8-43c6-bcb7-66434d7c19ad"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1d56af12-f261-48b6-b601-d2419dcc6840"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="92639cb2-b7f6-4dcd-b97b-370b7429da26"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="bebcf017-449b-4efd-a264-03d0681aeb42"
+										t="r" />
+									<refseq
+										guid="6e437030-fa38-40bb-9b1a-c480bef9516a"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="dcafe61f-5f27-44aa-8eb8-76fd6ab4e599"
+										t="r" />
+									<refseq
+										guid="7e66fe81-4d9a-4467-9a94-6da729a5a507"
+										t="r" />
+									<refseq
+										guid="15046f8f-24da-479f-8e69-6bd3a19009d5"
+										t="r" />
+									<refseq
+										guid="81358398-34da-4e17-bba6-9f1c1263b779"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1738" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We left it; and his three sons: Shalva, Misha and Zhora, together with their children, we all knelt</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">წამოვიდოდით იქიდან, ხოდა, სამივე შვილები - შალვა, მიშა და ჟორა - სამივე შვილები ამათი შვილებით, ყველა დავიჩოქებოდით.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="8ac733d6-6af5-49ab-990d-7beba1aa7028">
+								<Analyses>
+									<refseq
+										guid="b47211c2-bcf1-49b4-938d-695e91ca2646"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="45e222f2-e767-4c67-8b54-d395cd7523bf"
+										t="r" />
+									<refseq
+										guid="ccf3ef9d-4989-4585-813f-3a473ffec5c2"
+										t="r" />
+									<refseq
+										guid="94f026aa-5eee-4d6c-8f7a-d257fd2d5d06"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b47211c2-bcf1-49b4-938d-695e91ca2646"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a56ff416-02b5-4657-8902-850dceb1a8d8"
+										t="r" />
+									<refseq
+										guid="c3a8b150-0357-43c5-b47f-db5fd5a954a2"
+										t="r" />
+									<refseq
+										guid="984abb21-b5ae-424f-a159-6db2773928fe"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1e203ca3-854e-465a-96dc-aed9ec8d90a8"
+										t="r" />
+									<refseq
+										guid="688f40ef-f131-431e-97c4-43c681464618"
+										t="r" />
+									<refseq
+										guid="6fa8d9d1-a40f-4811-b99a-12b24d58da23"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="63d40848-0237-4b94-80c3-0703d0cc1f38"
+										t="r" />
+									<refseq
+										guid="8193cc53-9516-4658-9004-ad2db9652f00"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="a93da4fa-0191-4730-9809-a36278703a6b"
+										t="r" />
+									<refseq
+										guid="2019549a-cf1f-4424-979b-79727ef1f081"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1867" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, he took a candle saying "My angels, blessed be your glory!" and carried the candle around us.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ხოდა,  ბაბუა აიღებდა სანთელს, "ჩემო  წინამძღვარო დამლოცველებო [=უფალი, ანგელოზები], დაილოცოს შენი დიდებაო" - [იტყოდა] და სანთელს შემოგვავლებდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0642d5e8-7545-43de-a479-5a5fa99c743b">
+								<Analyses>
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="a56ff416-02b5-4657-8902-850dceb1a8d8"
+										t="r" />
+									<refseq
+										guid="de4b4d47-417e-4583-a36f-2396aee8d371"
+										t="r" />
+									<refseq
+										guid="6f91948c-5bea-4071-8b40-12d7ab389a7d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="fecc0ff4-ed5f-4878-aff1-1549bf0ff2a0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d3f58a70-e7b4-4516-9b66-62ca04f8d1e9"
+										t="r" />
+									<refseq
+										guid="947325d6-ba58-463b-aaec-3edfff75055c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a65b02ab-4b25-452c-9729-f4283136289e"
+										t="r" />
+									<refseq
+										guid="aabf8a0e-e97b-4fa7-83a0-c927b6b0072b"
+										t="r" />
+									<refseq
+										guid="8193cc53-9516-4658-9004-ad2db9652f00"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="640e7a8c-34c7-4ff1-8845-09865a69212b"
+										t="r" />
+									<refseq
+										guid="74d24b34-b563-4c9d-8f35-c9e2f9618fa4"
+										t="r" />
+									<refseq
+										guid="733de590-da28-423e-8be1-422b88e7050a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="1992" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The poor soul said: "God, give good health and happiness to their children and grandchildren."</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">"ღმერთო ამათ, შვილიშვილებს, შვილებს ჯანმრთელობა, ბედნიერება მიეციო" - იტყოდა საწყალი კაცი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="18577c2b-3dba-4017-8251-aba96b15b47b">
+								<Analyses>
+									<refseq
+										guid="b7cd61f5-8170-42f2-b939-f489a7933e1e"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="a83e0507-4632-4acc-9907-392e23bfff57"
+										t="r" />
+									<refseq
+										guid="a50f3020-1ad8-485d-b8cc-56b6373d281a"
+										t="r" />
+									<refseq
+										guid="7d4b772b-7873-4d15-a2fd-469c2fdbbdfb"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="706f9152-7493-4201-8a1f-e9858f262677"
+										t="r" />
+									<refseq
+										guid="fa8af414-a7e1-44c4-b50c-520f2bb70445"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="94f026aa-5eee-4d6c-8f7a-d257fd2d5d06"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2088" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes, and he blessed us, carrying the candle around us three times.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დიახ და ასე დაგვლოცავდა ჩვენ, სამჯერ გადაგვატარებდა ამ სანთელს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b15d5349-2c48-44fe-8f5b-bf95b241161c">
+								<Analyses>
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="a93da4fa-0191-4730-9809-a36278703a6b"
+										t="r" />
+									<refseq
+										guid="9be00ac8-6ef4-4459-b959-acb6fdb1aaf7"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="040a9550-dd16-4a38-8784-53e9de784e4d"
+										t="r" />
+									<refseq
+										guid="2fed065a-eeca-414e-8e31-df904fe36f51"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f70d1983-cd8e-4f7c-8541-843dfac1cf9c"
+										t="r" />
+									<refseq
+										guid="8413de9f-844b-4531-99ca-d2938b0a70e3"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="638aacc3-b82e-43c1-93f7-3c5c5007e639"
+										t="r" />
+									<refseq
+										guid="c50e7a6f-ed45-4207-9ded-7a556b030144"
+										t="r" />
+									<refseq
+										guid="c76ab17e-f016-43b0-a90b-6ac33453c8d6"
+										t="r" />
+									<refseq
+										guid="c0fbd193-3552-4a7a-afe8-f83bbf85fc71"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="488d51ca-d790-4d91-9cec-bac501fa20d9"
+										t="r" />
+									<refseq
+										guid="8413de9f-844b-4531-99ca-d2938b0a70e3"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="fa8af414-a7e1-44c4-b50c-520f2bb70445"
+										t="r" />
+									<refseq
+										guid="05a30c71-25a2-4556-b7f7-bb90e2e0c497"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2151" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He lit the candle and took wine with a glass from the pitcher, he poured it into a hundren ram glass. He carried the glass around all of us.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ სანთელს აანთებდა და ღვინოს  ამოიღებდა  [ქვევრიდან] ჭიქით, ასგრამიან ჭიქაში ჩაასხამდა, ამ ჭიქითაც შემოგვავლებდა ყველას თავზე.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="18e54288-646a-4961-8905-a712dd565482">
+								<Analyses>
+									<refseq
+										guid="1fed382c-e380-4d25-8eb1-0635f9bbd88e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a56ff416-02b5-4657-8902-850dceb1a8d8"
+										t="r" />
+									<refseq
+										guid="f4cd43ee-c3a3-4195-94ec-c33027167b71"
+										t="r" />
+									<refseq
+										guid="7aa8a12d-48fe-4e53-9743-1f50a627979c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f4cd43ee-c3a3-4195-94ec-c33027167b71"
+										t="r" />
+									<refseq
+										guid="a0b58a09-6497-417c-9f4d-a3e2552db7d6"
+										t="r" />
+									<refseq
+										guid="344dc735-fb36-43e1-9908-ec117d72070e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="524e0c56-a417-4d7f-b6d9-685fd6efb1c2"
+										t="r" />
+									<refseq
+										guid="cd34d8b0-85ad-4427-8dfb-d23ddb5ef8ee"
+										t="r" />
+									<refseq
+										guid="32ad1a5f-4c58-451c-9407-6d924d3557cc"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b47211c2-bcf1-49b4-938d-695e91ca2646"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="017a8c3e-79a2-486c-bf09-d4f5e1b80dea"
+										t="r" />
+									<refseq
+										guid="70980886-b988-43ea-8441-432d9b3fd8c4"
+										t="r" />
+									<refseq
+										guid="ab4b15f5-9e93-475c-9acf-9ddcb070558e"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2277" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And he said: "God bless you; may God give you many autumns, wine-making, may you be happy!"</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ხოდა,  "ღმერთმა დაგლოცოთო, ღმერთმა ბევრი შემოდგომა, ღვინის მოსვლა (=დაყენება) გაგითენოთო და ბედნიერები ყოფილიყავითო"</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="19c6cdb4-7af5-42e4-9704-58d4c1c5f9a5">
+								<Analyses>
+									<refseq
+										guid="c973e9cd-3005-4a3d-a1d6-73d8d39d3b76"
+										t="r" />
+									<refseq
+										guid="a83e0507-4632-4acc-9907-392e23bfff57"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1f89422d-8bce-4741-ac68-f30cc9109084"
+										t="r" />
+									<refseq
+										guid="4abe0e6a-3692-4aac-9170-72f1cc87fd0d"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="afcc1c51-cc29-4679-8664-cca6f60dccbd"
+										t="r" />
+									<refseq
+										guid="feff8d22-51a2-40d5-ae38-1a30a79087a4"
+										t="r" />
+									<refseq
+										guid="38ad539e-7025-4e3c-8cc4-3a9c4137cdb2"
+										t="r" />
+									<refseq
+										guid="e5286789-d8d5-4a4a-a38d-5e8faacc1a26"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="12d8a3e6-32e8-4690-95f3-7e100bd37621"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="409b1e70-e059-45ba-b383-97caa7f25c7f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e5286789-d8d5-4a4a-a38d-5e8faacc1a26"
+										t="r" />
+									<refseq
+										guid="c5057119-4b31-499b-ae0d-1f2e61fb9adb"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="cd71a087-16c8-4e16-8b8f-8f7f2ad8ecb2"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="d77bc775-1076-4424-93b1-f1a218c546bd"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2394" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">This is how he blessed. He drank it, and we too were to drink; we drank; if we couldn't, we had to take little sips.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ასე დაგვლოცავდა, ამას დალევდა და ჩვენც ვალდებულები ვიყავით, ვსვამდით თუ ვერ ვსვამდით, ცოტ-ცოტა მოგვესვა ეს ღვინო</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="6b988888-c8d1-490e-a46f-344bb9b72c4a">
+								<Analyses>
+									<refseq
+										guid="65db1e29-6e3b-4f32-bcb4-ac5ca107d1fd"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="5c8c9159-8a34-4d12-8a1f-8be91db74ea6"
+										t="r" />
+									<refseq
+										guid="048d13b8-72ff-48d9-b446-fc3b4766f37c"
+										t="r" />
+									<refseq
+										guid="7f560e9a-38fd-47de-9abf-df2eaa01bf96"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="52a02796-ec91-432f-b4cd-b6f5a6a291dd"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="3312123a-9343-4358-aa24-ef097b8d9c11"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="8fcad16d-0e7b-411a-b26d-6098f6efc187"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="94346cb8-3011-4c8e-bff2-43590016f54b"
+										t="r" />
+									<refseq
+										guid="7f560e9a-38fd-47de-9abf-df2eaa01bf96"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="50007ef8-f14b-4532-b6a0-080710ed1418"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="0a3f4137-e77e-41f9-9109-905d96ae78e5"
+										t="r" />
+									<refseq
+										guid="5f3af562-f646-436e-b3b1-7c85f6aad2b3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2533" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">We were to drink it and eat khachapuri and the stuff there, moreover, the khachapuri; we should not take them out of the place.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">უნდა დაგველია და ხაჭაპური და ესენი აქ უნდა გვეჭამა; თან სამივე ხაჭაპური, ის იქიდან არ უნდა გადმოსულიყო (=არ უნდა წამოგვეღო).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="9ace9a06-d518-4934-adbd-22cf51b0f2db">
+								<Analyses>
+									<refseq
+										guid="916a2fca-ab33-434d-ab61-79da5ec47976"
+										t="r" />
+									<refseq
+										guid="f80efeef-b522-4ec5-8554-adb254d42361"
+										t="r" />
+									<refseq
+										guid="4de32777-449e-478f-94e2-f35ee2756078"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="c5cc88ae-390b-4a40-bcf5-eccd82a29596"
+										t="r" />
+									<refseq
+										guid="fa17584f-1f17-4b4d-b564-00adf2ee0d7e"
+										t="r" />
+									<refseq
+										guid="b28cca02-0e05-4a95-b32f-7101b64e8060"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="caded215-3186-4e56-b768-03f2dacc46fe"
+										t="r" />
+									<refseq
+										guid="cfd365ca-2a28-44b2-bd17-78f6dd132cf2"
+										t="r" />
+									<refseq
+										guid="364e88a8-a9fa-4683-bae5-18f8d7eb3d04"
+										t="r" />
+									<refseq
+										guid="a5c92488-3f8e-4b1e-983e-e5826d798fa6"
+										t="r" />
+									<refseq
+										guid="69044ac7-8139-45e4-941b-47318464f5be"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a570e6fd-44ea-4433-8f52-6d1d7d2ff520"
+										t="r" />
+									<refseq
+										guid="6ab21074-909b-4fc0-8412-e472ff0bad59"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b71df468-4587-4598-a568-45c37cab7a07"
+										t="r" />
+									<refseq
+										guid="cd376633-9750-48a3-be0c-b807e39a2c7f"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="09938963-1602-4e02-96e5-b2b9ab99152a"
+										t="r" />
+									<refseq
+										guid="6b331b89-dafb-480e-beb3-28cbaa07e12f"
+										t="r" />
+									<refseq
+										guid="e0b70ab2-59da-4af7-a5c6-7ce20782ee50"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="1f6cfb59-a952-4dc3-902f-148821917ba9"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2644" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When he slaughtered the calf, he invited the people who would not initiate fighting in his place, in order not to engage in fighting with each other; there should have been nothing except toasts and singing.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ ხბოს რომ დაკლავდა, დაპატიჟებდა ისეთ ხალხს, რომ ჩხუბი არ ატეხილიყო თავის სახლში, ერთმანეთს არ წაჩხუბებოდნენ, სადღეგრძელოებისა და სიმღერის გარდა, იქ არაფერი არ უნდა ყოფილიყო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="0f68ab58-e5c9-4fd0-9ff7-cbd9fb5354bb">
+								<Analyses>
+									<refseq
+										guid="7cab3467-b26e-4416-8fd6-7438a6e9e656"
+										t="r" />
+									<refseq
+										guid="de1e37d6-a851-4b4f-8b97-88a5d4388474"
+										t="r" />
+									<refseq
+										guid="729aad80-6743-4b3b-97d9-d4b7bd7ce1f8"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="6b7eb43d-3ec9-4ed0-b49c-ef0988e6e2ac"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="0dfca7f6-5ba8-44fa-9d66-23fca4925a57"
+										t="r" />
+									<refseq
+										guid="729aad80-6743-4b3b-97d9-d4b7bd7ce1f8"
+										t="r" />
+									<refseq
+										guid="bd61b7b2-12ab-4649-b969-4e6bf9be2454"
+										t="r" />
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="69cfef6e-39e6-4d63-bbc1-4c4f58342090"
+										t="r" />
+									<refseq
+										guid="729aad80-6743-4b3b-97d9-d4b7bd7ce1f8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="48aa57a3-eaed-4f8e-b78c-4c17149f87e7"
+										t="r" />
+									<refseq
+										guid="729aad80-6743-4b3b-97d9-d4b7bd7ce1f8"
+										t="r" />
+									<refseq
+										guid="bd61b7b2-12ab-4649-b969-4e6bf9be2454"
+										t="r" />
+									<refseq
+										guid="6b7eb43d-3ec9-4ed0-b49c-ef0988e6e2ac"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="0866d8bc-1381-4b98-93d6-acecd0106538"
+										t="r" />
+									<refseq
+										guid="729aad80-6743-4b3b-97d9-d4b7bd7ce1f8"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="4fa28b1f-e475-4426-be8b-bfcf086216e4"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="3a31675e-cd8c-4c41-b888-99f29bf9d58e"
+										t="r" />
+									<refseq
+										guid="a8232034-9cd3-4c58-9fa6-c36b4ee40065"
+										t="r" />
+									<refseq
+										guid="8e5f8149-8d87-462f-a565-29d0159cb4f7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5d7234cd-66e3-4b88-a0f3-828c67829cce"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2802" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Here, there wea Sido's family, your family - the Gersamia family. Misha's family was here, and Maxime Shelia's family; he was not a bad man.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">აქ იყო სიდოს ოჯახი, თქვენი ოჯახი - გერსამიების, მიშას ოჯახი იყო ამაში და კიდევ მაქსიმე შელიასი, ისიც არ იყო ცუდი კაცი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="33011507-1b5c-4497-b143-cb7b39244824">
+								<Analyses>
+									<refseq
+										guid="02f1659c-3b02-4368-9a35-0cb51839143e"
+										t="r" />
+									<refseq
+										guid="c5cc88ae-390b-4a40-bcf5-eccd82a29596"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2956" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He invited them.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამათ დაპატიჟებდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="4ad9afa6-8d2d-41e8-a59d-3dda3b7eb14d">
+								<Analyses>
+									<refseq
+										guid="b47211c2-bcf1-49b4-938d-695e91ca2646"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="f3b7620a-a1b9-4ac6-bf16-1d783fd2490d"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="46c70671-0e2f-4289-8165-9a1bb6efb0bf"
+										t="r" />
+									<refseq
+										guid="d9f8b652-314b-4e61-a76e-04cacbfc40ae"
+										t="r" />
+									<refseq
+										guid="28892351-ff3b-43a6-aae6-ea0b5cfce8c8"
+										t="r" />
+									<refseq
+										guid="7af1cb32-3066-4cc7-81a8-e986b3efc91f"
+										t="r" />
+									<refseq
+										guid="903dd715-8dc2-4a4c-a931-18b3252a4996"
+										t="r" />
+									<refseq
+										guid="cd605213-0cf5-4df8-979d-20a608660f84"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="2c147ed3-7e51-479f-83b1-e5d93d0df4f7"
+										t="r" />
+									<refseq
+										guid="7ca7f572-8876-4745-b08e-9047539d0b6a"
+										t="r" />
+									<refseq
+										guid="a0b407e0-7267-42fb-8f09-64cd2cbbcde2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="dc5de0f5-43cf-4426-ab3b-30c9a702b84b"
+										t="r" />
+									<refseq
+										guid="c962b426-d8b1-4b67-bf1e-13aa66dfb896"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="2979" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, if there was a good one among their children, they took them with them; otherwise, if there was a trouble-maker, they did not take him.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და [მათი] შვილებიდანაც თუ რომელიმე კარგი ერეოდა,  იმასაც თვითონ წამოიყვანდნენ, თუ არადა მოჩხუბარი თუ იყო, იმას არ წამოიყვანდნენ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b6c2d61f-b238-4668-9573-9146f089900c">
+								<Analyses>
+									<refseq
+										guid="957f6311-e044-46cd-8a4a-227e10b24dac"
+										t="r" />
+									<refseq
+										guid="2f955681-325b-49dd-a360-0c86cc0051f1"
+										t="r" />
+									<refseq
+										guid="80180567-c9e1-440f-91d0-4798c651426d"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="e7228f18-0109-4bfb-9e86-a4e6e230e655"
+										t="r" />
+									<refseq
+										guid="733de590-da28-423e-8be1-422b88e7050a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="45e222f2-e767-4c67-8b54-d395cd7523bf"
+										t="r" />
+									<refseq
+										guid="1a1e5897-d868-42b6-907e-a57b81cf5153"
+										t="r" />
+									<refseq
+										guid="54639e4d-5377-434a-b031-5310952fb374"
+										t="r" />
+									<refseq
+										guid="7cf95767-6f36-4086-9e37-527774327443"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="f677cfcd-3b69-4e66-a835-212126bf186f"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="b7c93fbe-5e05-4f8c-ac8e-eac6fedf25b6"
+										t="r" />
+									<refseq
+										guid="e4847bab-defa-4488-8189-ae66b167d93b"
+										t="r" />
+									<refseq
+										guid="a5c92488-3f8e-4b1e-983e-e5826d798fa6"
+										t="r" />
+									<refseq
+										guid="2d424bdb-b2c0-4e71-8e0a-28431e940fc4"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="3095" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, he invited them, from ten to fifteen people. My grandfather worked in Tsalenjikha and brought his pals from there.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ხოდა, ამათ დაპატიჟებდა და ათი-თხუთმეტ კაცს, ბაბუა წალენჯიხაში მუშაობდა და, იქიდან ამოიყვანდა (=მოიყვანდა) თავის ამხანაგებს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="4170e262-0eb1-439d-8eb3-5a4005576815">
+								<Analyses>
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="ba2daf70-71cb-442e-989d-d9da922b77d4"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="5a0c3080-c82a-4654-bf0e-270e09204091"
+										t="r" />
+									<refseq
+										guid="fa8767f0-81b7-4d39-87d2-1d15428aedcb"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="3229" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The meat was to be entirely eaten on that day.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ის ხორცი იქ უნდა დამთავრებულიყო იმავე დღეს.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="e264934f-9a0f-45a0-aa06-551b287488ac">
+								<Analyses>
+									<refseq
+										guid="50007ef8-f14b-4532-b6a0-080710ed1418"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="f11c8111-6cda-44b7-8627-62723b5c3355"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="ba2daf70-71cb-442e-989d-d9da922b77d4"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="3264" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The meat was not to be stored.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ის ხორცი არ უნდა შენახულიყო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="57e6fcd6-713d-4d74-a0eb-27b6e68cac40">
+								<Analyses>
+									<refseq
+										guid="d1b758cb-2817-47e3-83db-d1efa2459971"
+										t="r" />
+									<refseq
+										guid="6ccb6a0d-2dd5-4c16-b77e-e5f099998863"
+										t="r" />
+									<refseq
+										guid="360a119b-9b2c-41c5-bbd3-e2ed225cf9d6"
+										t="r" />
+									<refseq
+										guid="aa3e7248-461e-4ac5-a801-f4169731490a"
+										t="r" />
+									<refseq
+										guid="fbf3c614-b888-41cd-8862-21d92a91b0cf"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1af4368f-0a8e-4276-820e-706b69138e74"
+										t="r" />
+									<refseq
+										guid="eb4913fe-5573-4e0b-89c9-f8eaec292174"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="1af4368f-0a8e-4276-820e-706b69138e74"
+										t="r" />
+									<refseq
+										guid="c2090768-0a6f-4b67-bea3-c790dea639b8"
+										t="r" />
+									<refseq
+										guid="62874188-4cf0-44fc-8216-0d0b584484b8"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="360a119b-9b2c-41c5-bbd3-e2ed225cf9d6"
+										t="r" />
+									<refseq
+										guid="eb4913fe-5573-4e0b-89c9-f8eaec292174"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="f69b2b5a-5f70-498d-8e8d-3d313780cb7b"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="3295" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He didn't want anybody to faint the day after, or something, someone to curse or something.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მეორე დღეს ან გული შეუწუხდებოდათ, ან რამე, ან წყევლა რომ ყოფილიყო (=ვინმეს წყევლა დაცდენოდა), ან რამე, ის არ უნდოდა. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="ba8c46dd-0f5a-4886-aa19-92d190a08b1a">
+								<Analyses>
+									<refseq
+										guid="8c4d9e6d-14ab-49da-9278-b9bb372eeed6"
+										t="r" />
+									<refseq
+										guid="b9c5ec46-1a48-4bcd-9bbe-17235f5c1876"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="4022b0f8-408e-4f76-bc86-949f5974a0b5"
+										t="r" />
+									<refseq
+										guid="76c6e557-b5a4-4315-b5f7-ea97748c1f68"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="b6f95fcd-c21e-49da-a8a7-a94b9f4e16e5"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="3391" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">He collected bones, took to the Chanistskali river and dropped them into it.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ძვლებს შეაგროვებდა და ჭანისწყალში მიჰქონდა და იმაში ჩაყრიდა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="28416f12-b828-43ec-9735-5c346e09d426">
+								<Analyses>
+									<refseq
+										guid="50007ef8-f14b-4532-b6a0-080710ed1418"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="a472cf32-51c5-4b78-96c9-026f7e2804f1"
+										t="r" />
+									<refseq
+										guid="ced1709b-b7ac-4d82-84e7-77b73ad0dd1b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="fe4034c2-2173-473c-bf22-8c2258984928"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="dbc9f457-6f7e-4578-9b93-e73a2586a385"
+										t="r" />
+									<refseq
+										guid="2c9b7fee-0343-46df-92b7-11e736e448b1"
+										t="r" />
+									<refseq
+										guid="6a005c89-20cd-48cf-8fa1-a3836e2cd116"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="eb4913fe-5573-4e0b-89c9-f8eaec292174"
+										t="r" />
+									<refseq
+										guid="c958d3ed-4543-42e1-945e-cfe3c0eda01a"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="d55d85de-093e-4c71-b050-c509e453dd8d"
+										t="r" />
+									<refseq
+										guid="bb013dfb-cb9a-4b73-be14-623b8fd5b553"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="3455" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It wasn't to be left; so that its bone or other parts weren't to be left, all together.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">არც ის უნდა დარჩენილიყო; ისე, რომ არსად  უნდა დარჩენილიყო მისი ძვალი და სხვა რამეც, ყველაფერი ერთად.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="54bef2fe-b084-471f-832a-7482dc3ad3c1">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ნახვამერ ქაბლაში</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="a07fb1d7-2b25-44d2-8be8-19fa553a033c">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="ce52439e-b508-419d-ae04-d1474fb825fd"
+										t="r" />
+									<refseq
+										guid="7b6a020e-7024-4c18-b05c-aa7eac626348"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Parts of the sacrificed calf.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">-  შეთქმული მოზვერის [ნაწილები]</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="827f9b54-1662-4104-a18e-43efa84426d1">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ოოჸ, ნახვამერ ქაბლაში. ააასე ბაბაშ ოხვამური დჷ თხაჲ სკუა. თხაჲ სკუა ვაშიდჷნ თინწკჷმა, თხაშ ჸვალი. შალვა ბიძიაში რდჷ მუმული, ყვარილი დჷკო გოკოდა დო უყვარჷდკო ოკო. ათჷნარდჷ თენეფიშ მუდა. თი  ყვარილიშ მუდაქჷ, ჭჷქ ხოლო გირჩხჷკონ ოოკო; ოჸ!  დო ჸეთი ვარდუო თი ჩხოუ, პატჷნია უჯოხოდ ჩხოუშა დო  თიშ მუდა ვაარდ, ჸვალ დო მუთუნდა, თიქ ხაჭაპურცალო თექ ოკო ქიმშედუუკონ ოოკო. აჸ, ათეჯგუა პატჷნი.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="419e5290-7f11-434b-9461-aea03fd52aba">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="229570b2-e41b-43d8-bd3e-60f61ad7f442"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="ce52439e-b508-419d-ae04-d1474fb825fd"
+										t="r" />
+									<refseq
+										guid="7b6a020e-7024-4c18-b05c-aa7eac626348"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes, parts of sacrificed calf.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დიახ,  შეთქმული მოზვერის [ნაწილები]</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="5a9b6f19-4bfa-4e60-bf3e-d4c58768718b">
+								<Analyses>
+									<refseq
+										guid="f7bc05f5-e0e3-4e52-bda8-1bbc68fbf4ec"
+										t="r" />
+									<refseq
+										guid="34dcbde4-625f-45e3-a627-b806ccb1564b"
+										t="r" />
+									<refseq
+										guid="862cce07-09eb-48bf-91af-f5ef105cfc3e"
+										t="r" />
+									<refseq
+										guid="bd61b7b2-12ab-4649-b969-4e6bf9be2454"
+										t="r" />
+									<refseq
+										guid="1a89feed-c1e4-4d92-8efa-f46949035729"
+										t="r" />
+									<refseq
+										guid="05c93fb7-39dd-4b4f-b939-297f2a0a3793"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="24" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Well, my father's sacrifice was a goat kid.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ახლა, მამას სალოცავი (=შეთქმული) იყო თხის შვილი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="5c483799-247c-44fc-8f3f-e9e38c940765">
+								<Analyses>
+									<refseq
+										guid="1a89feed-c1e4-4d92-8efa-f46949035729"
+										t="r" />
+									<refseq
+										guid="05c93fb7-39dd-4b4f-b939-297f2a0a3793"
+										t="r" />
+									<refseq
+										guid="f8f36ebd-7935-483d-b9b8-320dcbf6cc2c"
+										t="r" />
+									<refseq
+										guid="41e26a4b-1e38-4e94-a14d-bbd7cea84bcd"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="f63d4f74-4c05-4d74-9d4b-1169d5015c63"
+										t="r" />
+									<refseq
+										guid="d99ecad5-5aeb-454e-aacf-b65367038d9b"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="59" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">If he couldn't get a goat kid, then it was goat cheese.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">თუ თხის შვილს ვერ იშოვოდა, მაშინ თხის ყველი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="51515d0e-a868-4135-a1cb-b2e787a2f17c">
+								<Analyses>
+									<refseq
+										guid="dc521bc9-81d8-43c6-bcb7-66434d7c19ad"
+										t="r" />
+									<refseq
+										guid="48fade8c-c2ae-4e81-ac6c-0b4bfaeda192"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="ec6cbc5a-5404-4477-a585-e5848c7ec93d"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e6d246ea-cd41-4b40-bfa4-7a310d5f6aa5"
+										t="r" />
+									<refseq
+										guid="1dd89d63-d291-4917-9ee0-edc33f4a4a57"
+										t="r" />
+									<refseq
+										guid="e3fbe7a4-9aa6-4745-b4fa-c083dc44031c"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="0cf6b185-5070-45d3-86fd-1cfb66479ab8"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="99" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Uncle Shalva's sacrifice was a rooster, either castrated or uncastrated.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">შალვა ბიძიასი იყო (=შალვა ბიძიასთვის შეთქმული იყო) მამალი,  გინდ დაკოდილი ყოფილიყო, გინდ დაუკოდავი.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="671f6598-d6dc-4905-a286-b231840695a6">
+								<Analyses>
+									<refseq
+										guid="df82adc1-f01b-4a42-a959-7330c3d32966"
+										t="r" />
+									<refseq
+										guid="dcafe61f-5f27-44aa-8eb8-76fd6ab4e599"
+										t="r" />
+									<refseq
+										guid="32f83fcf-b165-4abc-872c-b15258a3bab0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="163" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was there that [sacrifice].</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ეს იიყო ამათი ის [შეთქმული]</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="1d5474a0-c09a-4990-b30e-4eb091af7388">
+								<Analyses>
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="864d6c5e-296f-48d3-8be7-ee616cf67f3b"
+										t="r" />
+									<refseq
+										guid="ab4f76b5-40a9-4578-a709-65225dd056f5"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6796f61f-55ff-4848-b367-d984b9cf49f4"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="ab25dbbe-38f4-4a8a-975d-0a9a3a03fc09"
+										t="r" />
+									<refseq
+										guid="ced1709b-b7ac-4d82-84e7-77b73ad0dd1b"
+										t="r" />
+									<refseq
+										guid="995db246-d26d-47aa-9443-81e09e5bdf9c"
+										t="r" />
+									<refseq
+										guid="af95e6d2-7bd6-4737-8151-ae675f75d022"
+										t="r" />
+									<refseq
+										guid="2301f48f-bde2-426b-812f-c9ccd5afd39a"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="186" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Intestines of the castrated rooster were to be washed, yes.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">იმ დაკოდილი [მამლის] შიგნეულიც უნდა გარეცხილიყო. დიახ!</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="03a82e3c-8578-4276-8664-7ac6ba157545">
+								<Analyses>
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="7dc9d636-a77a-49b6-b878-300c01cd1531"
+										t="r" />
+									<refseq
+										guid="4780fd48-a157-4fa9-9a44-29640cef7f72"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="bb91e7e9-1622-4fc0-89f7-3ee4c171796c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a46af573-af30-4691-ac6d-592822699bfd"
+										t="r" />
+									<refseq
+										guid="042a4450-fc6e-40b5-9425-e91d818d50b0"
+										t="r" />
+									<refseq
+										guid="e03ebd38-cd2d-4251-9eca-6830d632469e"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="1f9fadea-ca51-42a1-9e83-593d19d86b92"
+										t="r" />
+									<refseq
+										guid="3af75050-a9d7-4399-8b9e-523fa43fb465"
+										t="r" />
+									<refseq
+										guid="8e5f8149-8d87-462f-a565-29d0159cb4f7"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="0b2161d3-47c2-4022-9e87-8e6099d0404b"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="cff57292-4c4e-4f1f-9a8b-445a7a412bba"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="65953f9e-d5fa-472f-8a6e-6a9121948c09"
+										t="r" />
+									<refseq
+										guid="a0078070-01e6-4dff-a8d8-d171021f6562"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="c476cc0d-96be-4c8a-88f3-95ae493a71dd"
+										t="r" />
+									<refseq
+										guid="ced1709b-b7ac-4d82-84e7-77b73ad0dd1b"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="237" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">And, if there was no cheese from the cow whose names was Patonia, then the intestines were to be put into a pie.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">და აი ის ძროხა, პატონიას რომ უძახოდა, თუ იმის ყველი არ იყო, მაშინ ხაჭაპურში  ეს შიგნეულობა უნდა ჩედოთ.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="3f99d55c-0cc7-4f20-b796-1a91d80bd10f">
+								<Analyses>
+									<refseq
+										guid="53754b63-420d-41b0-9727-43a009ed509e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="b4c0b3ed-3a9c-4ddf-9297-b69850efd299"
+										t="r" />
+									<refseq
+										guid="ea0f0b52-171e-4427-ac8a-0b5fc49a3342"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="362" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There, that was it, my dear.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">აი, ასეთი იყო, ბატონო.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="50cc7f32-6617-41fa-a47e-0d033a590704">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ათენარდ თე ოხვამურიშ...</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="3e26876f-1ce2-4463-98ee-86e41c442b1e">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="f5257c0f-63ba-4a70-bff9-f54edbb46a3a"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="ac34faf2-d110-41e5-87a5-9d9b15435d40"
+										t="r" />
+									<refseq
+										guid="8e655bed-723f-42bf-89e0-317bb041d13a"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">There, that was the essence of the ritual.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">აი ეს იყო ამ  დასალოცის...  [რიტუალის არსი]</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="04d4e21e-dad2-4f3b-b99e-6c60a6acbfa5">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-აათენარდ თე ოხვამური. თეექი ოსურთაგანქ თიშ ხოლოშა ოკო ვემნორთჷკონ გლახა გურითჷ დო მართალ გურით.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="69238c59-7762-43fe-9ced-825a89a0c14e">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="e4a7eab4-8d42-443f-aa3e-2d633bf70a06"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="d5a03e83-86bf-4b67-8697-28f4837c3e25"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">That was the ritual.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai"> - ეს იყო დასალოცი [რიტუალი].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="b7a1317d-8673-4650-a4dd-a65202960d9c">
+								<Analyses>
+									<refseq
+										guid="5f3af562-f646-436e-b3b1-7c85f6aad2b3"
+										t="r" />
+									<refseq
+										guid="331217ea-5180-4217-90f7-28145e0ac364"
+										t="r" />
+									<refseq
+										guid="14a19be3-e00c-408d-bff8-f3e87375d85d"
+										t="r" />
+									<refseq
+										guid="eff88a39-097c-4e1f-84b5-cb00b813374b"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="503beeba-750a-4e00-8a5d-f972031b3657"
+										t="r" />
+									<refseq
+										guid="20307f89-bd60-4670-b35b-36f8d39aa621"
+										t="r" />
+									<refseq
+										guid="da9032f9-5303-41eb-acf0-bd852a158f39"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="cc40ebf5-a804-45f1-b001-efc61eabc8fd"
+										t="r" />
+									<refseq
+										guid="eb7866f6-3559-497a-a327-da550e5797d3"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="23" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">No women were to be close there, either with a bad or good intent.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">იქ ქალთაგანი მას არ უნდა გაკარებოდა გლახა  გულით  თუ მართალი გულით.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="f3ab1286-e297-44ba-b373-f72a2ad22b28">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ენა ვაშინერდ.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="aa06a974-4aa6-4384-983a-52d46964a741">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="485ae29d-eff1-4c77-a6c6-2e6e70659b1b"
+										t="r" />
+									<refseq
+										guid="9c311eb1-201a-4a5d-a48e-1591bf98afa0"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">It was tabooed.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- ეს არ იყო დაშვებული (=ტაბუირებული იყო).</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="6bafd902-01f9-48cd-b7de-6394c1537de6">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-ვაშინერდ, ოჸ!</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="66f33aae-88d3-42ce-b2e5-0ef0d2f4085f">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="9c311eb1-201a-4a5d-a48e-1591bf98afa0"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="af95e6d2-7bd6-4737-8151-ae675f75d022"
+										t="r" />
+									<refseq
+										guid="2301f48f-bde2-426b-812f-c9ccd5afd39a"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Yes, it was tabooed.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">დიახ, არ იყო დაშვებული (=ტაბუირებული იყო)</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="0940357c-c013-4f73-a8b4-477b33c64145">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-თი ლაგვანიშ ღვინ არძა იშუმუდუო?</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="5da25395-d36b-446c-a342-d66b04262792">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="2e60219f-87aa-4673-8d54-588316ce6ee8"
+										t="r" />
+									<refseq
+										guid="cd71a087-16c8-4e16-8b8f-8f7f2ad8ecb2"
+										t="r" />
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="9e057615-d654-47bb-8c43-de4fa2add017"
+										t="r" />
+									<refseq
+										guid="9597adec-28f9-4d0a-b04e-2145bc2b3ee2"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Was all the wine from the pitchers drunk up?</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">- იმ ქვევრების ღვინო ყველა დაილეოდა?</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+					<ownseq
+						class="StTxtPara"
+						guid="2c158dcf-5e94-4b7b-ae0b-ab09f5fd29fd">
+						<Contents>
+							<Str>
+								<Run
+									ws="xmf">-თი ღვინ უკული,  თი ღვინეფ უკული არძა  თი მუდას თეეშირდ თინა განპიროვნებული, თიქ ოკო თექ ოკო გიჲშუკონ, თენა მორჩილ ლაგვანეფი რდჷ თინეფ მარა, ართი რდჷ ჭიჭე მოდიდე,  მაჟრა თიშე უკლაში, მასმა თიშე უკლაში. მუჭო ასე, იი დიდი ოხვამერც უძოხოდჷნ ინასჷ, დიდის დოჸვილჷნდეს თიწკჷმა  ბეთქჷნდეს დო თექ ითეებუდ თიინა. მაჟრა, თხაქ ქიშუუკო დო მუდასჷნ, თხაწკჷმა ბრელს ვადაპატიჟენდჷ, თი თხაშ მუდა ითებუდუნ, თიზმას უწიინდჷ. ე მუმულიშისჷ შილებედ, მაგალთო, მეზობელეფ ხოლო ვაუწუკონ დო ჩქი აკიპჭკომუანდით იშო დო თექ ოკო გეთუკონ თე ღვინქ ჭიჭე ჭიჭეთ. თე ღვინქ ვადოსქიდჷკონ ოკო, თიქ ხოლო.</Run>
+							</Str>
+						</Contents>
+						<ParseIsCurrent
+							val="True" />
+						<Segments>
+							<ownseq
+								class="Segment"
+								guid="f7fbf37f-a3fb-47af-8d45-9faf4e1747fa">
+								<Analyses>
+									<refseq
+										guid="910f7530-f48f-4f46-a47d-a9026799d12c"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="cd71a087-16c8-4e16-8b8f-8f7f2ad8ecb2"
+										t="r" />
+									<refseq
+										guid="01f67057-0116-4362-8e4c-08e2cfd5dd7b"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="eb834891-1bd2-4c0a-8e12-313083665913"
+										t="r" />
+									<refseq
+										guid="01f67057-0116-4362-8e4c-08e2cfd5dd7b"
+										t="r" />
+									<refseq
+										guid="55713090-ad64-4690-9435-7c8f8b328d68"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="8d4bf90e-18d1-45cb-be05-54429947e5c4"
+										t="r" />
+									<refseq
+										guid="4614f1fb-8bc8-4996-9601-bda2431eb90b"
+										t="r" />
+									<refseq
+										guid="e598310b-3091-4090-9f27-0ee930a9af0d"
+										t="r" />
+									<refseq
+										guid="2b039a73-38c1-42d1-8e10-04db4de5af42"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="50007ef8-f14b-4532-b6a0-080710ed1418"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="721fc544-da34-464c-b24b-37f99cabf809"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8ed607cd-da95-472c-8c2a-f2749632d308"
+										t="r" />
+									<refseq
+										guid="dcb5eb7a-bf0a-44cc-84d5-819be2738596"
+										t="r" />
+									<refseq
+										guid="d52c9cdb-b199-4c9d-89c2-b6bd16fa7704"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="f315107a-3fef-4b91-8e2c-fb87f233107b"
+										t="r" />
+									<refseq
+										guid="a7600ec6-0a18-4628-93fb-fd1ce10bd51c"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="e8c2e4e6-42d9-4f1e-ad82-01cd89ffcab0"
+										t="r" />
+									<refseq
+										guid="a4dd1fc8-026c-4467-b827-87fdbfb8e085"
+										t="r" />
+									<refseq
+										guid="e8e94925-d6a7-47e8-8bde-a38e801f7424"
+										t="r" />
+									<refseq
+										guid="9e5ae17c-ebe9-4b5a-b106-1d3fc52b12ba"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="5ffb1ccc-a095-492f-9da9-e224b90e5c34"
+										t="r" />
+									<refseq
+										guid="8c11a33f-ef7b-4854-8ca0-f601adf7ae2c"
+										t="r" />
+									<refseq
+										guid="1056c234-ab60-44d4-9ad5-cfb72c597c0e"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="87d18a34-aefb-4834-93c9-ac8be4c3b830"
+										t="r" />
+									<refseq
+										guid="1f886fdc-45dc-482e-8b03-5706a13547c8"
+										t="r" />
+									<refseq
+										guid="1056c234-ab60-44d4-9ad5-cfb72c597c0e"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="0" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">The wines were personified so that all were to be drunk; those were smaller pitchers; however, one of the was larger, another was smaller, and the third was the smallest of all. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ის ღვინოები შემდეგ ისე ოყო განპიროვნებული (=განაწილებული, გათვლილი), ყველა უნდა დალეულიყო; ესენი მომცრო ქვევრები იყო, თუმცა ერთი იყო მოდიდო, მეორე მცირე, მესამე კიდევ უფრო მცირე.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="98e78247-ff8f-465b-a66f-6964633bdba9">
+								<Analyses>
+									<refseq
+										guid="9ed0336d-8d32-4a5c-bc59-237b47ad36d3"
+										t="r" />
+									<refseq
+										guid="1a0db27b-356e-4906-aa10-8a25b6ca60d2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="fb130d3a-3950-4854-9b27-54ce23078a37"
+										t="r" />
+									<refseq
+										guid="9b41f8d8-fb04-4608-b461-74c6f05ccb91"
+										t="r" />
+									<refseq
+										guid="735fbcf2-438c-458b-bf87-3b72586af906"
+										t="r" />
+									<refseq
+										guid="92eb6aa1-e4da-4315-80be-6550f00db9ae"
+										t="r" />
+									<refseq
+										guid="a450ce90-f324-4771-b6d2-578bc8311643"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="eadeb6fb-dae7-4a5b-b565-69d5b8803bc2"
+										t="r" />
+									<refseq
+										guid="dd4797d5-1b62-40bb-a55c-9aa754e6dec1"
+										t="r" />
+									<refseq
+										guid="476248c3-a7e1-41fa-858f-a0f818e33dea"
+										t="r" />
+									<refseq
+										guid="cd78e1e8-52c3-4813-a8b5-1e32aa74d6b2"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="b11ced65-5336-4c48-a33b-7b485f64f6f1"
+										t="r" />
+									<refseq
+										guid="7597288d-dbcd-4947-9791-1724c8a44539"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="202" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Here is how it was distributed: when the big offering was slaughtered, it was opened and everything was drunk then.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">როგორ ახლა ეს (=როგორ ნაწილდებოდა):  დიდ დასალოცს (= რიტუალს) რომ ეძახდნენ, დიდს როცა დაკლავდნენ, მაშინ  გახსნიდნენ და იქ მთავრდებოდა ეს; </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="96cc1d35-06f6-4518-9cdc-2844f45a22cb">
+								<Analyses>
+									<refseq
+										guid="90839054-7a50-40ca-ab79-7c5eeb124cb5"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="6cde03d5-32ff-4ea0-88c2-4940dbba0bca"
+										t="r" />
+									<refseq
+										guid="74aa8986-b075-4efa-a983-5fef36051f35"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="68fea911-3369-472c-b8c8-80e8f1744f55"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="a365f2f4-b6f8-4294-97dd-740647d1f8c7"
+										t="r" />
+									<refseq
+										guid="3da8ccb5-186d-4c13-bb40-1a830e2b3f61"
+										t="r" />
+									<refseq
+										guid="ce9006cc-174b-43b0-8169-40c36508be74"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="2cc3c54b-e03a-495a-a676-9d39b38b970e"
+										t="r" />
+									<refseq
+										guid="f63d4f74-4c05-4d74-9d4b-1169d5015c63"
+										t="r" />
+									<refseq
+										guid="9aac820f-06e8-4cb2-930a-b4f43a504167"
+										t="r" />
+									<refseq
+										guid="43e8c005-f0ea-4db4-a39f-49208e330b2f"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="263317f6-7137-4f2f-b143-feff38be75f7"
+										t="r" />
+									<refseq
+										guid="93024841-f98d-4b68-9081-d6c1cd25275d"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="304" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">Second, if they got a goat, they didn't invite many people; they invited as many as to finish the meat on that day.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">მეორე, თუ თხას იშოვიდნენ, თხასთან (=თხის დაკვლის დროს) ბევრს არ დაპატიჟებდნენ; იმდენს ეტყოდნენ, რომ იმ თხის ხორცი დამთავრებულიყო [იმავე დღეს].</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="79fa00f0-efef-4a57-9ebd-72c0924eb8f2">
+								<Analyses>
+									<refseq
+										guid="8b09868d-8027-47bd-adf4-5752627dabda"
+										t="r" />
+									<refseq
+										guid="59a15baa-6c44-471a-86a5-d7a33e2a0209"
+										t="r" />
+									<refseq
+										guid="9a35f3f9-a837-415c-a2ef-47c1395b2001"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="8ea0262a-b590-49e3-a200-ef74597d6382"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="657a4194-fe2f-4308-9265-fc7efc6a5dd7"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="0dfa1896-bc5b-41dc-a086-cce34b791405"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="737345eb-09a6-4a99-b18d-711186003aec"
+										t="r" />
+									<refseq
+										guid="36447aaa-8122-425a-b338-5d3c8704fd4c"
+										t="r" />
+									<refseq
+										guid="3f401a1f-149c-4182-8096-99b850fe70b3"
+										t="r" />
+									<refseq
+										guid="217ff903-dde1-48cd-a1bd-d19a4e394d62"
+										t="r" />
+									<refseq
+										guid="22cec0e8-adb5-4e39-a1ce-6de51d752abe"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="5a0c3080-c82a-4654-bf0e-270e09204091"
+										t="r" />
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="44fb52c0-0797-4d0a-b533-f7d2d906af12"
+										t="r" />
+									<refseq
+										guid="854a6056-9e83-42ad-bc98-fd507dd0fc6b"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="405" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">When there was a rooster, even neighbors might have not be invited, and we ate it, and all the wine was to be drunk little by little. </Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">ამ მამლისას კი შეიძლებოდა არც მეზობლებისთვის ეთქვა დო ჩვენ მივირთმევდით და ეს ღვინოც  იქ უნდა დამთავრებულიყო ნელ-ნელა.</Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+							<ownseq
+								class="Segment"
+								guid="55614bcd-9ead-4643-9721-ba916ab1b597">
+								<Analyses>
+									<refseq
+										guid="789bf065-0d09-4db5-a0cc-8c1b95f8a09a"
+										t="r" />
+									<refseq
+										guid="44fb52c0-0797-4d0a-b533-f7d2d906af12"
+										t="r" />
+									<refseq
+										guid="2cd3a90f-b58d-4752-a23d-be27d755ae5c"
+										t="r" />
+									<refseq
+										guid="000c3fb1-0c1d-4fe0-929d-ba4d0e4660a2"
+										t="r" />
+									<refseq
+										guid="6f09b4ff-cb03-4d70-b6b3-49b735a7143d"
+										t="r" />
+									<refseq
+										guid="50007ef8-f14b-4532-b6a0-080710ed1418"
+										t="r" />
+									<refseq
+										guid="67eb582b-0539-45e1-a587-3f6363ab9913"
+										t="r" />
+									<refseq
+										guid="524b9ee6-5794-482f-9f1e-17a0791cc6d9"
+										t="r" />
+								</Analyses>
+								<BeginOffset
+									val="526" />
+								<FreeTranslation>
+									<AStr
+										ws="en">
+										<Run
+											ws="en">No wine was to be left.</Run>
+									</AStr>
+									<AStr
+										ws="ka-Brai">
+										<Run
+											ws="ka-Brai">იქაც არ უნდა დარჩენილიყო ეს ღვინო. </Run>
+									</AStr>
+								</FreeTranslation>
+							</ownseq>
+						</Segments>
+					</ownseq>
+				</Paragraphs>
+				<RightToLeft
+					val="False" />
+			</StText>
+		</Contents>
+		<DateCreated
+			val="2023-1-18 15:7:9.353" />
+		<DateModified
+			val="2023-10-27 8:42:53.436" />
+		<Genres>
+			<refcol
+				guid="c076f554-ea5e-11de-9793-0013722f8dec"
+				t="r" />
+		</Genres>
+		<IsTranslated
+			val="False" />
+		<Name>
+			<AUni
+				ws="en">ZS_Ritual of Prayer and Sacrifice: "Khvama"</AUni>
+			<AUni
+				ws="ka-Brai">ZS_ლოცვისა და მსხვერპლშეწირვის რიტუალი: "ხვამა"</AUni>
+			<AUni
+				ws="xmf">+ZS_ლოცვისა და მსხვერპლშეწირვის რიტუალი: "ხვამა"</AUni>
+			<AUni
+				ws="xmf-fonipa">ZS_Ritual of Prayer and Sacrifice: "Khvama"</AUni>
+			<AUni
+				ws="xmf-Zxxx-x-audio">638311543997687595ZS_ლოცვისა და მსხვერპლშეწირვის რიტუალი_ _ხვამა_.wav</AUni>
+		</Name>
+		<Source>
+			<AStr
+				ws="en">
+				<Run
+					ws="en">Neli Shanava</Run>
+			</AStr>
+			<AStr
+				ws="ka-Brai">
+				<Run
+					ws="ka-Brai">ნელი შანავა</Run>
+			</AStr>
+			<AStr
+				ws="xmf-fonipa">
+				<Run
+					ws="xmf-fonipa">liɑnɑ sɑd͡ʒɑiɑ</Run>
+			</AStr>
+		</Source>
+	</Text>
+</TextInCorpus>
